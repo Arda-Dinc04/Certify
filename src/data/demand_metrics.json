@@ -1,0 +1,673 @@
+{
+  "aws-certified-solutions-architect-associate": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-sysops-administrator-associate": {
+    "job_postings_7d": 2395,
+    "mapped_roles": [
+      "Cloud Engineer",
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-developer-associate": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-itf": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "oracle-cloud-infrastructure-foundations-associate": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "microsoft-certified-azure-developer-associate-az-204": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "finra-series-66-uniform-combined-state-law-exam": {
+    "job_postings_7d": 370,
+    "mapped_roles": [
+      "Financial Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "microsoft-certified-azure-solutions-architect-expert-az-305": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "microsoft-certified-azure-administrator-associate-az-104": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "microsoft-certified-azure-ai-engineer-associate-ai-102": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "associate-cloud-engineer": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "cloud-digital-leader": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "oracle-cloud-infrastructure-architect-associate": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-cloud": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-network": {
+    "job_postings_7d": 618,
+    "mapped_roles": [
+      "Network Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-cloud-practitioner": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-data-engineer-associate": {
+    "job_postings_7d": 2643,
+    "mapped_roles": [
+      "Cloud Engineer",
+      "Data Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-cysa": {
+    "job_postings_7d": 860,
+    "mapped_roles": [
+      "Security Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "microsoft-certified-azure-fundamentals-az-900": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "professional-cloud-architect": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "ccnp-collaboration": {
+    "job_postings_7d": 618,
+    "mapped_roles": [
+      "Network Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "microsoft-certified-azure-data-engineer-associate-dp-203": {
+    "job_postings_7d": 2643,
+    "mapped_roles": [
+      "Cloud Engineer",
+      "Data Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-server": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-devops-engineer-professional": {
+    "job_postings_7d": 2546,
+    "mapped_roles": [
+      "Cloud Engineer",
+      "DevOps Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "vmware-certified-technical-associate-vcta": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "professional-cloud-security-engineer": {
+    "job_postings_7d": 2344,
+    "mapped_roles": [
+      "Cloud Engineer",
+      "Security Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "pmi-pba": {
+    "job_postings_7d": 3136,
+    "mapped_roles": [
+      "Project Manager",
+      "Business Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "red-hat-certified-engineer-rhce": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "chartered-enterprise-risk-analyst-cera": {
+    "job_postings_7d": 309,
+    "mapped_roles": [
+      "Risk Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-database-specialty": {
+    "job_postings_7d": 2643,
+    "mapped_roles": [
+      "Cloud Engineer",
+      "Data Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-casp": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "pe-principles-and-practice-of-engineering": {
+    "job_postings_7d": 354,
+    "mapped_roles": [
+      "Civil Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "finra-series-65-uniform-investment-adviser-law-exam": {
+    "job_postings_7d": 370,
+    "mapped_roles": [
+      "Financial Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "ccnp-data-center": {
+    "job_postings_7d": 1777,
+    "mapped_roles": [
+      "Network Engineer",
+      "Data Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-security": {
+    "job_postings_7d": 860,
+    "mapped_roles": [
+      "Security Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "ccie-enterprise-infrastructure": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "cisco-certified-devnet-professional": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-machine-learning-specialty": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "certified-reliability-engineer-cre": {
+    "job_postings_7d": 1074,
+    "mapped_roles": [
+      "Business Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "pmi-sp": {
+    "job_postings_7d": 2062,
+    "mapped_roles": [
+      "Project Manager"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "oracle-cloud-infrastructure-architect-professional": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "pmp": {
+    "job_postings_7d": 2062,
+    "mapped_roles": [
+      "Project Manager"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-security-specialty": {
+    "job_postings_7d": 2344,
+    "mapped_roles": [
+      "Cloud Engineer",
+      "Security Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "certified-public-accountant-cpa": {
+    "job_postings_7d": 370,
+    "mapped_roles": [
+      "Financial Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "vmware-certified-professional-vcp-data-center-virtualization": {
+    "job_postings_7d": 1159,
+    "mapped_roles": [
+      "Data Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "ccie-security": {
+    "job_postings_7d": 860,
+    "mapped_roles": [
+      "Security Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "fellow-of-the-society-of-actuaries-fsa": {
+    "job_postings_7d": 1074,
+    "mapped_roles": [
+      "Business Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "associate-of-the-society-of-actuaries-asa": {
+    "job_postings_7d": 1074,
+    "mapped_roles": [
+      "Business Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "red-hat-certified-system-administrator-rhcsa": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "certified-quality-auditor-cqa": {
+    "job_postings_7d": 318,
+    "mapped_roles": [
+      "Quality Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "cisco-certified-devnet-associate": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "snowpro-advanced-data-engineer": {
+    "job_postings_7d": 1159,
+    "mapped_roles": [
+      "Data Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "ccna": {
+    "job_postings_7d": 618,
+    "mapped_roles": [
+      "Network Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "certified-six-sigma-green-belt-cssgb": {
+    "job_postings_7d": 318,
+    "mapped_roles": [
+      "Quality Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "snowpro-advanced-data-scientist": {
+    "job_postings_7d": 1159,
+    "mapped_roles": [
+      "Data Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "finra-series-63-uniform-securities-agent-state-law-exam": {
+    "job_postings_7d": 370,
+    "mapped_roles": [
+      "Financial Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "certified-manager-of-qualityorganizational-excellence-cmqoe": {
+    "job_postings_7d": 318,
+    "mapped_roles": [
+      "Quality Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-solutions-architect-professional": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "snowpro-core-certification": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "finra-series-7-general-securities-representative-exam": {
+    "job_postings_7d": 370,
+    "mapped_roles": [
+      "Financial Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "professional-collaboration-engineer": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "cfa-program": {
+    "job_postings_7d": 370,
+    "mapped_roles": [
+      "Financial Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "oracle-cloud-infrastructure-developer-professional": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "professional-devops-engineer": {
+    "job_postings_7d": 1062,
+    "mapped_roles": [
+      "DevOps Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "certified-six-sigma-black-belt-cssbb": {
+    "job_postings_7d": 318,
+    "mapped_roles": [
+      "Quality Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-data": {
+    "job_postings_7d": 1159,
+    "mapped_roles": [
+      "Data Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "vmware-certified-advanced-professional-vcap-deploydesign": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-project": {
+    "job_postings_7d": 2062,
+    "mapped_roles": [
+      "Project Manager"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "professional-cloud-network-engineer": {
+    "job_postings_7d": 2102,
+    "mapped_roles": [
+      "Cloud Engineer",
+      "Network Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "ccnp-security": {
+    "job_postings_7d": 1478,
+    "mapped_roles": [
+      "Security Engineer",
+      "Network Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-linux": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "ccnp-service-provider": {
+    "job_postings_7d": 618,
+    "mapped_roles": [
+      "Network Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-pentest": {
+    "job_postings_7d": 860,
+    "mapped_roles": [
+      "Security Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "certified-quality-engineer-cqe": {
+    "job_postings_7d": 318,
+    "mapped_roles": [
+      "Quality Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "comptia-a": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "aws-certified-advanced-networking-specialty": {
+    "job_postings_7d": 2102,
+    "mapped_roles": [
+      "Cloud Engineer",
+      "Network Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "se-structural-engineering": {
+    "job_postings_7d": 354,
+    "mapped_roles": [
+      "Civil Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "professional-data-engineer": {
+    "job_postings_7d": 1159,
+    "mapped_roles": [
+      "Data Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "caia-level-i": {
+    "job_postings_7d": 370,
+    "mapped_roles": [
+      "Financial Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "associate-of-the-cas-acas": {
+    "job_postings_7d": 1074,
+    "mapped_roles": [
+      "Business Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "professional-cloud-developer": {
+    "job_postings_7d": 1484,
+    "mapped_roles": [
+      "Cloud Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "cfp-certification-exam": {
+    "job_postings_7d": 370,
+    "mapped_roles": [
+      "Financial Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "fe-fundamentals-of-engineering": {
+    "job_postings_7d": 354,
+    "mapped_roles": [
+      "Civil Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "fellow-of-the-cas-fcas": {
+    "job_postings_7d": 1074,
+    "mapped_roles": [
+      "Business Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "capm": {
+    "job_postings_7d": 2062,
+    "mapped_roles": [
+      "Project Manager"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "pfmp": {
+    "job_postings_7d": 2062,
+    "mapped_roles": [
+      "Project Manager"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "pmi-rmp": {
+    "job_postings_7d": 2062,
+    "mapped_roles": [
+      "Project Manager"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "snowpro-advanced-architect": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "ccnp-enterprise": {
+    "job_postings_7d": 618,
+    "mapped_roles": [
+      "Network Engineer"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "pgmp": {
+    "job_postings_7d": 2062,
+    "mapped_roles": [
+      "Project Manager"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "ex294-red-hat-certified-engineer-on-red-hat-enterprise-linux": {
+    "job_postings_7d": 911,
+    "mapped_roles": [
+      "Systems Administrator"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "pmi-acp": {
+    "job_postings_7d": 2062,
+    "mapped_roles": [
+      "Project Manager"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "caia-level-ii": {
+    "job_postings_7d": 370,
+    "mapped_roles": [
+      "Financial Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  },
+  "financial-risk-manager-frm": {
+    "job_postings_7d": 679,
+    "mapped_roles": [
+      "Financial Analyst",
+      "Risk Analyst"
+    ],
+    "last_updated": "2025-09-05"
+  }
+}

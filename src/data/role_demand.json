@@ -1,0 +1,122 @@
+{
+  "Cloud Engineer": {
+    "job_postings_7d": 1484,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "cloud engineer",
+      "aws",
+      "gcp"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "DevOps Engineer": {
+    "job_postings_7d": 1062,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "devops",
+      "sre",
+      "ci/cd"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Security Engineer": {
+    "job_postings_7d": 860,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "security engineer",
+      "soc",
+      "siem"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Network Engineer": {
+    "job_postings_7d": 618,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "network engineer",
+      "ccna",
+      "bgp"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Systems Administrator": {
+    "job_postings_7d": 911,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "systems administrator",
+      "linux admin",
+      "windows admin"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Data Engineer": {
+    "job_postings_7d": 1159,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "data engineer",
+      "etl",
+      "spark"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Project Manager": {
+    "job_postings_7d": 2062,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "project manager",
+      "pmp",
+      "scrum"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Business Analyst": {
+    "job_postings_7d": 1074,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "business analyst",
+      "requirements",
+      "pmi-pba"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Financial Analyst": {
+    "job_postings_7d": 370,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "financial analyst",
+      "cfa",
+      "equity research"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Risk Analyst": {
+    "job_postings_7d": 309,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "risk analyst",
+      "frm",
+      "credit risk"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Quality Engineer": {
+    "job_postings_7d": 318,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "quality engineer",
+      "six sigma",
+      "cqe"
+    ],
+    "api_source": "adzuna_mock"
+  },
+  "Civil Engineer": {
+    "job_postings_7d": 354,
+    "last_updated": "2025-09-05",
+    "keywords_used": [
+      "civil engineer",
+      "pe",
+      "structural"
+    ],
+    "api_source": "adzuna_mock"
+  }
+}
