@@ -72,7 +72,7 @@ const HomePage: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-primary-50 to-primary-100 py-20">
+      <section className="bg-gradient-to-br from-blue-50 to-indigo-100 py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
@@ -97,19 +97,19 @@ const HomePage: React.FC = () => {
             {stats && (
               <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-primary-600">{stats.totalCertifications.toLocaleString()}</div>
+                  <div className="text-3xl font-bold text-blue-600">{stats.totalCertifications.toLocaleString()}</div>
                   <div className="text-sm text-gray-600">Certifications</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-primary-600">{stats.totalIssuers}</div>
+                  <div className="text-3xl font-bold text-blue-600">{stats.totalIssuers}</div>
                   <div className="text-sm text-gray-600">Issuers</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-primary-600">{stats.totalDomains}</div>
+                  <div className="text-3xl font-bold text-blue-600">{stats.totalDomains}</div>
                   <div className="text-sm text-gray-600">Domains</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-primary-600">{stats.averageRating.toFixed(1)}</div>
+                  <div className="text-3xl font-bold text-blue-600">{stats.averageRating.toFixed(1)}</div>
                   <div className="text-sm text-gray-600">Avg Rating</div>
                 </div>
               </div>
@@ -134,7 +134,7 @@ const HomePage: React.FC = () => {
             {features.map((feature, index) => (
               <Card key={index} className="text-center p-6 card-hover">
                 <CardContent className="pt-6">
-                  <div className="text-primary-600 mb-4 flex justify-center">
+                  <div className="text-blue-600 mb-4 flex justify-center">
                     {feature.icon}
                   </div>
                   <h3 className="text-xl font-semibold mb-2">{feature.title}</h3>
@@ -224,7 +224,7 @@ const HomePage: React.FC = () => {
                     >
                       {domain.icon}
                     </div>
-                    <h3 className="font-semibold text-sm group-hover:text-primary-600 transition-colors">
+                    <h3 className="font-semibold text-sm group-hover:text-blue-600 transition-colors">
                       {domain.name}
                     </h3>
                     <p className="text-xs text-gray-500 mt-1">
@@ -239,12 +239,12 @@ const HomePage: React.FC = () => {
       </section>
 
       {/* CTA Section */}
-      <section className="py-16 bg-primary-600">
+      <section className="py-16 bg-gradient-to-r from-indigo-600 to-purple-600">
         <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold text-white mb-4">
             Ready to Advance Your Career?
           </h2>
-          <p className="text-xl text-primary-100 mb-8">
+          <p className="text-xl text-indigo-100 mb-8">
             Join thousands of professionals who have found their perfect certification
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -254,7 +254,7 @@ const HomePage: React.FC = () => {
               </Button>
             </Link>
             <Link to="/rankings">
-              <Button size="lg" variant="outline" className="bg-transparent border-white text-white hover:bg-white hover:text-primary-600">
+              <Button size="lg" variant="outline" className="bg-transparent border-white text-white hover:bg-white hover:text-indigo-600">
                 View Rankings
               </Button>
             </Link>

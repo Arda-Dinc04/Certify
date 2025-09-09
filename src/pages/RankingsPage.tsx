@@ -58,7 +58,7 @@ const RankingsPage: React.FC = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <div className="flex items-center justify-center mb-4">
-            <Trophy className="w-12 h-12 text-primary-600 mr-4" />
+            <Trophy className="w-12 h-12 text-gray-900 mr-4" />
             <h1 className="text-4xl font-bold text-gray-900">
               Certification Rankings
             </h1>
@@ -98,7 +98,7 @@ const RankingsPage: React.FC = () => {
         <Card>
           <CardHeader>
             <CardTitle className="flex items-center space-x-2">
-              <Trophy className="w-6 h-6 text-primary-600" />
+              <Trophy className="w-6 h-6 text-gray-900" />
               <span>
                 {selectedDomain === 'all' ? 'Top Certifications' : `${domains.find(d => d.slug === selectedDomain)?.name} Rankings`}
               </span>
@@ -137,7 +137,7 @@ const RankingsPage: React.FC = () => {
                             <h3 className="text-lg font-semibold text-gray-900 mb-1">
                               <Link 
                                 to={`/certifications/${ranking.certification.slug}`}
-                                className="hover:text-primary-600 transition-colors"
+                                className="hover:text-gray-900 transition-colors"
                               >
                                 {ranking.certification.name}
                               </Link>
@@ -215,7 +215,7 @@ const RankingsPage: React.FC = () => {
           <Card>
             <CardHeader>
               <CardTitle className="flex items-center space-x-2">
-                <Award className="w-6 h-6 text-primary-600" />
+                <Award className="w-6 h-6 text-gray-900" />
                 <span>Ranking Methodology</span>
               </CardTitle>
             </CardHeader>
