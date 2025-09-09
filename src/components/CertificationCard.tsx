@@ -161,33 +161,33 @@ export default function CertificationCard({
     // Fallback to hardcoded logic for issuers
     const issuerLower = issuerName.toLowerCase();
     if (issuerLower.includes('aws') || issuerLower.includes('amazon')) {
-      return { type: 'image', content: '/src/assets/aws.jpeg' };
+      return { type: 'image', content: '/assets/aws.jpeg' };
     } else if (issuerLower.includes('microsoft')) {
-      return { type: 'image', content: '/src/assets/microsoft.jpg' };
+      return { type: 'image', content: '/assets/microsoft.jpg' };
     } else if (issuerLower.includes('finra')) {
-      return { type: 'image', content: '/src/assets/finra.png' };
+      return { type: 'image', content: '/assets/finra.png' };
     } else if (issuerLower.includes('google')) {
-      return { type: 'image', content: '/src/assets/Google-Logo-PNG.png' };
+      return { type: 'image', content: '/assets/Google-Logo-PNG.png' };
     } else if (issuerLower.includes('oracle')) {
-      return { type: 'image', content: '/src/assets/oracle.png' };
+      return { type: 'image', content: '/assets/oracle.png' };
     } else if (issuerLower.includes('docker')) {
-      return { type: 'image', content: '/src/assets/docker.png' };
+      return { type: 'image', content: '/assets/docker.png' };
     } else if (issuerLower.includes('adobe')) {
-      return { type: 'image', content: '/src/assets/adobe.png' };
+      return { type: 'image', content: '/assets/adobe.png' };
     } else if (issuerLower.includes('ncees')) {
-      return { type: 'image', content: '/src/assets/NCEES.png' };
+      return { type: 'image', content: '/assets/NCEES.png' };
     } else if (issuerLower.includes('caia')) {
-      return { type: 'image', content: '/src/assets/CAIA Association .png' };
+      return { type: 'image', content: '/assets/CAIA Association .png' };
     } else if (issuerLower.includes('snowflake')) {
-      return { type: 'image', content: '/src/assets/Snowflake.png' };
+      return { type: 'image', content: '/assets/Snowflake.png' };
     } else if (issuerLower.includes('cfa')) {
-      return { type: 'image', content: '/src/assets/cfa.jpg' };
+      return { type: 'image', content: '/assets/cfa.jpg' };
     } else if (issuerLower.includes('faa') || issuerLower.includes('federal aviation')) {
-      return { type: 'image', content: '/src/assets/faa.svg' };
+      return { type: 'image', content: '/assets/faa.svg' };
     } else if (issuerLower.includes('fmcsa')) {
-      return { type: 'image', content: '/src/assets/FMCSA.png' };
+      return { type: 'image', content: '/assets/FMCSA.png' };
     } else if (issuerLower.includes('comptia')) {
-      return { type: 'image', content: '/src/assets/comptia.jpeg' };
+      return { type: 'image', content: '/assets/comptia.jpeg' };
     }
     
     // Use domain icon if available, otherwise first letter

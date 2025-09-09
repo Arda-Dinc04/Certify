@@ -82,59 +82,59 @@ const getBannerImage = (issuer: string): string | undefined => {
   
   // AWS/Amazon
   if (issuerLower.includes('amazon') || issuerLower.includes('aws')) {
-    return '/src/assets/aws.jpeg';
+    return '/assets/aws.jpeg';
   }
   // Microsoft
   else if (issuerLower.includes('microsoft')) {
-    return '/src/assets/microsoft.jpg';
+    return '/assets/microsoft.jpg';
   }
   // Google
   else if (issuerLower.includes('google')) {
-    return '/src/assets/Google-Logo-PNG.png';
+    return '/assets/Google-Logo-PNG.png';
   }
   // Oracle
   else if (issuerLower.includes('oracle')) {
-    return '/src/assets/oracle.png';
+    return '/assets/oracle.png';
   }
   // Adobe
   else if (issuerLower.includes('adobe')) {
-    return '/src/assets/adobe.png';
+    return '/assets/adobe.png';
   }
   // Docker
   else if (issuerLower.includes('docker')) {
-    return '/src/assets/docker.png';
+    return '/assets/docker.png';
   }
   // FINRA
   else if (issuerLower.includes('finra')) {
-    return '/src/assets/finra.png';
+    return '/assets/finra.png';
   }
   // CAIA Association
   else if (issuerLower.includes('caia')) {
-    return '/src/assets/CAIA Association .png';
+    return '/assets/CAIA Association .png';
   }
   // NCEES
   else if (issuerLower.includes('ncees')) {
-    return '/src/assets/NCEES.png';
+    return '/assets/NCEES.png';
   }
   // Snowflake
   else if (issuerLower.includes('snowflake')) {
-    return '/src/assets/Snowflake.png';
+    return '/assets/Snowflake.png';
   }
   // CFA
   else if (issuerLower.includes('cfa')) {
-    return '/src/assets/cfa.jpg';
+    return '/assets/cfa.jpg';
   }
   // FAA
   else if (issuerLower.includes('faa') || issuerLower.includes('federal aviation')) {
-    return '/src/assets/faa.svg';
+    return '/assets/faa.svg';
   }
   // FMCSA
   else if (issuerLower.includes('fmcsa')) {
-    return '/src/assets/FMCSA.png';
+    return '/assets/FMCSA.png';
   }
   // CompTIA
   else if (issuerLower.includes('comptia')) {
-    return '/src/assets/comptia.jpeg';
+    return '/assets/comptia.jpeg';
   }
   // For other issuers, we'll use a default or no banner
   // You can add more mappings here as you add more logos
