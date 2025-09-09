@@ -80,17 +80,20 @@ const RankingsPage: React.FC = () => {
               <BarChart3 className="w-4 h-4" />
               <span>All Domains</span>
             </Button>
-            {domains.map((domain) => (
-              <Button
-                key={domain.id}
-                variant={selectedDomain === domain.slug ? 'default' : 'outline'}
-                onClick={() => setSelectedDomain(domain.slug)}
-                className="flex items-center space-x-2"
-              >
-                <span>{domain.icon}</span>
-                <span>{domain.name}</span>
-              </Button>
-            ))}
+            {domains.map((domain) => {
+              const DomainIcon = domain.icon;
+              return (
+                <Button
+                  key={domain.id}
+                  variant={selectedDomain === domain.slug ? 'default' : 'outline'}
+                  onClick={() => setSelectedDomain(domain.slug)}
+                  className="flex items-center space-x-2"
+                >
+                  <DomainIcon className="w-4 h-4" />
+                  <span>{domain.name}</span>
+                </Button>
+              );
+            })}
           </div>
         </div>
 

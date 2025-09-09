@@ -1,4 +1,31 @@
 import axios from 'axios';
+import {
+  Monitor,
+  DollarSign as FinanceIcon,
+  Utensils,
+  Scale,
+  Cloud,
+  Palette,
+  Truck,
+  Globe,
+  Plane,
+  Headphones,
+  Heart,
+  Building,
+  Anchor,
+  Recycle,
+  Dumbbell,
+  Music,
+  Settings,
+  Lock,
+  BarChart3,
+  Building2,
+  Zap,
+  Shield,
+  GraduationCap,
+  CheckCircle,
+  ChefHat
+} from 'lucide-react';
 import type { 
   Certification, 
   Issuer, 
@@ -49,6 +76,72 @@ api.interceptors.response.use(
 );
 
 // Transform JSON data to match our Certification interface
+// Helper function to get banner image based on issuer
+const getBannerImage = (issuer: string): string | undefined => {
+  const issuerLower = issuer.toLowerCase();
+  
+  // AWS/Amazon
+  if (issuerLower.includes('amazon') || issuerLower.includes('aws')) {
+    return '/src/assets/aws.jpeg';
+  }
+  // Microsoft
+  else if (issuerLower.includes('microsoft')) {
+    return '/src/assets/microsoft.jpg';
+  }
+  // Google
+  else if (issuerLower.includes('google')) {
+    return '/src/assets/Google-Logo-PNG.png';
+  }
+  // Oracle
+  else if (issuerLower.includes('oracle')) {
+    return '/src/assets/oracle.png';
+  }
+  // Adobe
+  else if (issuerLower.includes('adobe')) {
+    return '/src/assets/adobe.png';
+  }
+  // Docker
+  else if (issuerLower.includes('docker')) {
+    return '/src/assets/docker.png';
+  }
+  // FINRA
+  else if (issuerLower.includes('finra')) {
+    return '/src/assets/finra.png';
+  }
+  // CAIA Association
+  else if (issuerLower.includes('caia')) {
+    return '/src/assets/CAIA Association .png';
+  }
+  // NCEES
+  else if (issuerLower.includes('ncees')) {
+    return '/src/assets/NCEES.png';
+  }
+  // Snowflake
+  else if (issuerLower.includes('snowflake')) {
+    return '/src/assets/Snowflake.png';
+  }
+  // CFA
+  else if (issuerLower.includes('cfa')) {
+    return '/src/assets/cfa.jpg';
+  }
+  // FAA
+  else if (issuerLower.includes('faa') || issuerLower.includes('federal aviation')) {
+    return '/src/assets/faa.svg';
+  }
+  // FMCSA
+  else if (issuerLower.includes('fmcsa')) {
+    return '/src/assets/FMCSA.png';
+  }
+  // CompTIA
+  else if (issuerLower.includes('comptia')) {
+    return '/src/assets/comptia.jpeg';
+  }
+  // For other issuers, we'll use a default or no banner
+  // You can add more mappings here as you add more logos
+  
+  return undefined;
+};
+
 const transformCertification = (item: any): Certification => ({
   id: item.id.toString(),
   name: item.name,
@@ -73,6 +166,8 @@ const transformCertification = (item: any): Certification => ({
   examFormat: item.format,
   validityPeriod: `${item.validity_years} years`,
   renewalRequired: !!item.renewal_requirements,
+  bannerImage: getBannerImage(item.issuer),
+  logoUrl: getBannerImage(item.issuer),
   websiteUrl: item.url,
   createdAt: new Date().toISOString(),
   updatedAt: new Date().toISOString()
@@ -95,9 +190,12 @@ export const dataService = {
     }
     
     if (filters.domain) {
-      filteredData = filteredData.filter(cert => 
-        cert.domain.toLowerCase().includes(filters.domain!.toLowerCase())
-      );
+      // Handle domain filtering with proper transformation
+      const domainFilter = filters.domain.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, '');
+      filteredData = filteredData.filter(cert => {
+        const certDomain = cert.domain.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, '');
+        return certDomain.includes(domainFilter);
+      });
     }
     
     if (filters.issuer) {
@@ -193,40 +291,40 @@ export const dataService = {
   async getDomains(): Promise<Domain[]> {
     const domains = [...new Set(certificationsData.map(item => item.domain))];
     
-    // Helper function to get domain emoji
-    const getDomainEmoji = (domainName: string) => {
+    // Helper function to get domain icon component
+    const getDomainIcon = (domainName: string) => {
       const domainLower = domainName.toLowerCase();
-      if (domainLower.includes('cs') || domainLower.includes('it')) return '💻';
-      if (domainLower.includes('finance')) return '💰';
-      if (domainLower.includes('food')) return '🍽️';
-      if (domainLower.includes('legal') && !domainLower.includes('compliance')) return '⚖️';
-      if (domainLower.includes('devops') || domainLower.includes('cloud')) return '☁️';
-      if (domainLower.includes('design') || domainLower.includes('creative')) return '🎨';
-      if (domainLower.includes('supply')) return '🚛';
-      if (domainLower.includes('language')) return '🌍';
-      if (domainLower.includes('aviation')) return '✈️';
-      if (domainLower.includes('audio') && domainLower.includes('engineering')) return '🎧';
-      if (domainLower.includes('healthcare')) return '🏥';
-      if (domainLower.includes('hospitality')) return '🏨';
-      if (domainLower.includes('maritime')) return '⚓';
-      if (domainLower.includes('sustainability')) return '🌱';
-      if (domainLower.includes('fitness') || domainLower.includes('wellness')) return '💪';
-      if (domainLower.includes('audio') && domainLower.includes('production')) return '🎵';
-      if (domainLower.includes('engineering') && !domainLower.includes('audio')) return '⚙️';
-      if (domainLower.includes('data') && domainLower.includes('protection')) return '🔒';
-      if (domainLower.includes('math') || domainLower.includes('actuarial')) return '📊';
-      if (domainLower.includes('service') && domainLower.includes('management')) return '🖥️';
-      if (domainLower.includes('project') && domainLower.includes('management')) return '📋';
-      if (domainLower.includes('government') || domainLower.includes('defense')) return '🏛️';
-      if (domainLower.includes('energy')) return '⚡';
-      if (domainLower.includes('compliance')) return '✅';
-      if (domainLower.includes('cybersecurity')) return '🛡️';
-      if (domainLower.includes('education')) return '🎓';
-      if (domainLower.includes('privacy')) return '🔐';
-      if (domainLower.includes('culinary')) return '👨‍🍳';
-      if (domainLower.includes('architecture')) return '🏗️';
-      if (domainLower.includes('governance')) return '🏛️';
-      return '📊'; // default emoji
+      if (domainLower.includes('cs') || domainLower.includes('it')) return Monitor;
+      if (domainLower.includes('finance')) return FinanceIcon;
+      if (domainLower.includes('food')) return Utensils;
+      if (domainLower.includes('legal') && !domainLower.includes('compliance')) return Scale;
+      if (domainLower.includes('devops') || domainLower.includes('cloud')) return Cloud;
+      if (domainLower.includes('design') || domainLower.includes('creative')) return Palette;
+      if (domainLower.includes('supply')) return Truck;
+      if (domainLower.includes('language')) return Globe;
+      if (domainLower.includes('aviation')) return Plane;
+      if (domainLower.includes('audio') && domainLower.includes('engineering')) return Headphones;
+      if (domainLower.includes('healthcare')) return Heart;
+      if (domainLower.includes('hospitality')) return Building;
+      if (domainLower.includes('maritime')) return Anchor;
+      if (domainLower.includes('sustainability')) return Recycle;
+      if (domainLower.includes('fitness') || domainLower.includes('wellness')) return Dumbbell;
+      if (domainLower.includes('audio') && domainLower.includes('production')) return Music;
+      if (domainLower.includes('engineering') && !domainLower.includes('audio')) return Settings;
+      if (domainLower.includes('data') && domainLower.includes('protection')) return Lock;
+      if (domainLower.includes('math') || domainLower.includes('actuarial')) return BarChart3;
+      if (domainLower.includes('service') && domainLower.includes('management')) return Settings;
+      if (domainLower.includes('project') && domainLower.includes('management')) return BarChart3;
+      if (domainLower.includes('government') || domainLower.includes('defense')) return Building2;
+      if (domainLower.includes('energy')) return Zap;
+      if (domainLower.includes('compliance')) return CheckCircle;
+      if (domainLower.includes('cybersecurity')) return Shield;
+      if (domainLower.includes('education')) return GraduationCap;
+      if (domainLower.includes('privacy')) return Lock;
+      if (domainLower.includes('culinary')) return ChefHat;
+      if (domainLower.includes('architecture')) return Building2;
+      if (domainLower.includes('governance')) return Building2;
+      return BarChart3; // default icon
     };
 
     // Helper function to get domain color
@@ -270,7 +368,7 @@ export const dataService = {
       name: domain,
       slug: domain.toLowerCase().replace(/\s+/g, '-'),
       description: `${domain} certifications`,
-      icon: getDomainEmoji(domain),
+      icon: getDomainIcon(domain),
       color: getDomainColor(domain),
       certificationCount: certificationsData.filter(item => item.domain === domain).length,
       averageRating: 4.3,

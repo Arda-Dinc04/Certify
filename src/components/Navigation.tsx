@@ -20,8 +20,8 @@ const Navigation: React.FC = () => {
   return (
     <nav className="bg-white shadow-sm border-b">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-16">
-          {/* Logo */}
+        <div className="flex items-center h-16">
+          {/* Logo - Far Left */}
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <div className="border-2 border-gray-800 rounded px-3 py-1">
@@ -30,8 +30,8 @@ const Navigation: React.FC = () => {
             </Link>
           </div>
 
-          {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-8">
+          {/* Desktop Navigation - Centered */}
+          <div className="hidden md:flex items-center space-x-8 flex-1 justify-center">
             {navigation.map((item) => (
               <Link
                 key={item.name}
@@ -48,7 +48,7 @@ const Navigation: React.FC = () => {
             ))}
           </div>
 
-          {/* Sign In Button */}
+          {/* Sign In Button - Far Right */}
           <div className="hidden md:flex items-center">
             <Button 
               variant="default" 
@@ -59,7 +59,7 @@ const Navigation: React.FC = () => {
           </div>
 
           {/* Mobile menu button */}
-          <div className="md:hidden flex items-center">
+          <div className="md:hidden flex items-center ml-auto">
             <Button
               variant="ghost"
               size="icon"

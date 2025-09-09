@@ -1,7 +1,30 @@
+import React from "react";
 import { Link } from "react-router-dom";
 import {
   Clock,
-  MonitorSmartphone
+  Monitor,
+  DollarSign,
+  Utensils,
+  Scale,
+  Cloud,
+  Palette,
+  Truck,
+  Globe,
+  Plane,
+  Headphones,
+  Heart,
+  Building,
+  Anchor,
+  Recycle,
+  Dumbbell,
+  Music,
+  Settings,
+  Shield,
+  GraduationCap,
+  Lock,
+  ChefHat,
+  Building2,
+  BarChart3
 } from "lucide-react";
 import clsx from "clsx";
 
@@ -15,7 +38,9 @@ type Props = {
   rank?: number; // <-- pass from list: index + 1
   showCompareButton?: boolean;
   onAddToCompare?: (certification: Certification) => void;
+  onRemoveFromCompare?: (certificationId: string) => void;
   isInCompare?: boolean;
+  isCompareFull?: boolean;
 };
 
 /**
@@ -34,7 +59,9 @@ export default function CertificationCard({
   rank,
   showCompareButton = false,
   onAddToCompare,
-  isInCompare = false
+  onRemoveFromCompare,
+  isInCompare = false,
+  isCompareFull = false
 }: Props) {
   // Defensive field mapping so we don’t break if your shape differs slightly.
   const title =
@@ -59,8 +86,8 @@ export default function CertificationCard({
     undefined;
 
   const price: number | undefined =
-    (certification as any).price ??
     (certification as any).cost ??
+    (certification as any).price ??
     (certification as any).examFee;
 
   const minHours: number | undefined =
@@ -72,6 +99,7 @@ export default function CertificationCard({
     (certification as any).studyMaxHours;
 
   const hoursRangeText =
+    (certification as any).duration ??
     (certification as any).hoursRange ??
     (minHours && maxHours ? `${minHours}-${maxHours} hours` : undefined) ??
     (minHours ? `${minHours}+ hours` : undefined) ??
@@ -87,44 +115,50 @@ export default function CertificationCard({
   const ratingSafe = Math.max(0, Math.min(rating ?? 0, ratingOutOf));
   const ratingPct = (ratingSafe / ratingOutOf) * 100;
 
-  // Domain emoji mapping
-  const getDomainEmoji = (domainName: string) => {
+  // Domain icon mapping using Lucide React icons
+  const getDomainIcon = (domainName: string) => {
     const domainLower = domainName.toLowerCase();
-    if (domainLower.includes('cs') || domainLower.includes('it')) return '💻';
-    if (domainLower.includes('finance')) return '💰';
-    if (domainLower.includes('food')) return '🍽️';
-    if (domainLower.includes('legal') && !domainLower.includes('compliance')) return '⚖️';
-    if (domainLower.includes('devops') || domainLower.includes('cloud')) return '☁️';
-    if (domainLower.includes('design') || domainLower.includes('creative')) return '🎨';
-    if (domainLower.includes('supply')) return '🚚';
-    if (domainLower.includes('language')) return '🌐';
-    if (domainLower.includes('aviation')) return '✈️';
-    if (domainLower.includes('audio') && domainLower.includes('engineering')) return '🎧';
-    if (domainLower.includes('healthcare')) return '🏥';
-    if (domainLower.includes('hospitality')) return '🏨';
-    if (domainLower.includes('maritime')) return '⚓';
-    if (domainLower.includes('sustainability')) return '♻️';
-    if (domainLower.includes('fitness') || domainLower.includes('wellness')) return '💪';
-    if (domainLower.includes('audio') && domainLower.includes('production')) return '🎵';
-    if (domainLower.includes('engineering') && !domainLower.includes('audio')) return '⚙️';
-    if (domainLower.includes('data') && domainLower.includes('protection')) return '🔐';
-    if (domainLower.includes('math') || domainLower.includes('actuarial')) return '📊';
-    if (domainLower.includes('service') && domainLower.includes('management')) return '🛠️';
-    if (domainLower.includes('project') && domainLower.includes('management')) return '📋';
-    if (domainLower.includes('government') || domainLower.includes('defense')) return '🏛️';
-    if (domainLower.includes('energy')) return '⚡';
-    if (domainLower.includes('compliance')) return '📋';
-    if (domainLower.includes('cybersecurity')) return '🛡️';
-    if (domainLower.includes('education')) return '🎓';
-    if (domainLower.includes('privacy')) return '🔒';
-    if (domainLower.includes('culinary')) return '👨‍🍳';
-    if (domainLower.includes('architecture')) return '🏗️';
-    if (domainLower.includes('governance')) return '🏛️';
-    return '📊'; // default emoji
+    if (domainLower.includes('cs') || domainLower.includes('it')) return Monitor;
+    if (domainLower.includes('finance')) return DollarSign;
+    if (domainLower.includes('food')) return Utensils;
+    if (domainLower.includes('legal') && !domainLower.includes('compliance')) return Scale;
+    if (domainLower.includes('devops') || domainLower.includes('cloud')) return Cloud;
+    if (domainLower.includes('design') || domainLower.includes('creative')) return Palette;
+    if (domainLower.includes('supply')) return Truck;
+    if (domainLower.includes('language')) return Globe;
+    if (domainLower.includes('aviation')) return Plane;
+    if (domainLower.includes('audio') && domainLower.includes('engineering')) return Headphones;
+    if (domainLower.includes('healthcare')) return Heart;
+    if (domainLower.includes('hospitality')) return Building;
+    if (domainLower.includes('maritime')) return Anchor;
+    if (domainLower.includes('sustainability')) return Recycle;
+    if (domainLower.includes('fitness') || domainLower.includes('wellness')) return Dumbbell;
+    if (domainLower.includes('audio') && domainLower.includes('production')) return Music;
+    if (domainLower.includes('engineering') && !domainLower.includes('audio')) return Settings;
+    if (domainLower.includes('data') && domainLower.includes('protection')) return Lock;
+    if (domainLower.includes('math') || domainLower.includes('actuarial')) return BarChart3;
+    if (domainLower.includes('service') && domainLower.includes('management')) return Settings;
+    if (domainLower.includes('project') && domainLower.includes('management')) return BarChart3;
+    if (domainLower.includes('government') || domainLower.includes('defense')) return Building2;
+    if (domainLower.includes('energy')) return Settings;
+    if (domainLower.includes('compliance')) return BarChart3;
+    if (domainLower.includes('cybersecurity')) return Shield;
+    if (domainLower.includes('education')) return GraduationCap;
+    if (domainLower.includes('privacy')) return Lock;
+    if (domainLower.includes('culinary')) return ChefHat;
+    if (domainLower.includes('architecture')) return Building2;
+    if (domainLower.includes('governance')) return Building2;
+    return BarChart3; // default icon
   };
 
-  // Banner: either image or domain-based emoji/letter fallback
-  const getBannerContent = (issuerName: string, domainName: string) => {
+  // Banner: use bannerImage from data service first, then fallback to hardcoded logic
+  const getBannerContent = (certification: Certification, issuerName: string, domainName: string) => {
+    // First, try to use the bannerImage from the data service
+    if (certification.bannerImage) {
+      return { type: 'image', content: certification.bannerImage };
+    }
+    
+    // Fallback to hardcoded logic for issuers
     const issuerLower = issuerName.toLowerCase();
     if (issuerLower.includes('aws') || issuerLower.includes('amazon')) {
       return { type: 'image', content: '/src/assets/aws.jpeg' };
@@ -140,19 +174,33 @@ export default function CertificationCard({
       return { type: 'image', content: '/src/assets/docker.png' };
     } else if (issuerLower.includes('adobe')) {
       return { type: 'image', content: '/src/assets/adobe.png' };
+    } else if (issuerLower.includes('ncees')) {
+      return { type: 'image', content: '/src/assets/NCEES.png' };
+    } else if (issuerLower.includes('caia')) {
+      return { type: 'image', content: '/src/assets/CAIA Association .png' };
+    } else if (issuerLower.includes('snowflake')) {
+      return { type: 'image', content: '/src/assets/Snowflake.png' };
+    } else if (issuerLower.includes('cfa')) {
+      return { type: 'image', content: '/src/assets/cfa.jpg' };
+    } else if (issuerLower.includes('faa') || issuerLower.includes('federal aviation')) {
+      return { type: 'image', content: '/src/assets/faa.svg' };
+    } else if (issuerLower.includes('fmcsa')) {
+      return { type: 'image', content: '/src/assets/FMCSA.png' };
+    } else if (issuerLower.includes('comptia')) {
+      return { type: 'image', content: '/src/assets/comptia.jpeg' };
     }
     
-    // Use domain emoji if available, otherwise first letter
-    const domainEmoji = getDomainEmoji(domainName);
-    if (domainEmoji !== '📊' || domainName.toLowerCase().includes('math')) {
-      return { type: 'emoji', content: domainEmoji };
+    // Use domain icon if available, otherwise first letter
+    const domainIcon = getDomainIcon(domainName);
+    if (domainIcon !== BarChart3 || domainName.toLowerCase().includes('math')) {
+      return { type: 'icon', content: domainIcon };
     }
     
     // Fallback to first letter
     return { type: 'letter', content: issuerName.charAt(0).toUpperCase() };
   };
 
-  const bannerContent = getBannerContent(issuer, domain || '');
+  const bannerContent = getBannerContent(certification, issuer, domain || '');
 
   // slug / id for details link
   const slug =
@@ -171,58 +219,76 @@ export default function CertificationCard({
           "bg-white"
         )}
         style={{ 
-          width: '291.5px', 
-          height: '399px',
-          minWidth: '291.5px',
-          minHeight: '399px'
+          width: '280px', 
+          height: '360px',
+          minWidth: '280px',
+          minHeight: '360px'
         }}
       >
-      {/* Top banner */}
-      <div className="relative">
-        {bannerContent.type === 'image' ? (
-          <div className="w-full h-[160px] bg-white flex items-center justify-center p-4">
-            <img
-              src={bannerContent.content}
-              alt=""
-              className="max-w-full max-h-full object-contain"
-            />
-          </div>
-        ) : bannerContent.type === 'emoji' ? (
-          <div className="w-full h-[160px] bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center">
-            <span className="text-8xl">
-              {bannerContent.content}
-            </span>
-          </div>
-        ) : (
-          <div className="w-full h-[160px] bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
-            <span className="text-white text-6xl font-bold">
-              {bannerContent.content}
-            </span>
-          </div>
-        )}
-      </div>
+              {/* Top banner (full-width brand banner) */}
+              <div className="relative h-[100px] overflow-hidden rounded-t-2xl">
+                {bannerContent.type === "image" ? (
+                  <img
+                    src={bannerContent.content as string}
+                    alt={`${issuer} logo`}
+                    className={`w-full h-full ${
+                      issuer.toLowerCase().includes('comptia') 
+                        ? 'object-contain bg-white p-2' 
+                        : 'object-cover'
+                    }`}
+                  />
+                ) : bannerContent.type === "icon" ? (
+                  <div className="w-full h-full bg-[#0b1220] flex items-center justify-center">
+                    {(() => {
+                      const IconComponent = bannerContent.content as React.ComponentType<any>;
+                      return <IconComponent className="h-16 w-16 text-zinc-300" />;
+                    })()}
+                  </div>
+                ) : (
+                  <div className="w-full h-full bg-[#0b1220] flex items-center justify-center">
+                    <span className="text-white/90 text-3xl font-semibold">
+                      {String(bannerContent.content || "").toUpperCase()}
+                    </span>
+                  </div>
+                )}
+              </div>
 
 
       {/* Body */}
-      <div className={clsx("p-3 flex flex-col", showCompareButton ? "h-[220px]" : "h-[239px]")}>
-        {/* Title & Issuer */}
-        <h3 className="text-sm font-bold text-gray-900 leading-tight line-clamp-2 mb-1">
-          {title}
-        </h3>
-        <p className="text-xs text-gray-600 mb-2 truncate">{issuer}</p>
+      <div className={clsx("p-3 flex flex-col", showCompareButton ? "h-[240px]" : "h-[240px]")}>
+        {/* Certification Name & Company */}
+        <div className="mt-3 mb-3">
+          <h3 className="text-base font-semibold text-zinc-900 leading-snug line-clamp-2">
+            {title}
+          </h3>
+          <p className="text-xs text-zinc-600 truncate">{issuer}</p>
+        </div>
 
-        {/* Tags */}
-        <div className="flex items-center gap-1 flex-wrap mb-3">
-          {domain && (
-            <span className="inline-flex items-center gap-1 rounded-full bg-blue-50 text-blue-700 px-2 py-0.5 text-xs font-medium">
-              <MonitorSmartphone className="w-3 h-3" />
-              {domain.toString().toUpperCase()}
-            </span>
-          )}
-          {level && (
-            <span className="inline-flex items-center rounded-full bg-gray-100 text-gray-700 px-2 py-0.5 text-xs font-medium">
-              {capitalize(level)}
-            </span>
+        {/* Tags and Hours */}
+        <div className="flex items-center justify-between mb-3">
+          <div className="flex items-center gap-1 flex-wrap">
+            {domain && (
+              <span className="inline-flex items-center gap-1 rounded-full bg-blue-50 text-blue-700 px-2 py-0.5 text-xs font-medium">
+                {(() => {
+                  const DomainIcon = getDomainIcon(domain.toString());
+                  return <DomainIcon className="w-3 h-3" />;
+                })()}
+                {domain.toString().toUpperCase()}
+              </span>
+            )}
+            {level && (
+              <span className="inline-flex items-center rounded-full bg-gray-100 text-gray-700 px-2 py-0.5 text-xs font-medium">
+                {capitalize(level)}
+              </span>
+            )}
+          </div>
+          
+          {/* Hours */}
+          {hoursRangeText && (
+            <div className="flex items-center gap-1 text-gray-700">
+              <Clock className="w-3 h-3 text-gray-500" />
+              <span className="text-xs">{hoursRangeText}</span>
+            </div>
           )}
         </div>
 
@@ -233,13 +299,6 @@ export default function CertificationCard({
           </div>
         )}
 
-        {/* Hours */}
-        {hoursRangeText && (
-          <div className="flex items-center gap-1 text-gray-700 mb-3">
-            <Clock className="w-3 h-3 text-gray-500" />
-            <span className="text-xs">{hoursRangeText}</span>
-          </div>
-        )}
 
         {/* Rating */}
         <div className="mb-3">
@@ -258,53 +317,80 @@ export default function CertificationCard({
         </div>
 
         {/* CTA - pushed to bottom */}
-        <div className="mt-auto space-y-2">
-          <Link to={`/cert/${slug}`} className="group inline-block w-full">
-            <Button
-              variant="outline"
-              className={clsx(
-                "rounded-lg px-3 py-1.5 text-xs w-full",
-                "transition-transform",
-                "group-hover:-translate-y-0.5 group-active:translate-y-0"
-              )}
-            >
-              View Details
-              <span className="ml-1 transition-transform group-hover:translate-x-0.5">→</span>
-            </Button>
-          </Link>
-          
-          {showCompareButton && (
+        <div className="mt-auto">
+          <div className="flex gap-2">
+            <Link to={`/cert/${slug}`} className="group inline-block flex-[2]">
+              <Button
+                variant="outline"
+                className={clsx(
+                  "rounded-lg px-3 py-1.5 text-xs w-full",
+                  "transition-transform",
+                  "group-hover:-translate-y-0.5 group-active:translate-y-0"
+                )}
+              >
+                View Details
+                <span className="ml-1 transition-transform group-hover:translate-x-0.5">→</span>
+              </Button>
+            </Link>
+
+            {showCompareButton && (
             <Button
               variant={isInCompare ? "default" : "secondary"}
               className={clsx(
-                "rounded-lg px-3 py-1.5 text-xs w-full",
+                "rounded-lg px-3 py-1.5 text-[10px] flex-1",
                 "transition-colors"
               )}
-              onClick={() => onAddToCompare?.(certification)}
-              disabled={isInCompare}
-            >
-              {isInCompare ? "Added to Compare" : "Add to Compare"}
-            </Button>
-          )}
+                onClick={() => {
+                  if (isInCompare) {
+                    onRemoveFromCompare?.(certification.id);
+                  } else {
+                    onAddToCompare?.(certification);
+                  }
+                }}
+                disabled={!isInCompare && isCompareFull}
+              >
+                {isInCompare
+                  ? (
+                      <>
+                        Remove from<br />
+                        Compare
+                      </>
+                    )
+                  : isCompareFull
+                    ? "Compare is Full"
+                    : (
+                        <>
+                          Add to<br />
+                          Compare
+                        </>
+                      )
+                }
+              </Button>
+            )}
+          </div>
         </div>
       </div>
       </Card>
 
-      {/* Ranking badge - completely independent circle that overrides the card */}
-      {showRanking && typeof rank === "number" && (
-        <div
-          className={clsx(
-            "absolute -top-4",
-            "bg-blue-400 text-white rounded-full",
-            "w-14 h-14",
-            "flex items-center justify-center",
-            "text-sm font-bold shadow-2xl border-4 border-white"
-          )}
-          style={{ zIndex: 1000, right: '-14px' }}
-        >
-          #{rank}
-        </div>
-      )}
+              {/* Ranking badge - completely independent circle that overrides the card */}
+              {showRanking && typeof rank === "number" && (
+                <div
+                  className={clsx(
+                    "absolute -top-4",
+                    "text-white rounded-full",
+                    "w-14 h-14",
+                    "flex items-center justify-center",
+                    "text-sm font-bold shadow-2xl border-4 border-white"
+                  )}
+                  style={{ 
+                    zIndex: 1000, 
+                    right: '-14px',
+                    backgroundColor: '#0A66C2'
+                  }}
+                >
+                  #{rank}
+                </div>
+              )}
     </div>
   );
 }

@@ -6,6 +6,31 @@ import {
   ChevronLeft,
   ChevronRight,
   Search as SearchIcon,
+  Monitor,
+  DollarSign as FinanceIcon,
+  Utensils,
+  Scale,
+  Cloud,
+  Palette,
+  Truck,
+  Globe,
+  Plane,
+  Headphones,
+  Heart,
+  Building,
+  Anchor,
+  Recycle,
+  Dumbbell,
+  Music,
+  Settings,
+  Lock,
+  BarChart3,
+  Building2,
+  Zap,
+  Shield,
+  GraduationCap,
+  CheckCircle,
+  ChefHat
 } from "lucide-react";
 
 import { Button } from "../components/ui/Button";
@@ -18,9 +43,45 @@ import { useCompare } from "../context/CompareContext";
 
 const LEVELS = ["Foundational", "Associate", "Professional", "Specialty", "Expert"] as const;
 
+// Domain icon mapping using Lucide React icons
+const getDomainIcon = (domainName: string) => {
+  const domainLower = domainName.toLowerCase();
+  if (domainLower.includes('cs') || domainLower.includes('it')) return Monitor;
+  if (domainLower.includes('finance')) return FinanceIcon;
+  if (domainLower.includes('food')) return Utensils;
+  if (domainLower.includes('legal') && !domainLower.includes('compliance')) return Scale;
+  if (domainLower.includes('devops') || domainLower.includes('cloud')) return Cloud;
+  if (domainLower.includes('design') || domainLower.includes('creative')) return Palette;
+  if (domainLower.includes('supply')) return Truck;
+  if (domainLower.includes('language')) return Globe;
+  if (domainLower.includes('aviation')) return Plane;
+  if (domainLower.includes('audio') && domainLower.includes('engineering')) return Headphones;
+  if (domainLower.includes('healthcare')) return Heart;
+  if (domainLower.includes('hospitality')) return Building;
+  if (domainLower.includes('maritime')) return Anchor;
+  if (domainLower.includes('sustainability')) return Recycle;
+  if (domainLower.includes('fitness') || domainLower.includes('wellness')) return Dumbbell;
+  if (domainLower.includes('audio') && domainLower.includes('production')) return Music;
+  if (domainLower.includes('engineering') && !domainLower.includes('audio')) return Settings;
+  if (domainLower.includes('data') && domainLower.includes('protection')) return Lock;
+  if (domainLower.includes('math') || domainLower.includes('actuarial')) return BarChart3;
+  if (domainLower.includes('service') && domainLower.includes('management')) return Settings;
+  if (domainLower.includes('project') && domainLower.includes('management')) return BarChart3;
+  if (domainLower.includes('government') || domainLower.includes('defense')) return Building2;
+  if (domainLower.includes('energy')) return Zap;
+  if (domainLower.includes('compliance')) return CheckCircle;
+  if (domainLower.includes('cybersecurity')) return Shield;
+  if (domainLower.includes('education')) return GraduationCap;
+  if (domainLower.includes('privacy')) return Lock;
+  if (domainLower.includes('culinary')) return ChefHat;
+  if (domainLower.includes('architecture')) return Building2;
+  if (domainLower.includes('governance')) return Building2;
+  return BarChart3; // default icon
+};
+
 const CertificationsPage: React.FC = () => {
   const [searchParams, setSearchParams] = useSearchParams();
-  const { addToCompare, isInCompare } = useCompare();
+  const { addToCompare, removeFromCompare, isInCompare, isCompareFull } = useCompare();
 
   const [certifications, setCertifications] = useState<Certification[]>([]);
   const [loading, setLoading] = useState(true);
@@ -218,63 +279,66 @@ const CertificationsPage: React.FC = () => {
                   <h4 className="font-medium mb-4 text-gray-900">Domain</h4>
                   <div className="space-y-3 max-h-64 overflow-y-auto">
                     {[
-                      { name: 'CS/IT', emoji: '💻' },
-                      { name: 'Finance', emoji: '💰' },
-                      { name: 'Food Service', emoji: '🍽️' },
-                      { name: 'Legal', emoji: '⚖️' },
-                      { name: 'DevOps/Cloud', emoji: '☁️' },
-                      { name: 'Design & Creative', emoji: '🎨' },
-                      { name: 'Supply Chain', emoji: '🚛' },
-                      { name: 'Language', emoji: '🌍' },
-                      { name: 'Aviation', emoji: '✈️' },
-                      { name: 'Engineering / Quality', emoji: '⚙️' },
-                      { name: 'Audio Engineering', emoji: '🎧' },
-                      { name: 'Healthcare', emoji: '🏥' },
-                      { name: 'Hospitality', emoji: '🏨' },
-                      { name: 'Maritime', emoji: '⚓' },
-                      { name: 'Sustainability', emoji: '🌱' },
-                      { name: 'Fitness & Wellness', emoji: '💪' },
-                      { name: 'Audio Production', emoji: '🎵' },
-                      { name: 'Engineering', emoji: '🔧' },
-                      { name: 'Data Protection', emoji: '🔒' },
-                      { name: 'Math (Actuarial)', emoji: '📊' },
-                      { name: 'IT Service Management', emoji: '🖥️' },
-                      { name: 'Project Management', emoji: '📋' },
-                      { name: 'Government/Defense', emoji: '🏛️' },
-                      { name: 'Engineering / Business', emoji: '⚙️' },
-                      { name: 'Energy', emoji: '⚡' },
-                      { name: 'Legal/Compliance', emoji: '📋' },
-                      { name: 'Cybersecurity', emoji: '🛡️' },
-                      { name: 'Education', emoji: '🎓' },
-                      { name: 'Privacy', emoji: '🔐' },
-                      { name: 'Compliance', emoji: '✅' },
-                      { name: 'IT Governance', emoji: '🏛️' },
-                      { name: 'Culinary', emoji: '👨‍🍳' },
-                      { name: 'Enterprise Architecture', emoji: '🏗️' }
-                    ].map((domain) => (
-                      <label key={domain.name} className="flex items-center gap-3 cursor-pointer">
-                        <input
-                          type="radio"
-                          name="domain"
-                          className="w-4 h-4 text-blue-600 focus:ring-blue-500 border-gray-300"
-                          checked={currentFilters.domain === domain.name.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, '')}
-                          onChange={(e) => {
-                            const params = new URLSearchParams(searchParams);
-                            if (e.target.checked) {
-                              params.set("domain", domain.name.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ''));
-                            } else {
-                              params.delete("domain");
-                            }
-                            setSearchParams(params);
-                            setPagination(prev => ({ ...prev, page: 1 }));
-                          }}
-                        />
-                        <span className="text-sm text-gray-700 flex items-center gap-2">
-                          <span>{domain.emoji}</span>
-                          {domain.name}
-                        </span>
-                      </label>
-                    ))}
+                      'CS/IT',
+                      'Finance',
+                      'Food Service',
+                      'Legal',
+                      'DevOps/Cloud',
+                      'Design & Creative',
+                      'Supply Chain',
+                      'Language',
+                      'Aviation',
+                      'Engineering / Quality',
+                      'Audio Engineering',
+                      'Healthcare',
+                      'Hospitality',
+                      'Maritime',
+                      'Sustainability',
+                      'Fitness & Wellness',
+                      'Audio Production',
+                      'Engineering',
+                      'Data Protection',
+                      'Math (Actuarial)',
+                      'IT Service Management',
+                      'Project Management',
+                      'Government/Defense',
+                      'Engineering / Business',
+                      'Energy',
+                      'Legal/Compliance',
+                      'Cybersecurity',
+                      'Education',
+                      'Privacy',
+                      'Compliance',
+                      'IT Governance',
+                      'Culinary',
+                      'Enterprise Architecture'
+                    ].map((domainName) => {
+                      const DomainIcon = getDomainIcon(domainName);
+                      return (
+                        <label key={domainName} className="flex items-center gap-3 cursor-pointer">
+                          <input
+                            type="radio"
+                            name="domain"
+                            className="w-4 h-4 text-blue-600 focus:ring-blue-500 border-gray-300"
+                            checked={currentFilters.domain === domainName.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, '')}
+                            onChange={(e) => {
+                              const params = new URLSearchParams(searchParams);
+                              if (e.target.checked) {
+                                params.set("domain", domainName.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ''));
+                              } else {
+                                params.delete("domain");
+                              }
+                              setSearchParams(params);
+                              setPagination(prev => ({ ...prev, page: 1 }));
+                            }}
+                          />
+                          <span className="text-sm text-gray-700 flex items-center gap-2">
+                            <DomainIcon className="w-4 h-4 text-gray-600" />
+                            {domainName}
+                          </span>
+                        </label>
+                      );
+                    })}
                   </div>
                 </div>
 
@@ -399,7 +463,9 @@ const CertificationsPage: React.FC = () => {
                     rank={(pagination.page - 1) * pagination.pageSize + index + 1}
                     showCompareButton={true}
                     onAddToCompare={addToCompare}
+                    onRemoveFromCompare={removeFromCompare}
                     isInCompare={isInCompare(c.id)}
+                    isCompareFull={isCompareFull()}
                   />
                 ))}
               </div>

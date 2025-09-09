@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { ArrowRight, Users, Award, BookOpen, BarChart3 } from 'lucide-react';
 import { Button } from '../components/ui/Button';
 import { Card, CardContent, CardHeader } from '../components/ui/Card';
@@ -9,6 +9,7 @@ import { dataService } from '../services/dataService';
 import type { Certification, Domain, Stats } from '../types';
 
 const HomePage: React.FC = () => {
+  const navigate = useNavigate();
   const [trendingCertifications, setTrendingCertifications] = useState<Certification[]>([]);
   const [domains, setDomains] = useState<Domain[]>([]);
   const [stats, setStats] = useState<Stats | null>(null);
@@ -37,13 +38,14 @@ const HomePage: React.FC = () => {
     fetchData();
   }, []);
 
-  const handleSearch = (query: string, filters: any) => {
-    // This would typically navigate to the certifications page with search params
-    console.log('Search:', query, filters);
+  const handleSearch = (query: string) => {
+    if (query.trim()) {
+      navigate(`/certifications?query=${encodeURIComponent(query.trim())}`);
+    }
   };
 
   const handleClear = () => {
-    console.log('Clear search');
+    // Clear functionality can be handled by the SearchBar component
   };
 
   const features = [
@@ -167,9 +169,9 @@ const HomePage: React.FC = () => {
             </div>
 
             {loading ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="flex gap-6 overflow-x-auto pb-4">
                 {Array.from({ length: 6 }).map((_, index) => (
-                  <Card key={index} className="animate-pulse">
+                  <Card key={index} className="animate-pulse flex-shrink-0 w-80">
                     <CardHeader>
                       <div className="h-4 bg-gray-200 rounded w-3/4 mb-2"></div>
                       <div className="h-3 bg-gray-200 rounded w-1/2"></div>
@@ -184,13 +186,14 @@ const HomePage: React.FC = () => {
                 ))}
               </div>
             ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="flex gap-6 overflow-x-auto pb-4 scrollbar-hide">
                 {trendingCertifications.slice(0, 6).map((certification) => (
-                  <CertificationCard
-                    key={certification.id}
-                    certification={certification}
-                    showRanking={true}
-                  />
+                  <div key={certification.id} className="flex-shrink-0 w-80">
+                    <CertificationCard
+                      certification={certification}
+                      showRanking={true}
+                    />
+                  </div>
                 ))}
               </div>
             )}
@@ -222,7 +225,10 @@ const HomePage: React.FC = () => {
                       className="w-12 h-12 mx-auto mb-3 rounded-lg flex items-center justify-center text-white text-2xl"
                       style={{ backgroundColor: domain.color }}
                     >
-                      {domain.icon}
+                      {(() => {
+                        const IconComponent = domain.icon;
+                        return <IconComponent className="w-6 h-6" />;
+                      })()}
                     </div>
                     <h3 className="font-semibold text-sm group-hover:text-blue-600 transition-colors">
                       {domain.name}
@@ -249,7 +255,11 @@ const HomePage: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link to="/certifications">
-              <Button size="lg" variant="secondary">
+              <Button 
+                size="lg" 
+                variant="secondary"
+                className="text-white hover:text-white hover:scale-105 transition-all duration-200"
+              >
                 Browse Certifications
               </Button>
             </Link>
