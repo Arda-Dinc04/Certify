@@ -4,27 +4,31 @@ import { Plus, X, ArrowRight, Star, Clock, Award } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/Card';
 import { Button } from '../components/ui/Button';
 import { Badge } from '../components/ui/Badge';
-import SearchBar from '../components/SearchBar';
 import CertificationCard from '../components/CertificationCard';
 import { dataService } from '../services/dataService';
-import type { Certification, CompareItem } from '../types';
+import type { Certification } from '../types';
+import { useCompare } from '../context/CompareContext';
 
 const ComparePage: React.FC = () => {
-  const [compareItems, setCompareItems] = useState<CompareItem[]>([]);
+  const { compareItems, addToCompare, removeFromCompare, clearCompare, isInCompare } = useCompare();
   const [searchResults, setSearchResults] = useState<Certification[]>([]);
   const [loading, setLoading] = useState(false);
-  const [showSearch, setShowSearch] = useState(false);
+  const [activeSearch, setActiveSearch] = useState<number | null>(null);
 
   const maxCompareItems = 4;
 
-  const handleSearch = async (query: string, filters: any) => {
-    if (!query.trim()) return;
+  const handleSearch = async (query: string, slotIndex: number) => {
+    if (!query.trim()) {
+      setSearchResults([]);
+      setActiveSearch(null);
+      return;
+    }
     
     try {
       setLoading(true);
-      const response = await dataService.searchCertifications(query, filters);
+      setActiveSearch(slotIndex);
+      const response = await dataService.searchCertifications(query, {});
       setSearchResults(response.data);
-      setShowSearch(true);
     } catch (error) {
       console.error('Error searching certifications:', error);
     } finally {
@@ -32,18 +36,14 @@ const ComparePage: React.FC = () => {
     }
   };
 
-  const handleClear = () => {
+  const handleSelectCertification = (certification: Certification) => {
+    addToCompare(certification);
     setSearchResults([]);
-    setShowSearch(false);
-  };
-
-
-  const removeFromCompare = (certificationId: string) => {
-    setCompareItems(prev => prev.filter(item => item.certification.id !== certificationId));
+    setActiveSearch(null);
   };
 
   const clearAll = () => {
-    setCompareItems([]);
+    clearCompare();
   };
 
   const formatCost = (cost: number, currency: string) => {
@@ -85,8 +85,8 @@ const ComparePage: React.FC = () => {
     if (compareItems.length === 0) return null;
     
     const values = compareItems.map(item => ({
-      id: item.certification.id,
-      value: getComparisonValue(item.certification, field)
+      id: item.id,
+      value: getComparisonValue(item, field)
     }));
 
     if (field === 'cost') {
@@ -113,38 +113,82 @@ const ComparePage: React.FC = () => {
             Compare Certifications
           </h1>
           <p className="text-lg text-gray-600 mb-6">
-            Compare up to {maxCompareItems} certifications side by side to make the best choice
+            Select up to {maxCompareItems} certifications to compare side by side
           </p>
-          
-          {/* Search Bar */}
-          <div className="max-w-2xl">
-            <SearchBar
-              onSearch={handleSearch}
-              onClear={handleClear}
-              loading={loading}
-            />
-          </div>
+        </div>
+
+        {/* Selection Slots */}
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6 mb-8">
+          {Array.from({ length: maxCompareItems }, (_, index) => {
+            const certification = compareItems[index];
+            return (
+              <Card key={index} className="p-6 min-h-[200px]">
+                {certification ? (
+                  <div>
+                    <div className="flex justify-between items-start mb-4">
+                      <h3 className="font-semibold text-gray-900 text-sm line-clamp-2">
+                        {certification.name}
+                      </h3>
+                      <Button
+                        variant="ghost"
+                        size="sm"
+                        onClick={() => removeFromCompare(certification.id)}
+                        className="ml-2 p-1 h-6 w-6"
+                      >
+                        <X className="w-4 h-4" />
+                      </Button>
+                    </div>
+                    <p className="text-xs text-gray-600 mb-2">{certification.issuer}</p>
+                    <Badge variant="outline" className="text-xs">{certification.domain}</Badge>
+                  </div>
+                ) : (
+                  <div className="flex flex-col h-full">
+                    <h3 className="font-medium text-gray-900 mb-4">
+                      Certification #{index + 1}
+                    </h3>
+                    <div className="relative flex-1">
+                      <input
+                        type="text"
+                        placeholder="Search for certification..."
+                        className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                        onChange={(e) => handleSearch(e.target.value, index)}
+                      />
+                      {activeSearch === index && loading && (
+                        <div className="absolute right-3 top-2">
+                          <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-blue-600"></div>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                )}
+              </Card>
+            );
+          })}
         </div>
 
         {/* Search Results */}
-        {showSearch && (
+        {activeSearch !== null && searchResults.length > 0 && (
           <Card className="mb-8">
             <CardHeader>
-              <CardTitle>Search Results</CardTitle>
+              <CardTitle>Search Results - Click to Select</CardTitle>
             </CardHeader>
             <CardContent>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {searchResults.map((certification) => (
-                  <div key={certification.id} className="relative">
+                  <div
+                    key={certification.id}
+                    className="relative cursor-pointer hover:shadow-lg transition-shadow"
+                    onClick={() => handleSelectCertification(certification)}
+                  >
                     <CertificationCard
                       certification={certification}
+                      showCompareButton={false}
                     />
-                    {compareItems.length >= maxCompareItems && 
-                     !compareItems.some(item => item.certification.id === certification.id) && (
-                      <div className="absolute inset-0 bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
-                        <p className="text-white text-sm font-medium">
-                          Maximum {maxCompareItems} items
-                        </p>
+                    {isInCompare(certification.id) && (
+                      <div className="absolute inset-0 bg-green-500 bg-opacity-20 rounded-2xl flex items-center justify-center z-10">
+                        <div className="text-green-800 text-sm font-medium bg-white px-4 py-2 rounded-lg shadow-md">
+                          Already Selected
+                        </div>
                       </div>
                     )}
                   </div>
@@ -178,13 +222,13 @@ const ComparePage: React.FC = () => {
                           Certification
                         </th>
                         {compareItems.map((item) => (
-                          <th key={item.certification.id} className="px-6 py-4 text-center text-sm font-medium text-gray-900 min-w-64">
+                          <th key={item.id} className="px-6 py-4 text-center text-sm font-medium text-gray-900 min-w-64">
                             <div className="flex items-center justify-between">
-                              <span className="truncate">{item.certification.name}</span>
+                              <span className="truncate">{item.name}</span>
                               <Button
                                 variant="ghost"
                                 size="sm"
-                                onClick={() => removeFromCompare(item.certification.id)}
+                                onClick={() => removeFromCompare(item.id)}
                                 className="ml-2 p-1 h-6 w-6"
                               >
                                 <X className="w-4 h-4" />
@@ -199,24 +243,24 @@ const ComparePage: React.FC = () => {
                       <tr>
                         <td className="px-6 py-4 text-sm font-medium text-gray-900">Issuer</td>
                         {compareItems.map((item) => (
-                          <td key={item.certification.id} className="px-6 py-4 text-sm text-gray-900 text-center">
-                            {item.certification.issuer}
+                          <td key={item.id} className="px-6 py-4 text-sm text-gray-900 text-center">
+                            {item.issuer}
                           </td>
                         ))}
                       </tr>
                       <tr>
                         <td className="px-6 py-4 text-sm font-medium text-gray-900">Domain</td>
                         {compareItems.map((item) => (
-                          <td key={item.certification.id} className="px-6 py-4 text-sm text-gray-900 text-center">
-                            <Badge variant="outline">{item.certification.domain}</Badge>
+                          <td key={item.id} className="px-6 py-4 text-sm text-gray-900 text-center">
+                            <Badge variant="outline">{item.domain}</Badge>
                           </td>
                         ))}
                       </tr>
                       <tr>
                         <td className="px-6 py-4 text-sm font-medium text-gray-900">Level</td>
                         {compareItems.map((item) => (
-                          <td key={item.certification.id} className="px-6 py-4 text-sm text-gray-900 text-center">
-                            <Badge variant="secondary">{item.certification.level}</Badge>
+                          <td key={item.id} className="px-6 py-4 text-sm text-gray-900 text-center">
+                            <Badge variant="secondary">{item.level}</Badge>
                           </td>
                         ))}
                       </tr>
@@ -225,18 +269,18 @@ const ComparePage: React.FC = () => {
                       <tr>
                         <td className="px-6 py-4 text-sm font-medium text-gray-900">Rating</td>
                         {compareItems.map((item) => {
-                          const isBest = getBestValue('rating') === item.certification.id;
+                          const isBest = getBestValue('rating') === item.id;
                           return (
-                            <td key={item.certification.id} className={`px-6 py-4 text-sm text-gray-900 text-center ${isBest ? 'bg-green-50' : ''}`}>
+                            <td key={item.id} className={`px-6 py-4 text-sm text-gray-900 text-center ${isBest ? 'bg-green-50' : ''}`}>
                               <div className="flex items-center justify-center space-x-2">
                                 <div className="flex items-center space-x-1">
-                                  {renderStars(item.certification.rating)}
+                                  {renderStars(item.rating)}
                                 </div>
-                                <span className="font-medium">{item.certification.rating.toFixed(1)}</span>
+                                <span className="font-medium">{item.rating.toFixed(1)}</span>
                                 {isBest && <Award className="w-4 h-4 text-green-600" />}
                               </div>
                               <div className="text-xs text-gray-500 mt-1">
-                                ({item.certification.reviewCount.toLocaleString()} reviews)
+                                ({item.reviewCount.toLocaleString()} reviews)
                               </div>
                             </td>
                           );
@@ -247,12 +291,12 @@ const ComparePage: React.FC = () => {
                       <tr>
                         <td className="px-6 py-4 text-sm font-medium text-gray-900">Cost</td>
                         {compareItems.map((item) => {
-                          const isBest = getBestValue('cost') === item.certification.id;
+                          const isBest = getBestValue('cost') === item.id;
                           return (
-                            <td key={item.certification.id} className={`px-6 py-4 text-sm text-gray-900 text-center ${isBest ? 'bg-green-50' : ''}`}>
+                            <td key={item.id} className={`px-6 py-4 text-sm text-gray-900 text-center ${isBest ? 'bg-green-50' : ''}`}>
                               <div className="flex items-center justify-center space-x-2">
                                 <span className="font-medium">
-                                  {formatCost(item.certification.cost, item.certification.currency)}
+                                  {formatCost(item.cost, item.currency)}
                                 </span>
                                 {isBest && <Award className="w-4 h-4 text-green-600" />}
                               </div>
@@ -265,10 +309,10 @@ const ComparePage: React.FC = () => {
                       <tr>
                         <td className="px-6 py-4 text-sm font-medium text-gray-900">Duration</td>
                         {compareItems.map((item) => (
-                          <td key={item.certification.id} className="px-6 py-4 text-sm text-gray-900 text-center">
+                          <td key={item.id} className="px-6 py-4 text-sm text-gray-900 text-center">
                             <div className="flex items-center justify-center space-x-1">
                               <Clock className="w-4 h-4 text-gray-400" />
-                              <span>{item.certification.duration}</span>
+                              <span>{item.duration}</span>
                             </div>
                           </td>
                         ))}
@@ -278,11 +322,11 @@ const ComparePage: React.FC = () => {
                       <tr>
                         <td className="px-6 py-4 text-sm font-medium text-gray-900">Difficulty</td>
                         {compareItems.map((item) => {
-                          const isBest = getBestValue('difficulty') === item.certification.id;
+                          const isBest = getBestValue('difficulty') === item.id;
                           return (
-                            <td key={item.certification.id} className={`px-6 py-4 text-sm text-gray-900 text-center ${isBest ? 'bg-green-50' : ''}`}>
+                            <td key={item.id} className={`px-6 py-4 text-sm text-gray-900 text-center ${isBest ? 'bg-green-50' : ''}`}>
                               <div className="flex items-center justify-center space-x-2">
-                                <span className="font-medium">{item.certification.difficulty}/5</span>
+                                <span className="font-medium">{item.difficulty}/5</span>
                                 {isBest && <Award className="w-4 h-4 text-green-600" />}
                               </div>
                             </td>
@@ -294,9 +338,9 @@ const ComparePage: React.FC = () => {
                       <tr>
                         <td className="px-6 py-4 text-sm font-medium text-gray-900">Tags</td>
                         {compareItems.map((item) => (
-                          <td key={item.certification.id} className="px-6 py-4 text-sm text-gray-900 text-center">
+                          <td key={item.id} className="px-6 py-4 text-sm text-gray-900 text-center">
                             <div className="flex flex-wrap justify-center gap-1">
-                              {item.certification.tags.slice(0, 3).map((tag) => (
+                              {item.tags.slice(0, 3).map((tag) => (
                                 <Badge key={tag} variant="secondary" size="sm">
                                   {tag}
                                 </Badge>
@@ -310,8 +354,8 @@ const ComparePage: React.FC = () => {
                       <tr>
                         <td className="px-6 py-4 text-sm font-medium text-gray-900">Actions</td>
                         {compareItems.map((item) => (
-                          <td key={item.certification.id} className="px-6 py-4 text-sm text-gray-900 text-center">
-                            <Link to={`/certifications/${item.certification.slug}`}>
+                          <td key={item.id} className="px-6 py-4 text-sm text-gray-900 text-center">
+                            <Link to={`/certifications/${item.slug}`}>
                               <Button size="sm">
                                 View Details
                                 <ArrowRight className="w-4 h-4 ml-1" />
@@ -339,7 +383,7 @@ const ComparePage: React.FC = () => {
               <p className="text-gray-600 mb-6">
                 Search for certifications above to start comparing
               </p>
-              <Button onClick={() => setShowSearch(true)}>
+              <Button onClick={() => setActiveSearch(0)}>
                 Start Comparing
               </Button>
             </CardContent>

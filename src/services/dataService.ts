@@ -12,7 +12,9 @@ import type {
 } from '../types';
 import certificationsData from '../data/certifications.json';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = process.env.NODE_ENV === 'production' 
+  ? process.env.REACT_APP_API_BASE_URL || ''
+  : import.meta.env.VITE_API_BASE_URL || '';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
@@ -22,10 +24,12 @@ const api = axios.create({
   },
 });
 
-// Request interceptor for logging
+// Request interceptor for logging (only in development)
 api.interceptors.request.use(
   (config) => {
-    console.log(`Making ${config.method?.toUpperCase()} request to ${config.url}`);
+    if (process.env.NODE_ENV === 'development') {
+      console.log(`Making ${config.method?.toUpperCase()} request to ${config.url}`);
+    }
     return config;
   },
   (error) => {
@@ -37,7 +41,9 @@ api.interceptors.request.use(
 api.interceptors.response.use(
   (response) => response,
   (error) => {
-    console.error('API Error:', error.response?.data || error.message);
+    if (process.env.NODE_ENV === 'development') {
+      console.error('API Error:', error.response?.data || error.message);
+    }
     return Promise.reject(error);
   }
 );
@@ -186,13 +192,86 @@ export const dataService = {
   // Domains
   async getDomains(): Promise<Domain[]> {
     const domains = [...new Set(certificationsData.map(item => item.domain))];
+    
+    // Helper function to get domain emoji
+    const getDomainEmoji = (domainName: string) => {
+      const domainLower = domainName.toLowerCase();
+      if (domainLower.includes('cs') || domainLower.includes('it')) return '💻';
+      if (domainLower.includes('finance')) return '💰';
+      if (domainLower.includes('food')) return '🍽️';
+      if (domainLower.includes('legal') && !domainLower.includes('compliance')) return '⚖️';
+      if (domainLower.includes('devops') || domainLower.includes('cloud')) return '☁️';
+      if (domainLower.includes('design') || domainLower.includes('creative')) return '🎨';
+      if (domainLower.includes('supply')) return '🚛';
+      if (domainLower.includes('language')) return '🌍';
+      if (domainLower.includes('aviation')) return '✈️';
+      if (domainLower.includes('audio') && domainLower.includes('engineering')) return '🎧';
+      if (domainLower.includes('healthcare')) return '🏥';
+      if (domainLower.includes('hospitality')) return '🏨';
+      if (domainLower.includes('maritime')) return '⚓';
+      if (domainLower.includes('sustainability')) return '🌱';
+      if (domainLower.includes('fitness') || domainLower.includes('wellness')) return '💪';
+      if (domainLower.includes('audio') && domainLower.includes('production')) return '🎵';
+      if (domainLower.includes('engineering') && !domainLower.includes('audio')) return '⚙️';
+      if (domainLower.includes('data') && domainLower.includes('protection')) return '🔒';
+      if (domainLower.includes('math') || domainLower.includes('actuarial')) return '📊';
+      if (domainLower.includes('service') && domainLower.includes('management')) return '🖥️';
+      if (domainLower.includes('project') && domainLower.includes('management')) return '📋';
+      if (domainLower.includes('government') || domainLower.includes('defense')) return '🏛️';
+      if (domainLower.includes('energy')) return '⚡';
+      if (domainLower.includes('compliance')) return '✅';
+      if (domainLower.includes('cybersecurity')) return '🛡️';
+      if (domainLower.includes('education')) return '🎓';
+      if (domainLower.includes('privacy')) return '🔐';
+      if (domainLower.includes('culinary')) return '👨‍🍳';
+      if (domainLower.includes('architecture')) return '🏗️';
+      if (domainLower.includes('governance')) return '🏛️';
+      return '📊'; // default emoji
+    };
+
+    // Helper function to get domain color
+    const getDomainColor = (domainName: string) => {
+      const domainLower = domainName.toLowerCase();
+      if (domainLower.includes('cs') || domainLower.includes('it')) return '#3B82F6'; // Blue
+      if (domainLower.includes('finance')) return '#10B981'; // Emerald
+      if (domainLower.includes('food')) return '#F59E0B'; // Amber
+      if (domainLower.includes('legal') && !domainLower.includes('compliance')) return '#7C3AED'; // Violet
+      if (domainLower.includes('devops') || domainLower.includes('cloud')) return '#06B6D4'; // Cyan
+      if (domainLower.includes('design') || domainLower.includes('creative')) return '#EC4899'; // Pink
+      if (domainLower.includes('supply')) return '#8B5CF6'; // Purple
+      if (domainLower.includes('language')) return '#14B8A6'; // Teal
+      if (domainLower.includes('aviation')) return '#0EA5E9'; // Sky
+      if (domainLower.includes('audio') && domainLower.includes('engineering')) return '#F97316'; // Orange
+      if (domainLower.includes('healthcare')) return '#DC2626'; // Red
+      if (domainLower.includes('hospitality')) return '#C026D3'; // Fuchsia
+      if (domainLower.includes('maritime')) return '#1D4ED8'; // Blue-700
+      if (domainLower.includes('sustainability')) return '#16A34A'; // Green
+      if (domainLower.includes('fitness') || domainLower.includes('wellness')) return '#EA580C'; // Orange-600
+      if (domainLower.includes('audio') && domainLower.includes('production')) return '#BE185D'; // Rose-700
+      if (domainLower.includes('engineering') && !domainLower.includes('audio')) return '#374151'; // Gray-700
+      if (domainLower.includes('data') && domainLower.includes('protection')) return '#991B1B'; // Red-800
+      if (domainLower.includes('math') || domainLower.includes('actuarial')) return '#1E40AF'; // Blue-800
+      if (domainLower.includes('service') && domainLower.includes('management')) return '#059669'; // Emerald-600
+      if (domainLower.includes('project') && domainLower.includes('management')) return '#7C2D12'; // Orange-900
+      if (domainLower.includes('government') || domainLower.includes('defense')) return '#1F2937'; // Gray-800
+      if (domainLower.includes('energy')) return '#FBBF24'; // Yellow-400
+      if (domainLower.includes('compliance')) return '#16A34A'; // Green-600
+      if (domainLower.includes('cybersecurity')) return '#DC2626'; // Red-600
+      if (domainLower.includes('education')) return '#2563EB'; // Blue-600
+      if (domainLower.includes('privacy')) return '#7C3AED'; // Violet-600
+      if (domainLower.includes('culinary')) return '#F59E0B'; // Amber-500
+      if (domainLower.includes('architecture')) return '#6B7280'; // Gray-500
+      if (domainLower.includes('governance')) return '#374151'; // Gray-700
+      return '#8B5CF6'; // Default purple
+    };
+
     return domains.map((domain, index) => ({
       id: (index + 1).toString(),
       name: domain,
       slug: domain.toLowerCase().replace(/\s+/g, '-'),
       description: `${domain} certifications`,
-      icon: domain === 'CS/IT' ? '💻' : domain === 'Finance' ? '💰' : '📊',
-      color: domain === 'CS/IT' ? '#3B82F6' : domain === 'Finance' ? '#10B981' : '#8B5CF6',
+      icon: getDomainEmoji(domain),
+      color: getDomainColor(domain),
       certificationCount: certificationsData.filter(item => item.domain === domain).length,
       averageRating: 4.3,
       trending: true
