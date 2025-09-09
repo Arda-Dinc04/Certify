@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Clock, ArrowRight } from 'lucide-react';
+import { Clock, ArrowRight, Cloud, Building2, Search, Shield, Award, Briefcase, Database, Code, BarChart3 } from 'lucide-react';
 import { Card, CardHeader, CardFooter } from './ui/Card';
 import { Badge } from './ui/Badge';
 import { Button } from './ui/Button';
@@ -40,30 +40,32 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
     }).format(cost);
   };
 
-  const getIssuerLogo = (issuer: string) => {
-    const logos: { [key: string]: string } = {
-      'Amazon Web Services (AWS)': '/src/assets/aws.jpeg',
-      'Microsoft': '/src/assets/microsoft.jpg',
-      'Google': '/src/assets/Google-Logo-PNG.png',
-      'Cisco': '/src/assets/docker.png', // Using docker as placeholder for Cisco
-      'CompTIA': '/src/assets/oracle.png', // Using oracle as placeholder for CompTIA
-      'PMI': '/src/assets/NCEES.png', // Using NCEES as placeholder for PMI
-      'FINRA': '/src/assets/finra.png',
-      'Adobe': '/src/assets/adobe.png'
+  const getIssuerIcon = (issuer: string) => {
+    const icons: { [key: string]: React.ComponentType<any> } = {
+      'Amazon Web Services (AWS)': Cloud,
+      'Microsoft': Building2,
+      'Google': Search,
+      'Cisco': Shield,
+      'CompTIA': Award,
+      'PMI': Briefcase,
+      'FINRA': BarChart3,
+      'Adobe': Code
     };
-    return logos[issuer] || '/src/assets/react.svg';
+    return icons[issuer] || Database;
   };
 
 
   return (
     <Card className={cn('bg-white shadow-sm border border-gray-200 hover:shadow-md transition-shadow duration-200 overflow-hidden p-0', className)}>
-      {/* Banner with Logo */}
+      {/* Banner with Icon */}
       <div className="relative h-20 bg-gray-50 flex items-center justify-center border-b border-gray-200 w-full">
-        <img
-          src={getIssuerLogo(issuer)}
-          alt={issuer}
-          className="h-12 w-auto object-contain"
-        />
+        <div className="flex items-center space-x-3">
+          {(() => {
+            const IconComponent = getIssuerIcon(issuer);
+            return <IconComponent className="h-8 w-8 text-gray-700" />;
+          })()}
+          <span className="text-sm font-medium text-gray-700">{issuer}</span>
+        </div>
         {showRanking && ranking && (
           <div className="absolute top-2 right-2">
             <div className="bg-green-500 text-white text-xs font-bold px-2 py-1 rounded-full flex items-center space-x-1">
@@ -86,7 +88,7 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
         {/* Tags */}
         <div className="flex flex-wrap gap-2 mb-3">
           <Badge variant="outline" className="text-xs px-2 py-1 bg-blue-100 text-blue-800 border-blue-200 flex items-center space-x-1">
-            <span>💻</span>
+            <Code className="w-3 h-3" />
             <span>{domain}</span>
           </Badge>
           <Badge variant="outline" className="text-xs px-2 py-1 bg-gray-100 text-gray-700 border-gray-200">
