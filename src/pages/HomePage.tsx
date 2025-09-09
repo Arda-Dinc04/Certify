@@ -73,6 +73,14 @@ const HomePage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      {/* Welcome Banner */}
+      <div className="bg-gradient-to-r from-green-500 to-blue-600 text-white py-3">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="text-2xl font-bold">Welcome to Certify! 🎉</h2>
+          <p className="text-sm opacity-90">Your gateway to professional certification success</p>
+        </div>
+      </div>
+
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-blue-50 to-indigo-100 py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
