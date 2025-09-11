@@ -1,0 +1,1058 @@
+[
+  {
+    "id": 1303,
+    "slug": "construction-safety-certificate",
+    "name": "Construction Safety Certificate",
+    "issuer": "HVAC Excellence",
+    "domain": "skilled-trades",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 305,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 581,
+    "job_postings": 2613,
+    "salary": {
+      "min": 35428,
+      "max": 79713,
+      "avg": 57571
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Blueprint Reading",
+      "Equipment Operation",
+      "Quality Control",
+      "Maintenance",
+      "Hand Tools",
+      "Power Tools"
+    ],
+    "description": "Professional certification in construction safety certificate offered by HVAC Excellence. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 10,
+    "created_at": "2025-09-11T18:32:31.509277",
+    "updated_at": "2025-09-11T18:32:31.509278"
+  },
+  {
+    "id": 1316,
+    "slug": "carpentry-strategy-certification",
+    "name": "Carpentry Strategy Certification",
+    "issuer": "NATE",
+    "domain": "skilled-trades",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 275,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 736,
+    "job_postings": 6,
+    "salary": {
+      "min": 44100,
+      "max": 99226,
+      "avg": 71663
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Blueprint Reading",
+      "Quality Control",
+      "Safety Procedures",
+      "Troubleshooting"
+    ],
+    "description": "Professional certification in carpentry strategy certification offered by NATE. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 73,
+    "created_at": "2025-09-11T18:32:31.509827",
+    "updated_at": "2025-09-11T18:32:31.509828"
+  },
+  {
+    "id": 1307,
+    "slug": "master-masonry-certification",
+    "name": "Master Masonry Certification",
+    "issuer": "AWS Welding Society",
+    "domain": "skilled-trades",
+    "level": "Specialty",
+    "duration": "24 hours",
+    "cost": 304,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 731,
+    "job_postings": 31,
+    "salary": {
+      "min": 35644,
+      "max": 80199,
+      "avg": 57921
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Troubleshooting",
+      "Maintenance",
+      "Power Tools",
+      "Blueprint Reading",
+      "Installation",
+      "Quality Control",
+      "Safety Procedures",
+      "Equipment Operation",
+      "Hand Tools"
+    ],
+    "description": "Professional certification in master masonry certification offered by AWS Welding Society. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 85,
+    "created_at": "2025-09-11T18:32:31.509447",
+    "updated_at": "2025-09-11T18:32:31.509448"
+  },
+  {
+    "id": 1299,
+    "slug": "carpentry-engineering-certification",
+    "name": "Carpentry Engineering Certification",
+    "issuer": "NATE",
+    "domain": "skilled-trades",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 269,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 780,
+    "job_postings": 32,
+    "salary": {
+      "min": 41945,
+      "max": 94376,
+      "avg": 68160
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Quality Control",
+      "Power Tools",
+      "Blueprint Reading",
+      "Equipment Operation",
+      "Troubleshooting",
+      "Hand Tools",
+      "Safety Procedures",
+      "Installation"
+    ],
+    "description": "Professional certification in carpentry engineering certification offered by NATE. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 170,
+    "created_at": "2025-09-11T18:32:31.509106",
+    "updated_at": "2025-09-11T18:32:31.509108"
+  },
+  {
+    "id": 1311,
+    "slug": "master-electrical-certification",
+    "name": "Master Electrical Certification",
+    "issuer": "HVAC Excellence",
+    "domain": "skilled-trades",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 236,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 710,
+    "job_postings": 19,
+    "salary": {
+      "min": 44064,
+      "max": 99145,
+      "avg": 71604
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Quality Control",
+      "Equipment Operation",
+      "Maintenance",
+      "Power Tools",
+      "Hand Tools",
+      "Safety Procedures",
+      "Installation"
+    ],
+    "description": "Professional certification in master electrical certification offered by HVAC Excellence. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 197,
+    "created_at": "2025-09-11T18:32:31.509620",
+    "updated_at": "2025-09-11T18:32:31.509621"
+  },
+  {
+    "id": 1314,
+    "slug": "masonry-repair-expert",
+    "name": "Masonry Repair Expert",
+    "issuer": "NATE",
+    "domain": "skilled-trades",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 244,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 738,
+    "job_postings": 47,
+    "salary": {
+      "min": 43547,
+      "max": 97981,
+      "avg": 70764
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Hand Tools",
+      "Troubleshooting",
+      "Blueprint Reading",
+      "Power Tools",
+      "Safety Procedures",
+      "Quality Control",
+      "Installation",
+      "Equipment Operation",
+      "Maintenance"
+    ],
+    "description": "Professional certification in masonry repair expert offered by NATE. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 327,
+    "created_at": "2025-09-11T18:32:31.509746",
+    "updated_at": "2025-09-11T18:32:31.509747"
+  },
+  {
+    "id": 1309,
+    "slug": "certified-hvac-master",
+    "name": "Certified HVAC Master",
+    "issuer": "HVAC Excellence",
+    "domain": "skilled-trades",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 216,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 513,
+    "job_postings": 14,
+    "salary": {
+      "min": 37193,
+      "max": 83684,
+      "avg": 60439
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Hand Tools",
+      "Troubleshooting",
+      "Installation",
+      "Quality Control",
+      "Blueprint Reading",
+      "Power Tools"
+    ],
+    "description": "Professional certification in certified hvac master offered by HVAC Excellence. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 468,
+    "created_at": "2025-09-11T18:32:31.509534",
+    "updated_at": "2025-09-11T18:32:31.509536"
+  },
+  {
+    "id": 1297,
+    "slug": "painting-maintenance-senior",
+    "name": "Painting Maintenance Senior",
+    "issuer": "NCCER",
+    "domain": "skilled-trades",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 182,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 397,
+    "job_postings": 22,
+    "salary": {
+      "min": 39156,
+      "max": 88101,
+      "avg": 63628
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Quality Control",
+      "Maintenance",
+      "Installation",
+      "Blueprint Reading",
+      "Troubleshooting",
+      "Safety Procedures",
+      "Power Tools",
+      "Equipment Operation",
+      "Hand Tools"
+    ],
+    "description": "Professional certification in painting maintenance senior offered by NCCER. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 592,
+    "created_at": "2025-09-11T18:32:31.509020",
+    "updated_at": "2025-09-11T18:32:31.509021"
+  },
+  {
+    "id": 1302,
+    "slug": "electrical-engineering-certification",
+    "name": "Electrical Engineering Certification",
+    "issuer": "AWS Welding Society",
+    "domain": "skilled-trades",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 341,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 404,
+    "job_postings": 37,
+    "salary": {
+      "min": 39914,
+      "max": 89807,
+      "avg": 64861
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Safety Procedures",
+      "Equipment Operation",
+      "Troubleshooting",
+      "Hand Tools",
+      "Installation",
+      "Power Tools",
+      "Quality Control",
+      "Maintenance",
+      "Blueprint Reading"
+    ],
+    "description": "Professional certification in electrical engineering certification offered by AWS Welding Society. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 668,
+    "created_at": "2025-09-11T18:32:31.509234",
+    "updated_at": "2025-09-11T18:32:31.509235"
+  },
+  {
+    "id": 1317,
+    "slug": "safety-safety-certificate",
+    "name": "Safety Safety Certificate",
+    "issuer": "HVAC Excellence",
+    "domain": "skilled-trades",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 279,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 362,
+    "job_postings": 52,
+    "salary": {
+      "min": 39051,
+      "max": 87865,
+      "avg": 63458
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Hand Tools",
+      "Blueprint Reading",
+      "Equipment Operation",
+      "Troubleshooting"
+    ],
+    "description": "Professional certification in safety safety certificate offered by HVAC Excellence. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 670,
+    "created_at": "2025-09-11T18:32:31.509868",
+    "updated_at": "2025-09-11T18:32:31.509869"
+  },
+  {
+    "id": 1298,
+    "slug": "certified-plumbing-foundational",
+    "name": "Certified Plumbing Foundational",
+    "issuer": "NATE",
+    "domain": "skilled-trades",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 243,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 375,
+    "job_postings": 6,
+    "salary": {
+      "min": 36162,
+      "max": 81366,
+      "avg": 58764
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Maintenance",
+      "Installation",
+      "Blueprint Reading",
+      "Safety Procedures",
+      "Hand Tools",
+      "Quality Control"
+    ],
+    "description": "Professional certification in certified plumbing foundational offered by NATE. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 672,
+    "created_at": "2025-09-11T18:32:31.509064",
+    "updated_at": "2025-09-11T18:32:31.509065"
+  },
+  {
+    "id": 1315,
+    "slug": "master-hvac-certification-1",
+    "name": "Master HVAC Certification",
+    "issuer": "HVAC Excellence",
+    "domain": "skilled-trades",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 306,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 491,
+    "job_postings": 46,
+    "salary": {
+      "min": 37071,
+      "max": 83410,
+      "avg": 60241
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Equipment Operation",
+      "Power Tools",
+      "Troubleshooting",
+      "Installation",
+      "Quality Control",
+      "Maintenance",
+      "Hand Tools",
+      "Blueprint Reading",
+      "Safety Procedures"
+    ],
+    "description": "Professional certification in master hvac certification offered by HVAC Excellence. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ],
+    "ranking": 755,
+    "created_at": "2025-09-11T18:32:31.509788",
+    "updated_at": "2025-09-11T18:32:31.509789"
+  },
+  {
+    "id": 1319,
+    "slug": "master-electrical-certification-1",
+    "name": "Master Electrical Certification",
+    "issuer": "HVAC Excellence",
+    "domain": "skilled-trades",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 318,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 424,
+    "job_postings": 32,
+    "salary": {
+      "min": 36259,
+      "max": 81584,
+      "avg": 58922
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Blueprint Reading",
+      "Safety Procedures",
+      "Power Tools",
+      "Equipment Operation"
+    ],
+    "description": "Professional certification in master electrical certification offered by HVAC Excellence. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 792,
+    "created_at": "2025-09-11T18:32:31.509954",
+    "updated_at": "2025-09-11T18:32:31.509955"
+  },
+  {
+    "id": 1308,
+    "slug": "painting-repair-advanced",
+    "name": "Painting Repair Advanced",
+    "issuer": "HVAC Excellence",
+    "domain": "skilled-trades",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 335,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 363,
+    "job_postings": 40,
+    "salary": {
+      "min": 41047,
+      "max": 92356,
+      "avg": 66702
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Equipment Operation",
+      "Troubleshooting",
+      "Installation",
+      "Power Tools",
+      "Hand Tools",
+      "Blueprint Reading",
+      "Quality Control",
+      "Safety Procedures"
+    ],
+    "description": "Professional certification in painting repair advanced offered by HVAC Excellence. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 824,
+    "created_at": "2025-09-11T18:32:31.509491",
+    "updated_at": "2025-09-11T18:32:31.509492"
+  },
+  {
+    "id": 1310,
+    "slug": "master-plumbing-certification",
+    "name": "Master Plumbing Certification",
+    "issuer": "AWS Welding Society",
+    "domain": "skilled-trades",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 275,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 310,
+    "job_postings": 38,
+    "salary": {
+      "min": 37255,
+      "max": 83823,
+      "avg": 60539
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Blueprint Reading",
+      "Troubleshooting",
+      "Hand Tools",
+      "Quality Control",
+      "Installation",
+      "Maintenance",
+      "Equipment Operation",
+      "Power Tools",
+      "Safety Procedures"
+    ],
+    "description": "Professional certification in master plumbing certification offered by AWS Welding Society. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 854,
+    "created_at": "2025-09-11T18:32:31.509578",
+    "updated_at": "2025-09-11T18:32:31.509579"
+  },
+  {
+    "id": 1304,
+    "slug": "certified-carpentry-associate",
+    "name": "Certified Carpentry Associate",
+    "issuer": "OSHA",
+    "domain": "skilled-trades",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 77,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 127,
+    "job_postings": 143,
+    "salary": {
+      "min": 45360,
+      "max": 102060,
+      "avg": 73710
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Installation",
+      "Maintenance",
+      "Quality Control",
+      "Troubleshooting"
+    ],
+    "description": "Professional certification in certified carpentry associate offered by OSHA. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 886,
+    "created_at": "2025-09-11T18:32:31.509320",
+    "updated_at": "2025-09-11T18:32:31.509321"
+  },
+  {
+    "id": 1301,
+    "slug": "certified-masonry-master",
+    "name": "Certified Masonry Master",
+    "issuer": "NCCER",
+    "domain": "skilled-trades",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 141,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 187,
+    "job_postings": 516,
+    "salary": {
+      "min": 42722,
+      "max": 96125,
+      "avg": 69424
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Power Tools",
+      "Maintenance",
+      "Equipment Operation",
+      "Blueprint Reading",
+      "Safety Procedures",
+      "Installation",
+      "Hand Tools",
+      "Quality Control"
+    ],
+    "description": "Professional certification in certified masonry master offered by NCCER. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 930,
+    "created_at": "2025-09-11T18:32:31.509189",
+    "updated_at": "2025-09-11T18:32:31.509192"
+  },
+  {
+    "id": 1312,
+    "slug": "workplace-safety-certificate",
+    "name": "Workplace Safety Certificate",
+    "issuer": "NCCER",
+    "domain": "skilled-trades",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 153,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 293,
+    "job_postings": 399,
+    "salary": {
+      "min": 45063,
+      "max": 101392,
+      "avg": 73227
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Troubleshooting",
+      "Blueprint Reading",
+      "Installation",
+      "Hand Tools",
+      "Power Tools",
+      "Quality Control",
+      "Safety Procedures",
+      "Equipment Operation",
+      "Maintenance"
+    ],
+    "description": "Professional certification in workplace safety certificate offered by NCCER. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 990,
+    "created_at": "2025-09-11T18:32:31.509662",
+    "updated_at": "2025-09-11T18:32:31.509664"
+  },
+  {
+    "id": 1313,
+    "slug": "master-hvac-certification",
+    "name": "Master HVAC Certification",
+    "issuer": "NECA",
+    "domain": "skilled-trades",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 274,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 176,
+    "job_postings": 28,
+    "salary": {
+      "min": 39498,
+      "max": 88870,
+      "avg": 64184
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Quality Control",
+      "Maintenance",
+      "Power Tools",
+      "Troubleshooting",
+      "Installation",
+      "Blueprint Reading"
+    ],
+    "description": "Professional certification in master hvac certification offered by NECA. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1077,
+    "created_at": "2025-09-11T18:32:31.509705",
+    "updated_at": "2025-09-11T18:32:31.509707"
+  },
+  {
+    "id": 1306,
+    "slug": "carpentry-administration-certification",
+    "name": "Carpentry Administration Certification",
+    "issuer": "OSHA",
+    "domain": "skilled-trades",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 134,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 17,
+    "job_postings": 199,
+    "salary": {
+      "min": 45784,
+      "max": 103015,
+      "avg": 74400
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Hand Tools",
+      "Blueprint Reading",
+      "Safety Procedures",
+      "Installation",
+      "Troubleshooting",
+      "Power Tools",
+      "Maintenance",
+      "Equipment Operation",
+      "Quality Control"
+    ],
+    "description": "Professional certification in carpentry administration certification offered by OSHA. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 1133,
+    "created_at": "2025-09-11T18:32:31.509405",
+    "updated_at": "2025-09-11T18:32:31.509406"
+  },
+  {
+    "id": 1318,
+    "slug": "hvac-equipment-associate",
+    "name": "HVAC Equipment Associate",
+    "issuer": "NCCER",
+    "domain": "skilled-trades",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 196,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 248,
+    "job_postings": 39,
+    "salary": {
+      "min": 44622,
+      "max": 100400,
+      "avg": 72511
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Blueprint Reading",
+      "Maintenance",
+      "Installation",
+      "Equipment Operation",
+      "Troubleshooting",
+      "Safety Procedures",
+      "Quality Control",
+      "Power Tools",
+      "Hand Tools"
+    ],
+    "description": "Professional certification in hvac equipment associate offered by NCCER. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 1168,
+    "created_at": "2025-09-11T18:32:31.509910",
+    "updated_at": "2025-09-11T18:32:31.509911"
+  },
+  {
+    "id": 1305,
+    "slug": "electrical-systems-professional",
+    "name": "Electrical Systems Professional",
+    "issuer": "AWS Welding Society",
+    "domain": "skilled-trades",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 373,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 168,
+    "job_postings": 42,
+    "salary": {
+      "min": 42425,
+      "max": 95458,
+      "avg": 68942
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Installation",
+      "Blueprint Reading",
+      "Hand Tools",
+      "Power Tools",
+      "Troubleshooting",
+      "Maintenance",
+      "Quality Control"
+    ],
+    "description": "Professional certification in electrical systems professional offered by AWS Welding Society. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 1230,
+    "created_at": "2025-09-11T18:32:31.509363",
+    "updated_at": "2025-09-11T18:32:31.509365"
+  },
+  {
+    "id": 1300,
+    "slug": "occupational-safety-certificate",
+    "name": "Occupational Safety Certificate",
+    "issuer": "OSHA",
+    "domain": "skilled-trades",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 98,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 18,
+    "job_postings": 31,
+    "salary": {
+      "min": 43826,
+      "max": 98608,
+      "avg": 71217
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Equipment Operation",
+      "Installation",
+      "Quality Control",
+      "Maintenance",
+      "Power Tools",
+      "Troubleshooting",
+      "Blueprint Reading",
+      "Hand Tools"
+    ],
+    "description": "Professional certification in occupational safety certificate offered by OSHA. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1279,
+    "created_at": "2025-09-11T18:32:31.509146",
+    "updated_at": "2025-09-11T18:32:31.509147"
+  },
+  {
+    "id": 1320,
+    "slug": "workplace-safety-certificate-1",
+    "name": "Workplace Safety Certificate",
+    "issuer": "NCCER",
+    "domain": "skilled-trades",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 117,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 70,
+    "job_postings": 138,
+    "salary": {
+      "min": 41892,
+      "max": 94257,
+      "avg": 68074
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Power Tools",
+      "Blueprint Reading",
+      "Troubleshooting",
+      "Quality Control",
+      "Installation",
+      "Safety Procedures",
+      "Maintenance",
+      "Hand Tools",
+      "Equipment Operation"
+    ],
+    "description": "Professional certification in workplace safety certificate offered by NCCER. Validates expertise in Skilled Trades and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1329,
+    "created_at": "2025-09-11T18:32:31.509994",
+    "updated_at": "2025-09-11T18:32:31.509996"
+  }
+]

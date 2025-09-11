@@ -1,0 +1,2077 @@
+[
+  {
+    "id": 640,
+    "slug": "certified-oracle-administrator",
+    "name": "Certified Oracle Administrator",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 551,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 749,
+    "job_postings": 2384,
+    "salary": {
+      "min": 61908,
+      "max": 132661,
+      "avg": 88440
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "MongoDB",
+      "Oracle",
+      "SQL",
+      "NoSQL",
+      "Data Modeling",
+      "Performance Tuning",
+      "PostgreSQL"
+    ],
+    "description": "Professional certification in certified oracle administrator offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 8,
+    "created_at": "2025-09-11T18:32:31.481502",
+    "updated_at": "2025-09-11T18:32:31.481504"
+  },
+  {
+    "id": 627,
+    "slug": "oracle-administration-certificate",
+    "name": "Oracle Administration Certificate",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 221,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 776,
+    "job_postings": 97,
+    "salary": {
+      "min": 67226,
+      "max": 144056,
+      "avg": 96037
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Performance Tuning",
+      "Oracle",
+      "Database Security",
+      "MySQL",
+      "NoSQL",
+      "SQL"
+    ],
+    "description": "Professional certification in oracle administration certificate offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 59,
+    "created_at": "2025-09-11T18:32:31.480982",
+    "updated_at": "2025-09-11T18:32:31.480983"
+  },
+  {
+    "id": 639,
+    "slug": "certified-mysql-practitioner",
+    "name": "Certified MySQL Practitioner",
+    "issuer": "MongoDB",
+    "domain": "database-management",
+    "level": "Specialty",
+    "duration": "5 weeks",
+    "cost": 313,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 720,
+    "job_postings": 24,
+    "salary": {
+      "min": 60608,
+      "max": 129876,
+      "avg": 86584
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Data Modeling",
+      "NoSQL",
+      "Database Security",
+      "Backup & Recovery",
+      "MySQL",
+      "Performance Tuning",
+      "SQL"
+    ],
+    "description": "Professional certification in certified mysql practitioner offered by MongoDB. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 71,
+    "created_at": "2025-09-11T18:32:31.481462",
+    "updated_at": "2025-09-11T18:32:31.481464"
+  },
+  {
+    "id": 624,
+    "slug": "mongodb-database-management-foundational",
+    "name": "MongoDB Database Management Foundational",
+    "issuer": "MongoDB",
+    "domain": "database-management",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 379,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 759,
+    "job_postings": 151,
+    "salary": {
+      "min": 75831,
+      "max": 162495,
+      "avg": 108330
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Backup & Recovery",
+      "MySQL",
+      "Performance Tuning",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle",
+      "NoSQL",
+      "Data Modeling",
+      "SQL",
+      "Database Security"
+    ],
+    "description": "Professional certification in mongodb database management foundational offered by MongoDB. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 80,
+    "created_at": "2025-09-11T18:32:31.480860",
+    "updated_at": "2025-09-11T18:32:31.480862"
+  },
+  {
+    "id": 659,
+    "slug": "oracle-database-development-lead",
+    "name": "Oracle Database Development Lead",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 300,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 390,
+    "job_postings": 1779,
+    "salary": {
+      "min": 75532,
+      "max": 161856,
+      "avg": 107904
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "PostgreSQL",
+      "Performance Tuning",
+      "Oracle",
+      "Database Security",
+      "MongoDB",
+      "Data Modeling",
+      "NoSQL",
+      "MySQL",
+      "Backup & Recovery"
+    ],
+    "description": "Professional certification in oracle database development lead offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 123,
+    "created_at": "2025-09-11T18:32:31.482258",
+    "updated_at": "2025-09-11T18:32:31.482259"
+  },
+  {
+    "id": 646,
+    "slug": "microsoft-analytics-certification",
+    "name": "Microsoft Analytics Certification",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 489,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 685,
+    "job_postings": 27,
+    "salary": {
+      "min": 65282,
+      "max": 139891,
+      "avg": 93261
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Performance Tuning",
+      "Data Modeling",
+      "Oracle",
+      "MongoDB",
+      "Database Security",
+      "PostgreSQL",
+      "NoSQL",
+      "MySQL"
+    ],
+    "description": "Professional certification in microsoft analytics certification offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 206,
+    "created_at": "2025-09-11T18:32:31.481741",
+    "updated_at": "2025-09-11T18:32:31.481743"
+  },
+  {
+    "id": 615,
+    "slug": "oracle-database-development-associate",
+    "name": "Oracle Database Development Associate",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 287,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 713,
+    "job_postings": 46,
+    "salary": {
+      "min": 62049,
+      "max": 132963,
+      "avg": 88642
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "PostgreSQL",
+      "MySQL",
+      "Database Security",
+      "MongoDB",
+      "Backup & Recovery",
+      "Data Modeling",
+      "Performance Tuning",
+      "NoSQL",
+      "SQL",
+      "Oracle"
+    ],
+    "description": "Professional certification in oracle database development associate offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 310,
+    "created_at": "2025-09-11T18:32:31.480470",
+    "updated_at": "2025-09-11T18:32:31.480471"
+  },
+  {
+    "id": 654,
+    "slug": "mongodb-database-architecture-professional",
+    "name": "MongoDB Database Architecture Professional",
+    "issuer": "MongoDB",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 485,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 598,
+    "job_postings": 381,
+    "salary": {
+      "min": 65096,
+      "max": 139493,
+      "avg": 92995
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "SQL",
+      "NoSQL",
+      "Backup & Recovery",
+      "Oracle",
+      "Performance Tuning",
+      "MongoDB",
+      "Data Modeling",
+      "PostgreSQL",
+      "MySQL",
+      "Database Security"
+    ],
+    "description": "Professional certification in mongodb database architecture professional offered by MongoDB. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 319,
+    "created_at": "2025-09-11T18:32:31.482060",
+    "updated_at": "2025-09-11T18:32:31.482061"
+  },
+  {
+    "id": 636,
+    "slug": "certified-postgresql-practitioner",
+    "name": "Certified PostgreSQL Practitioner",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 683,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 616,
+    "job_postings": 117,
+    "salary": {
+      "min": 71903,
+      "max": 154077,
+      "avg": 102718
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Data Modeling",
+      "Oracle",
+      "NoSQL",
+      "PostgreSQL",
+      "Performance Tuning"
+    ],
+    "description": "Professional certification in certified postgresql practitioner offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 342,
+    "created_at": "2025-09-11T18:32:31.481344",
+    "updated_at": "2025-09-11T18:32:31.481345"
+  },
+  {
+    "id": 645,
+    "slug": "oracle-development-certificate",
+    "name": "Oracle Development Certificate",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 323,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 486,
+    "job_postings": 612,
+    "salary": {
+      "min": 77319,
+      "max": 165685,
+      "avg": 110456
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Performance Tuning",
+      "MongoDB",
+      "Data Modeling",
+      "SQL",
+      "PostgreSQL",
+      "Oracle",
+      "Backup & Recovery"
+    ],
+    "description": "Professional certification in oracle development certificate offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 66,
+    "languages": [
+      "English"
+    ],
+    "ranking": 423,
+    "created_at": "2025-09-11T18:32:31.481702",
+    "updated_at": "2025-09-11T18:32:31.481703"
+  },
+  {
+    "id": 652,
+    "slug": "nosql-security-certification",
+    "name": "NoSQL Security Certification",
+    "issuer": "MongoDB",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 479,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 498,
+    "job_postings": 285,
+    "salary": {
+      "min": 75924,
+      "max": 162694,
+      "avg": 108463
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "MySQL",
+      "Oracle",
+      "PostgreSQL",
+      "Data Modeling",
+      "NoSQL",
+      "Backup & Recovery",
+      "Database Security",
+      "MongoDB",
+      "Performance Tuning"
+    ],
+    "description": "Professional certification in nosql security certification offered by MongoDB. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 424,
+    "created_at": "2025-09-11T18:32:31.481978",
+    "updated_at": "2025-09-11T18:32:31.481979"
+  },
+  {
+    "id": 614,
+    "slug": "snowflake-database-analytics-advanced",
+    "name": "Snowflake Database Analytics Advanced",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 392,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 628,
+    "job_postings": 13,
+    "salary": {
+      "min": 79117,
+      "max": 169538,
+      "avg": 113025
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Oracle",
+      "Backup & Recovery",
+      "MongoDB",
+      "NoSQL",
+      "Data Modeling"
+    ],
+    "description": "Professional certification in snowflake database analytics advanced offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 80,
+    "languages": [
+      "English"
+    ],
+    "ranking": 425,
+    "created_at": "2025-09-11T18:32:31.480428",
+    "updated_at": "2025-09-11T18:32:31.480429"
+  },
+  {
+    "id": 658,
+    "slug": "oracle-development-certificate-1",
+    "name": "Oracle Development Certificate",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 650,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 727,
+    "job_postings": 196,
+    "salary": {
+      "min": 72030,
+      "max": 154350,
+      "avg": 102900
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "SQL",
+      "Database Security",
+      "Performance Tuning",
+      "Oracle",
+      "NoSQL",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "description": "Professional certification in oracle development certificate offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 426,
+    "created_at": "2025-09-11T18:32:31.482218",
+    "updated_at": "2025-09-11T18:32:31.482219"
+  },
+  {
+    "id": 638,
+    "slug": "snowflake-database-engineering-expert",
+    "name": "Snowflake Database Engineering Expert",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 470,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 693,
+    "job_postings": 14,
+    "salary": {
+      "min": 62429,
+      "max": 133776,
+      "avg": 89184
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Performance Tuning",
+      "SQL",
+      "Database Security",
+      "Oracle",
+      "Data Modeling",
+      "NoSQL",
+      "PostgreSQL"
+    ],
+    "description": "Professional certification in snowflake database engineering expert offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "German",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 463,
+    "created_at": "2025-09-11T18:32:31.481423",
+    "updated_at": "2025-09-11T18:32:31.481424"
+  },
+  {
+    "id": 660,
+    "slug": "certified-sql-server-expert",
+    "name": "Certified SQL Server Expert",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Specialty",
+    "duration": "8 hours",
+    "cost": 483,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 653,
+    "job_postings": 5,
+    "salary": {
+      "min": 61405,
+      "max": 131584,
+      "avg": 87722
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Database Security",
+      "MySQL",
+      "NoSQL",
+      "Data Modeling",
+      "MongoDB",
+      "SQL",
+      "PostgreSQL"
+    ],
+    "description": "Professional certification in certified sql server expert offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 561,
+    "created_at": "2025-09-11T18:32:31.482297",
+    "updated_at": "2025-09-11T18:32:31.482298"
+  },
+  {
+    "id": 648,
+    "slug": "graph-analytics-certification",
+    "name": "Graph Analytics Certification",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 377,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 550,
+    "job_postings": 40,
+    "salary": {
+      "min": 77889,
+      "max": 166906,
+      "avg": 111270
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "MySQL",
+      "PostgreSQL",
+      "Backup & Recovery",
+      "Data Modeling",
+      "NoSQL",
+      "MongoDB",
+      "Performance Tuning"
+    ],
+    "description": "Professional certification in graph analytics certification offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 577,
+    "created_at": "2025-09-11T18:32:31.481822",
+    "updated_at": "2025-09-11T18:32:31.481823"
+  },
+  {
+    "id": 621,
+    "slug": "oracle-management-certification",
+    "name": "Oracle Management Certification",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 391,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 457,
+    "job_postings": 606,
+    "salary": {
+      "min": 65914,
+      "max": 141244,
+      "avg": 94163
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "NoSQL",
+      "Data Modeling",
+      "Backup & Recovery",
+      "Database Security",
+      "Oracle",
+      "PostgreSQL",
+      "SQL",
+      "Performance Tuning",
+      "MongoDB"
+    ],
+    "description": "Professional certification in oracle management certification offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 602,
+    "created_at": "2025-09-11T18:32:31.480729",
+    "updated_at": "2025-09-11T18:32:31.480730"
+  },
+  {
+    "id": 642,
+    "slug": "database-manager-foundational",
+    "name": "Database Manager Foundational",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Specialty",
+    "duration": "8 hours",
+    "cost": 229,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 433,
+    "job_postings": 622,
+    "salary": {
+      "min": 78675,
+      "max": 168590,
+      "avg": 112393
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle"
+    ],
+    "description": "Professional certification in database manager foundational offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 80,
+    "languages": [
+      "English"
+    ],
+    "ranking": 624,
+    "created_at": "2025-09-11T18:32:31.481582",
+    "updated_at": "2025-09-11T18:32:31.481584"
+  },
+  {
+    "id": 625,
+    "slug": "nosql-management-certification",
+    "name": "NoSQL Management Certification",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 354,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 579,
+    "job_postings": 26,
+    "salary": {
+      "min": 66886,
+      "max": 143329,
+      "avg": 95552
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "NoSQL",
+      "Performance Tuning",
+      "Backup & Recovery",
+      "Oracle",
+      "MySQL",
+      "Database Security"
+    ],
+    "description": "Professional certification in nosql management certification offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 645,
+    "created_at": "2025-09-11T18:32:31.480902",
+    "updated_at": "2025-09-11T18:32:31.480903"
+  },
+  {
+    "id": 649,
+    "slug": "certified-postgresql-practitioner-1",
+    "name": "Certified PostgreSQL Practitioner",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 566,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 631,
+    "job_postings": 43,
+    "salary": {
+      "min": 78638,
+      "max": 168510,
+      "avg": 112340
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Data Modeling",
+      "PostgreSQL",
+      "Oracle",
+      "Backup & Recovery",
+      "MongoDB"
+    ],
+    "description": "Professional certification in certified postgresql practitioner offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 656,
+    "created_at": "2025-09-11T18:32:31.481861",
+    "updated_at": "2025-09-11T18:32:31.481862"
+  },
+  {
+    "id": 634,
+    "slug": "certified-oracle-expert",
+    "name": "Certified Oracle Expert",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 273,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 470,
+    "job_postings": 12,
+    "salary": {
+      "min": 77650,
+      "max": 166394,
+      "avg": 110929
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "SQL",
+      "Performance Tuning",
+      "Oracle",
+      "Data Modeling"
+    ],
+    "description": "Professional certification in certified oracle expert offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 682,
+    "created_at": "2025-09-11T18:32:31.481263",
+    "updated_at": "2025-09-11T18:32:31.481264"
+  },
+  {
+    "id": 633,
+    "slug": "cassandra-security-certificate",
+    "name": "Cassandra Security Certificate",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 577,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 304,
+    "job_postings": 767,
+    "salary": {
+      "min": 71684,
+      "max": 153609,
+      "avg": 102406
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Database Security",
+      "PostgreSQL",
+      "SQL",
+      "Backup & Recovery"
+    ],
+    "description": "Professional certification in cassandra security certificate offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 779,
+    "created_at": "2025-09-11T18:32:31.481224",
+    "updated_at": "2025-09-11T18:32:31.481225"
+  },
+  {
+    "id": 623,
+    "slug": "snowflake-database-development-master",
+    "name": "Snowflake Database Development Master",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 603,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 434,
+    "job_postings": 19,
+    "salary": {
+      "min": 71221,
+      "max": 152617,
+      "avg": 101745
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Performance Tuning",
+      "Database Security",
+      "MongoDB",
+      "Data Modeling",
+      "NoSQL",
+      "Backup & Recovery",
+      "PostgreSQL",
+      "Oracle",
+      "SQL"
+    ],
+    "description": "Professional certification in snowflake database development master offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 809,
+    "created_at": "2025-09-11T18:32:31.480817",
+    "updated_at": "2025-09-11T18:32:31.480818"
+  },
+  {
+    "id": 631,
+    "slug": "database-architect-professional",
+    "name": "Database Architect Professional",
+    "issuer": "MongoDB",
+    "domain": "database-management",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 485,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 306,
+    "job_postings": 539,
+    "salary": {
+      "min": 76195,
+      "max": 163276,
+      "avg": 108850
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Data Modeling",
+      "SQL",
+      "Database Security"
+    ],
+    "description": "Professional certification in database architect professional offered by MongoDB. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 818,
+    "created_at": "2025-09-11T18:32:31.481146",
+    "updated_at": "2025-09-11T18:32:31.481148"
+  },
+  {
+    "id": 613,
+    "slug": "cassandra-development-certificate",
+    "name": "Cassandra Development Certificate",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 422,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 393,
+    "job_postings": 100,
+    "salary": {
+      "min": 73301,
+      "max": 157073,
+      "avg": 104715
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "MongoDB",
+      "Database Security",
+      "Backup & Recovery",
+      "Performance Tuning",
+      "PostgreSQL"
+    ],
+    "description": "Professional certification in cassandra development certificate offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 846,
+    "created_at": "2025-09-11T18:32:31.480388",
+    "updated_at": "2025-09-11T18:32:31.480389"
+  },
+  {
+    "id": 644,
+    "slug": "redis-security-certificate",
+    "name": "Redis Security Certificate",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 384,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 327,
+    "job_postings": 389,
+    "salary": {
+      "min": 63832,
+      "max": 136783,
+      "avg": 91189
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Performance Tuning",
+      "Oracle",
+      "PostgreSQL",
+      "Data Modeling",
+      "Database Security",
+      "MySQL",
+      "NoSQL",
+      "Backup & Recovery",
+      "SQL",
+      "MongoDB"
+    ],
+    "description": "Professional certification in redis security certificate offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 855,
+    "created_at": "2025-09-11T18:32:31.481663",
+    "updated_at": "2025-09-11T18:32:31.481664"
+  },
+  {
+    "id": 647,
+    "slug": "oracle-administration-certification",
+    "name": "Oracle Administration Certification",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 550,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 428,
+    "job_postings": 133,
+    "salary": {
+      "min": 69172,
+      "max": 148227,
+      "avg": 98818
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "MongoDB",
+      "Oracle",
+      "Database Security",
+      "MySQL",
+      "Backup & Recovery",
+      "PostgreSQL",
+      "Data Modeling",
+      "NoSQL",
+      "Performance Tuning",
+      "SQL"
+    ],
+    "description": "Professional certification in oracle administration certification offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 871,
+    "created_at": "2025-09-11T18:32:31.481783",
+    "updated_at": "2025-09-11T18:32:31.481784"
+  },
+  {
+    "id": 635,
+    "slug": "snowflake-database-development-foundational",
+    "name": "Snowflake Database Development Foundational",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 407,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 337,
+    "job_postings": 17,
+    "salary": {
+      "min": 77953,
+      "max": 167044,
+      "avg": 111362
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "SQL",
+      "MongoDB",
+      "Performance Tuning",
+      "Database Security",
+      "Oracle",
+      "NoSQL",
+      "Backup & Recovery",
+      "MySQL"
+    ],
+    "description": "Professional certification in snowflake database development foundational offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 888,
+    "created_at": "2025-09-11T18:32:31.481304",
+    "updated_at": "2025-09-11T18:32:31.481305"
+  },
+  {
+    "id": 637,
+    "slug": "nosql-development-certification",
+    "name": "NoSQL Development Certification",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 241,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 227,
+    "job_postings": 21,
+    "salary": {
+      "min": 73071,
+      "max": 156581,
+      "avg": 104387
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "PostgreSQL",
+      "Database Security",
+      "MongoDB",
+      "NoSQL",
+      "MySQL",
+      "Oracle"
+    ],
+    "description": "Professional certification in nosql development certification offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 929,
+    "created_at": "2025-09-11T18:32:31.481383",
+    "updated_at": "2025-09-11T18:32:31.481384"
+  },
+  {
+    "id": 630,
+    "slug": "graph-engineering-certification",
+    "name": "Graph Engineering Certification",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 272,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 191,
+    "job_postings": 691,
+    "salary": {
+      "min": 74354,
+      "max": 159330,
+      "avg": 106220
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "NoSQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Database Security",
+      "Performance Tuning",
+      "MySQL",
+      "Backup & Recovery",
+      "Data Modeling",
+      "SQL",
+      "Oracle"
+    ],
+    "description": "Professional certification in graph engineering certification offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 960,
+    "created_at": "2025-09-11T18:32:31.481105",
+    "updated_at": "2025-09-11T18:32:31.481106"
+  },
+  {
+    "id": 643,
+    "slug": "microsoft-engineering-certification",
+    "name": "Microsoft Engineering Certification",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 621,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 17,
+    "job_postings": 1401,
+    "salary": {
+      "min": 76068,
+      "max": 163003,
+      "avg": 108669
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "NoSQL",
+      "Backup & Recovery",
+      "SQL",
+      "Database Security",
+      "Oracle",
+      "Performance Tuning",
+      "Data Modeling",
+      "MySQL"
+    ],
+    "description": "Professional certification in microsoft engineering certification offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 1011,
+    "created_at": "2025-09-11T18:32:31.481623",
+    "updated_at": "2025-09-11T18:32:31.481624"
+  },
+  {
+    "id": 657,
+    "slug": "oracle-database-analytics-associate",
+    "name": "Oracle Database Analytics Associate",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 369,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 319,
+    "job_postings": 21,
+    "salary": {
+      "min": 73678,
+      "max": 157882,
+      "avg": 105254
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "NoSQL",
+      "PostgreSQL",
+      "Backup & Recovery",
+      "MongoDB",
+      "SQL",
+      "Performance Tuning",
+      "Data Modeling",
+      "Oracle"
+    ],
+    "description": "Professional certification in oracle database analytics associate offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 1016,
+    "created_at": "2025-09-11T18:32:31.482179",
+    "updated_at": "2025-09-11T18:32:31.482180"
+  },
+  {
+    "id": 618,
+    "slug": "snowflake-database-engineering-senior",
+    "name": "Snowflake Database Engineering Senior",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 595,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 195,
+    "job_postings": 458,
+    "salary": {
+      "min": 67604,
+      "max": 144867,
+      "avg": 96578
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "NoSQL",
+      "PostgreSQL",
+      "Database Security",
+      "MongoDB",
+      "Backup & Recovery",
+      "SQL",
+      "MySQL",
+      "Performance Tuning"
+    ],
+    "description": "Professional certification in snowflake database engineering senior offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1032,
+    "created_at": "2025-09-11T18:32:31.480595",
+    "updated_at": "2025-09-11T18:32:31.480596"
+  },
+  {
+    "id": 619,
+    "slug": "sql-server-architecture-certificate",
+    "name": "SQL Server Architecture Certificate",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 632,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 331,
+    "job_postings": 79,
+    "salary": {
+      "min": 60331,
+      "max": 129281,
+      "avg": 86187
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "SQL",
+      "Oracle",
+      "Backup & Recovery",
+      "Data Modeling",
+      "MongoDB",
+      "NoSQL",
+      "Database Security",
+      "Performance Tuning",
+      "MySQL"
+    ],
+    "description": "Professional certification in sql server architecture certificate offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 1056,
+    "created_at": "2025-09-11T18:32:31.480637",
+    "updated_at": "2025-09-11T18:32:31.480638"
+  },
+  {
+    "id": 653,
+    "slug": "cassandra-administration-certificate",
+    "name": "Cassandra Administration Certificate",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 306,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 301,
+    "job_postings": 5,
+    "salary": {
+      "min": 72580,
+      "max": 155529,
+      "avg": 103686
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "SQL",
+      "MySQL",
+      "NoSQL",
+      "Backup & Recovery",
+      "PostgreSQL"
+    ],
+    "description": "Professional certification in cassandra administration certificate offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1071,
+    "created_at": "2025-09-11T18:32:31.482018",
+    "updated_at": "2025-09-11T18:32:31.482019"
+  },
+  {
+    "id": 632,
+    "slug": "database-engineer-advanced",
+    "name": "Database Engineer Advanced",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 318,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 217,
+    "job_postings": 123,
+    "salary": {
+      "min": 74178,
+      "max": 158954,
+      "avg": 105969
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "MongoDB",
+      "Database Security",
+      "Backup & Recovery",
+      "MySQL",
+      "Performance Tuning",
+      "SQL"
+    ],
+    "description": "Professional certification in database engineer advanced offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "French"
+    ],
+    "ranking": 1125,
+    "created_at": "2025-09-11T18:32:31.481185",
+    "updated_at": "2025-09-11T18:32:31.481187"
+  },
+  {
+    "id": 629,
+    "slug": "certified-oracle-specialist",
+    "name": "Certified Oracle Specialist",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 247,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 247,
+    "job_postings": 37,
+    "salary": {
+      "min": 73646,
+      "max": 157814,
+      "avg": 105209
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Performance Tuning",
+      "Database Security",
+      "MySQL",
+      "Data Modeling",
+      "NoSQL",
+      "MongoDB",
+      "Backup & Recovery",
+      "SQL",
+      "PostgreSQL",
+      "Oracle"
+    ],
+    "description": "Professional certification in certified oracle specialist offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 1131,
+    "created_at": "2025-09-11T18:32:31.481065",
+    "updated_at": "2025-09-11T18:32:31.481066"
+  },
+  {
+    "id": 655,
+    "slug": "oracle-database-analytics-senior",
+    "name": "Oracle Database Analytics Senior",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 284,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 89,
+    "job_postings": 82,
+    "salary": {
+      "min": 79320,
+      "max": 169972,
+      "avg": 113315
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Performance Tuning",
+      "Data Modeling",
+      "MongoDB",
+      "Backup & Recovery",
+      "NoSQL",
+      "Database Security"
+    ],
+    "description": "Professional certification in oracle database analytics senior offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 1132,
+    "created_at": "2025-09-11T18:32:31.482100",
+    "updated_at": "2025-09-11T18:32:31.482101"
+  },
+  {
+    "id": 616,
+    "slug": "database-analyst-senior",
+    "name": "Database Analyst Senior",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 313,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 95,
+    "job_postings": 36,
+    "salary": {
+      "min": 71625,
+      "max": 153482,
+      "avg": 102321
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Database Security",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Data Modeling",
+      "Performance Tuning",
+      "NoSQL",
+      "Oracle",
+      "Backup & Recovery",
+      "SQL"
+    ],
+    "description": "Professional certification in database analyst senior offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 1177,
+    "created_at": "2025-09-11T18:32:31.480510",
+    "updated_at": "2025-09-11T18:32:31.480511"
+  },
+  {
+    "id": 656,
+    "slug": "sql-server-security-certificate",
+    "name": "SQL Server Security Certificate",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 448,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 180,
+    "job_postings": 762,
+    "salary": {
+      "min": 69864,
+      "max": 149709,
+      "avg": 99806
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Oracle",
+      "Backup & Recovery",
+      "MySQL"
+    ],
+    "description": "Professional certification in sql server security certificate offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1181,
+    "created_at": "2025-09-11T18:32:31.482139",
+    "updated_at": "2025-09-11T18:32:31.482140"
+  },
+  {
+    "id": 622,
+    "slug": "mongodb-administration-certificate",
+    "name": "MongoDB Administration Certificate",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 413,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 115,
+    "job_postings": 35,
+    "salary": {
+      "min": 70292,
+      "max": 150627,
+      "avg": 100418
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Oracle",
+      "MongoDB",
+      "Database Security",
+      "Performance Tuning",
+      "MySQL",
+      "Backup & Recovery",
+      "NoSQL",
+      "Data Modeling"
+    ],
+    "description": "Professional certification in mongodb administration certificate offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1252,
+    "created_at": "2025-09-11T18:32:31.480774",
+    "updated_at": "2025-09-11T18:32:31.480775"
+  },
+  {
+    "id": 651,
+    "slug": "database-analyst-advanced",
+    "name": "Database Analyst Advanced",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 210,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 187,
+    "job_postings": 95,
+    "salary": {
+      "min": 68346,
+      "max": 146456,
+      "avg": 97637
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "MySQL",
+      "Data Modeling",
+      "Backup & Recovery",
+      "Oracle",
+      "SQL",
+      "MongoDB",
+      "Database Security"
+    ],
+    "description": "Professional certification in database analyst advanced offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1255,
+    "created_at": "2025-09-11T18:32:31.481938",
+    "updated_at": "2025-09-11T18:32:31.481939"
+  },
+  {
+    "id": 617,
+    "slug": "oracle-security-certification",
+    "name": "Oracle Security Certification",
+    "issuer": "MongoDB",
+    "domain": "database-management",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 351,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 96,
+    "job_postings": 33,
+    "salary": {
+      "min": 63077,
+      "max": 135166,
+      "avg": 90111
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "NoSQL",
+      "SQL",
+      "Oracle",
+      "Database Security",
+      "Backup & Recovery"
+    ],
+    "description": "Professional certification in oracle security certification offered by MongoDB. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1260,
+    "created_at": "2025-09-11T18:32:31.480555",
+    "updated_at": "2025-09-11T18:32:31.480556"
+  },
+  {
+    "id": 628,
+    "slug": "snowflake-database-architecture-foundational",
+    "name": "Snowflake Database Architecture Foundational",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 455,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 93,
+    "job_postings": 6,
+    "salary": {
+      "min": 59519,
+      "max": 127540,
+      "avg": 85027
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "SQL",
+      "Oracle",
+      "MySQL",
+      "MongoDB",
+      "Database Security",
+      "PostgreSQL",
+      "NoSQL",
+      "Backup & Recovery"
+    ],
+    "description": "Professional certification in snowflake database architecture foundational offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 1293,
+    "created_at": "2025-09-11T18:32:31.481023",
+    "updated_at": "2025-09-11T18:32:31.481024"
+  },
+  {
+    "id": 620,
+    "slug": "snowflake-database-architecture-professional",
+    "name": "Snowflake Database Architecture Professional",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 387,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 130,
+    "job_postings": 48,
+    "salary": {
+      "min": 79875,
+      "max": 171161,
+      "avg": 114107
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "SQL",
+      "Oracle",
+      "Backup & Recovery",
+      "MySQL",
+      "Database Security",
+      "MongoDB",
+      "NoSQL",
+      "PostgreSQL"
+    ],
+    "description": "Professional certification in snowflake database architecture professional offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1328,
+    "created_at": "2025-09-11T18:32:31.480684",
+    "updated_at": "2025-09-11T18:32:31.480685"
+  },
+  {
+    "id": 650,
+    "slug": "certified-oracle-consultant",
+    "name": "Certified Oracle Consultant",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 623,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 18,
+    "job_postings": 107,
+    "salary": {
+      "min": 62460,
+      "max": 133844,
+      "avg": 89229
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Data Modeling",
+      "MySQL",
+      "Oracle",
+      "MongoDB",
+      "Performance Tuning",
+      "Backup & Recovery",
+      "NoSQL",
+      "PostgreSQL",
+      "SQL",
+      "Database Security"
+    ],
+    "description": "Professional certification in certified oracle consultant offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 1335,
+    "created_at": "2025-09-11T18:32:31.481900",
+    "updated_at": "2025-09-11T18:32:31.481901"
+  },
+  {
+    "id": 641,
+    "slug": "database-architect-foundational",
+    "name": "Database Architect Foundational",
+    "issuer": "Oracle",
+    "domain": "database-management",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 211,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 50,
+    "job_postings": 11,
+    "salary": {
+      "min": 75367,
+      "max": 161500,
+      "avg": 107667
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Data Modeling",
+      "NoSQL",
+      "Database Security",
+      "Backup & Recovery",
+      "MySQL",
+      "Oracle"
+    ],
+    "description": "Professional certification in database architect foundational offered by Oracle. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 1341,
+    "created_at": "2025-09-11T18:32:31.481544",
+    "updated_at": "2025-09-11T18:32:31.481545"
+  },
+  {
+    "id": 626,
+    "slug": "certified-oracle-practitioner",
+    "name": "Certified Oracle Practitioner",
+    "issuer": "Snowflake",
+    "domain": "database-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 688,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 98,
+    "job_postings": 13,
+    "salary": {
+      "min": 67191,
+      "max": 143982,
+      "avg": 95988
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "SQL",
+      "MySQL",
+      "Performance Tuning",
+      "PostgreSQL",
+      "Database Security"
+    ],
+    "description": "Professional certification in certified oracle practitioner offered by Snowflake. Validates expertise in Database Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1375,
+    "created_at": "2025-09-11T18:32:31.480942",
+    "updated_at": "2025-09-11T18:32:31.480943"
+  }
+]

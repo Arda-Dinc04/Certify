@@ -1,0 +1,28 @@
+{
+  "name": "Certify - Professional Certification Discovery",
+  "short_name": "Certify",
+  "description": "Discover, compare, and choose from thousands of professional certifications to advance your career with confidence.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/certify-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity", "business"],
+  "screenshots": [
+    {
+      "src": "/screenshots/homepage.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Homepage with search and featured certifications"
+    }
+  ]
+}

@@ -1,0 +1,4132 @@
+[
+  {
+    "id": 161,
+    "slug": "certified-network-security-advanced",
+    "name": "Certified Network Security Advanced",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 382,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 530,
+    "job_postings": 2245,
+    "salary": {
+      "min": 85750,
+      "max": 192938,
+      "avg": 128625
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Threat Intelligence",
+      "Risk Assessment",
+      "SIEM",
+      "Incident Response",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Malware Analysis",
+      "Ethical Hacking",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in certified network security advanced offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 29,
+    "created_at": "2025-09-11T18:32:31.460461",
+    "updated_at": "2025-09-11T18:32:31.460462"
+  },
+  {
+    "id": 203,
+    "slug": "advanced-information-security-certification-2",
+    "name": "Advanced Information Security Certification",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 497,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 774,
+    "job_postings": 768,
+    "salary": {
+      "min": 80141,
+      "max": 180318,
+      "avg": 120212
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Risk Assessment",
+      "Penetration Testing",
+      "Security Architecture",
+      "Forensics",
+      "Incident Response",
+      "Ethical Hacking",
+      "Threat Intelligence",
+      "SIEM",
+      "Compliance",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in advanced information security certification offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 38,
+    "created_at": "2025-09-11T18:32:31.462241",
+    "updated_at": "2025-09-11T18:32:31.462242"
+  },
+  {
+    "id": 229,
+    "slug": "forensics-security-certification-3",
+    "name": "Forensics Security Certification",
+    "issuer": "Cisco",
+    "domain": "cybersecurity",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 277,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 698,
+    "job_postings": 50,
+    "salary": {
+      "min": 85728,
+      "max": 192888,
+      "avg": 128592
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Forensics",
+      "Compliance",
+      "Vulnerability Assessment",
+      "Security Architecture",
+      "Penetration Testing",
+      "Risk Assessment",
+      "SIEM"
+    ],
+    "description": "Professional certification in forensics security certification offered by Cisco. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 68,
+    "created_at": "2025-09-11T18:32:31.464272",
+    "updated_at": "2025-09-11T18:32:31.464274"
+  },
+  {
+    "id": 238,
+    "slug": "crowdstrike-cybersecurity-specialist",
+    "name": "CrowdStrike Cybersecurity Specialist",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 503,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 792,
+    "job_postings": 33,
+    "salary": {
+      "min": 72061,
+      "max": 162139,
+      "avg": 108092
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Compliance",
+      "Vulnerability Assessment",
+      "Threat Intelligence",
+      "Malware Analysis",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in crowdstrike cybersecurity specialist offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 84,
+    "created_at": "2025-09-11T18:32:31.464652",
+    "updated_at": "2025-09-11T18:32:31.464654"
+  },
+  {
+    "id": 206,
+    "slug": "check-risk-assessment-practitioner",
+    "name": "Check Risk Assessment Practitioner",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Specialty",
+    "duration": "8 hours",
+    "cost": 313,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 741,
+    "job_postings": 15,
+    "salary": {
+      "min": 78972,
+      "max": 177689,
+      "avg": 118459
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Threat Intelligence",
+      "Ethical Hacking",
+      "Security Architecture",
+      "SIEM",
+      "Risk Assessment",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in check risk assessment practitioner offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 97,
+    "created_at": "2025-09-11T18:32:31.462365",
+    "updated_at": "2025-09-11T18:32:31.462367"
+  },
+  {
+    "id": 169,
+    "slug": "forensics-expert-certificate",
+    "name": "Forensics Expert Certificate",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 502,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 715,
+    "job_postings": 570,
+    "salary": {
+      "min": 88550,
+      "max": 199238,
+      "avg": 132825
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compliance",
+      "SIEM",
+      "Risk Assessment",
+      "Penetration Testing",
+      "Incident Response",
+      "Malware Analysis",
+      "Vulnerability Assessment",
+      "Security Architecture",
+      "Ethical Hacking",
+      "Forensics"
+    ],
+    "description": "Professional certification in forensics expert certificate offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 103,
+    "created_at": "2025-09-11T18:32:31.460797",
+    "updated_at": "2025-09-11T18:32:31.460798"
+  },
+  {
+    "id": 230,
+    "slug": "forensics-expert-certificate-2",
+    "name": "Forensics Expert Certificate",
+    "issuer": "Palo Alto Networks",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 438,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 589,
+    "job_postings": 776,
+    "salary": {
+      "min": 83306,
+      "max": 187440,
+      "avg": 124960
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Vulnerability Assessment",
+      "Risk Assessment",
+      "Incident Response",
+      "SIEM"
+    ],
+    "description": "Professional certification in forensics expert certificate offered by Palo Alto Networks. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 148,
+    "created_at": "2025-09-11T18:32:31.464315",
+    "updated_at": "2025-09-11T18:32:31.464317"
+  },
+  {
+    "id": 145,
+    "slug": "advanced-threat-intelligence-certification",
+    "name": "Advanced Threat Intelligence Certification",
+    "issuer": "Cisco",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 302,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 753,
+    "job_postings": 70,
+    "salary": {
+      "min": 83342,
+      "max": 187520,
+      "avg": 125013
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Compliance",
+      "Vulnerability Assessment",
+      "Security Architecture",
+      "Forensics",
+      "Incident Response",
+      "Malware Analysis",
+      "SIEM",
+      "Threat Intelligence"
+    ],
+    "description": "Professional certification in advanced threat intelligence certification offered by Cisco. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 158,
+    "created_at": "2025-09-11T18:32:31.459776",
+    "updated_at": "2025-09-11T18:32:31.459778"
+  },
+  {
+    "id": 171,
+    "slug": "ethical-hacker-security-certification",
+    "name": "Ethical Hacker Security Certification",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 729,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 750,
+    "job_postings": 43,
+    "salary": {
+      "min": 74077,
+      "max": 166675,
+      "avg": 111116
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Penetration Testing",
+      "Forensics",
+      "Ethical Hacking",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in ethical hacker security certification offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 162,
+    "created_at": "2025-09-11T18:32:31.460879",
+    "updated_at": "2025-09-11T18:32:31.460880"
+  },
+  {
+    "id": 234,
+    "slug": "forensics-expert-certificate-3",
+    "name": "Forensics Expert Certificate",
+    "issuer": "Cisco",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 261,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 605,
+    "job_postings": 181,
+    "salary": {
+      "min": 79824,
+      "max": 179604,
+      "avg": 119736
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Compliance",
+      "Penetration Testing",
+      "Incident Response",
+      "Forensics",
+      "SIEM"
+    ],
+    "description": "Professional certification in forensics expert certificate offered by Cisco. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 164,
+    "created_at": "2025-09-11T18:32:31.464487",
+    "updated_at": "2025-09-11T18:32:31.464488"
+  },
+  {
+    "id": 164,
+    "slug": "ec-council-information-assurance-consultant",
+    "name": "EC-Council Information Assurance Consultant",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 556,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 741,
+    "job_postings": 23,
+    "salary": {
+      "min": 88680,
+      "max": 199531,
+      "avg": 133021
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Threat Intelligence",
+      "Forensics",
+      "Risk Assessment",
+      "Vulnerability Assessment",
+      "Security Architecture",
+      "Ethical Hacking",
+      "SIEM",
+      "Penetration Testing"
+    ],
+    "description": "Professional certification in ec-council information assurance consultant offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 167,
+    "created_at": "2025-09-11T18:32:31.460588",
+    "updated_at": "2025-09-11T18:32:31.460589"
+  },
+  {
+    "id": 178,
+    "slug": "forensics-professional-certificate",
+    "name": "Forensics Professional Certificate",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 429,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 600,
+    "job_postings": 161,
+    "salary": {
+      "min": 71454,
+      "max": 160773,
+      "avg": 107182
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Ethical Hacking",
+      "Malware Analysis",
+      "Compliance",
+      "SIEM",
+      "Risk Assessment",
+      "Forensics",
+      "Security Architecture",
+      "Incident Response"
+    ],
+    "description": "Professional certification in forensics professional certificate offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 222,
+    "created_at": "2025-09-11T18:32:31.461180",
+    "updated_at": "2025-09-11T18:32:31.461181"
+  },
+  {
+    "id": 216,
+    "slug": "forensics-security-certification-2",
+    "name": "Forensics Security Certification",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 476,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 632,
+    "job_postings": 133,
+    "salary": {
+      "min": 82809,
+      "max": 186321,
+      "avg": 124214
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "Ethical Hacking",
+      "Security Architecture",
+      "Risk Assessment",
+      "SIEM",
+      "Threat Intelligence",
+      "Vulnerability Assessment",
+      "Compliance",
+      "Malware Analysis",
+      "Incident Response"
+    ],
+    "description": "Professional certification in forensics security certification offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 275,
+    "created_at": "2025-09-11T18:32:31.462775",
+    "updated_at": "2025-09-11T18:32:31.462777"
+  },
+  {
+    "id": 153,
+    "slug": "comptia-information-assurance-expert",
+    "name": "CompTIA Information Assurance Expert",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 392,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 500,
+    "job_postings": 649,
+    "salary": {
+      "min": 75942,
+      "max": 170869,
+      "avg": 113913
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Vulnerability Assessment",
+      "Compliance",
+      "SIEM",
+      "Ethical Hacking",
+      "Penetration Testing",
+      "Risk Assessment",
+      "Security Architecture",
+      "Forensics",
+      "Malware Analysis",
+      "Incident Response"
+    ],
+    "description": "Professional certification in comptia information assurance expert offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 281,
+    "created_at": "2025-09-11T18:32:31.460123",
+    "updated_at": "2025-09-11T18:32:31.460124"
+  },
+  {
+    "id": 173,
+    "slug": "isc²-risk-assessment-practitioner",
+    "name": "(ISC)² Risk Assessment Practitioner",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 793,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 465,
+    "job_postings": 1385,
+    "salary": {
+      "min": 84521,
+      "max": 190172,
+      "avg": 126781
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Vulnerability Assessment",
+      "Compliance",
+      "Threat Intelligence",
+      "SIEM",
+      "Penetration Testing",
+      "Malware Analysis",
+      "Risk Assessment",
+      "Incident Response",
+      "Forensics",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in (isc)² risk assessment practitioner offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 328,
+    "created_at": "2025-09-11T18:32:31.460966",
+    "updated_at": "2025-09-11T18:32:31.460967"
+  },
+  {
+    "id": 152,
+    "slug": "check-cybersecurity-administrator",
+    "name": "Check Cybersecurity Administrator",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 398,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 715,
+    "job_postings": 535,
+    "salary": {
+      "min": 88876,
+      "max": 199972,
+      "avg": 133314
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Threat Intelligence",
+      "Ethical Hacking",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "SIEM",
+      "Risk Assessment",
+      "Compliance",
+      "Forensics",
+      "Incident Response",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in check cybersecurity administrator offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 333,
+    "created_at": "2025-09-11T18:32:31.460075",
+    "updated_at": "2025-09-11T18:32:31.460076"
+  },
+  {
+    "id": 237,
+    "slug": "comptia-risk-assessment-analyst",
+    "name": "CompTIA Risk Assessment Analyst",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 303,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 645,
+    "job_postings": 66,
+    "salary": {
+      "min": 79838,
+      "max": 179637,
+      "avg": 119758
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Penetration Testing",
+      "Incident Response",
+      "Forensics",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in comptia risk assessment analyst offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 334,
+    "created_at": "2025-09-11T18:32:31.464611",
+    "updated_at": "2025-09-11T18:32:31.464613"
+  },
+  {
+    "id": 190,
+    "slug": "ec-council-information-assurance-expert",
+    "name": "EC-Council Information Assurance Expert",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 708,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 745,
+    "job_postings": 31,
+    "salary": {
+      "min": 80435,
+      "max": 180980,
+      "avg": 120653
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Compliance",
+      "Threat Intelligence",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Ethical Hacking",
+      "Forensics"
+    ],
+    "description": "Professional certification in ec-council information assurance expert offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 362,
+    "created_at": "2025-09-11T18:32:31.461691",
+    "updated_at": "2025-09-11T18:32:31.461693"
+  },
+  {
+    "id": 151,
+    "slug": "penetration-tester-lead-certificate",
+    "name": "Penetration Tester Lead Certificate",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 422,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 568,
+    "job_postings": 48,
+    "salary": {
+      "min": 84537,
+      "max": 190209,
+      "avg": 126806
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Vulnerability Assessment",
+      "Ethical Hacking",
+      "SIEM",
+      "Risk Assessment",
+      "Threat Intelligence",
+      "Security Architecture",
+      "Compliance",
+      "Incident Response",
+      "Penetration Testing",
+      "Forensics"
+    ],
+    "description": "Professional certification in penetration tester lead certificate offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 366,
+    "created_at": "2025-09-11T18:32:31.460030",
+    "updated_at": "2025-09-11T18:32:31.460032"
+  },
+  {
+    "id": 196,
+    "slug": "crowdstrike-risk-assessment-administrator",
+    "name": "CrowdStrike Risk Assessment Administrator",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 722,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 795,
+    "job_postings": 399,
+    "salary": {
+      "min": 75965,
+      "max": 170923,
+      "avg": 113948
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Compliance",
+      "Risk Assessment",
+      "Penetration Testing",
+      "SIEM",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in crowdstrike risk assessment administrator offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 369,
+    "created_at": "2025-09-11T18:32:31.461941",
+    "updated_at": "2025-09-11T18:32:31.461943"
+  },
+  {
+    "id": 200,
+    "slug": "certified-incident-response-master",
+    "name": "Certified Incident Response Master",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 362,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 575,
+    "job_postings": 45,
+    "salary": {
+      "min": 69962,
+      "max": 157415,
+      "avg": 104943
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Forensics",
+      "Compliance",
+      "Incident Response",
+      "Security Architecture",
+      "Ethical Hacking",
+      "SIEM",
+      "Risk Assessment",
+      "Threat Intelligence",
+      "Vulnerability Assessment"
+    ],
+    "description": "Professional certification in certified incident response master offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 398,
+    "created_at": "2025-09-11T18:32:31.462119",
+    "updated_at": "2025-09-11T18:32:31.462120"
+  },
+  {
+    "id": 235,
+    "slug": "certified-threat-intelligence-associate",
+    "name": "Certified Threat Intelligence Associate",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 680,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 527,
+    "job_postings": 679,
+    "salary": {
+      "min": 80316,
+      "max": 180712,
+      "avg": 120474
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Vulnerability Assessment",
+      "Ethical Hacking",
+      "SIEM",
+      "Risk Assessment",
+      "Threat Intelligence",
+      "Compliance"
+    ],
+    "description": "Professional certification in certified threat intelligence associate offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 401,
+    "created_at": "2025-09-11T18:32:31.464529",
+    "updated_at": "2025-09-11T18:32:31.464530"
+  },
+  {
+    "id": 199,
+    "slug": "advanced-information-security-certification-1",
+    "name": "Advanced Information Security Certification",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 969,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 773,
+    "job_postings": 18,
+    "salary": {
+      "min": 86104,
+      "max": 193734,
+      "avg": 129156
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Security Architecture",
+      "Vulnerability Assessment",
+      "Forensics",
+      "Risk Assessment",
+      "Penetration Testing"
+    ],
+    "description": "Professional certification in advanced information security certification offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 408,
+    "created_at": "2025-09-11T18:32:31.462077",
+    "updated_at": "2025-09-11T18:32:31.462078"
+  },
+  {
+    "id": 179,
+    "slug": "crowdstrike-information-assurance-expert",
+    "name": "CrowdStrike Information Assurance Expert",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 797,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 760,
+    "job_postings": 6,
+    "salary": {
+      "min": 91556,
+      "max": 206001,
+      "avg": 137334
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Compliance",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Risk Assessment",
+      "Threat Intelligence",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in crowdstrike information assurance expert offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 411,
+    "created_at": "2025-09-11T18:32:31.461222",
+    "updated_at": "2025-09-11T18:32:31.461223"
+  },
+  {
+    "id": 215,
+    "slug": "certified-incident-response-lead",
+    "name": "Certified Incident Response Lead",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 292,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 665,
+    "job_postings": 41,
+    "salary": {
+      "min": 73318,
+      "max": 164967,
+      "avg": 109978
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Ethical Hacking",
+      "Vulnerability Assessment",
+      "Forensics",
+      "SIEM",
+      "Threat Intelligence",
+      "Risk Assessment",
+      "Incident Response",
+      "Penetration Testing",
+      "Security Architecture",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in certified incident response lead offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English"
+    ],
+    "ranking": 429,
+    "created_at": "2025-09-11T18:32:31.462735",
+    "updated_at": "2025-09-11T18:32:31.462736"
+  },
+  {
+    "id": 207,
+    "slug": "compliance-security-certification-2",
+    "name": "Compliance Security Certification",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 420,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 682,
+    "job_postings": 36,
+    "salary": {
+      "min": 87372,
+      "max": 196587,
+      "avg": 131058
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Compliance",
+      "Ethical Hacking",
+      "Malware Analysis",
+      "SIEM",
+      "Threat Intelligence"
+    ],
+    "description": "Professional certification in compliance security certification offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 431,
+    "created_at": "2025-09-11T18:32:31.462406",
+    "updated_at": "2025-09-11T18:32:31.462407"
+  },
+  {
+    "id": 182,
+    "slug": "security-analyst-foundational-certificate-1",
+    "name": "Security Analyst Foundational Certificate",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 536,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 536,
+    "job_postings": 172,
+    "salary": {
+      "min": 80671,
+      "max": 181510,
+      "avg": 121006
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "SIEM",
+      "Threat Intelligence",
+      "Risk Assessment",
+      "Compliance",
+      "Incident Response",
+      "Malware Analysis",
+      "Forensics"
+    ],
+    "description": "Professional certification in security analyst foundational certificate offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 467,
+    "created_at": "2025-09-11T18:32:31.461349",
+    "updated_at": "2025-09-11T18:32:31.461351"
+  },
+  {
+    "id": 192,
+    "slug": "ec-council-information-assurance-analyst",
+    "name": "EC-Council Information Assurance Analyst",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 407,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 499,
+    "job_postings": 121,
+    "salary": {
+      "min": 77915,
+      "max": 175309,
+      "avg": 116872
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Risk Assessment",
+      "SIEM",
+      "Ethical Hacking",
+      "Vulnerability Assessment",
+      "Forensics"
+    ],
+    "description": "Professional certification in ec-council information assurance analyst offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 472,
+    "created_at": "2025-09-11T18:32:31.461773",
+    "updated_at": "2025-09-11T18:32:31.461774"
+  },
+  {
+    "id": 183,
+    "slug": "advanced-network-security-certification-2",
+    "name": "Advanced Network Security Certification",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 481,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 515,
+    "job_postings": 77,
+    "salary": {
+      "min": 71396,
+      "max": 160641,
+      "avg": 107094
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Incident Response",
+      "Vulnerability Assessment",
+      "Ethical Hacking",
+      "Forensics",
+      "Malware Analysis",
+      "Threat Intelligence",
+      "Penetration Testing",
+      "Compliance",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in advanced network security certification offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 507,
+    "created_at": "2025-09-11T18:32:31.461393",
+    "updated_at": "2025-09-11T18:32:31.461394"
+  },
+  {
+    "id": 193,
+    "slug": "certified-threat-intelligence-advanced",
+    "name": "Certified Threat Intelligence Advanced",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 382,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 587,
+    "job_postings": 31,
+    "salary": {
+      "min": 85118,
+      "max": 191515,
+      "avg": 127677
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Security Architecture",
+      "Forensics",
+      "Penetration Testing",
+      "Threat Intelligence",
+      "SIEM"
+    ],
+    "description": "Professional certification in certified threat intelligence advanced offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 513,
+    "created_at": "2025-09-11T18:32:31.461814",
+    "updated_at": "2025-09-11T18:32:31.461815"
+  },
+  {
+    "id": 166,
+    "slug": "advanced-cyber-defense-certification",
+    "name": "Advanced Cyber Defense Certification",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 677,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 596,
+    "job_postings": 7,
+    "salary": {
+      "min": 77354,
+      "max": 174046,
+      "avg": 116031
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Compliance",
+      "Forensics",
+      "Malware Analysis",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Ethical Hacking",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in advanced cyber defense certification offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 524,
+    "created_at": "2025-09-11T18:32:31.460672",
+    "updated_at": "2025-09-11T18:32:31.460673"
+  },
+  {
+    "id": 220,
+    "slug": "compliance-advanced-certificate",
+    "name": "Compliance Advanced Certificate",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 284,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 426,
+    "job_postings": 35,
+    "salary": {
+      "min": 88432,
+      "max": 198973,
+      "avg": 132649
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in compliance advanced certificate offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 553,
+    "created_at": "2025-09-11T18:32:31.462944",
+    "updated_at": "2025-09-11T18:32:31.462945"
+  },
+  {
+    "id": 219,
+    "slug": "advanced-information-security-certification-3",
+    "name": "Advanced Information Security Certification",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 432,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 442,
+    "job_postings": 672,
+    "salary": {
+      "min": 72514,
+      "max": 163158,
+      "avg": 108772
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Ethical Hacking",
+      "Vulnerability Assessment",
+      "Malware Analysis",
+      "Penetration Testing",
+      "Risk Assessment",
+      "SIEM",
+      "Forensics",
+      "Threat Intelligence"
+    ],
+    "description": "Professional certification in advanced information security certification offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 570,
+    "created_at": "2025-09-11T18:32:31.462906",
+    "updated_at": "2025-09-11T18:32:31.462907"
+  },
+  {
+    "id": 198,
+    "slug": "sans-cybersecurity-administrator",
+    "name": "SANS Cybersecurity Administrator",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 848,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 538,
+    "job_postings": 37,
+    "salary": {
+      "min": 77244,
+      "max": 173800,
+      "avg": 115867
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Incident Response",
+      "Threat Intelligence",
+      "Forensics",
+      "Compliance",
+      "Penetration Testing",
+      "Security Architecture",
+      "Vulnerability Assessment",
+      "Malware Analysis",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in sans cybersecurity administrator offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 583,
+    "created_at": "2025-09-11T18:32:31.462031",
+    "updated_at": "2025-09-11T18:32:31.462033"
+  },
+  {
+    "id": 202,
+    "slug": "ethical-hacker-advanced-certificate",
+    "name": "Ethical Hacker Advanced Certificate",
+    "issuer": "Palo Alto Networks",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 672,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 436,
+    "job_postings": 215,
+    "salary": {
+      "min": 76834,
+      "max": 172877,
+      "avg": 115251
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Ethical Hacking",
+      "SIEM",
+      "Vulnerability Assessment",
+      "Threat Intelligence"
+    ],
+    "description": "Professional certification in ethical hacker advanced certificate offered by Palo Alto Networks. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 610,
+    "created_at": "2025-09-11T18:32:31.462200",
+    "updated_at": "2025-09-11T18:32:31.462202"
+  },
+  {
+    "id": 225,
+    "slug": "ethical-hacker-security-certification-2",
+    "name": "Ethical Hacker Security Certification",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 1039,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 750,
+    "job_postings": 50,
+    "salary": {
+      "min": 78440,
+      "max": 176490,
+      "avg": 117660
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Security Architecture",
+      "Malware Analysis",
+      "Ethical Hacking",
+      "Risk Assessment",
+      "SIEM",
+      "Compliance",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Threat Intelligence"
+    ],
+    "description": "Professional certification in ethical hacker security certification offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 616,
+    "created_at": "2025-09-11T18:32:31.464102",
+    "updated_at": "2025-09-11T18:32:31.464103"
+  },
+  {
+    "id": 197,
+    "slug": "certified-threat-intelligence-professional-1",
+    "name": "Certified Threat Intelligence Professional",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 820,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 677,
+    "job_postings": 109,
+    "salary": {
+      "min": 70449,
+      "max": 158510,
+      "avg": 105673
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "SIEM",
+      "Malware Analysis",
+      "Penetration Testing",
+      "Ethical Hacking",
+      "Compliance",
+      "Threat Intelligence",
+      "Risk Assessment",
+      "Vulnerability Assessment"
+    ],
+    "description": "Professional certification in certified threat intelligence professional offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 620,
+    "created_at": "2025-09-11T18:32:31.461985",
+    "updated_at": "2025-09-11T18:32:31.461987"
+  },
+  {
+    "id": 223,
+    "slug": "certified-cyber-defense-master",
+    "name": "Certified Cyber Defense Master",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 284,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 430,
+    "job_postings": 406,
+    "salary": {
+      "min": 73433,
+      "max": 165224,
+      "avg": 110149
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Compliance",
+      "Forensics",
+      "Vulnerability Assessment",
+      "Incident Response",
+      "Threat Intelligence",
+      "Risk Assessment",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in certified cyber defense master offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 630,
+    "created_at": "2025-09-11T18:32:31.464011",
+    "updated_at": "2025-09-11T18:32:31.464012"
+  },
+  {
+    "id": 211,
+    "slug": "certified-information-security-advanced",
+    "name": "Certified Information Security Advanced",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 879,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 514,
+    "job_postings": 157,
+    "salary": {
+      "min": 90799,
+      "max": 204299,
+      "avg": 136199
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Security Architecture",
+      "Forensics",
+      "Ethical Hacking",
+      "Vulnerability Assessment"
+    ],
+    "description": "Professional certification in certified information security advanced offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 643,
+    "created_at": "2025-09-11T18:32:31.462568",
+    "updated_at": "2025-09-11T18:32:31.462569"
+  },
+  {
+    "id": 209,
+    "slug": "compliance-master-certificate",
+    "name": "Compliance Master Certificate",
+    "issuer": "Cisco",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 406,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 542,
+    "job_postings": 131,
+    "salary": {
+      "min": 87409,
+      "max": 196670,
+      "avg": 131113
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Penetration Testing",
+      "Threat Intelligence",
+      "Incident Response",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in compliance master certificate offered by Cisco. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "French"
+    ],
+    "ranking": 649,
+    "created_at": "2025-09-11T18:32:31.462488",
+    "updated_at": "2025-09-11T18:32:31.462489"
+  },
+  {
+    "id": 226,
+    "slug": "ethical-hacker-professional-certificate",
+    "name": "Ethical Hacker Professional Certificate",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 626,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 565,
+    "job_postings": 77,
+    "salary": {
+      "min": 77301,
+      "max": 173929,
+      "avg": 115952
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Security Architecture",
+      "Forensics",
+      "Malware Analysis",
+      "Penetration Testing"
+    ],
+    "description": "Professional certification in ethical hacker professional certificate offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 666,
+    "created_at": "2025-09-11T18:32:31.464144",
+    "updated_at": "2025-09-11T18:32:31.464145"
+  },
+  {
+    "id": 158,
+    "slug": "advanced-information-security-certification",
+    "name": "Advanced Information Security Certification",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 518,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 459,
+    "job_postings": 37,
+    "salary": {
+      "min": 76142,
+      "max": 171319,
+      "avg": 114213
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Threat Intelligence",
+      "Incident Response",
+      "Security Architecture",
+      "Malware Analysis",
+      "Penetration Testing",
+      "Risk Assessment",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in advanced information security certification offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 677,
+    "created_at": "2025-09-11T18:32:31.460335",
+    "updated_at": "2025-09-11T18:32:31.460336"
+  },
+  {
+    "id": 224,
+    "slug": "penetration-tester-lead-certificate-2",
+    "name": "Penetration Tester Lead Certificate",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 701,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 657,
+    "job_postings": 82,
+    "salary": {
+      "min": 88571,
+      "max": 199284,
+      "avg": 132856
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Risk Assessment",
+      "Ethical Hacking",
+      "Threat Intelligence",
+      "Forensics",
+      "SIEM",
+      "Incident Response",
+      "Compliance"
+    ],
+    "description": "Professional certification in penetration tester lead certificate offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 691,
+    "created_at": "2025-09-11T18:32:31.464058",
+    "updated_at": "2025-09-11T18:32:31.464060"
+  },
+  {
+    "id": 194,
+    "slug": "certified-information-security-senior",
+    "name": "Certified Information Security Senior",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 695,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 600,
+    "job_postings": 359,
+    "salary": {
+      "min": 73409,
+      "max": 165172,
+      "avg": 110114
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Malware Analysis",
+      "SIEM",
+      "Compliance",
+      "Risk Assessment",
+      "Threat Intelligence",
+      "Penetration Testing",
+      "Incident Response",
+      "Vulnerability Assessment"
+    ],
+    "description": "Professional certification in certified information security senior offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 697,
+    "created_at": "2025-09-11T18:32:31.461856",
+    "updated_at": "2025-09-11T18:32:31.461857"
+  },
+  {
+    "id": 148,
+    "slug": "certified-threat-intelligence-professional",
+    "name": "Certified Threat Intelligence Professional",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 602,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 386,
+    "job_postings": 351,
+    "salary": {
+      "min": 88658,
+      "max": 199481,
+      "avg": 132987
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compliance",
+      "Forensics",
+      "Threat Intelligence",
+      "Risk Assessment",
+      "SIEM",
+      "Ethical Hacking",
+      "Penetration Testing",
+      "Incident Response",
+      "Security Architecture",
+      "Vulnerability Assessment"
+    ],
+    "description": "Professional certification in certified threat intelligence professional offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 67,
+    "languages": [
+      "English"
+    ],
+    "ranking": 751,
+    "created_at": "2025-09-11T18:32:31.459904",
+    "updated_at": "2025-09-11T18:32:31.459906"
+  },
+  {
+    "id": 240,
+    "slug": "certified-incident-response-associate",
+    "name": "Certified Incident Response Associate",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 701,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 410,
+    "job_postings": 75,
+    "salary": {
+      "min": 87044,
+      "max": 195849,
+      "avg": 130566
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Security Architecture",
+      "Forensics",
+      "Ethical Hacking",
+      "Threat Intelligence",
+      "Incident Response",
+      "SIEM",
+      "Compliance"
+    ],
+    "description": "Professional certification in certified incident response associate offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English"
+    ],
+    "ranking": 769,
+    "created_at": "2025-09-11T18:32:31.464735",
+    "updated_at": "2025-09-11T18:32:31.464736"
+  },
+  {
+    "id": 154,
+    "slug": "certified-threat-intelligence-senior",
+    "name": "Certified Threat Intelligence Senior",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 737,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 393,
+    "job_postings": 26,
+    "salary": {
+      "min": 91031,
+      "max": 204821,
+      "avg": 136547
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Penetration Testing",
+      "Risk Assessment",
+      "Vulnerability Assessment",
+      "SIEM",
+      "Ethical Hacking",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in certified threat intelligence senior offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 781,
+    "created_at": "2025-09-11T18:32:31.460166",
+    "updated_at": "2025-09-11T18:32:31.460168"
+  },
+  {
+    "id": 201,
+    "slug": "security-analyst-senior-certificate",
+    "name": "Security Analyst Senior Certificate",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 339,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 385,
+    "job_postings": 695,
+    "salary": {
+      "min": 69916,
+      "max": 157312,
+      "avg": 104875
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Malware Analysis",
+      "Forensics",
+      "SIEM",
+      "Risk Assessment",
+      "Incident Response",
+      "Compliance"
+    ],
+    "description": "Professional certification in security analyst senior certificate offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 788,
+    "created_at": "2025-09-11T18:32:31.462159",
+    "updated_at": "2025-09-11T18:32:31.462161"
+  },
+  {
+    "id": 175,
+    "slug": "forensics-security-certification-1",
+    "name": "Forensics Security Certification",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "4 weeks",
+    "cost": 1052,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 473,
+    "job_postings": 16,
+    "salary": {
+      "min": 82847,
+      "max": 186405,
+      "avg": 124270
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Forensics",
+      "Security Architecture",
+      "Risk Assessment",
+      "Threat Intelligence",
+      "Ethical Hacking",
+      "SIEM",
+      "Penetration Testing"
+    ],
+    "description": "Professional certification in forensics security certification offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 834,
+    "created_at": "2025-09-11T18:32:31.461050",
+    "updated_at": "2025-09-11T18:32:31.461052"
+  },
+  {
+    "id": 222,
+    "slug": "forensics-expert-certificate-1",
+    "name": "Forensics Expert Certificate",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 681,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 547,
+    "job_postings": 29,
+    "salary": {
+      "min": 87107,
+      "max": 195991,
+      "avg": 130660
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Incident Response",
+      "Threat Intelligence",
+      "Forensics",
+      "Ethical Hacking",
+      "Compliance",
+      "Vulnerability Assessment",
+      "Penetration Testing"
+    ],
+    "description": "Professional certification in forensics expert certificate offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 847,
+    "created_at": "2025-09-11T18:32:31.463934",
+    "updated_at": "2025-09-11T18:32:31.463938"
+  },
+  {
+    "id": 160,
+    "slug": "advanced-threat-intelligence-certification-2",
+    "name": "Advanced Threat Intelligence Certification",
+    "issuer": "Cisco",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 298,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 302,
+    "job_postings": 23,
+    "salary": {
+      "min": 90016,
+      "max": 202536,
+      "avg": 135024
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Security Architecture",
+      "Threat Intelligence",
+      "Penetration Testing",
+      "Risk Assessment",
+      "Compliance",
+      "Incident Response",
+      "SIEM",
+      "Ethical Hacking",
+      "Vulnerability Assessment"
+    ],
+    "description": "Professional certification in advanced threat intelligence certification offered by Cisco. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 849,
+    "created_at": "2025-09-11T18:32:31.460418",
+    "updated_at": "2025-09-11T18:32:31.460419"
+  },
+  {
+    "id": 236,
+    "slug": "advanced-threat-intelligence-certification-4",
+    "name": "Advanced Threat Intelligence Certification",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 332,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 241,
+    "job_postings": 73,
+    "salary": {
+      "min": 82789,
+      "max": 186277,
+      "avg": 124184
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Security Architecture",
+      "Malware Analysis",
+      "Risk Assessment",
+      "Ethical Hacking",
+      "Incident Response",
+      "Penetration Testing"
+    ],
+    "description": "Professional certification in advanced threat intelligence certification offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "French"
+    ],
+    "ranking": 880,
+    "created_at": "2025-09-11T18:32:31.464571",
+    "updated_at": "2025-09-11T18:32:31.464572"
+  },
+  {
+    "id": 189,
+    "slug": "certified-threat-intelligence-expert",
+    "name": "Certified Threat Intelligence Expert",
+    "issuer": "Palo Alto Networks",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 464,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 347,
+    "job_postings": 92,
+    "salary": {
+      "min": 70349,
+      "max": 158287,
+      "avg": 105524
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Ethical Hacking",
+      "Incident Response",
+      "Malware Analysis",
+      "Risk Assessment",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in certified threat intelligence expert offered by Palo Alto Networks. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 882,
+    "created_at": "2025-09-11T18:32:31.461650",
+    "updated_at": "2025-09-11T18:32:31.461651"
+  },
+  {
+    "id": 180,
+    "slug": "certified-network-security-master",
+    "name": "Certified Network Security Master",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 367,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 324,
+    "job_postings": 295,
+    "salary": {
+      "min": 78473,
+      "max": 176566,
+      "avg": 117710
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Ethical Hacking",
+      "SIEM",
+      "Compliance",
+      "Security Architecture",
+      "Risk Assessment",
+      "Malware Analysis",
+      "Incident Response",
+      "Forensics",
+      "Threat Intelligence"
+    ],
+    "description": "Professional certification in certified network security master offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 889,
+    "created_at": "2025-09-11T18:32:31.461264",
+    "updated_at": "2025-09-11T18:32:31.461265"
+  },
+  {
+    "id": 156,
+    "slug": "advanced-threat-intelligence-certification-1",
+    "name": "Advanced Threat Intelligence Certification",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 438,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 239,
+    "job_postings": 531,
+    "salary": {
+      "min": 87522,
+      "max": 196925,
+      "avg": 131283
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Forensics",
+      "Vulnerability Assessment",
+      "Threat Intelligence",
+      "Ethical Hacking",
+      "Penetration Testing",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in advanced threat intelligence certification offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 912,
+    "created_at": "2025-09-11T18:32:31.460251",
+    "updated_at": "2025-09-11T18:32:31.460252"
+  },
+  {
+    "id": 184,
+    "slug": "advanced-network-security-certification-3",
+    "name": "Advanced Network Security Certification",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 790,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 425,
+    "job_postings": 83,
+    "salary": {
+      "min": 71218,
+      "max": 160242,
+      "avg": 106828
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Forensics",
+      "Incident Response",
+      "Vulnerability Assessment",
+      "Risk Assessment",
+      "Penetration Testing",
+      "Security Architecture",
+      "Compliance",
+      "Malware Analysis",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in advanced network security certification offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 923,
+    "created_at": "2025-09-11T18:32:31.461437",
+    "updated_at": "2025-09-11T18:32:31.461439"
+  },
+  {
+    "id": 185,
+    "slug": "isc²-information-assurance-administrator",
+    "name": "(ISC)² Information Assurance Administrator",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 592,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 477,
+    "job_postings": 161,
+    "salary": {
+      "min": 78906,
+      "max": 177540,
+      "avg": 118360
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Incident Response",
+      "Malware Analysis",
+      "Ethical Hacking",
+      "Forensics",
+      "Risk Assessment",
+      "SIEM"
+    ],
+    "description": "Professional certification in (isc)² information assurance administrator offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 931,
+    "created_at": "2025-09-11T18:32:31.461483",
+    "updated_at": "2025-09-11T18:32:31.461484"
+  },
+  {
+    "id": 146,
+    "slug": "advanced-incident-response-certification",
+    "name": "Advanced Incident Response Certification",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 745,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 285,
+    "job_postings": 124,
+    "salary": {
+      "min": 84088,
+      "max": 189199,
+      "avg": 126132
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Threat Intelligence",
+      "Forensics",
+      "Incident Response",
+      "Compliance",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Risk Assessment",
+      "Malware Analysis",
+      "SIEM"
+    ],
+    "description": "Professional certification in advanced incident response certification offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 972,
+    "created_at": "2025-09-11T18:32:31.459819",
+    "updated_at": "2025-09-11T18:32:31.459820"
+  },
+  {
+    "id": 208,
+    "slug": "certified-threat-intelligence-expert-1",
+    "name": "Certified Threat Intelligence Expert",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 595,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 303,
+    "job_postings": 712,
+    "salary": {
+      "min": 77647,
+      "max": 174707,
+      "avg": 116471
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Forensics",
+      "Vulnerability Assessment",
+      "Compliance",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in certified threat intelligence expert offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 978,
+    "created_at": "2025-09-11T18:32:31.462447",
+    "updated_at": "2025-09-11T18:32:31.462448"
+  },
+  {
+    "id": 212,
+    "slug": "certified-cyber-defense-lead",
+    "name": "Certified Cyber Defense Lead",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 586,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 433,
+    "job_postings": 33,
+    "salary": {
+      "min": 80060,
+      "max": 180136,
+      "avg": 120090
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "SIEM",
+      "Penetration Testing",
+      "Malware Analysis",
+      "Ethical Hacking",
+      "Risk Assessment",
+      "Vulnerability Assessment",
+      "Threat Intelligence",
+      "Compliance"
+    ],
+    "description": "Professional certification in certified cyber defense lead offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1015,
+    "created_at": "2025-09-11T18:32:31.462610",
+    "updated_at": "2025-09-11T18:32:31.462611"
+  },
+  {
+    "id": 195,
+    "slug": "certified-cyber-defense-associate",
+    "name": "Certified Cyber Defense Associate",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 635,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 411,
+    "job_postings": 31,
+    "salary": {
+      "min": 86636,
+      "max": 194932,
+      "avg": 129954
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Incident Response",
+      "Ethical Hacking",
+      "Risk Assessment",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in certified cyber defense associate offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 1028,
+    "created_at": "2025-09-11T18:32:31.461896",
+    "updated_at": "2025-09-11T18:32:31.461897"
+  },
+  {
+    "id": 172,
+    "slug": "comptia-risk-assessment-practitioner",
+    "name": "CompTIA Risk Assessment Practitioner",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 388,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 305,
+    "job_postings": 122,
+    "salary": {
+      "min": 71820,
+      "max": 161595,
+      "avg": 107730
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "SIEM",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Incident Response"
+    ],
+    "description": "Professional certification in comptia risk assessment practitioner offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 1031,
+    "created_at": "2025-09-11T18:32:31.460920",
+    "updated_at": "2025-09-11T18:32:31.460922"
+  },
+  {
+    "id": 233,
+    "slug": "penetration-tester-professional-certificate",
+    "name": "Penetration Tester Professional Certificate",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 715,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 192,
+    "job_postings": 411,
+    "salary": {
+      "min": 76502,
+      "max": 172131,
+      "avg": 114754
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Forensics",
+      "SIEM",
+      "Incident Response",
+      "Threat Intelligence",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Risk Assessment",
+      "Compliance",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in penetration tester professional certificate offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 1039,
+    "created_at": "2025-09-11T18:32:31.464445",
+    "updated_at": "2025-09-11T18:32:31.464446"
+  },
+  {
+    "id": 221,
+    "slug": "advanced-cyber-defense-certification-1",
+    "name": "Advanced Cyber Defense Certification",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 424,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 227,
+    "job_postings": 389,
+    "salary": {
+      "min": 70887,
+      "max": 159496,
+      "avg": 106331
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Penetration Testing",
+      "Security Architecture",
+      "Ethical Hacking",
+      "Malware Analysis",
+      "Incident Response",
+      "Vulnerability Assessment",
+      "Compliance",
+      "Risk Assessment",
+      "Forensics",
+      "SIEM"
+    ],
+    "description": "Professional certification in advanced cyber defense certification offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1045,
+    "created_at": "2025-09-11T18:32:31.462986",
+    "updated_at": "2025-09-11T18:32:31.462987"
+  },
+  {
+    "id": 157,
+    "slug": "advanced-incident-response-certification-1",
+    "name": "Advanced Incident Response Certification",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 311,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 269,
+    "job_postings": 42,
+    "salary": {
+      "min": 80690,
+      "max": 181552,
+      "avg": 121035
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Malware Analysis",
+      "Ethical Hacking",
+      "Forensics",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Compliance",
+      "Threat Intelligence",
+      "Risk Assessment",
+      "SIEM"
+    ],
+    "description": "Professional certification in advanced incident response certification offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1052,
+    "created_at": "2025-09-11T18:32:31.460293",
+    "updated_at": "2025-09-11T18:32:31.460294"
+  },
+  {
+    "id": 167,
+    "slug": "comptia-cybersecurity-expert",
+    "name": "CompTIA Cybersecurity Expert",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 260,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 117,
+    "job_postings": 510,
+    "salary": {
+      "min": 80902,
+      "max": 182029,
+      "avg": 121353
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Ethical Hacking",
+      "Risk Assessment",
+      "SIEM",
+      "Forensics",
+      "Penetration Testing",
+      "Security Architecture",
+      "Incident Response"
+    ],
+    "description": "Professional certification in comptia cybersecurity expert offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 1053,
+    "created_at": "2025-09-11T18:32:31.460714",
+    "updated_at": "2025-09-11T18:32:31.460715"
+  },
+  {
+    "id": 204,
+    "slug": "compliance-security-certification-1",
+    "name": "Compliance Security Certification",
+    "issuer": "Cisco",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 447,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 164,
+    "job_postings": 23,
+    "salary": {
+      "min": 74550,
+      "max": 167737,
+      "avg": 111825
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Penetration Testing",
+      "Incident Response",
+      "SIEM",
+      "Compliance",
+      "Forensics",
+      "Threat Intelligence",
+      "Risk Assessment",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in compliance security certification offered by Cisco. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1055,
+    "created_at": "2025-09-11T18:32:31.462281",
+    "updated_at": "2025-09-11T18:32:31.462282"
+  },
+  {
+    "id": 227,
+    "slug": "ethical-hacker-security-certification-3",
+    "name": "Ethical Hacker Security Certification",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 792,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 335,
+    "job_postings": 33,
+    "salary": {
+      "min": 78970,
+      "max": 177684,
+      "avg": 118456
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Threat Intelligence",
+      "Compliance",
+      "Forensics",
+      "Penetration Testing",
+      "Ethical Hacking",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in ethical hacker security certification offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 1060,
+    "created_at": "2025-09-11T18:32:31.464187",
+    "updated_at": "2025-09-11T18:32:31.464188"
+  },
+  {
+    "id": 163,
+    "slug": "certified-information-security-lead",
+    "name": "Certified Information Security Lead",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 402,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 145,
+    "job_postings": 9,
+    "salary": {
+      "min": 74154,
+      "max": 166846,
+      "avg": 111231
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "SIEM",
+      "Malware Analysis",
+      "Compliance",
+      "Threat Intelligence",
+      "Security Architecture",
+      "Vulnerability Assessment",
+      "Incident Response",
+      "Risk Assessment",
+      "Penetration Testing",
+      "Forensics"
+    ],
+    "description": "Professional certification in certified information security lead offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1087,
+    "created_at": "2025-09-11T18:32:31.460544",
+    "updated_at": "2025-09-11T18:32:31.460546"
+  },
+  {
+    "id": 177,
+    "slug": "advanced-threat-intelligence-certification-3",
+    "name": "Advanced Threat Intelligence Certification",
+    "issuer": "Cisco",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 441,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 194,
+    "job_postings": 97,
+    "salary": {
+      "min": 71988,
+      "max": 161973,
+      "avg": 107982
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Vulnerability Assessment",
+      "Threat Intelligence",
+      "Security Architecture",
+      "Incident Response",
+      "Compliance",
+      "Forensics"
+    ],
+    "description": "Professional certification in advanced threat intelligence certification offered by Cisco. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "French"
+    ],
+    "ranking": 1100,
+    "created_at": "2025-09-11T18:32:31.461136",
+    "updated_at": "2025-09-11T18:32:31.461137"
+  },
+  {
+    "id": 174,
+    "slug": "security-analyst-security-certification",
+    "name": "Security Analyst Security Certification",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 958,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 484,
+    "job_postings": 79,
+    "salary": {
+      "min": 79502,
+      "max": 178880,
+      "avg": 119253
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Compliance",
+      "Vulnerability Assessment",
+      "Incident Response",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in security analyst security certification offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 1106,
+    "created_at": "2025-09-11T18:32:31.461007",
+    "updated_at": "2025-09-11T18:32:31.461008"
+  },
+  {
+    "id": 147,
+    "slug": "compliance-lead-certificate",
+    "name": "Compliance Lead Certificate",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 282,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 109,
+    "job_postings": 304,
+    "salary": {
+      "min": 83986,
+      "max": 188970,
+      "avg": 125980
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Incident Response",
+      "Vulnerability Assessment",
+      "Risk Assessment",
+      "Penetration Testing",
+      "Forensics",
+      "Ethical Hacking",
+      "SIEM",
+      "Security Architecture",
+      "Compliance",
+      "Threat Intelligence"
+    ],
+    "description": "Professional certification in compliance lead certificate offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 1134,
+    "created_at": "2025-09-11T18:32:31.459862",
+    "updated_at": "2025-09-11T18:32:31.459863"
+  },
+  {
+    "id": 188,
+    "slug": "ec-council-security-management-administrator",
+    "name": "EC-Council Security Management Administrator",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Specialty",
+    "duration": "8 hours",
+    "cost": 477,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 315,
+    "job_postings": 35,
+    "salary": {
+      "min": 91036,
+      "max": 204831,
+      "avg": 136554
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "Compliance",
+      "SIEM",
+      "Vulnerability Assessment",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in ec-council security management administrator offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 1167,
+    "created_at": "2025-09-11T18:32:31.461607",
+    "updated_at": "2025-09-11T18:32:31.461608"
+  },
+  {
+    "id": 187,
+    "slug": "penetration-tester-lead-certificate-1",
+    "name": "Penetration Tester Lead Certificate",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 626,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 139,
+    "job_postings": 150,
+    "salary": {
+      "min": 83762,
+      "max": 188465,
+      "avg": 125643
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Ethical Hacking",
+      "SIEM",
+      "Penetration Testing",
+      "Threat Intelligence",
+      "Compliance",
+      "Malware Analysis",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in penetration tester lead certificate offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1178,
+    "created_at": "2025-09-11T18:32:31.461565",
+    "updated_at": "2025-09-11T18:32:31.461566"
+  },
+  {
+    "id": 165,
+    "slug": "ethical-hacker-lead-certificate",
+    "name": "Ethical Hacker Lead Certificate",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 895,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 218,
+    "job_postings": 27,
+    "salary": {
+      "min": 80772,
+      "max": 181737,
+      "avg": 121158
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Forensics",
+      "Incident Response",
+      "Risk Assessment",
+      "SIEM",
+      "Vulnerability Assessment",
+      "Threat Intelligence",
+      "Malware Analysis",
+      "Compliance"
+    ],
+    "description": "Professional certification in ethical hacker lead certificate offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1209,
+    "created_at": "2025-09-11T18:32:31.460630",
+    "updated_at": "2025-09-11T18:32:31.460631"
+  },
+  {
+    "id": 159,
+    "slug": "advanced-network-security-certification-1",
+    "name": "Advanced Network Security Certification",
+    "issuer": "Palo Alto Networks",
+    "domain": "cybersecurity",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 376,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 26,
+    "job_postings": 26,
+    "salary": {
+      "min": 75066,
+      "max": 168899,
+      "avg": 112599
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Ethical Hacking",
+      "Threat Intelligence",
+      "SIEM"
+    ],
+    "description": "Professional certification in advanced network security certification offered by Palo Alto Networks. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1225,
+    "created_at": "2025-09-11T18:32:31.460375",
+    "updated_at": "2025-09-11T18:32:31.460377"
+  },
+  {
+    "id": 181,
+    "slug": "certified-network-security-senior",
+    "name": "Certified Network Security Senior",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 461,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 252,
+    "job_postings": 46,
+    "salary": {
+      "min": 73422,
+      "max": 165200,
+      "avg": 110133
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Incident Response",
+      "Threat Intelligence",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Ethical Hacking",
+      "Compliance",
+      "SIEM",
+      "Risk Assessment",
+      "Security Architecture",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in certified network security senior offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1227,
+    "created_at": "2025-09-11T18:32:31.461306",
+    "updated_at": "2025-09-11T18:32:31.461308"
+  },
+  {
+    "id": 191,
+    "slug": "compliance-security-certification",
+    "name": "Compliance Security Certification",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 338,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 50,
+    "job_postings": 48,
+    "salary": {
+      "min": 83200,
+      "max": 187200,
+      "avg": 124800
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "SIEM",
+      "Vulnerability Assessment",
+      "Forensics",
+      "Security Architecture",
+      "Threat Intelligence",
+      "Ethical Hacking",
+      "Penetration Testing"
+    ],
+    "description": "Professional certification in compliance security certification offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 1232,
+    "created_at": "2025-09-11T18:32:31.461733",
+    "updated_at": "2025-09-11T18:32:31.461734"
+  },
+  {
+    "id": 168,
+    "slug": "security-analyst-associate-certificate",
+    "name": "Security Analyst Associate Certificate",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 448,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 98,
+    "job_postings": 20,
+    "salary": {
+      "min": 69745,
+      "max": 156926,
+      "avg": 104617
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Compliance",
+      "Forensics",
+      "Threat Intelligence",
+      "SIEM",
+      "Vulnerability Assessment",
+      "Security Architecture"
+    ],
+    "description": "Professional certification in security analyst associate certificate offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1245,
+    "created_at": "2025-09-11T18:32:31.460756",
+    "updated_at": "2025-09-11T18:32:31.460757"
+  },
+  {
+    "id": 231,
+    "slug": "advanced-incident-response-certification-2",
+    "name": "Advanced Incident Response Certification",
+    "issuer": "EC-Council",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 686,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 103,
+    "job_postings": 380,
+    "salary": {
+      "min": 78009,
+      "max": 175521,
+      "avg": 117014
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Ethical Hacking",
+      "Penetration Testing",
+      "Security Architecture",
+      "Vulnerability Assessment",
+      "Compliance"
+    ],
+    "description": "Professional certification in advanced incident response certification offered by EC-Council. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 1246,
+    "created_at": "2025-09-11T18:32:31.464359",
+    "updated_at": "2025-09-11T18:32:31.464360"
+  },
+  {
+    "id": 232,
+    "slug": "certified-cyber-defense-lead-1",
+    "name": "Certified Cyber Defense Lead",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 478,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 69,
+    "job_postings": 20,
+    "salary": {
+      "min": 79911,
+      "max": 179800,
+      "avg": 119867
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Security Architecture",
+      "Forensics",
+      "Risk Assessment",
+      "Threat Intelligence",
+      "Ethical Hacking",
+      "Penetration Testing"
+    ],
+    "description": "Professional certification in certified cyber defense lead offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1247,
+    "created_at": "2025-09-11T18:32:31.464401",
+    "updated_at": "2025-09-11T18:32:31.464402"
+  },
+  {
+    "id": 205,
+    "slug": "advanced-network-security-certification-4",
+    "name": "Advanced Network Security Certification",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 504,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 134,
+    "job_postings": 153,
+    "salary": {
+      "min": 87524,
+      "max": 196931,
+      "avg": 131287
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Incident Response",
+      "Penetration Testing",
+      "Compliance",
+      "Ethical Hacking",
+      "Security Architecture",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in advanced network security certification offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Japanese",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 1253,
+    "created_at": "2025-09-11T18:32:31.462324",
+    "updated_at": "2025-09-11T18:32:31.462326"
+  },
+  {
+    "id": 214,
+    "slug": "penetration-tester-security-certification",
+    "name": "Penetration Tester Security Certification",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 774,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 145,
+    "job_postings": 37,
+    "salary": {
+      "min": 78024,
+      "max": 175556,
+      "avg": 117037
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "Forensics",
+      "SIEM",
+      "Ethical Hacking",
+      "Compliance",
+      "Security Architecture",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in penetration tester security certification offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1257,
+    "created_at": "2025-09-11T18:32:31.462694",
+    "updated_at": "2025-09-11T18:32:31.462695"
+  },
+  {
+    "id": 176,
+    "slug": "security-analyst-foundational-certificate",
+    "name": "Security Analyst Foundational Certificate",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 913,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 270,
+    "job_postings": 47,
+    "salary": {
+      "min": 91774,
+      "max": 206492,
+      "avg": 137661
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Security Architecture",
+      "Incident Response",
+      "Risk Assessment",
+      "Compliance",
+      "Ethical Hacking",
+      "Threat Intelligence",
+      "Vulnerability Assessment",
+      "Forensics",
+      "SIEM",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in security analyst foundational certificate offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 1261,
+    "created_at": "2025-09-11T18:32:31.461094",
+    "updated_at": "2025-09-11T18:32:31.461095"
+  },
+  {
+    "id": 228,
+    "slug": "ethical-hacker-master-certificate",
+    "name": "Ethical Hacker Master Certificate",
+    "issuer": "Palo Alto Networks",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 551,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 103,
+    "job_postings": 46,
+    "salary": {
+      "min": 75085,
+      "max": 168942,
+      "avg": 112628
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Malware Analysis",
+      "Risk Assessment",
+      "Compliance",
+      "Security Architecture",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "SIEM",
+      "Incident Response"
+    ],
+    "description": "Professional certification in ethical hacker master certificate offered by Palo Alto Networks. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1286,
+    "created_at": "2025-09-11T18:32:31.464230",
+    "updated_at": "2025-09-11T18:32:31.464231"
+  },
+  {
+    "id": 218,
+    "slug": "certified-incident-response-advanced",
+    "name": "Certified Incident Response Advanced",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 583,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 111,
+    "job_postings": 91,
+    "salary": {
+      "min": 75679,
+      "max": 170279,
+      "avg": 113519
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Ethical Hacking",
+      "Compliance",
+      "Security Architecture",
+      "Malware Analysis",
+      "Incident Response",
+      "Forensics",
+      "Penetration Testing",
+      "Threat Intelligence",
+      "Risk Assessment",
+      "SIEM"
+    ],
+    "description": "Professional certification in certified incident response advanced offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1288,
+    "created_at": "2025-09-11T18:32:31.462861",
+    "updated_at": "2025-09-11T18:32:31.462862"
+  },
+  {
+    "id": 170,
+    "slug": "ethical-hacker-associate-certificate",
+    "name": "Ethical Hacker Associate Certificate",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 801,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 70,
+    "job_postings": 774,
+    "salary": {
+      "min": 82075,
+      "max": 184669,
+      "avg": 123113
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Incident Response",
+      "Compliance",
+      "Malware Analysis",
+      "Threat Intelligence",
+      "Forensics",
+      "Risk Assessment",
+      "Penetration Testing",
+      "Security Architecture",
+      "SIEM",
+      "Vulnerability Assessment"
+    ],
+    "description": "Professional certification in ethical hacker associate certificate offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1289,
+    "created_at": "2025-09-11T18:32:31.460839",
+    "updated_at": "2025-09-11T18:32:31.460840"
+  },
+  {
+    "id": 186,
+    "slug": "security-analyst-professional-certificate",
+    "name": "Security Analyst Professional Certificate",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 836,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 269,
+    "job_postings": 8,
+    "salary": {
+      "min": 87238,
+      "max": 196286,
+      "avg": 130857
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Security Architecture",
+      "Ethical Hacking",
+      "SIEM",
+      "Threat Intelligence",
+      "Compliance",
+      "Forensics",
+      "Vulnerability Assessment",
+      "Incident Response",
+      "Penetration Testing",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in security analyst professional certificate offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1292,
+    "created_at": "2025-09-11T18:32:31.461525",
+    "updated_at": "2025-09-11T18:32:31.461526"
+  },
+  {
+    "id": 162,
+    "slug": "certified-information-security-master",
+    "name": "Certified Information Security Master",
+    "issuer": "CrowdStrike",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 535,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 178,
+    "job_postings": 70,
+    "salary": {
+      "min": 68112,
+      "max": 153252,
+      "avg": 102168
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Incident Response",
+      "Penetration Testing",
+      "Malware Analysis",
+      "Risk Assessment",
+      "Security Architecture",
+      "Threat Intelligence",
+      "Forensics"
+    ],
+    "description": "Professional certification in certified information security master offered by CrowdStrike. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1294,
+    "created_at": "2025-09-11T18:32:31.460503",
+    "updated_at": "2025-09-11T18:32:31.460504"
+  },
+  {
+    "id": 149,
+    "slug": "advanced-network-security-certification",
+    "name": "Advanced Network Security Certification",
+    "issuer": "IAPP",
+    "domain": "cybersecurity",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 459,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 182,
+    "job_postings": 15,
+    "salary": {
+      "min": 83816,
+      "max": 188588,
+      "avg": 125725
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Malware Analysis",
+      "Vulnerability Assessment",
+      "Threat Intelligence",
+      "Risk Assessment",
+      "Incident Response",
+      "Security Architecture",
+      "Penetration Testing",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in advanced network security certification offered by IAPP. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 1298,
+    "created_at": "2025-09-11T18:32:31.459945",
+    "updated_at": "2025-09-11T18:32:31.459947"
+  },
+  {
+    "id": 150,
+    "slug": "forensics-security-certification",
+    "name": "Forensics Security Certification",
+    "issuer": "CompTIA",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 291,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 53,
+    "job_postings": 32,
+    "salary": {
+      "min": 83613,
+      "max": 188130,
+      "avg": 125420
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Incident Response",
+      "Vulnerability Assessment",
+      "Security Architecture",
+      "SIEM",
+      "Malware Analysis",
+      "Forensics",
+      "Ethical Hacking",
+      "Penetration Testing",
+      "Threat Intelligence"
+    ],
+    "description": "Professional certification in forensics security certification offered by CompTIA. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1314,
+    "created_at": "2025-09-11T18:32:31.459987",
+    "updated_at": "2025-09-11T18:32:31.459988"
+  },
+  {
+    "id": 210,
+    "slug": "ethical-hacker-security-certification-1",
+    "name": "Ethical Hacker Security Certification",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 948,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 313,
+    "job_postings": 22,
+    "salary": {
+      "min": 79169,
+      "max": 178131,
+      "avg": 118754
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Threat Intelligence",
+      "Risk Assessment",
+      "Security Architecture",
+      "Malware Analysis",
+      "Penetration Testing",
+      "SIEM",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in ethical hacker security certification offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1323,
+    "created_at": "2025-09-11T18:32:31.462529",
+    "updated_at": "2025-09-11T18:32:31.462530"
+  },
+  {
+    "id": 239,
+    "slug": "penetration-tester-security-certification-1",
+    "name": "Penetration Tester Security Certification",
+    "issuer": "(ISC)²",
+    "domain": "cybersecurity",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 549,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 113,
+    "job_postings": 294,
+    "salary": {
+      "min": 84510,
+      "max": 190147,
+      "avg": 126765
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Ethical Hacking",
+      "Incident Response",
+      "Security Architecture",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Compliance"
+    ],
+    "description": "Professional certification in penetration tester security certification offered by (ISC)². Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1342,
+    "created_at": "2025-09-11T18:32:31.464693",
+    "updated_at": "2025-09-11T18:32:31.464694"
+  },
+  {
+    "id": 213,
+    "slug": "certified-network-security-associate",
+    "name": "Certified Network Security Associate",
+    "issuer": "Check Point",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 333,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 16,
+    "job_postings": 13,
+    "salary": {
+      "min": 75760,
+      "max": 170460,
+      "avg": 113640
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "SIEM",
+      "Vulnerability Assessment",
+      "Forensics",
+      "Compliance",
+      "Incident Response",
+      "Threat Intelligence",
+      "Security Architecture",
+      "Penetration Testing",
+      "Ethical Hacking"
+    ],
+    "description": "Professional certification in certified network security associate offered by Check Point. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 1343,
+    "created_at": "2025-09-11T18:32:31.462652",
+    "updated_at": "2025-09-11T18:32:31.462654"
+  },
+  {
+    "id": 217,
+    "slug": "security-analyst-security-certification-1",
+    "name": "Security Analyst Security Certification",
+    "issuer": "Cisco",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 261,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 50,
+    "job_postings": 32,
+    "salary": {
+      "min": 68424,
+      "max": 153955,
+      "avg": 102636
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Vulnerability Assessment",
+      "Malware Analysis",
+      "Penetration Testing",
+      "Threat Intelligence",
+      "Incident Response",
+      "Compliance",
+      "Security Architecture",
+      "Ethical Hacking",
+      "Forensics",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in security analyst security certification offered by Cisco. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 1357,
+    "created_at": "2025-09-11T18:32:31.462820",
+    "updated_at": "2025-09-11T18:32:31.462821"
+  },
+  {
+    "id": 155,
+    "slug": "compliance-senior-certificate",
+    "name": "Compliance Senior Certificate",
+    "issuer": "SANS",
+    "domain": "cybersecurity",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 894,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 185,
+    "job_postings": 61,
+    "salary": {
+      "min": 76022,
+      "max": 171050,
+      "avg": 114033
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compliance",
+      "Incident Response",
+      "Ethical Hacking",
+      "Risk Assessment",
+      "Penetration Testing",
+      "Forensics",
+      "SIEM",
+      "Security Architecture",
+      "Vulnerability Assessment",
+      "Malware Analysis"
+    ],
+    "description": "Professional certification in compliance senior certificate offered by SANS. Validates expertise in Cybersecurity and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1371,
+    "created_at": "2025-09-11T18:32:31.460208",
+    "updated_at": "2025-09-11T18:32:31.460209"
+  }
+]

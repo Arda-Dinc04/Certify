@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1378,
+    "slug": "assessment-administration-certification",
+    "name": "Assessment Administration Certification",
+    "issuer": "Green Business Certification",
+    "domain": "environmental",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 316,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 790,
+    "job_postings": 90,
+    "salary": {
+      "min": 51583,
+      "max": 113484,
+      "avg": 77375
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Sustainability",
+      "Green Building",
+      "Waste Management",
+      "Environmental Assessment",
+      "Environmental Compliance",
+      "Carbon Management",
+      "Renewable Energy"
+    ],
+    "description": "Professional certification in assessment administration certification offered by Green Business Certification. Validates expertise in Environmental and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 21,
+    "created_at": "2025-09-11T18:32:31.512928",
+    "updated_at": "2025-09-11T18:32:31.512931"
+  },
+  {
+    "id": 1377,
+    "slug": "green-energy-advanced",
+    "name": "Green Energy Advanced",
+    "issuer": "Green Business Certification",
+    "domain": "environmental",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 362,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 615,
+    "job_postings": 18,
+    "salary": {
+      "min": 47952,
+      "max": 105495,
+      "avg": 71928
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Waste Management",
+      "Carbon Management",
+      "Green Building",
+      "Environmental Compliance",
+      "Sustainability"
+    ],
+    "description": "Professional certification in green energy advanced offered by Green Business Certification. Validates expertise in Environmental and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "German",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 283,
+    "created_at": "2025-09-11T18:32:31.512842",
+    "updated_at": "2025-09-11T18:32:31.512844"
+  },
+  {
+    "id": 1376,
+    "slug": "iso-14001-administration-certificate",
+    "name": "ISO 14001 Administration Certificate",
+    "issuer": "Green Business Certification",
+    "domain": "environmental",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 290,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 277,
+    "job_postings": 232,
+    "salary": {
+      "min": 55838,
+      "max": 122844,
+      "avg": 83757
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Renewable Energy",
+      "Waste Management",
+      "Carbon Management",
+      "Environmental Assessment",
+      "Green Building",
+      "Environmental Compliance",
+      "Sustainability"
+    ],
+    "description": "Professional certification in iso 14001 administration certificate offered by Green Business Certification. Validates expertise in Environmental and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 904,
+    "created_at": "2025-09-11T18:32:31.512795",
+    "updated_at": "2025-09-11T18:32:31.512797"
+  },
+  {
+    "id": 1379,
+    "slug": "green-manufacturing-master",
+    "name": "Green Manufacturing Master",
+    "issuer": "Green Business Certification",
+    "domain": "environmental",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 386,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 388,
+    "job_postings": 47,
+    "salary": {
+      "min": 52073,
+      "max": 114561,
+      "avg": 78109
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Renewable Energy",
+      "Carbon Management",
+      "Environmental Assessment",
+      "Sustainability",
+      "Green Building",
+      "Waste Management",
+      "Environmental Compliance"
+    ],
+    "description": "Professional certification in green manufacturing master offered by Green Business Certification. Validates expertise in Environmental and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 957,
+    "created_at": "2025-09-11T18:32:31.513027",
+    "updated_at": "2025-09-11T18:32:31.513031"
+  },
+  {
+    "id": 1375,
+    "slug": "green-environmental-engineering-professional",
+    "name": "Green Environmental Engineering Professional",
+    "issuer": "Green Business Certification",
+    "domain": "environmental",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 279,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 226,
+    "job_postings": 5,
+    "salary": {
+      "min": 43527,
+      "max": 95760,
+      "avg": 65291
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Environmental Assessment",
+      "Green Building",
+      "Environmental Compliance",
+      "Waste Management",
+      "Sustainability",
+      "Carbon Management",
+      "Renewable Energy"
+    ],
+    "description": "Professional certification in green environmental engineering professional offered by Green Business Certification. Validates expertise in Environmental and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1207,
+    "created_at": "2025-09-11T18:32:31.512695",
+    "updated_at": "2025-09-11T18:32:31.512697"
+  },
+  {
+    "id": 1380,
+    "slug": "carbon-trust-administration-certificate",
+    "name": "Carbon Trust Administration Certificate",
+    "issuer": "Green Business Certification",
+    "domain": "environmental",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 296,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 93,
+    "job_postings": 413,
+    "salary": {
+      "min": 53797,
+      "max": 118355,
+      "avg": 80696
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Waste Management",
+      "Renewable Energy",
+      "Environmental Assessment",
+      "Environmental Compliance",
+      "Carbon Management"
+    ],
+    "description": "Professional certification in carbon trust administration certificate offered by Green Business Certification. Validates expertise in Environmental and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 1268,
+    "created_at": "2025-09-11T18:32:31.513145",
+    "updated_at": "2025-09-11T18:32:31.513148"
+  }
+]

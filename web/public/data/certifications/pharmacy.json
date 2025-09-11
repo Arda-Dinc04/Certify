@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 1181,
+    "slug": "industrial-engineering-certificate",
+    "name": "Industrial Engineering Certificate",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 399,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 793,
+    "job_postings": 1276,
+    "salary": {
+      "min": 80618,
+      "max": 141082,
+      "avg": 105811
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Drug Interactions",
+      "Pharmacology",
+      "Compounding",
+      "Clinical Pharmacy",
+      "Medication Therapy",
+      "Patient Counseling",
+      "Pharmaceutical Care",
+      "Pharmacy Law"
+    ],
+    "description": "Professional certification in industrial engineering certificate offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 30,
+    "created_at": "2025-09-11T18:32:31.503706",
+    "updated_at": "2025-09-11T18:32:31.503707"
+  },
+  {
+    "id": 1188,
+    "slug": "licensed-pharmacy-technician-advanced",
+    "name": "Licensed Pharmacy Technician Advanced",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 120,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 737,
+    "job_postings": 753,
+    "salary": {
+      "min": 73356,
+      "max": 128373,
+      "avg": 96279
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Pharmacology",
+      "Compounding",
+      "Drug Interactions",
+      "Medication Therapy",
+      "Clinical Pharmacy",
+      "Patient Counseling",
+      "Pharmaceutical Care",
+      "Pharmacy Law"
+    ],
+    "description": "Professional certification in licensed pharmacy technician advanced offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 41,
+    "created_at": "2025-09-11T18:32:31.503986",
+    "updated_at": "2025-09-11T18:32:31.503987"
+  },
+  {
+    "id": 1179,
+    "slug": "licensed-clinical-pharmacist-associate",
+    "name": "Licensed Clinical Pharmacist Associate",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 558,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 772,
+    "job_postings": 221,
+    "salary": {
+      "min": 86450,
+      "max": 151288,
+      "avg": 113466
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Pharmacology",
+      "Drug Interactions",
+      "Clinical Pharmacy",
+      "Pharmaceutical Care",
+      "Medication Therapy"
+    ],
+    "description": "Professional certification in licensed clinical pharmacist associate offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 201,
+    "created_at": "2025-09-11T18:32:31.503623",
+    "updated_at": "2025-09-11T18:32:31.503625"
+  },
+  {
+    "id": 1166,
+    "slug": "compounding-development-certification",
+    "name": "Compounding Development Certification",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 147,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 574,
+    "job_postings": 122,
+    "salary": {
+      "min": 86215,
+      "max": 150877,
+      "avg": 113157
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Pharmaceutical Care",
+      "Medication Therapy",
+      "Pharmacology",
+      "Drug Interactions",
+      "Pharmacy Law",
+      "Patient Counseling",
+      "Compounding",
+      "Clinical Pharmacy"
+    ],
+    "description": "Professional certification in compounding development certification offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 259,
+    "created_at": "2025-09-11T18:32:31.503094",
+    "updated_at": "2025-09-11T18:32:31.503095"
+  },
+  {
+    "id": 1180,
+    "slug": "consulting-administration-certification",
+    "name": "Consulting Administration Certification",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 173,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 626,
+    "job_postings": 145,
+    "salary": {
+      "min": 74675,
+      "max": 130682,
+      "avg": 98012
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Medication Therapy",
+      "Pharmacology",
+      "Clinical Pharmacy",
+      "Pharmaceutical Care",
+      "Pharmacy Law",
+      "Drug Interactions",
+      "Compounding"
+    ],
+    "description": "Professional certification in consulting administration certification offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English"
+    ],
+    "ranking": 304,
+    "created_at": "2025-09-11T18:32:31.503665",
+    "updated_at": "2025-09-11T18:32:31.503666"
+  },
+  {
+    "id": 1175,
+    "slug": "licensed-pharmacist-senior",
+    "name": "Licensed Pharmacist Senior",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 328,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 638,
+    "job_postings": 620,
+    "salary": {
+      "min": 89343,
+      "max": 156351,
+      "avg": 117263
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Pharmacy Law",
+      "Pharmacology",
+      "Compounding",
+      "Medication Therapy",
+      "Patient Counseling",
+      "Clinical Pharmacy",
+      "Drug Interactions",
+      "Pharmaceutical Care"
+    ],
+    "description": "Professional certification in licensed pharmacist senior offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 336,
+    "created_at": "2025-09-11T18:32:31.503458",
+    "updated_at": "2025-09-11T18:32:31.503461"
+  },
+  {
+    "id": 1183,
+    "slug": "clinical-analytics-certification",
+    "name": "Clinical Analytics Certification",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 200,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 516,
+    "job_postings": 22,
+    "salary": {
+      "min": 79503,
+      "max": 139131,
+      "avg": 104348
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compounding",
+      "Patient Counseling",
+      "Medication Therapy",
+      "Drug Interactions"
+    ],
+    "description": "Professional certification in clinical analytics certification offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 340,
+    "created_at": "2025-09-11T18:32:31.503785",
+    "updated_at": "2025-09-11T18:32:31.503786"
+  },
+  {
+    "id": 1185,
+    "slug": "licensed-clinical-pharmacist-expert",
+    "name": "Licensed Clinical Pharmacist Expert",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 162,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 450,
+    "job_postings": 192,
+    "salary": {
+      "min": 68803,
+      "max": 120405,
+      "avg": 90304
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Pharmacy Law",
+      "Medication Therapy",
+      "Patient Counseling",
+      "Drug Interactions"
+    ],
+    "description": "Professional certification in licensed clinical pharmacist expert offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 393,
+    "created_at": "2025-09-11T18:32:31.503866",
+    "updated_at": "2025-09-11T18:32:31.503867"
+  },
+  {
+    "id": 1172,
+    "slug": "certified-hospital-pharmacy-expert",
+    "name": "Certified Hospital Pharmacy Expert",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 201,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 535,
+    "job_postings": 48,
+    "salary": {
+      "min": 79977,
+      "max": 139961,
+      "avg": 104970
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Clinical Pharmacy",
+      "Compounding",
+      "Pharmacy Law",
+      "Drug Interactions",
+      "Patient Counseling",
+      "Pharmaceutical Care",
+      "Medication Therapy",
+      "Pharmacology"
+    ],
+    "description": "Professional certification in certified hospital pharmacy expert offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 405,
+    "created_at": "2025-09-11T18:32:31.503338",
+    "updated_at": "2025-09-11T18:32:31.503339"
+  },
+  {
+    "id": 1184,
+    "slug": "nabp-pharmacy-development-associate",
+    "name": "NABP Pharmacy Development Associate",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 496,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 540,
+    "job_postings": 624,
+    "salary": {
+      "min": 71190,
+      "max": 124583,
+      "avg": 93437
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Patient Counseling",
+      "Drug Interactions",
+      "Clinical Pharmacy",
+      "Pharmacology",
+      "Medication Therapy"
+    ],
+    "description": "Professional certification in nabp pharmacy development associate offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 465,
+    "created_at": "2025-09-11T18:32:31.503827",
+    "updated_at": "2025-09-11T18:32:31.503829"
+  },
+  {
+    "id": 1168,
+    "slug": "hospital-development-certificate",
+    "name": "Hospital Development Certificate",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 496,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 642,
+    "job_postings": 13,
+    "salary": {
+      "min": 88181,
+      "max": 154317,
+      "avg": 115738
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Pharmacy Law",
+      "Clinical Pharmacy",
+      "Medication Therapy",
+      "Patient Counseling",
+      "Drug Interactions",
+      "Pharmacology",
+      "Compounding",
+      "Pharmaceutical Care"
+    ],
+    "description": "Professional certification in hospital development certificate offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 528,
+    "created_at": "2025-09-11T18:32:31.503175",
+    "updated_at": "2025-09-11T18:32:31.503176"
+  },
+  {
+    "id": 1173,
+    "slug": "licensed-clinical-pharmacist-master",
+    "name": "Licensed Clinical Pharmacist Master",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 329,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 384,
+    "job_postings": 670,
+    "salary": {
+      "min": 87829,
+      "max": 153700,
+      "avg": 115275
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Pharmacy Law",
+      "Patient Counseling",
+      "Pharmaceutical Care",
+      "Compounding",
+      "Medication Therapy"
+    ],
+    "description": "Professional certification in licensed clinical pharmacist master offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 694,
+    "created_at": "2025-09-11T18:32:31.503380",
+    "updated_at": "2025-09-11T18:32:31.503381"
+  },
+  {
+    "id": 1171,
+    "slug": "consulting-strategy-certification",
+    "name": "Consulting Strategy Certification",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 460,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 267,
+    "job_postings": 794,
+    "salary": {
+      "min": 88965,
+      "max": 155689,
+      "avg": 116767
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Compounding",
+      "Patient Counseling",
+      "Clinical Pharmacy",
+      "Drug Interactions",
+      "Pharmaceutical Care",
+      "Pharmacy Law",
+      "Pharmacology",
+      "Medication Therapy"
+    ],
+    "description": "Professional certification in consulting strategy certification offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 730,
+    "created_at": "2025-09-11T18:32:31.503296",
+    "updated_at": "2025-09-11T18:32:31.503297"
+  },
+  {
+    "id": 1186,
+    "slug": "certified-industrial-expert",
+    "name": "Certified Industrial Expert",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 194,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 452,
+    "job_postings": 103,
+    "salary": {
+      "min": 81549,
+      "max": 142711,
+      "avg": 107033
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Clinical Pharmacy",
+      "Medication Therapy",
+      "Drug Interactions",
+      "Pharmacology",
+      "Compounding",
+      "Pharmaceutical Care",
+      "Patient Counseling",
+      "Pharmacy Law"
+    ],
+    "description": "Professional certification in certified industrial expert offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 782,
+    "created_at": "2025-09-11T18:32:31.503906",
+    "updated_at": "2025-09-11T18:32:31.503907"
+  },
+  {
+    "id": 1169,
+    "slug": "licensed-pharmacist-advanced",
+    "name": "Licensed Pharmacist Advanced",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 162,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 398,
+    "job_postings": 43,
+    "salary": {
+      "min": 88594,
+      "max": 155040,
+      "avg": 116280
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Medication Therapy",
+      "Clinical Pharmacy",
+      "Compounding",
+      "Pharmacology",
+      "Pharmaceutical Care",
+      "Drug Interactions"
+    ],
+    "description": "Professional certification in licensed pharmacist advanced offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 822,
+    "created_at": "2025-09-11T18:32:31.503215",
+    "updated_at": "2025-09-11T18:32:31.503216"
+  },
+  {
+    "id": 1178,
+    "slug": "certified-industrial-analyst",
+    "name": "Certified Industrial Analyst",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 171,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 159,
+    "job_postings": 632,
+    "salary": {
+      "min": 80572,
+      "max": 141002,
+      "avg": 105751
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compounding",
+      "Pharmacology",
+      "Pharmaceutical Care",
+      "Medication Therapy",
+      "Clinical Pharmacy",
+      "Drug Interactions",
+      "Patient Counseling",
+      "Pharmacy Law"
+    ],
+    "description": "Professional certification in certified industrial analyst offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 66,
+    "languages": [
+      "English"
+    ],
+    "ranking": 823,
+    "created_at": "2025-09-11T18:32:31.503580",
+    "updated_at": "2025-09-11T18:32:31.503582"
+  },
+  {
+    "id": 1167,
+    "slug": "hospital-administration-certificate",
+    "name": "Hospital Administration Certificate",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 106,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 80,
+    "job_postings": 320,
+    "salary": {
+      "min": 84121,
+      "max": 147212,
+      "avg": 110409
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Clinical Pharmacy",
+      "Pharmaceutical Care",
+      "Pharmacology",
+      "Patient Counseling",
+      "Drug Interactions",
+      "Medication Therapy"
+    ],
+    "description": "Professional certification in hospital administration certificate offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "German",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 949,
+    "created_at": "2025-09-11T18:32:31.503135",
+    "updated_at": "2025-09-11T18:32:31.503136"
+  },
+  {
+    "id": 1165,
+    "slug": "research-development-certification",
+    "name": "Research Development Certification",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 460,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 120,
+    "job_postings": 160,
+    "salary": {
+      "min": 86522,
+      "max": 151414,
+      "avg": 113561
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Pharmaceutical Care",
+      "Pharmacy Law",
+      "Compounding",
+      "Clinical Pharmacy",
+      "Drug Interactions",
+      "Patient Counseling",
+      "Medication Therapy",
+      "Pharmacology"
+    ],
+    "description": "Professional certification in research development certification offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 1095,
+    "created_at": "2025-09-11T18:32:31.503052",
+    "updated_at": "2025-09-11T18:32:31.503053"
+  },
+  {
+    "id": 1174,
+    "slug": "ptcb-pharmacy-development-senior",
+    "name": "PTCB Pharmacy Development Senior",
+    "issuer": "PTCB",
+    "domain": "pharmacy",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 198,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 187,
+    "job_postings": 16,
+    "salary": {
+      "min": 79805,
+      "max": 139659,
+      "avg": 104744
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Drug Interactions",
+      "Pharmaceutical Care",
+      "Pharmacy Law",
+      "Pharmacology",
+      "Clinical Pharmacy"
+    ],
+    "description": "Professional certification in ptcb pharmacy development senior offered by PTCB. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1129,
+    "created_at": "2025-09-11T18:32:31.503419",
+    "updated_at": "2025-09-11T18:32:31.503420"
+  },
+  {
+    "id": 1187,
+    "slug": "licensed-clinical-pharmacist-senior",
+    "name": "Licensed Clinical Pharmacist Senior",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 525,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 108,
+    "job_postings": 273,
+    "salary": {
+      "min": 83567,
+      "max": 146242,
+      "avg": 109681
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Compounding",
+      "Medication Therapy",
+      "Pharmaceutical Care",
+      "Pharmacology"
+    ],
+    "description": "Professional certification in licensed clinical pharmacist senior offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 1151,
+    "created_at": "2025-09-11T18:32:31.503944",
+    "updated_at": "2025-09-11T18:32:31.503946"
+  },
+  {
+    "id": 1170,
+    "slug": "nabp-pharmacy-engineering-lead",
+    "name": "NABP Pharmacy Engineering Lead",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 438,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 135,
+    "job_postings": 37,
+    "salary": {
+      "min": 74164,
+      "max": 129787,
+      "avg": 97340
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Patient Counseling",
+      "Pharmacy Law",
+      "Pharmaceutical Care",
+      "Drug Interactions",
+      "Medication Therapy",
+      "Clinical Pharmacy",
+      "Pharmacology",
+      "Compounding"
+    ],
+    "description": "Professional certification in nabp pharmacy engineering lead offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 1205,
+    "created_at": "2025-09-11T18:32:31.503255",
+    "updated_at": "2025-09-11T18:32:31.503256"
+  },
+  {
+    "id": 1182,
+    "slug": "retail-development-certificate",
+    "name": "Retail Development Certificate",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Specialty",
+    "duration": "2 weeks",
+    "cost": 386,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 269,
+    "job_postings": 25,
+    "salary": {
+      "min": 74615,
+      "max": 130576,
+      "avg": 97932
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Drug Interactions",
+      "Clinical Pharmacy",
+      "Pharmaceutical Care",
+      "Medication Therapy",
+      "Pharmacology",
+      "Compounding",
+      "Patient Counseling"
+    ],
+    "description": "Professional certification in retail development certificate offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 1214,
+    "created_at": "2025-09-11T18:32:31.503745",
+    "updated_at": "2025-09-11T18:32:31.503747"
+  },
+  {
+    "id": 1177,
+    "slug": "clinical-management-certification",
+    "name": "Clinical Management Certification",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 288,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 86,
+    "job_postings": 607,
+    "salary": {
+      "min": 91500,
+      "max": 160126,
+      "avg": 120094
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Patient Counseling",
+      "Compounding",
+      "Drug Interactions",
+      "Clinical Pharmacy",
+      "Pharmacy Law",
+      "Medication Therapy"
+    ],
+    "description": "Professional certification in clinical management certification offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 1250,
+    "created_at": "2025-09-11T18:32:31.503540",
+    "updated_at": "2025-09-11T18:32:31.503542"
+  },
+  {
+    "id": 1176,
+    "slug": "certified-industrial-specialist",
+    "name": "Certified Industrial Specialist",
+    "issuer": "NABP",
+    "domain": "pharmacy",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 322,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 165,
+    "job_postings": 8,
+    "salary": {
+      "min": 89913,
+      "max": 157348,
+      "avg": 118011
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Pharmacy Law",
+      "Medication Therapy",
+      "Compounding",
+      "Clinical Pharmacy",
+      "Drug Interactions",
+      "Pharmaceutical Care",
+      "Patient Counseling"
+    ],
+    "description": "Professional certification in certified industrial specialist offered by NABP. Validates expertise in Pharmacy and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1271,
+    "created_at": "2025-09-11T18:32:31.503500",
+    "updated_at": "2025-09-11T18:32:31.503502"
+  }
+]

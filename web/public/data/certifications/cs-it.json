@@ -1,0 +1,6187 @@
+[
+  {
+    "id": 44,
+    "slug": "certified-architecture-consultant",
+    "name": "Certified Architecture Consultant",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 163,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 793,
+    "job_postings": 169,
+    "salary": {
+      "min": 79004,
+      "max": 180581,
+      "avg": 118506
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "Docker",
+      "Python",
+      "DevOps",
+      "Kubernetes",
+      "Linux",
+      "System Administration",
+      "Microservices",
+      "API Development",
+      "AWS"
+    ],
+    "description": "Professional certification in certified architecture consultant offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 15,
+    "created_at": "2025-09-11T18:32:31.454829",
+    "updated_at": "2025-09-11T18:32:31.454831"
+  },
+  {
+    "id": 111,
+    "slug": "microsoft-cloud-management-exam",
+    "name": "Microsoft Cloud Management Exam",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 117,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 761,
+    "job_postings": 143,
+    "salary": {
+      "min": 75154,
+      "max": 171780,
+      "avg": 112731
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "API Development",
+      "Azure",
+      "Docker",
+      "CI/CD",
+      "AWS"
+    ],
+    "description": "Professional certification in microsoft cloud management exam offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 17,
+    "created_at": "2025-09-11T18:32:31.458346",
+    "updated_at": "2025-09-11T18:32:31.458347"
+  },
+  {
+    "id": 70,
+    "slug": "vmware-platform-development-exam",
+    "name": "VMware Platform Development Exam",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 264,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 799,
+    "job_postings": 77,
+    "salary": {
+      "min": 77717,
+      "max": 177640,
+      "avg": 116576
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Database Management",
+      "CI/CD",
+      "Microservices",
+      "Python",
+      "Linux",
+      "API Development"
+    ],
+    "description": "Professional certification in vmware platform development exam offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 22,
+    "created_at": "2025-09-11T18:32:31.455972",
+    "updated_at": "2025-09-11T18:32:31.455973"
+  },
+  {
+    "id": 12,
+    "slug": "docker-certified-engineering-senior",
+    "name": "Docker Certified Engineering Senior",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 377,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 786,
+    "job_postings": 448,
+    "salary": {
+      "min": 75372,
+      "max": 172279,
+      "avg": 113058
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Kubernetes",
+      "API Development",
+      "Cloud Computing",
+      "AWS",
+      "System Administration",
+      "Python",
+      "Azure",
+      "DevOps"
+    ],
+    "description": "Professional certification in docker certified engineering senior offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 27,
+    "created_at": "2025-09-11T18:32:31.453150",
+    "updated_at": "2025-09-11T18:32:31.453152"
+  },
+  {
+    "id": 134,
+    "slug": "certified-management-expert-1",
+    "name": "Certified Management Expert",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 247,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 742,
+    "job_postings": 61,
+    "salary": {
+      "min": 65037,
+      "max": 148656,
+      "avg": 97556
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Microservices",
+      "Infrastructure as Code",
+      "Linux",
+      "Azure",
+      "CI/CD",
+      "Database Management",
+      "Python",
+      "Network Security"
+    ],
+    "description": "Professional certification in certified management expert offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Japanese",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 39,
+    "created_at": "2025-09-11T18:32:31.459295",
+    "updated_at": "2025-09-11T18:32:31.459296"
+  },
+  {
+    "id": 98,
+    "slug": "security-expert-certification-2",
+    "name": "Security Expert Certification",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 262,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 743,
+    "job_postings": 21,
+    "salary": {
+      "min": 75368,
+      "max": 172269,
+      "avg": 113052
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker",
+      "CI/CD",
+      "Azure",
+      "Cloud Computing",
+      "System Administration",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in security expert certification offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 54,
+    "created_at": "2025-09-11T18:32:31.457807",
+    "updated_at": "2025-09-11T18:32:31.457809"
+  },
+  {
+    "id": 103,
+    "slug": "docker-certified-development-lead",
+    "name": "Docker Certified Development Lead",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 269,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 703,
+    "job_postings": 305,
+    "salary": {
+      "min": 77205,
+      "max": 176470,
+      "avg": 115808
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Kubernetes",
+      "AWS",
+      "CI/CD",
+      "Azure"
+    ],
+    "description": "Professional certification in docker certified development lead offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 64,
+    "created_at": "2025-09-11T18:32:31.458014",
+    "updated_at": "2025-09-11T18:32:31.458015"
+  },
+  {
+    "id": 50,
+    "slug": "certified-development-administrator",
+    "name": "Certified Development Administrator",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 323,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 749,
+    "job_postings": 36,
+    "salary": {
+      "min": 76253,
+      "max": 174293,
+      "avg": 114380
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Docker",
+      "System Administration",
+      "CI/CD",
+      "Infrastructure as Code",
+      "Linux",
+      "Kubernetes",
+      "Python"
+    ],
+    "description": "Professional certification in certified development administrator offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 67,
+    "created_at": "2025-09-11T18:32:31.455079",
+    "updated_at": "2025-09-11T18:32:31.455080"
+  },
+  {
+    "id": 141,
+    "slug": "microsoft-cloud-administration-exam",
+    "name": "Microsoft Cloud Administration Exam",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Specialty",
+    "duration": "24 hours",
+    "cost": 131,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 589,
+    "job_postings": 515,
+    "salary": {
+      "min": 59985,
+      "max": 137110,
+      "avg": 89978
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "Cloud Computing",
+      "DevOps",
+      "CI/CD",
+      "Azure"
+    ],
+    "description": "Professional certification in microsoft cloud administration exam offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 78,
+    "created_at": "2025-09-11T18:32:31.459588",
+    "updated_at": "2025-09-11T18:32:31.459589"
+  },
+  {
+    "id": 93,
+    "slug": "certified-engineering-expert",
+    "name": "Certified Engineering Expert",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 181,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 757,
+    "job_postings": 174,
+    "salary": {
+      "min": 68099,
+      "max": 155656,
+      "avg": 102149
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Database Management",
+      "Docker",
+      "System Administration",
+      "Linux",
+      "Azure"
+    ],
+    "description": "Professional certification in certified engineering expert offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 89,
+    "created_at": "2025-09-11T18:32:31.457526",
+    "updated_at": "2025-09-11T18:32:31.457528"
+  },
+  {
+    "id": 113,
+    "slug": "analytics-expert-certification",
+    "name": "Analytics Expert Certification",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 298,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 742,
+    "job_postings": 39,
+    "salary": {
+      "min": 59678,
+      "max": 136408,
+      "avg": 89517
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Database Management",
+      "CI/CD",
+      "Network Security",
+      "System Administration"
+    ],
+    "description": "Professional certification in analytics expert certification offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 101,
+    "created_at": "2025-09-11T18:32:31.458427",
+    "updated_at": "2025-09-11T18:32:31.458428"
+  },
+  {
+    "id": 68,
+    "slug": "certified-architecture-expert",
+    "name": "Certified Architecture Expert",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 330,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 699,
+    "job_postings": 17,
+    "salary": {
+      "min": 69164,
+      "max": 158091,
+      "avg": 103747
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "AWS",
+      "Network Security",
+      "Docker",
+      "Infrastructure as Code"
+    ],
+    "description": "Professional certification in certified architecture expert offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 109,
+    "created_at": "2025-09-11T18:32:31.455824",
+    "updated_at": "2025-09-11T18:32:31.455825"
+  },
+  {
+    "id": 42,
+    "slug": "comptia-certified-development-advanced",
+    "name": "CompTIA Certified Development Advanced",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 311,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 734,
+    "job_postings": 45,
+    "salary": {
+      "min": 60203,
+      "max": 137607,
+      "avg": 90305
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Azure",
+      "AWS",
+      "Infrastructure as Code",
+      "Cloud Computing",
+      "Database Management",
+      "API Development",
+      "CI/CD",
+      "Linux"
+    ],
+    "description": "Professional certification in comptia certified development advanced offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 112,
+    "created_at": "2025-09-11T18:32:31.454743",
+    "updated_at": "2025-09-11T18:32:31.454744"
+  },
+  {
+    "id": 67,
+    "slug": "certified-development-administrator-1",
+    "name": "Certified Development Administrator",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 273,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 777,
+    "job_postings": 400,
+    "salary": {
+      "min": 72082,
+      "max": 164759,
+      "avg": 108123
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Python",
+      "Kubernetes",
+      "Microservices",
+      "API Development",
+      "System Administration",
+      "Azure",
+      "AWS",
+      "Linux",
+      "Database Management",
+      "Docker"
+    ],
+    "description": "Professional certification in certified development administrator offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 117,
+    "created_at": "2025-09-11T18:32:31.455785",
+    "updated_at": "2025-09-11T18:32:31.455786"
+  },
+  {
+    "id": 16,
+    "slug": "oracle-development-license",
+    "name": "Oracle Development License",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 316,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 681,
+    "job_postings": 29,
+    "salary": {
+      "min": 69309,
+      "max": 158422,
+      "avg": 103964
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Kubernetes",
+      "Network Security",
+      "Infrastructure as Code",
+      "API Development",
+      "Microservices"
+    ],
+    "description": "Professional certification in oracle development license offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 121,
+    "created_at": "2025-09-11T18:32:31.453319",
+    "updated_at": "2025-09-11T18:32:31.453320"
+  },
+  {
+    "id": 71,
+    "slug": "microsoft-system-engineering-exam",
+    "name": "Microsoft System Engineering Exam",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 215,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 795,
+    "job_postings": 269,
+    "salary": {
+      "min": 73019,
+      "max": 166901,
+      "avg": 109529
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Microservices",
+      "Python",
+      "AWS",
+      "DevOps",
+      "Network Security",
+      "CI/CD",
+      "Database Management",
+      "Linux"
+    ],
+    "description": "Professional certification in microsoft system engineering exam offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 122,
+    "created_at": "2025-09-11T18:32:31.456045",
+    "updated_at": "2025-09-11T18:32:31.456048"
+  },
+  {
+    "id": 87,
+    "slug": "vmware-development-exam",
+    "name": "VMware Development Exam",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 323,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 721,
+    "job_postings": 9,
+    "salary": {
+      "min": 66141,
+      "max": 151179,
+      "avg": 99211
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Docker",
+      "Python",
+      "Database Management",
+      "Microservices",
+      "CI/CD",
+      "API Development",
+      "AWS",
+      "System Administration",
+      "DevOps",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in vmware development exam offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 153,
+    "created_at": "2025-09-11T18:32:31.457178",
+    "updated_at": "2025-09-11T18:32:31.457179"
+  },
+  {
+    "id": 96,
+    "slug": "certified-management-expert",
+    "name": "Certified Management Expert",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 370,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 686,
+    "job_postings": 340,
+    "salary": {
+      "min": 67238,
+      "max": 153688,
+      "avg": 100858
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "CI/CD",
+      "Azure",
+      "AWS",
+      "Network Security",
+      "Microservices",
+      "Infrastructure as Code",
+      "System Administration"
+    ],
+    "description": "Professional certification in certified management expert offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 154,
+    "created_at": "2025-09-11T18:32:31.457721",
+    "updated_at": "2025-09-11T18:32:31.457723"
+  },
+  {
+    "id": 38,
+    "slug": "comptia-engineering-credential",
+    "name": "CompTIA Engineering Credential",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 350,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 711,
+    "job_postings": 16,
+    "salary": {
+      "min": 68753,
+      "max": 157151,
+      "avg": 103130
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "CI/CD",
+      "Database Management",
+      "Kubernetes",
+      "Docker",
+      "System Administration",
+      "Network Security",
+      "API Development",
+      "DevOps",
+      "Microservices"
+    ],
+    "description": "Professional certification in comptia engineering credential offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 156,
+    "created_at": "2025-09-11T18:32:31.454575",
+    "updated_at": "2025-09-11T18:32:31.454577"
+  },
+  {
+    "id": 79,
+    "slug": "amazon-architecture-certification",
+    "name": "Amazon Architecture Certification",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 166,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 646,
+    "job_postings": 74,
+    "salary": {
+      "min": 61354,
+      "max": 140239,
+      "avg": 92031
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "API Development",
+      "System Administration",
+      "Cloud Computing",
+      "Network Security"
+    ],
+    "description": "Professional certification in amazon architecture certification offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 173,
+    "created_at": "2025-09-11T18:32:31.456553",
+    "updated_at": "2025-09-11T18:32:31.456558"
+  },
+  {
+    "id": 48,
+    "slug": "architecture-advanced-certification",
+    "name": "Architecture Advanced Certification",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 335,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 701,
+    "job_postings": 19,
+    "salary": {
+      "min": 77735,
+      "max": 177680,
+      "avg": 116602
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Network Security",
+      "AWS",
+      "Azure",
+      "CI/CD",
+      "Linux",
+      "DevOps",
+      "Docker",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in architecture advanced certification offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 175,
+    "created_at": "2025-09-11T18:32:31.454995",
+    "updated_at": "2025-09-11T18:32:31.454996"
+  },
+  {
+    "id": 139,
+    "slug": "comptia-software-analytics-exam",
+    "name": "CompTIA Software Analytics Exam",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 303,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 691,
+    "job_postings": 24,
+    "salary": {
+      "min": 69624,
+      "max": 159140,
+      "avg": 104436
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Docker",
+      "System Administration",
+      "Database Management",
+      "Cloud Computing",
+      "Microservices",
+      "Linux",
+      "AWS",
+      "API Development",
+      "CI/CD"
+    ],
+    "description": "Professional certification in comptia software analytics exam offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 180,
+    "created_at": "2025-09-11T18:32:31.459503",
+    "updated_at": "2025-09-11T18:32:31.459504"
+  },
+  {
+    "id": 107,
+    "slug": "amazon-architecture-license",
+    "name": "Amazon Architecture License",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 177,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 558,
+    "job_postings": 340,
+    "salary": {
+      "min": 69927,
+      "max": 159833,
+      "avg": 104890
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "AWS",
+      "API Development",
+      "Network Security",
+      "DevOps",
+      "Docker"
+    ],
+    "description": "Professional certification in amazon architecture license offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 187,
+    "created_at": "2025-09-11T18:32:31.458180",
+    "updated_at": "2025-09-11T18:32:31.458181"
+  },
+  {
+    "id": 35,
+    "slug": "certified-management-professional",
+    "name": "Certified Management Professional",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 421,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 769,
+    "job_postings": 162,
+    "salary": {
+      "min": 78076,
+      "max": 178461,
+      "avg": 117115
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Azure",
+      "DevOps",
+      "Microservices",
+      "CI/CD",
+      "Network Security"
+    ],
+    "description": "Professional certification in certified management professional offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 198,
+    "created_at": "2025-09-11T18:32:31.454441",
+    "updated_at": "2025-09-11T18:32:31.454442"
+  },
+  {
+    "id": 41,
+    "slug": "administration-senior-certification",
+    "name": "Administration Senior Certification",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 299,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 570,
+    "job_postings": 431,
+    "salary": {
+      "min": 77076,
+      "max": 176173,
+      "avg": 115614
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "CI/CD",
+      "Docker",
+      "Database Management",
+      "Microservices",
+      "DevOps",
+      "Network Security",
+      "Python",
+      "Kubernetes",
+      "API Development"
+    ],
+    "description": "Professional certification in administration senior certification offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 202,
+    "created_at": "2025-09-11T18:32:31.454701",
+    "updated_at": "2025-09-11T18:32:31.454703"
+  },
+  {
+    "id": 34,
+    "slug": "comptia-cloud-security-exam",
+    "name": "CompTIA Cloud Security Exam",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 259,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 712,
+    "job_postings": 83,
+    "salary": {
+      "min": 67627,
+      "max": 154577,
+      "avg": 101441
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "API Development",
+      "Docker",
+      "CI/CD",
+      "Azure",
+      "System Administration",
+      "DevOps",
+      "Database Management",
+      "Python",
+      "Infrastructure as Code"
+    ],
+    "description": "Professional certification in comptia cloud security exam offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 204,
+    "created_at": "2025-09-11T18:32:31.454394",
+    "updated_at": "2025-09-11T18:32:31.454398"
+  },
+  {
+    "id": 137,
+    "slug": "red-management-exam",
+    "name": "Red Management Exam",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 436,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 663,
+    "job_postings": 65,
+    "salary": {
+      "min": 65335,
+      "max": 149338,
+      "avg": 98003
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "API Development",
+      "Python",
+      "CI/CD",
+      "Docker"
+    ],
+    "description": "Professional certification in red management exam offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 212,
+    "created_at": "2025-09-11T18:32:31.459419",
+    "updated_at": "2025-09-11T18:32:31.459420"
+  },
+  {
+    "id": 39,
+    "slug": "oracle-engineering-exam",
+    "name": "Oracle Engineering Exam",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 338,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 579,
+    "job_postings": 573,
+    "salary": {
+      "min": 62623,
+      "max": 143139,
+      "avg": 93935
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "Database Management",
+      "CI/CD",
+      "System Administration",
+      "Infrastructure as Code",
+      "Linux",
+      "Docker",
+      "Network Security",
+      "Kubernetes",
+      "DevOps"
+    ],
+    "description": "Professional certification in oracle engineering exam offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 216,
+    "created_at": "2025-09-11T18:32:31.454617",
+    "updated_at": "2025-09-11T18:32:31.454618"
+  },
+  {
+    "id": 86,
+    "slug": "red-system-development-exam",
+    "name": "Red System Development Exam",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 323,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 616,
+    "job_postings": 41,
+    "salary": {
+      "min": 60284,
+      "max": 137793,
+      "avg": 90426
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Python",
+      "Network Security",
+      "System Administration",
+      "DevOps",
+      "Azure",
+      "Microservices",
+      "CI/CD",
+      "Cloud Computing",
+      "AWS",
+      "Docker"
+    ],
+    "description": "Professional certification in red system development exam offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English"
+    ],
+    "ranking": 237,
+    "created_at": "2025-09-11T18:32:31.457134",
+    "updated_at": "2025-09-11T18:32:31.457136"
+  },
+  {
+    "id": 108,
+    "slug": "certified-engineering-professional-1",
+    "name": "Certified Engineering Professional",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 482,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 463,
+    "job_postings": 1814,
+    "salary": {
+      "min": 68606,
+      "max": 156815,
+      "avg": 102909
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "DevOps",
+      "Infrastructure as Code",
+      "System Administration",
+      "API Development",
+      "Network Security",
+      "Linux",
+      "CI/CD",
+      "Database Management",
+      "Azure"
+    ],
+    "description": "Professional certification in certified engineering professional offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 258,
+    "created_at": "2025-09-11T18:32:31.458221",
+    "updated_at": "2025-09-11T18:32:31.458222"
+  },
+  {
+    "id": 56,
+    "slug": "certified-strategy-analyst",
+    "name": "Certified Strategy Analyst",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 229,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 415,
+    "job_postings": 775,
+    "salary": {
+      "min": 60525,
+      "max": 138345,
+      "avg": 90788
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "Cloud Computing",
+      "Network Security",
+      "Kubernetes",
+      "Database Management",
+      "Microservices",
+      "DevOps"
+    ],
+    "description": "Professional certification in certified strategy analyst offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 285,
+    "created_at": "2025-09-11T18:32:31.455333",
+    "updated_at": "2025-09-11T18:32:31.455335"
+  },
+  {
+    "id": 72,
+    "slug": "development-associate-certification",
+    "name": "Development Associate Certification",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 209,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 557,
+    "job_postings": 18,
+    "salary": {
+      "min": 70614,
+      "max": 161405,
+      "avg": 105922
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Docker",
+      "System Administration",
+      "Azure",
+      "Cloud Computing",
+      "Database Management",
+      "CI/CD",
+      "Kubernetes",
+      "Python",
+      "API Development"
+    ],
+    "description": "Professional certification in development associate certification offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 297,
+    "created_at": "2025-09-11T18:32:31.456110",
+    "updated_at": "2025-09-11T18:32:31.456111"
+  },
+  {
+    "id": 62,
+    "slug": "salesforce-analytics-credential",
+    "name": "Salesforce Analytics Credential",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 177,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 495,
+    "job_postings": 42,
+    "salary": {
+      "min": 68671,
+      "max": 156963,
+      "avg": 103007
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Database Management",
+      "CI/CD",
+      "Infrastructure as Code"
+    ],
+    "description": "Professional certification in salesforce analytics credential offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 315,
+    "created_at": "2025-09-11T18:32:31.455581",
+    "updated_at": "2025-09-11T18:32:31.455582"
+  },
+  {
+    "id": 89,
+    "slug": "amazon-strategy-diploma",
+    "name": "Amazon Strategy Diploma",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 169,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 580,
+    "job_postings": 43,
+    "salary": {
+      "min": 62124,
+      "max": 141999,
+      "avg": 93187
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Network Security",
+      "Kubernetes",
+      "CI/CD",
+      "Cloud Computing",
+      "System Administration",
+      "Microservices",
+      "Azure",
+      "Python"
+    ],
+    "description": "Professional certification in amazon strategy diploma offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 316,
+    "created_at": "2025-09-11T18:32:31.457270",
+    "updated_at": "2025-09-11T18:32:31.457271"
+  },
+  {
+    "id": 110,
+    "slug": "certified-development-consultant",
+    "name": "Certified Development Consultant",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 321,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 464,
+    "job_postings": 1261,
+    "salary": {
+      "min": 67208,
+      "max": 153619,
+      "avg": 100812
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Python",
+      "Azure",
+      "Cloud Computing",
+      "API Development",
+      "Docker",
+      "Linux"
+    ],
+    "description": "Professional certification in certified development consultant offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 318,
+    "created_at": "2025-09-11T18:32:31.458304",
+    "updated_at": "2025-09-11T18:32:31.458305"
+  },
+  {
+    "id": 119,
+    "slug": "engineering-advanced-certification",
+    "name": "Engineering Advanced Certification",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 227,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 712,
+    "job_postings": 27,
+    "salary": {
+      "min": 73819,
+      "max": 168730,
+      "avg": 110729
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "System Administration",
+      "API Development",
+      "Docker",
+      "Python"
+    ],
+    "description": "Professional certification in engineering advanced certification offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 322,
+    "created_at": "2025-09-11T18:32:31.458671",
+    "updated_at": "2025-09-11T18:32:31.458672"
+  },
+  {
+    "id": 133,
+    "slug": "microsoft-certified-development-expert",
+    "name": "Microsoft Certified Development Expert",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 212,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 551,
+    "job_postings": 49,
+    "salary": {
+      "min": 71864,
+      "max": 164262,
+      "avg": 107797
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Database Management",
+      "Cloud Computing",
+      "AWS",
+      "Kubernetes",
+      "Linux"
+    ],
+    "description": "Professional certification in microsoft certified development expert offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 338,
+    "created_at": "2025-09-11T18:32:31.459252",
+    "updated_at": "2025-09-11T18:32:31.459253"
+  },
+  {
+    "id": 45,
+    "slug": "architecture-senior-certification",
+    "name": "Architecture Senior Certification",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 143,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 654,
+    "job_postings": 79,
+    "salary": {
+      "min": 79437,
+      "max": 181570,
+      "avg": 119155
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Linux",
+      "Cloud Computing",
+      "Azure",
+      "CI/CD",
+      "AWS",
+      "System Administration",
+      "Network Security",
+      "DevOps",
+      "API Development"
+    ],
+    "description": "Professional certification in architecture senior certification offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 346,
+    "created_at": "2025-09-11T18:32:31.454872",
+    "updated_at": "2025-09-11T18:32:31.454873"
+  },
+  {
+    "id": 31,
+    "slug": "docker-software-strategy-exam",
+    "name": "Docker Software Strategy Exam",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 337,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 759,
+    "job_postings": 35,
+    "salary": {
+      "min": 71256,
+      "max": 162871,
+      "avg": 106884
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Cloud Computing",
+      "Linux",
+      "Infrastructure as Code",
+      "CI/CD"
+    ],
+    "description": "Professional certification in docker software strategy exam offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 348,
+    "created_at": "2025-09-11T18:32:31.454146",
+    "updated_at": "2025-09-11T18:32:31.454148"
+  },
+  {
+    "id": 15,
+    "slug": "security-expert-certification",
+    "name": "Security Expert Certification",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 256,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 520,
+    "job_postings": 558,
+    "salary": {
+      "min": 68013,
+      "max": 155460,
+      "avg": 102020
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "Python",
+      "System Administration",
+      "Network Security",
+      "Azure",
+      "Cloud Computing",
+      "Docker"
+    ],
+    "description": "Professional certification in security expert certification offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 350,
+    "created_at": "2025-09-11T18:32:31.453275",
+    "updated_at": "2025-09-11T18:32:31.453279"
+  },
+  {
+    "id": 27,
+    "slug": "development-foundational-certification",
+    "name": "Development Foundational Certification",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 391,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 577,
+    "job_postings": 113,
+    "salary": {
+      "min": 71609,
+      "max": 163679,
+      "avg": 107414
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Database Management",
+      "Azure",
+      "Kubernetes",
+      "Docker",
+      "System Administration"
+    ],
+    "description": "Professional certification in development foundational certification offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 360,
+    "created_at": "2025-09-11T18:32:31.453983",
+    "updated_at": "2025-09-11T18:32:31.453985"
+  },
+  {
+    "id": 54,
+    "slug": "microsoft-management-license",
+    "name": "Microsoft Management License",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 140,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 622,
+    "job_postings": 141,
+    "salary": {
+      "min": 72777,
+      "max": 166348,
+      "avg": 109166
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Python",
+      "Azure",
+      "System Administration",
+      "Linux"
+    ],
+    "description": "Professional certification in microsoft management license offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 363,
+    "created_at": "2025-09-11T18:32:31.455249",
+    "updated_at": "2025-09-11T18:32:31.455250"
+  },
+  {
+    "id": 92,
+    "slug": "red-application-architecture-exam",
+    "name": "Red Application Architecture Exam",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 280,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 634,
+    "job_postings": 174,
+    "salary": {
+      "min": 65014,
+      "max": 148604,
+      "avg": 97521
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Infrastructure as Code",
+      "Database Management",
+      "Python",
+      "Microservices",
+      "System Administration",
+      "Linux",
+      "API Development",
+      "Kubernetes",
+      "DevOps",
+      "AWS"
+    ],
+    "description": "Professional certification in red application architecture exam offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 368,
+    "created_at": "2025-09-11T18:32:31.457480",
+    "updated_at": "2025-09-11T18:32:31.457481"
+  },
+  {
+    "id": 69,
+    "slug": "comptia-infrastructure-development-exam",
+    "name": "CompTIA Infrastructure Development Exam",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Specialty",
+    "duration": "2 weeks",
+    "cost": 279,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 480,
+    "job_postings": 411,
+    "salary": {
+      "min": 73113,
+      "max": 167117,
+      "avg": 109670
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Microservices",
+      "Docker",
+      "AWS",
+      "DevOps",
+      "Azure",
+      "Network Security",
+      "Linux",
+      "System Administration"
+    ],
+    "description": "Professional certification in comptia infrastructure development exam offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 371,
+    "created_at": "2025-09-11T18:32:31.455925",
+    "updated_at": "2025-09-11T18:32:31.455928"
+  },
+  {
+    "id": 28,
+    "slug": "security-lead-certification",
+    "name": "Security Lead Certification",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 484,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 744,
+    "job_postings": 139,
+    "salary": {
+      "min": 67315,
+      "max": 153863,
+      "avg": 100972
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Network Security",
+      "System Administration",
+      "Infrastructure as Code",
+      "Azure",
+      "AWS",
+      "Docker",
+      "DevOps"
+    ],
+    "description": "Professional certification in security lead certification offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 383,
+    "created_at": "2025-09-11T18:32:31.454023",
+    "updated_at": "2025-09-11T18:32:31.454024"
+  },
+  {
+    "id": 140,
+    "slug": "red-certified-architecture-advanced",
+    "name": "Red Certified Architecture Advanced",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 541,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 728,
+    "job_postings": 108,
+    "salary": {
+      "min": 60874,
+      "max": 139141,
+      "avg": 91311
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Linux",
+      "Database Management",
+      "Cloud Computing",
+      "API Development",
+      "Docker",
+      "Network Security"
+    ],
+    "description": "Professional certification in red certified architecture advanced offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 414,
+    "created_at": "2025-09-11T18:32:31.459546",
+    "updated_at": "2025-09-11T18:32:31.459547"
+  },
+  {
+    "id": 124,
+    "slug": "red-certified-architecture-lead",
+    "name": "Red Certified Architecture Lead",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 419,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 648,
+    "job_postings": 30,
+    "salary": {
+      "min": 69003,
+      "max": 157721,
+      "avg": 103504
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Linux",
+      "Python",
+      "API Development",
+      "Network Security",
+      "Kubernetes",
+      "DevOps",
+      "Infrastructure as Code",
+      "Cloud Computing",
+      "System Administration"
+    ],
+    "description": "Professional certification in red certified architecture lead offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 421,
+    "created_at": "2025-09-11T18:32:31.458882",
+    "updated_at": "2025-09-11T18:32:31.458883"
+  },
+  {
+    "id": 136,
+    "slug": "analytics-foundational-certification",
+    "name": "Analytics Foundational Certification",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 204,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 503,
+    "job_postings": 625,
+    "salary": {
+      "min": 60678,
+      "max": 138694,
+      "avg": 91017
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Docker",
+      "Python",
+      "CI/CD",
+      "Linux",
+      "Microservices",
+      "DevOps",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in analytics foundational certification offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 438,
+    "created_at": "2025-09-11T18:32:31.459378",
+    "updated_at": "2025-09-11T18:32:31.459379"
+  },
+  {
+    "id": 22,
+    "slug": "certified-architecture-practitioner",
+    "name": "Certified Architecture Practitioner",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 190,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 413,
+    "job_postings": 685,
+    "salary": {
+      "min": 75075,
+      "max": 171600,
+      "avg": 112613
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "System Administration",
+      "Linux",
+      "Docker",
+      "Azure",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in certified architecture practitioner offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 439,
+    "created_at": "2025-09-11T18:32:31.453775",
+    "updated_at": "2025-09-11T18:32:31.453776"
+  },
+  {
+    "id": 130,
+    "slug": "microsoft-system-architecture-exam",
+    "name": "Microsoft System Architecture Exam",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 202,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 518,
+    "job_postings": 541,
+    "salary": {
+      "min": 64398,
+      "max": 147197,
+      "avg": 96598
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Network Security",
+      "System Administration",
+      "Microservices",
+      "CI/CD",
+      "Python",
+      "API Development",
+      "Azure",
+      "AWS"
+    ],
+    "description": "Professional certification in microsoft system architecture exam offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 479,
+    "created_at": "2025-09-11T18:32:31.459128",
+    "updated_at": "2025-09-11T18:32:31.459129"
+  },
+  {
+    "id": 55,
+    "slug": "amazon-administration-exam",
+    "name": "Amazon Administration Exam",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 135,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 375,
+    "job_postings": 161,
+    "salary": {
+      "min": 72285,
+      "max": 165224,
+      "avg": 108428
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "AWS",
+      "Microservices",
+      "API Development",
+      "Docker"
+    ],
+    "description": "Professional certification in amazon administration exam offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 498,
+    "created_at": "2025-09-11T18:32:31.455291",
+    "updated_at": "2025-09-11T18:32:31.455292"
+  },
+  {
+    "id": 25,
+    "slug": "vmware-certified-architecture-lead",
+    "name": "VMware Certified Architecture Lead",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 238,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 588,
+    "job_postings": 182,
+    "salary": {
+      "min": 74827,
+      "max": 171033,
+      "avg": 112240
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Linux",
+      "Network Security",
+      "Azure",
+      "DevOps",
+      "Python",
+      "Docker"
+    ],
+    "description": "Professional certification in vmware certified architecture lead offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 506,
+    "created_at": "2025-09-11T18:32:31.453899",
+    "updated_at": "2025-09-11T18:32:31.453903"
+  },
+  {
+    "id": 29,
+    "slug": "comptia-development-exam",
+    "name": "CompTIA Development Exam",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 304,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 527,
+    "job_postings": 492,
+    "salary": {
+      "min": 79600,
+      "max": 181944,
+      "avg": 119401
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Kubernetes",
+      "Azure",
+      "Infrastructure as Code",
+      "CI/CD",
+      "Docker",
+      "Cloud Computing",
+      "Microservices"
+    ],
+    "description": "Professional certification in comptia development exam offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 511,
+    "created_at": "2025-09-11T18:32:31.454062",
+    "updated_at": "2025-09-11T18:32:31.454067"
+  },
+  {
+    "id": 60,
+    "slug": "red-certified-development-associate",
+    "name": "Red Certified Development Associate",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 402,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 590,
+    "job_postings": 194,
+    "salary": {
+      "min": 78771,
+      "max": 180048,
+      "avg": 118156
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Docker",
+      "Azure",
+      "Cloud Computing",
+      "Kubernetes",
+      "CI/CD",
+      "Linux",
+      "API Development",
+      "DevOps"
+    ],
+    "description": "Professional certification in red certified development associate offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 517,
+    "created_at": "2025-09-11T18:32:31.455500",
+    "updated_at": "2025-09-11T18:32:31.455501"
+  },
+  {
+    "id": 123,
+    "slug": "certified-engineering-expert-1",
+    "name": "Certified Engineering Expert",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 290,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 119,
+    "job_postings": 2490,
+    "salary": {
+      "min": 61626,
+      "max": 140861,
+      "avg": 92440
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Database Management",
+      "Cloud Computing",
+      "AWS",
+      "Docker",
+      "API Development",
+      "Microservices",
+      "Azure",
+      "System Administration",
+      "Python",
+      "Network Security"
+    ],
+    "description": "Professional certification in certified engineering expert offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 523,
+    "created_at": "2025-09-11T18:32:31.458839",
+    "updated_at": "2025-09-11T18:32:31.458841"
+  },
+  {
+    "id": 74,
+    "slug": "amazon-data-security-exam",
+    "name": "Amazon Data Security Exam",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 182,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 486,
+    "job_postings": 15,
+    "salary": {
+      "min": 75324,
+      "max": 172169,
+      "avg": 112986
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Infrastructure as Code",
+      "Linux",
+      "API Development",
+      "CI/CD",
+      "Kubernetes",
+      "Python",
+      "Microservices"
+    ],
+    "description": "Professional certification in amazon data security exam offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 531,
+    "created_at": "2025-09-11T18:32:31.456201",
+    "updated_at": "2025-09-11T18:32:31.456203"
+  },
+  {
+    "id": 128,
+    "slug": "salesforce-network-administration-exam-1",
+    "name": "Salesforce Network Administration Exam",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Specialty",
+    "duration": "24 hours",
+    "cost": 211,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 463,
+    "job_postings": 262,
+    "salary": {
+      "min": 73227,
+      "max": 167376,
+      "avg": 109841
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "AWS",
+      "System Administration",
+      "DevOps",
+      "Database Management",
+      "CI/CD",
+      "Cloud Computing",
+      "Microservices",
+      "Network Security"
+    ],
+    "description": "Professional certification in salesforce network administration exam offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 538,
+    "created_at": "2025-09-11T18:32:31.459046",
+    "updated_at": "2025-09-11T18:32:31.459047"
+  },
+  {
+    "id": 30,
+    "slug": "salesforce-network-security-exam",
+    "name": "Salesforce Network Security Exam",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 224,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 332,
+    "job_postings": 428,
+    "salary": {
+      "min": 69304,
+      "max": 158409,
+      "avg": 103956
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Python",
+      "API Development",
+      "DevOps",
+      "Microservices",
+      "Kubernetes",
+      "Database Management",
+      "Docker",
+      "System Administration",
+      "Azure",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in salesforce network security exam offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "French"
+    ],
+    "ranking": 541,
+    "created_at": "2025-09-11T18:32:31.454107",
+    "updated_at": "2025-09-11T18:32:31.454108"
+  },
+  {
+    "id": 116,
+    "slug": "certified-administration-expert",
+    "name": "Certified Administration Expert",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "4 weeks",
+    "cost": 398,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 609,
+    "job_postings": 74,
+    "salary": {
+      "min": 71691,
+      "max": 163866,
+      "avg": 107537
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Azure",
+      "Microservices",
+      "Infrastructure as Code",
+      "Docker",
+      "System Administration",
+      "CI/CD"
+    ],
+    "description": "Professional certification in certified administration expert offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 542,
+    "created_at": "2025-09-11T18:32:31.458547",
+    "updated_at": "2025-09-11T18:32:31.458548"
+  },
+  {
+    "id": 11,
+    "slug": "microsoft-certified-engineering-expert",
+    "name": "Microsoft Certified Engineering Expert",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 139,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 484,
+    "job_postings": 389,
+    "salary": {
+      "min": 60954,
+      "max": 139323,
+      "avg": 91431
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "Network Security",
+      "Cloud Computing",
+      "CI/CD",
+      "AWS"
+    ],
+    "description": "Professional certification in microsoft certified engineering expert offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 547,
+    "created_at": "2025-09-11T18:32:31.453108",
+    "updated_at": "2025-09-11T18:32:31.453110"
+  },
+  {
+    "id": 112,
+    "slug": "amazon-certified-analytics-master",
+    "name": "Amazon Certified Analytics Master",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 147,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 19,
+    "job_postings": 2530,
+    "salary": {
+      "min": 73093,
+      "max": 167071,
+      "avg": 109640
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "DevOps",
+      "Kubernetes",
+      "AWS",
+      "System Administration",
+      "API Development",
+      "Azure",
+      "Docker",
+      "Microservices",
+      "CI/CD",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in amazon certified analytics master offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 554,
+    "created_at": "2025-09-11T18:32:31.458387",
+    "updated_at": "2025-09-11T18:32:31.458388"
+  },
+  {
+    "id": 9,
+    "slug": "oracle-cloud-analytics-exam",
+    "name": "Oracle Cloud Analytics Exam",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 278,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 530,
+    "job_postings": 33,
+    "salary": {
+      "min": 71960,
+      "max": 164481,
+      "avg": 107941
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Database Management",
+      "System Administration",
+      "AWS",
+      "Azure",
+      "Infrastructure as Code",
+      "Kubernetes",
+      "Network Security",
+      "Docker",
+      "DevOps"
+    ],
+    "description": "Professional certification in oracle cloud analytics exam offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 555,
+    "created_at": "2025-09-11T18:32:31.453013",
+    "updated_at": "2025-09-11T18:32:31.453014"
+  },
+  {
+    "id": 43,
+    "slug": "red-certified-architecture-professional",
+    "name": "Red Certified Architecture Professional",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 310,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 432,
+    "job_postings": 21,
+    "salary": {
+      "min": 63525,
+      "max": 145200,
+      "avg": 95287
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "API Development",
+      "System Administration",
+      "CI/CD",
+      "Python",
+      "DevOps"
+    ],
+    "description": "Professional certification in red certified architecture professional offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 557,
+    "created_at": "2025-09-11T18:32:31.454785",
+    "updated_at": "2025-09-11T18:32:31.454786"
+  },
+  {
+    "id": 75,
+    "slug": "red-software-architecture-exam",
+    "name": "Red Software Architecture Exam",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 529,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 594,
+    "job_postings": 522,
+    "salary": {
+      "min": 66475,
+      "max": 151943,
+      "avg": 99713
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Azure",
+      "Linux",
+      "Database Management",
+      "Cloud Computing",
+      "Infrastructure as Code",
+      "API Development",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ],
+    "description": "Professional certification in red software architecture exam offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 560,
+    "created_at": "2025-09-11T18:32:31.456319",
+    "updated_at": "2025-09-11T18:32:31.456323"
+  },
+  {
+    "id": 143,
+    "slug": "docker-infrastructure-development-exam",
+    "name": "Docker Infrastructure Development Exam",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 386,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 541,
+    "job_postings": 6,
+    "salary": {
+      "min": 76499,
+      "max": 174856,
+      "avg": 114749
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "API Development",
+      "Docker",
+      "Database Management",
+      "AWS",
+      "Python",
+      "DevOps",
+      "Network Security",
+      "CI/CD",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in docker infrastructure development exam offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 563,
+    "created_at": "2025-09-11T18:32:31.459673",
+    "updated_at": "2025-09-11T18:32:31.459674"
+  },
+  {
+    "id": 13,
+    "slug": "certified-management-analyst-1",
+    "name": "Certified Management Analyst",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 247,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 435,
+    "job_postings": 69,
+    "salary": {
+      "min": 63253,
+      "max": 144578,
+      "avg": 94879
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Microservices",
+      "Python",
+      "DevOps",
+      "Azure",
+      "CI/CD",
+      "System Administration",
+      "Kubernetes",
+      "AWS",
+      "Docker",
+      "Infrastructure as Code"
+    ],
+    "description": "Professional certification in certified management analyst offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 584,
+    "created_at": "2025-09-11T18:32:31.453193",
+    "updated_at": "2025-09-11T18:32:31.453195"
+  },
+  {
+    "id": 66,
+    "slug": "vmware-certified-strategy-lead",
+    "name": "VMware Certified Strategy Lead",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 329,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 622,
+    "job_postings": 38,
+    "salary": {
+      "min": 72974,
+      "max": 166798,
+      "avg": 109461
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "CI/CD",
+      "Infrastructure as Code",
+      "AWS",
+      "Python",
+      "DevOps",
+      "Database Management",
+      "Cloud Computing",
+      "System Administration",
+      "Docker"
+    ],
+    "description": "Professional certification in vmware certified strategy lead offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 589,
+    "created_at": "2025-09-11T18:32:31.455744",
+    "updated_at": "2025-09-11T18:32:31.455745"
+  },
+  {
+    "id": 63,
+    "slug": "red-certified-analytics-senior",
+    "name": "Red Certified Analytics Senior",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 382,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 411,
+    "job_postings": 1308,
+    "salary": {
+      "min": 76010,
+      "max": 173738,
+      "avg": 114016
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "CI/CD",
+      "Microservices",
+      "Docker",
+      "Python",
+      "DevOps",
+      "System Administration"
+    ],
+    "description": "Professional certification in red certified analytics senior offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 591,
+    "created_at": "2025-09-11T18:32:31.455621",
+    "updated_at": "2025-09-11T18:32:31.455623"
+  },
+  {
+    "id": 83,
+    "slug": "red-platform-development-exam",
+    "name": "Red Platform Development Exam",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 417,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 515,
+    "job_postings": 28,
+    "salary": {
+      "min": 63578,
+      "max": 145321,
+      "avg": 95367
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Infrastructure as Code",
+      "Network Security",
+      "DevOps",
+      "Python",
+      "API Development"
+    ],
+    "description": "Professional certification in red platform development exam offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 598,
+    "created_at": "2025-09-11T18:32:31.457012",
+    "updated_at": "2025-09-11T18:32:31.457013"
+  },
+  {
+    "id": 4,
+    "slug": "certified-management-analyst",
+    "name": "Certified Management Analyst",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 122,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 451,
+    "job_postings": 7,
+    "salary": {
+      "min": 74108,
+      "max": 169391,
+      "avg": 111163
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Microservices",
+      "System Administration",
+      "Infrastructure as Code",
+      "Azure",
+      "Network Security"
+    ],
+    "description": "Professional certification in certified management analyst offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 609,
+    "created_at": "2025-09-11T18:32:31.452793",
+    "updated_at": "2025-09-11T18:32:31.452795"
+  },
+  {
+    "id": 1,
+    "slug": "comptia-system-architecture-exam",
+    "name": "CompTIA System Architecture Exam",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 472,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 515,
+    "job_postings": 675,
+    "salary": {
+      "min": 67553,
+      "max": 154407,
+      "avg": 101329
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "API Development",
+      "Linux",
+      "Database Management",
+      "Kubernetes",
+      "Network Security"
+    ],
+    "description": "Professional certification in comptia system architecture exam offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 619,
+    "created_at": "2025-09-11T18:32:31.452623",
+    "updated_at": "2025-09-11T18:32:31.452633"
+  },
+  {
+    "id": 105,
+    "slug": "docker-system-security-exam",
+    "name": "Docker System Security Exam",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 293,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 450,
+    "job_postings": 220,
+    "salary": {
+      "min": 79703,
+      "max": 182179,
+      "avg": 119555
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "CI/CD",
+      "Docker",
+      "Azure",
+      "API Development",
+      "Kubernetes",
+      "Python",
+      "Network Security",
+      "DevOps",
+      "Linux",
+      "Microservices"
+    ],
+    "description": "Professional certification in docker system security exam offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 628,
+    "created_at": "2025-09-11T18:32:31.458098",
+    "updated_at": "2025-09-11T18:32:31.458099"
+  },
+  {
+    "id": 57,
+    "slug": "oracle-data-development-exam",
+    "name": "Oracle Data Development Exam",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 333,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 538,
+    "job_postings": 43,
+    "salary": {
+      "min": 76859,
+      "max": 175678,
+      "avg": 115289
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "CI/CD",
+      "Linux",
+      "Cloud Computing",
+      "Network Security",
+      "Azure",
+      "Infrastructure as Code",
+      "Docker",
+      "Microservices"
+    ],
+    "description": "Professional certification in oracle data development exam offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 648,
+    "created_at": "2025-09-11T18:32:31.455377",
+    "updated_at": "2025-09-11T18:32:31.455378"
+  },
+  {
+    "id": 100,
+    "slug": "certified-engineering-professional",
+    "name": "Certified Engineering Professional",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 254,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 477,
+    "job_postings": 10,
+    "salary": {
+      "min": 62119,
+      "max": 141987,
+      "avg": 93179
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Docker",
+      "Python",
+      "Network Security",
+      "Microservices",
+      "System Administration",
+      "CI/CD"
+    ],
+    "description": "Professional certification in certified engineering professional offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 664,
+    "created_at": "2025-09-11T18:32:31.457892",
+    "updated_at": "2025-09-11T18:32:31.457894"
+  },
+  {
+    "id": 131,
+    "slug": "certified-analytics-analyst",
+    "name": "Certified Analytics Analyst",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 331,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 93,
+    "job_postings": 2194,
+    "salary": {
+      "min": 78546,
+      "max": 179534,
+      "avg": 117819
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Microservices",
+      "Database Management",
+      "Network Security",
+      "Python",
+      "API Development",
+      "Docker"
+    ],
+    "description": "Professional certification in certified analytics analyst offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 669,
+    "created_at": "2025-09-11T18:32:31.459167",
+    "updated_at": "2025-09-11T18:32:31.459168"
+  },
+  {
+    "id": 14,
+    "slug": "engineering-lead-certification",
+    "name": "Engineering Lead Certification",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 251,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 417,
+    "job_postings": 53,
+    "salary": {
+      "min": 69138,
+      "max": 158031,
+      "avg": 103708
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "API Development",
+      "Azure",
+      "Kubernetes",
+      "System Administration",
+      "Database Management",
+      "CI/CD"
+    ],
+    "description": "Professional certification in engineering lead certification offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 671,
+    "created_at": "2025-09-11T18:32:31.453234",
+    "updated_at": "2025-09-11T18:32:31.453235"
+  },
+  {
+    "id": 120,
+    "slug": "analytics-associate-certification",
+    "name": "Analytics Associate Certification",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 214,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 502,
+    "job_postings": 74,
+    "salary": {
+      "min": 67721,
+      "max": 154792,
+      "avg": 101582
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Infrastructure as Code",
+      "Python",
+      "Docker"
+    ],
+    "description": "Professional certification in analytics associate certification offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 684,
+    "created_at": "2025-09-11T18:32:31.458712",
+    "updated_at": "2025-09-11T18:32:31.458713"
+  },
+  {
+    "id": 10,
+    "slug": "amazon-certified-administration-professional",
+    "name": "Amazon Certified Administration Professional",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 163,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 319,
+    "job_postings": 41,
+    "salary": {
+      "min": 78818,
+      "max": 180156,
+      "avg": 118227
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "AWS",
+      "Azure",
+      "Linux",
+      "System Administration",
+      "Kubernetes",
+      "Microservices",
+      "Database Management",
+      "DevOps"
+    ],
+    "description": "Professional certification in amazon certified administration professional offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 688,
+    "created_at": "2025-09-11T18:32:31.453064",
+    "updated_at": "2025-09-11T18:32:31.453065"
+  },
+  {
+    "id": 20,
+    "slug": "certified-security-practitioner",
+    "name": "Certified Security Practitioner",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 210,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 292,
+    "job_postings": 371,
+    "salary": {
+      "min": 62411,
+      "max": 142655,
+      "avg": 93617
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Infrastructure as Code",
+      "Azure",
+      "Database Management",
+      "Docker",
+      "CI/CD",
+      "Microservices",
+      "API Development",
+      "System Administration",
+      "Cloud Computing",
+      "Network Security"
+    ],
+    "description": "Professional certification in certified security practitioner offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 695,
+    "created_at": "2025-09-11T18:32:31.453690",
+    "updated_at": "2025-09-11T18:32:31.453691"
+  },
+  {
+    "id": 24,
+    "slug": "red-data-architecture-exam",
+    "name": "Red Data Architecture Exam",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 364,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 546,
+    "job_postings": 11,
+    "salary": {
+      "min": 70560,
+      "max": 161280,
+      "avg": 105840
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Docker",
+      "Linux",
+      "Database Management",
+      "CI/CD",
+      "API Development",
+      "System Administration",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in red data architecture exam offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 699,
+    "created_at": "2025-09-11T18:32:31.453857",
+    "updated_at": "2025-09-11T18:32:31.453859"
+  },
+  {
+    "id": 125,
+    "slug": "certified-development-analyst",
+    "name": "Certified Development Analyst",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 176,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 198,
+    "job_postings": 1365,
+    "salary": {
+      "min": 77156,
+      "max": 176356,
+      "avg": 115734
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Linux",
+      "Infrastructure as Code",
+      "CI/CD",
+      "Azure",
+      "Database Management",
+      "System Administration",
+      "API Development"
+    ],
+    "description": "Professional certification in certified development analyst offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 707,
+    "created_at": "2025-09-11T18:32:31.458922",
+    "updated_at": "2025-09-11T18:32:31.458923"
+  },
+  {
+    "id": 21,
+    "slug": "microsoft-certified-security-associate",
+    "name": "Microsoft Certified Security Associate",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 136,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 196,
+    "job_postings": 677,
+    "salary": {
+      "min": 69369,
+      "max": 158558,
+      "avg": 104054
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Network Security",
+      "System Administration",
+      "Azure",
+      "CI/CD",
+      "Docker",
+      "Database Management",
+      "AWS",
+      "API Development",
+      "Python",
+      "Linux"
+    ],
+    "description": "Professional certification in microsoft certified security associate offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 709,
+    "created_at": "2025-09-11T18:32:31.453734",
+    "updated_at": "2025-09-11T18:32:31.453735"
+  },
+  {
+    "id": 121,
+    "slug": "architecture-professional-certification",
+    "name": "Architecture Professional Certification",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 245,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 519,
+    "job_postings": 25,
+    "salary": {
+      "min": 62489,
+      "max": 142833,
+      "avg": 93734
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Azure",
+      "Infrastructure as Code",
+      "Kubernetes",
+      "Network Security",
+      "API Development",
+      "DevOps",
+      "Database Management",
+      "CI/CD"
+    ],
+    "description": "Professional certification in architecture professional certification offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 713,
+    "created_at": "2025-09-11T18:32:31.458755",
+    "updated_at": "2025-09-11T18:32:31.458756"
+  },
+  {
+    "id": 142,
+    "slug": "docker-administration-license",
+    "name": "Docker Administration License",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 293,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 345,
+    "job_postings": 362,
+    "salary": {
+      "min": 79655,
+      "max": 182069,
+      "avg": 119483
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "CI/CD",
+      "Database Management",
+      "Kubernetes",
+      "DevOps",
+      "AWS",
+      "Infrastructure as Code",
+      "Microservices",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in docker administration license offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 723,
+    "created_at": "2025-09-11T18:32:31.459630",
+    "updated_at": "2025-09-11T18:32:31.459632"
+  },
+  {
+    "id": 58,
+    "slug": "management-senior-certification",
+    "name": "Management Senior Certification",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "5 weeks",
+    "cost": 302,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 321,
+    "job_postings": 29,
+    "salary": {
+      "min": 78369,
+      "max": 179129,
+      "avg": 117553
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "API Development",
+      "Linux",
+      "Cloud Computing",
+      "Microservices",
+      "Infrastructure as Code",
+      "Kubernetes",
+      "AWS",
+      "System Administration"
+    ],
+    "description": "Professional certification in management senior certification offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 729,
+    "created_at": "2025-09-11T18:32:31.455419",
+    "updated_at": "2025-09-11T18:32:31.455420"
+  },
+  {
+    "id": 99,
+    "slug": "comptia-management-certificate",
+    "name": "CompTIA Management Certificate",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 446,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 490,
+    "job_postings": 144,
+    "salary": {
+      "min": 70434,
+      "max": 160992,
+      "avg": 105651
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "CI/CD",
+      "Linux",
+      "Python",
+      "Azure",
+      "API Development",
+      "Infrastructure as Code",
+      "System Administration",
+      "Database Management"
+    ],
+    "description": "Professional certification in comptia management certificate offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 735,
+    "created_at": "2025-09-11T18:32:31.457850",
+    "updated_at": "2025-09-11T18:32:31.457852"
+  },
+  {
+    "id": 5,
+    "slug": "engineering-foundational-certification",
+    "name": "Engineering Foundational Certification",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 178,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 485,
+    "job_postings": 125,
+    "salary": {
+      "min": 74385,
+      "max": 170023,
+      "avg": 111577
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Azure",
+      "Docker",
+      "AWS",
+      "System Administration",
+      "Python",
+      "DevOps",
+      "Linux"
+    ],
+    "description": "Professional certification in engineering foundational certification offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 757,
+    "created_at": "2025-09-11T18:32:31.452840",
+    "updated_at": "2025-09-11T18:32:31.452842"
+  },
+  {
+    "id": 37,
+    "slug": "oracle-platform-strategy-exam",
+    "name": "Oracle Platform Strategy Exam",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 307,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 326,
+    "job_postings": 165,
+    "salary": {
+      "min": 70891,
+      "max": 162036,
+      "avg": 106336
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Linux",
+      "API Development",
+      "DevOps",
+      "Network Security",
+      "CI/CD",
+      "Docker"
+    ],
+    "description": "Professional certification in oracle platform strategy exam offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 786,
+    "created_at": "2025-09-11T18:32:31.454533",
+    "updated_at": "2025-09-11T18:32:31.454534"
+  },
+  {
+    "id": 122,
+    "slug": "vmware-infrastructure-strategy-exam",
+    "name": "VMware Infrastructure Strategy Exam",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 255,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 439,
+    "job_postings": 176,
+    "salary": {
+      "min": 76708,
+      "max": 175334,
+      "avg": 115063
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "Cloud Computing",
+      "Network Security",
+      "Linux",
+      "Microservices",
+      "Python",
+      "Database Management",
+      "Docker",
+      "System Administration",
+      "API Development"
+    ],
+    "description": "Professional certification in vmware infrastructure strategy exam offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 794,
+    "created_at": "2025-09-11T18:32:31.458798",
+    "updated_at": "2025-09-11T18:32:31.458799"
+  },
+  {
+    "id": 23,
+    "slug": "oracle-infrastructure-strategy-exam",
+    "name": "Oracle Infrastructure Strategy Exam",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 263,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 323,
+    "job_postings": 177,
+    "salary": {
+      "min": 67700,
+      "max": 154744,
+      "avg": 101551
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Database Management",
+      "Kubernetes",
+      "Linux",
+      "API Development",
+      "Network Security",
+      "AWS",
+      "Python",
+      "Microservices",
+      "Azure"
+    ],
+    "description": "Professional certification in oracle infrastructure strategy exam offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 802,
+    "created_at": "2025-09-11T18:32:31.453817",
+    "updated_at": "2025-09-11T18:32:31.453818"
+  },
+  {
+    "id": 51,
+    "slug": "vmware-administration-credential",
+    "name": "VMware Administration Credential",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 221,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 254,
+    "job_postings": 27,
+    "salary": {
+      "min": 76847,
+      "max": 175650,
+      "avg": 115270
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "API Development",
+      "Network Security",
+      "System Administration",
+      "CI/CD"
+    ],
+    "description": "Professional certification in vmware administration credential offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 813,
+    "created_at": "2025-09-11T18:32:31.455119",
+    "updated_at": "2025-09-11T18:32:31.455121"
+  },
+  {
+    "id": 46,
+    "slug": "vmware-certified-engineering-advanced",
+    "name": "VMware Certified Engineering Advanced",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 197,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 210,
+    "job_postings": 80,
+    "salary": {
+      "min": 63550,
+      "max": 145257,
+      "avg": 95325
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Infrastructure as Code",
+      "DevOps",
+      "Linux",
+      "Azure",
+      "Network Security",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in vmware certified engineering advanced offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 839,
+    "created_at": "2025-09-11T18:32:31.454913",
+    "updated_at": "2025-09-11T18:32:31.454914"
+  },
+  {
+    "id": 127,
+    "slug": "amazon-network-architecture-exam",
+    "name": "Amazon Network Architecture Exam",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 187,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 261,
+    "job_postings": 19,
+    "salary": {
+      "min": 64324,
+      "max": 147027,
+      "avg": 96486
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "DevOps",
+      "Azure",
+      "System Administration",
+      "Docker"
+    ],
+    "description": "Professional certification in amazon network architecture exam offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 841,
+    "created_at": "2025-09-11T18:32:31.459005",
+    "updated_at": "2025-09-11T18:32:31.459006"
+  },
+  {
+    "id": 88,
+    "slug": "vmware-certified-engineering-master",
+    "name": "VMware Certified Engineering Master",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "3 weeks",
+    "cost": 263,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 272,
+    "job_postings": 15,
+    "salary": {
+      "min": 80274,
+      "max": 183485,
+      "avg": 120412
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Infrastructure as Code",
+      "Docker",
+      "API Development",
+      "DevOps",
+      "Python",
+      "System Administration",
+      "Azure",
+      "Database Management"
+    ],
+    "description": "Professional certification in vmware certified engineering master offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 851,
+    "created_at": "2025-09-11T18:32:31.457229",
+    "updated_at": "2025-09-11T18:32:31.457231"
+  },
+  {
+    "id": 76,
+    "slug": "microsoft-software-management-exam-1",
+    "name": "Microsoft Software Management Exam",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 191,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 307,
+    "job_postings": 11,
+    "salary": {
+      "min": 65210,
+      "max": 149052,
+      "avg": 97815
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Kubernetes",
+      "Database Management",
+      "AWS",
+      "Linux"
+    ],
+    "description": "Professional certification in microsoft software management exam offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 856,
+    "created_at": "2025-09-11T18:32:31.456378",
+    "updated_at": "2025-09-11T18:32:31.456379"
+  },
+  {
+    "id": 109,
+    "slug": "amazon-infrastructure-administration-exam",
+    "name": "Amazon Infrastructure Administration Exam",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 204,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 275,
+    "job_postings": 27,
+    "salary": {
+      "min": 80160,
+      "max": 183224,
+      "avg": 120240
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Linux",
+      "AWS",
+      "Database Management",
+      "Docker",
+      "Microservices",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in amazon infrastructure administration exam offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 863,
+    "created_at": "2025-09-11T18:32:31.458264",
+    "updated_at": "2025-09-11T18:32:31.458266"
+  },
+  {
+    "id": 90,
+    "slug": "certified-strategy-professional",
+    "name": "Certified Strategy Professional",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 410,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 361,
+    "job_postings": 10,
+    "salary": {
+      "min": 71677,
+      "max": 163834,
+      "avg": 107516
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "API Development",
+      "AWS",
+      "Cloud Computing",
+      "Infrastructure as Code",
+      "Kubernetes",
+      "Network Security",
+      "Python",
+      "System Administration"
+    ],
+    "description": "Professional certification in certified strategy professional offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 869,
+    "created_at": "2025-09-11T18:32:31.457345",
+    "updated_at": "2025-09-11T18:32:31.457349"
+  },
+  {
+    "id": 102,
+    "slug": "security-lead-certification-1",
+    "name": "Security Lead Certification",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 265,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 250,
+    "job_postings": 96,
+    "salary": {
+      "min": 68110,
+      "max": 155681,
+      "avg": 102166
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Network Security",
+      "API Development",
+      "Cloud Computing",
+      "Azure"
+    ],
+    "description": "Professional certification in security lead certification offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 913,
+    "created_at": "2025-09-11T18:32:31.457974",
+    "updated_at": "2025-09-11T18:32:31.457975"
+  },
+  {
+    "id": 95,
+    "slug": "comptia-network-architecture-exam",
+    "name": "CompTIA Network Architecture Exam",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 456,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 274,
+    "job_postings": 122,
+    "salary": {
+      "min": 66344,
+      "max": 151645,
+      "avg": 99517
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Infrastructure as Code",
+      "Microservices",
+      "Kubernetes",
+      "Database Management",
+      "AWS",
+      "Cloud Computing",
+      "Docker",
+      "System Administration",
+      "Linux",
+      "DevOps"
+    ],
+    "description": "Professional certification in comptia network architecture exam offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 919,
+    "created_at": "2025-09-11T18:32:31.457679",
+    "updated_at": "2025-09-11T18:32:31.457680"
+  },
+  {
+    "id": 17,
+    "slug": "salesforce-network-administration-exam",
+    "name": "Salesforce Network Administration Exam",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 273,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 69,
+    "job_postings": 721,
+    "salary": {
+      "min": 80271,
+      "max": 183477,
+      "avg": 120407
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Database Management",
+      "DevOps",
+      "Cloud Computing",
+      "System Administration",
+      "Infrastructure as Code"
+    ],
+    "description": "Professional certification in salesforce network administration exam offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 947,
+    "created_at": "2025-09-11T18:32:31.453360",
+    "updated_at": "2025-09-11T18:32:31.453364"
+  },
+  {
+    "id": 52,
+    "slug": "docker-certified-administration-expert",
+    "name": "Docker Certified Administration Expert",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 310,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 237,
+    "job_postings": 135,
+    "salary": {
+      "min": 59950,
+      "max": 137030,
+      "avg": 89925
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "API Development",
+      "Cloud Computing",
+      "Python",
+      "Microservices"
+    ],
+    "description": "Professional certification in docker certified administration expert offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 985,
+    "created_at": "2025-09-11T18:32:31.455160",
+    "updated_at": "2025-09-11T18:32:31.455161"
+  },
+  {
+    "id": 104,
+    "slug": "certified-architecture-consultant-1",
+    "name": "Certified Architecture Consultant",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 410,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 287,
+    "job_postings": 33,
+    "salary": {
+      "min": 65782,
+      "max": 150359,
+      "avg": 98673
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Linux",
+      "Microservices",
+      "Infrastructure as Code",
+      "DevOps",
+      "AWS",
+      "CI/CD",
+      "API Development",
+      "System Administration",
+      "Azure"
+    ],
+    "description": "Professional certification in certified architecture consultant offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1021,
+    "created_at": "2025-09-11T18:32:31.458056",
+    "updated_at": "2025-09-11T18:32:31.458057"
+  },
+  {
+    "id": 61,
+    "slug": "analytics-professional-certification",
+    "name": "Analytics Professional Certification",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 224,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 101,
+    "job_postings": 717,
+    "salary": {
+      "min": 68987,
+      "max": 157684,
+      "avg": 103480
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Microservices",
+      "Infrastructure as Code",
+      "Database Management",
+      "AWS",
+      "Docker",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in analytics professional certification offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1023,
+    "created_at": "2025-09-11T18:32:31.455541",
+    "updated_at": "2025-09-11T18:32:31.455542"
+  },
+  {
+    "id": 126,
+    "slug": "certified-architecture-administrator",
+    "name": "Certified Architecture Administrator",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 416,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 146,
+    "job_postings": 335,
+    "salary": {
+      "min": 77445,
+      "max": 177018,
+      "avg": 116168
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Linux",
+      "CI/CD",
+      "Kubernetes",
+      "Infrastructure as Code",
+      "AWS",
+      "API Development",
+      "Docker",
+      "Database Management",
+      "Azure"
+    ],
+    "description": "Professional certification in certified architecture administrator offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 1024,
+    "created_at": "2025-09-11T18:32:31.458963",
+    "updated_at": "2025-09-11T18:32:31.458965"
+  },
+  {
+    "id": 32,
+    "slug": "docker-platform-strategy-exam",
+    "name": "Docker Platform Strategy Exam",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 238,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 234,
+    "job_postings": 665,
+    "salary": {
+      "min": 80446,
+      "max": 183878,
+      "avg": 120670
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "System Administration",
+      "Python",
+      "Infrastructure as Code",
+      "Azure"
+    ],
+    "description": "Professional certification in docker platform strategy exam offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1025,
+    "created_at": "2025-09-11T18:32:31.454284",
+    "updated_at": "2025-09-11T18:32:31.454291"
+  },
+  {
+    "id": 81,
+    "slug": "vmware-cloud-analytics-exam",
+    "name": "VMware Cloud Analytics Exam",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 196,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 118,
+    "job_postings": 772,
+    "salary": {
+      "min": 78623,
+      "max": 179710,
+      "avg": 117934
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Linux",
+      "Azure",
+      "Microservices",
+      "DevOps",
+      "Python",
+      "Kubernetes",
+      "Infrastructure as Code",
+      "Cloud Computing",
+      "Docker"
+    ],
+    "description": "Professional certification in vmware cloud analytics exam offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 1027,
+    "created_at": "2025-09-11T18:32:31.456922",
+    "updated_at": "2025-09-11T18:32:31.456924"
+  },
+  {
+    "id": 2,
+    "slug": "comptia-certified-management-master",
+    "name": "CompTIA Certified Management Master",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 290,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 155,
+    "job_postings": 141,
+    "salary": {
+      "min": 61962,
+      "max": 141629,
+      "avg": 92944
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Kubernetes",
+      "Azure",
+      "API Development",
+      "Microservices",
+      "Python",
+      "Linux",
+      "Infrastructure as Code",
+      "Database Management",
+      "Network Security"
+    ],
+    "description": "Professional certification in comptia certified management master offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1033,
+    "created_at": "2025-09-11T18:32:31.452698",
+    "updated_at": "2025-09-11T18:32:31.452700"
+  },
+  {
+    "id": 85,
+    "slug": "salesforce-certified-security-lead",
+    "name": "Salesforce Certified Security Lead",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 177,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 260,
+    "job_postings": 26,
+    "salary": {
+      "min": 69366,
+      "max": 158552,
+      "avg": 104049
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "System Administration",
+      "Kubernetes",
+      "Linux",
+      "Microservices",
+      "CI/CD",
+      "DevOps"
+    ],
+    "description": "Professional certification in salesforce certified security lead offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1035,
+    "created_at": "2025-09-11T18:32:31.457093",
+    "updated_at": "2025-09-11T18:32:31.457094"
+  },
+  {
+    "id": 101,
+    "slug": "certified-development-administrator-2",
+    "name": "Certified Development Administrator",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 396,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 321,
+    "job_postings": 55,
+    "salary": {
+      "min": 74980,
+      "max": 171384,
+      "avg": 112471
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Linux",
+      "Network Security",
+      "Python",
+      "Azure",
+      "Cloud Computing",
+      "Infrastructure as Code"
+    ],
+    "description": "Professional certification in certified development administrator offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1038,
+    "created_at": "2025-09-11T18:32:31.457934",
+    "updated_at": "2025-09-11T18:32:31.457935"
+  },
+  {
+    "id": 129,
+    "slug": "docker-certified-engineering-expert",
+    "name": "Docker Certified Engineering Expert",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 258,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 71,
+    "job_postings": 757,
+    "salary": {
+      "min": 75957,
+      "max": 173616,
+      "avg": 113936
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Python",
+      "AWS",
+      "System Administration",
+      "API Development",
+      "Docker",
+      "Database Management"
+    ],
+    "description": "Professional certification in docker certified engineering expert offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1058,
+    "created_at": "2025-09-11T18:32:31.459086",
+    "updated_at": "2025-09-11T18:32:31.459088"
+  },
+  {
+    "id": 78,
+    "slug": "docker-certified-management-foundational",
+    "name": "Docker Certified Management Foundational",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 308,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 242,
+    "job_postings": 21,
+    "salary": {
+      "min": 62941,
+      "max": 143865,
+      "avg": 94412
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Infrastructure as Code",
+      "Network Security",
+      "Azure",
+      "Docker",
+      "Python",
+      "System Administration",
+      "Database Management"
+    ],
+    "description": "Professional certification in docker certified management foundational offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1067,
+    "created_at": "2025-09-11T18:32:31.456474",
+    "updated_at": "2025-09-11T18:32:31.456476"
+  },
+  {
+    "id": 26,
+    "slug": "comptia-certified-security-professional",
+    "name": "CompTIA Certified Security Professional",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 300,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 24,
+    "job_postings": 702,
+    "salary": {
+      "min": 70795,
+      "max": 161819,
+      "avg": 106193
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Azure",
+      "Network Security",
+      "Python",
+      "Cloud Computing",
+      "Microservices",
+      "AWS"
+    ],
+    "description": "Professional certification in comptia certified security professional offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 1075,
+    "created_at": "2025-09-11T18:32:31.453943",
+    "updated_at": "2025-09-11T18:32:31.453944"
+  },
+  {
+    "id": 40,
+    "slug": "salesforce-infrastructure-development-exam",
+    "name": "Salesforce Infrastructure Development Exam",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 243,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 223,
+    "job_postings": 186,
+    "salary": {
+      "min": 63712,
+      "max": 145627,
+      "avg": 95568
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Network Security",
+      "Docker",
+      "Microservices",
+      "Linux",
+      "Kubernetes",
+      "Azure",
+      "DevOps",
+      "Database Management"
+    ],
+    "description": "Professional certification in salesforce infrastructure development exam offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1078,
+    "created_at": "2025-09-11T18:32:31.454659",
+    "updated_at": "2025-09-11T18:32:31.454660"
+  },
+  {
+    "id": 117,
+    "slug": "certified-management-specialist",
+    "name": "Certified Management Specialist",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 214,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 138,
+    "job_postings": 463,
+    "salary": {
+      "min": 74315,
+      "max": 169864,
+      "avg": 111473
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "API Development",
+      "CI/CD",
+      "Cloud Computing",
+      "System Administration",
+      "Database Management"
+    ],
+    "description": "Professional certification in certified management specialist offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 1081,
+    "created_at": "2025-09-11T18:32:31.458586",
+    "updated_at": "2025-09-11T18:32:31.458588"
+  },
+  {
+    "id": 49,
+    "slug": "development-professional-certification",
+    "name": "Development Professional Certification",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 382,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 152,
+    "job_postings": 122,
+    "salary": {
+      "min": 68584,
+      "max": 156764,
+      "avg": 102876
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Linux",
+      "Docker",
+      "Microservices",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in development professional certification offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 1083,
+    "created_at": "2025-09-11T18:32:31.455035",
+    "updated_at": "2025-09-11T18:32:31.455037"
+  },
+  {
+    "id": 3,
+    "slug": "oracle-network-architecture-exam",
+    "name": "Oracle Network Architecture Exam",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 398,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 135,
+    "job_postings": 22,
+    "salary": {
+      "min": 67555,
+      "max": 154411,
+      "avg": 101332
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Docker",
+      "Database Management",
+      "DevOps",
+      "Infrastructure as Code",
+      "Azure",
+      "Linux"
+    ],
+    "description": "Professional certification in oracle network architecture exam offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1108,
+    "created_at": "2025-09-11T18:32:31.452748",
+    "updated_at": "2025-09-11T18:32:31.452749"
+  },
+  {
+    "id": 97,
+    "slug": "architecture-advanced-certification-1",
+    "name": "Architecture Advanced Certification",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 218,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 143,
+    "job_postings": 333,
+    "salary": {
+      "min": 79194,
+      "max": 181015,
+      "avg": 118791
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Microservices",
+      "DevOps",
+      "Infrastructure as Code",
+      "System Administration",
+      "Linux"
+    ],
+    "description": "Professional certification in architecture advanced certification offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 1112,
+    "created_at": "2025-09-11T18:32:31.457765",
+    "updated_at": "2025-09-11T18:32:31.457766"
+  },
+  {
+    "id": 53,
+    "slug": "oracle-cloud-engineering-exam",
+    "name": "Oracle Cloud Engineering Exam",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 256,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 253,
+    "job_postings": 28,
+    "salary": {
+      "min": 68086,
+      "max": 155627,
+      "avg": 102130
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Python",
+      "Infrastructure as Code",
+      "CI/CD",
+      "Network Security",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in oracle cloud engineering exam offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1114,
+    "created_at": "2025-09-11T18:32:31.455205",
+    "updated_at": "2025-09-11T18:32:31.455207"
+  },
+  {
+    "id": 6,
+    "slug": "amazon-software-architecture-exam",
+    "name": "Amazon Software Architecture Exam",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 169,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 84,
+    "job_postings": 114,
+    "salary": {
+      "min": 63777,
+      "max": 145776,
+      "avg": 95665
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Cloud Computing",
+      "Database Management",
+      "API Development",
+      "System Administration",
+      "Linux",
+      "Network Security",
+      "Kubernetes",
+      "CI/CD",
+      "Infrastructure as Code"
+    ],
+    "description": "Professional certification in amazon software architecture exam offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 1116,
+    "created_at": "2025-09-11T18:32:31.452884",
+    "updated_at": "2025-09-11T18:32:31.452886"
+  },
+  {
+    "id": 77,
+    "slug": "docker-development-certification",
+    "name": "Docker Development Certification",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 337,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 245,
+    "job_postings": 47,
+    "salary": {
+      "min": 78822,
+      "max": 180164,
+      "avg": 118233
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Python",
+      "Docker",
+      "Network Security",
+      "Database Management",
+      "Linux",
+      "Kubernetes",
+      "API Development",
+      "Azure"
+    ],
+    "description": "Professional certification in docker development certification offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1117,
+    "created_at": "2025-09-11T18:32:31.456428",
+    "updated_at": "2025-09-11T18:32:31.456429"
+  },
+  {
+    "id": 91,
+    "slug": "comptia-data-strategy-exam",
+    "name": "CompTIA Data Strategy Exam",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 416,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 169,
+    "job_postings": 67,
+    "salary": {
+      "min": 60074,
+      "max": 137314,
+      "avg": 90112
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Microservices",
+      "Azure",
+      "Kubernetes",
+      "Infrastructure as Code",
+      "System Administration"
+    ],
+    "description": "Professional certification in comptia data strategy exam offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1135,
+    "created_at": "2025-09-11T18:32:31.457428",
+    "updated_at": "2025-09-11T18:32:31.457430"
+  },
+  {
+    "id": 73,
+    "slug": "security-professional-certification",
+    "name": "Security Professional Certification",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 389,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 226,
+    "job_postings": 46,
+    "salary": {
+      "min": 70968,
+      "max": 162213,
+      "avg": 106452
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "CI/CD",
+      "AWS",
+      "Azure",
+      "API Development",
+      "DevOps",
+      "Database Management",
+      "Cloud Computing"
+    ],
+    "description": "Professional certification in security professional certification offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1150,
+    "created_at": "2025-09-11T18:32:31.456157",
+    "updated_at": "2025-09-11T18:32:31.456158"
+  },
+  {
+    "id": 94,
+    "slug": "certified-administration-professional",
+    "name": "Certified Administration Professional",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 138,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 247,
+    "job_postings": 22,
+    "salary": {
+      "min": 79650,
+      "max": 182057,
+      "avg": 119475
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Network Security",
+      "Docker",
+      "DevOps",
+      "Azure",
+      "CI/CD",
+      "System Administration",
+      "AWS",
+      "API Development",
+      "Database Management",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in certified administration professional offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 1156,
+    "created_at": "2025-09-11T18:32:31.457631",
+    "updated_at": "2025-09-11T18:32:31.457633"
+  },
+  {
+    "id": 138,
+    "slug": "vmware-certified-security-lead",
+    "name": "VMware Certified Security Lead",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 286,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 23,
+    "job_postings": 79,
+    "salary": {
+      "min": 67033,
+      "max": 153220,
+      "avg": 100550
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Infrastructure as Code",
+      "Kubernetes",
+      "Cloud Computing",
+      "Microservices"
+    ],
+    "description": "Professional certification in vmware certified security lead offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 1157,
+    "created_at": "2025-09-11T18:32:31.459461",
+    "updated_at": "2025-09-11T18:32:31.459462"
+  },
+  {
+    "id": 36,
+    "slug": "salesforce-data-engineering-exam",
+    "name": "Salesforce Data Engineering Exam",
+    "issuer": "Salesforce",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 185,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 41,
+    "job_postings": 700,
+    "salary": {
+      "min": 67382,
+      "max": 154017,
+      "avg": 101074
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Network Security",
+      "Cloud Computing",
+      "Database Management",
+      "System Administration",
+      "API Development",
+      "Infrastructure as Code",
+      "Azure",
+      "Docker"
+    ],
+    "description": "Professional certification in salesforce data engineering exam offered by Salesforce. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "ranking": 1158,
+    "created_at": "2025-09-11T18:32:31.454486",
+    "updated_at": "2025-09-11T18:32:31.454489"
+  },
+  {
+    "id": 18,
+    "slug": "docker-administration-credential",
+    "name": "Docker Administration Credential",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 274,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 166,
+    "job_postings": 23,
+    "salary": {
+      "min": 78731,
+      "max": 179956,
+      "avg": 118096
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "System Administration",
+      "Linux",
+      "API Development",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure as Code"
+    ],
+    "description": "Professional certification in docker administration credential offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1164,
+    "created_at": "2025-09-11T18:32:31.453406",
+    "updated_at": "2025-09-11T18:32:31.453407"
+  },
+  {
+    "id": 33,
+    "slug": "security-expert-certification-1",
+    "name": "Security Expert Certification",
+    "issuer": "Docker",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 260,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 61,
+    "job_postings": 128,
+    "salary": {
+      "min": 65912,
+      "max": 150658,
+      "avg": 98869
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "CI/CD",
+      "AWS",
+      "Python",
+      "System Administration"
+    ],
+    "description": "Professional certification in security expert certification offered by Docker. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1172,
+    "created_at": "2025-09-11T18:32:31.454345",
+    "updated_at": "2025-09-11T18:32:31.454347"
+  },
+  {
+    "id": 132,
+    "slug": "certified-strategy-practitioner",
+    "name": "Certified Strategy Practitioner",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 472,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 126,
+    "job_postings": 148,
+    "salary": {
+      "min": 67698,
+      "max": 154740,
+      "avg": 101548
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "AWS",
+      "Cloud Computing",
+      "API Development",
+      "Infrastructure as Code",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "description": "Professional certification in certified strategy practitioner offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1185,
+    "created_at": "2025-09-11T18:32:31.459209",
+    "updated_at": "2025-09-11T18:32:31.459210"
+  },
+  {
+    "id": 59,
+    "slug": "management-advanced-certification",
+    "name": "Management Advanced Certification",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "3 weeks",
+    "cost": 243,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 129,
+    "job_postings": 105,
+    "salary": {
+      "min": 80394,
+      "max": 183758,
+      "avg": 120591
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "DevOps",
+      "Azure",
+      "CI/CD",
+      "Docker"
+    ],
+    "description": "Professional certification in management advanced certification offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 1190,
+    "created_at": "2025-09-11T18:32:31.455459",
+    "updated_at": "2025-09-11T18:32:31.455460"
+  },
+  {
+    "id": 65,
+    "slug": "comptia-architecture-qualification",
+    "name": "CompTIA Architecture Qualification",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 359,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 118,
+    "job_postings": 524,
+    "salary": {
+      "min": 67118,
+      "max": 153412,
+      "avg": 100677
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Network Security",
+      "Database Management",
+      "Infrastructure as Code",
+      "System Administration",
+      "Python",
+      "DevOps",
+      "Docker"
+    ],
+    "description": "Professional certification in comptia architecture qualification offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 1199,
+    "created_at": "2025-09-11T18:32:31.455702",
+    "updated_at": "2025-09-11T18:32:31.455703"
+  },
+  {
+    "id": 80,
+    "slug": "certified-analytics-practitioner",
+    "name": "Certified Analytics Practitioner",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 338,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 28,
+    "job_postings": 644,
+    "salary": {
+      "min": 67979,
+      "max": 155381,
+      "avg": 101969
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Docker",
+      "Network Security",
+      "Database Management",
+      "AWS"
+    ],
+    "description": "Professional certification in certified analytics practitioner offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1221,
+    "created_at": "2025-09-11T18:32:31.456788",
+    "updated_at": "2025-09-11T18:32:31.456797"
+  },
+  {
+    "id": 7,
+    "slug": "amazon-security-qualification",
+    "name": "Amazon Security Qualification",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 112,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 100,
+    "job_postings": 259,
+    "salary": {
+      "min": 63757,
+      "max": 145730,
+      "avg": 95635
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Infrastructure as Code",
+      "Kubernetes",
+      "Microservices",
+      "Linux",
+      "Docker",
+      "CI/CD",
+      "AWS"
+    ],
+    "description": "Professional certification in amazon security qualification offered by Amazon Web Services (AWS). Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 1228,
+    "created_at": "2025-09-11T18:32:31.452926",
+    "updated_at": "2025-09-11T18:32:31.452928"
+  },
+  {
+    "id": 135,
+    "slug": "red-certified-security-senior",
+    "name": "Red Certified Security Senior",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 323,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 196,
+    "job_postings": 5,
+    "salary": {
+      "min": 66141,
+      "max": 151181,
+      "avg": 99212
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "System Administration",
+      "Kubernetes",
+      "Linux",
+      "Python",
+      "AWS",
+      "Azure",
+      "API Development"
+    ],
+    "description": "Professional certification in red certified security senior offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1243,
+    "created_at": "2025-09-11T18:32:31.459336",
+    "updated_at": "2025-09-11T18:32:31.459337"
+  },
+  {
+    "id": 19,
+    "slug": "microsoft-software-security-exam",
+    "name": "Microsoft Software Security Exam",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 195,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 88,
+    "job_postings": 328,
+    "salary": {
+      "min": 77686,
+      "max": 177570,
+      "avg": 116530
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Python",
+      "Microservices",
+      "DevOps",
+      "Cloud Computing",
+      "CI/CD",
+      "Azure",
+      "AWS",
+      "Network Security"
+    ],
+    "description": "Professional certification in microsoft software security exam offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1244,
+    "created_at": "2025-09-11T18:32:31.453640",
+    "updated_at": "2025-09-11T18:32:31.453642"
+  },
+  {
+    "id": 114,
+    "slug": "oracle-certified-administration-advanced",
+    "name": "Oracle Certified Administration Advanced",
+    "issuer": "Oracle",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 281,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 61,
+    "job_postings": 544,
+    "salary": {
+      "min": 64183,
+      "max": 146704,
+      "avg": 96274
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "CI/CD",
+      "System Administration",
+      "Cloud Computing",
+      "DevOps",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in oracle certified administration advanced offered by Oracle. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1272,
+    "created_at": "2025-09-11T18:32:31.458467",
+    "updated_at": "2025-09-11T18:32:31.458468"
+  },
+  {
+    "id": 47,
+    "slug": "microsoft-software-management-exam",
+    "name": "Microsoft Software Management Exam",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 135,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 36,
+    "job_postings": 138,
+    "salary": {
+      "min": 61397,
+      "max": 140337,
+      "avg": 92096
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Linux",
+      "Cloud Computing",
+      "Kubernetes",
+      "Network Security",
+      "AWS",
+      "System Administration"
+    ],
+    "description": "Professional certification in microsoft software management exam offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 1301,
+    "created_at": "2025-09-11T18:32:31.454953",
+    "updated_at": "2025-09-11T18:32:31.454955"
+  },
+  {
+    "id": 144,
+    "slug": "certified-security-practitioner-1",
+    "name": "Certified Security Practitioner",
+    "issuer": "CompTIA",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 348,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 82,
+    "job_postings": 44,
+    "salary": {
+      "min": 79333,
+      "max": 181333,
+      "avg": 119000
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "System Administration",
+      "Microservices"
+    ],
+    "description": "Professional certification in certified security practitioner offered by CompTIA. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1305,
+    "created_at": "2025-09-11T18:32:31.459715",
+    "updated_at": "2025-09-11T18:32:31.459717"
+  },
+  {
+    "id": 118,
+    "slug": "microsoft-architecture-credential",
+    "name": "Microsoft Architecture Credential",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 139,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 42,
+    "job_postings": 9,
+    "salary": {
+      "min": 67258,
+      "max": 153734,
+      "avg": 100888
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Docker",
+      "API Development",
+      "CI/CD",
+      "Cloud Computing",
+      "Network Security",
+      "Microservices",
+      "Kubernetes",
+      "AWS",
+      "Infrastructure as Code"
+    ],
+    "description": "Professional certification in microsoft architecture credential offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1327,
+    "created_at": "2025-09-11T18:32:31.458630",
+    "updated_at": "2025-09-11T18:32:31.458631"
+  },
+  {
+    "id": 64,
+    "slug": "vmware-certified-development-expert",
+    "name": "VMware Certified Development Expert",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 259,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 56,
+    "job_postings": 155,
+    "salary": {
+      "min": 72287,
+      "max": 165227,
+      "avg": 108430
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Kubernetes",
+      "Python",
+      "Infrastructure as Code",
+      "Database Management",
+      "Cloud Computing",
+      "API Development",
+      "DevOps",
+      "AWS"
+    ],
+    "description": "Professional certification in vmware certified development expert offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1331,
+    "created_at": "2025-09-11T18:32:31.455662",
+    "updated_at": "2025-09-11T18:32:31.455663"
+  },
+  {
+    "id": 115,
+    "slug": "microsoft-certified-administration-master",
+    "name": "Microsoft Certified Administration Master",
+    "issuer": "Microsoft",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 174,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 34,
+    "job_postings": 140,
+    "salary": {
+      "min": 73430,
+      "max": 167841,
+      "avg": 110145
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Azure",
+      "Infrastructure as Code",
+      "Docker",
+      "API Development",
+      "Microservices"
+    ],
+    "description": "Professional certification in microsoft certified administration master offered by Microsoft. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1337,
+    "created_at": "2025-09-11T18:32:31.458507",
+    "updated_at": "2025-09-11T18:32:31.458508"
+  },
+  {
+    "id": 8,
+    "slug": "red-development-credential",
+    "name": "Red Development Credential",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 433,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 105,
+    "job_postings": 48,
+    "salary": {
+      "min": 71177,
+      "max": 162691,
+      "avg": 106766
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Docker",
+      "Database Management",
+      "CI/CD",
+      "Infrastructure as Code",
+      "Azure",
+      "System Administration",
+      "DevOps",
+      "AWS"
+    ],
+    "description": "Professional certification in red development credential offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 1348,
+    "created_at": "2025-09-11T18:32:31.452970",
+    "updated_at": "2025-09-11T18:32:31.452972"
+  },
+  {
+    "id": 84,
+    "slug": "vmware-certified-development-master",
+    "name": "VMware Certified Development Master",
+    "issuer": "VMware",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 175,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 20,
+    "job_postings": 13,
+    "salary": {
+      "min": 78984,
+      "max": 180537,
+      "avg": 118477
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Database Management",
+      "Infrastructure as Code",
+      "System Administration",
+      "DevOps",
+      "Microservices",
+      "Python",
+      "Network Security"
+    ],
+    "description": "Professional certification in vmware certified development master offered by VMware. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1362,
+    "created_at": "2025-09-11T18:32:31.457053",
+    "updated_at": "2025-09-11T18:32:31.457054"
+  },
+  {
+    "id": 106,
+    "slug": "architecture-foundational-certification",
+    "name": "Architecture Foundational Certification",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 428,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 110,
+    "job_postings": 47,
+    "salary": {
+      "min": 64843,
+      "max": 148212,
+      "avg": 97264
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Database Management",
+      "Network Security",
+      "API Development",
+      "CI/CD"
+    ],
+    "description": "Professional certification in architecture foundational certification offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1365,
+    "created_at": "2025-09-11T18:32:31.458139",
+    "updated_at": "2025-09-11T18:32:31.458140"
+  },
+  {
+    "id": 82,
+    "slug": "strategy-foundational-certification",
+    "name": "Strategy Foundational Certification",
+    "issuer": "Red Hat",
+    "domain": "cs-it",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 422,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 18,
+    "job_postings": 9,
+    "salary": {
+      "min": 68110,
+      "max": 155682,
+      "avg": 102166
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Linux",
+      "Microservices",
+      "CI/CD",
+      "Infrastructure as Code",
+      "DevOps",
+      "Cloud Computing",
+      "Database Management"
+    ],
+    "description": "Professional certification in strategy foundational certification offered by Red Hat. Validates expertise in Cs It and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1374,
+    "created_at": "2025-09-11T18:32:31.456970",
+    "updated_at": "2025-09-11T18:32:31.456971"
+  }
+]

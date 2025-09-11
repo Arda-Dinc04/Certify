@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 945,
+    "slug": "crm-engineering-certificate",
+    "name": "CRM Engineering Certificate",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 663,
+    "job_postings": 426,
+    "salary": {
+      "min": 45971,
+      "max": 153239,
+      "avg": 86835
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Negotiation",
+      "Sales Analytics",
+      "CRM",
+      "Account Management",
+      "Sales Process"
+    ],
+    "description": "Professional certification in crm engineering certificate offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 98,
+    "created_at": "2025-09-11T18:32:31.493941",
+    "updated_at": "2025-09-11T18:32:31.493942"
+  },
+  {
+    "id": 951,
+    "slug": "lead-generation-engineering-certificate-2",
+    "name": "Lead Generation Engineering Certificate",
+    "issuer": "Salesforce",
+    "domain": "sales",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 165,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 645,
+    "job_postings": 44,
+    "salary": {
+      "min": 41485,
+      "max": 138283,
+      "avg": 78360
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Account Management",
+      "CRM",
+      "Sales Analytics",
+      "Presentation Skills",
+      "Customer Relations",
+      "Negotiation",
+      "Lead Generation",
+      "Sales Process"
+    ],
+    "description": "Professional certification in lead generation engineering certificate offered by Salesforce. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 120,
+    "created_at": "2025-09-11T18:32:31.494186",
+    "updated_at": "2025-09-11T18:32:31.494187"
+  },
+  {
+    "id": 956,
+    "slug": "crm-administration-certificate",
+    "name": "CRM Administration Certificate",
+    "issuer": "Salesforce",
+    "domain": "sales",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 193,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 605,
+    "job_postings": 322,
+    "salary": {
+      "min": 42639,
+      "max": 142132,
+      "avg": 80541
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Sales Process",
+      "Negotiation",
+      "Sales Analytics",
+      "Presentation Skills",
+      "Customer Relations",
+      "CRM",
+      "Account Management"
+    ],
+    "description": "Professional certification in crm administration certificate offered by Salesforce. Validates expertise in Sales and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 128,
+    "created_at": "2025-09-11T18:32:31.494389",
+    "updated_at": "2025-09-11T18:32:31.494390"
+  },
+  {
+    "id": 952,
+    "slug": "certified-inside-sales-expert-1",
+    "name": "Certified Inside Sales Expert",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 604,
+    "job_postings": 10,
+    "salary": {
+      "min": 50574,
+      "max": 168580,
+      "avg": 95529
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Lead Generation",
+      "Sales Analytics",
+      "Negotiation",
+      "Account Management",
+      "Customer Relations",
+      "CRM"
+    ],
+    "description": "Professional certification in certified inside sales expert offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 252,
+    "created_at": "2025-09-11T18:32:31.494225",
+    "updated_at": "2025-09-11T18:32:31.494226"
+  },
+  {
+    "id": 948,
+    "slug": "certified-inside-sales-expert",
+    "name": "Certified Inside Sales Expert",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 497,
+    "job_postings": 197,
+    "salary": {
+      "min": 51470,
+      "max": 171567,
+      "avg": 97221
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "CRM",
+      "Account Management",
+      "Negotiation",
+      "Lead Generation",
+      "Sales Process",
+      "Presentation Skills",
+      "Customer Relations",
+      "Sales Analytics"
+    ],
+    "description": "Professional certification in certified inside sales expert offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 255,
+    "created_at": "2025-09-11T18:32:31.494065",
+    "updated_at": "2025-09-11T18:32:31.494066"
+  },
+  {
+    "id": 939,
+    "slug": "consultative-selling-development-certification",
+    "name": "Consultative Selling Development Certification",
+    "issuer": "Pardot",
+    "domain": "sales",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 186,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 608,
+    "job_postings": 20,
+    "salary": {
+      "min": 41923,
+      "max": 139743,
+      "avg": 79187
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Presentation Skills",
+      "Sales Analytics",
+      "Lead Generation",
+      "Account Management",
+      "Sales Process",
+      "Negotiation",
+      "Customer Relations"
+    ],
+    "description": "Professional certification in consultative selling development certification offered by Pardot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 321,
+    "created_at": "2025-09-11T18:32:31.493692",
+    "updated_at": "2025-09-11T18:32:31.493694"
+  },
+  {
+    "id": 938,
+    "slug": "certified-sales-management-analyst",
+    "name": "Certified Sales Management Analyst",
+    "issuer": "Salesforce",
+    "domain": "sales",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 183,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 501,
+    "job_postings": 438,
+    "salary": {
+      "min": 44114,
+      "max": 147046,
+      "avg": 83326
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Presentation Skills",
+      "Sales Process",
+      "CRM",
+      "Sales Analytics",
+      "Lead Generation"
+    ],
+    "description": "Professional certification in certified sales management analyst offered by Salesforce. Validates expertise in Sales and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 344,
+    "created_at": "2025-09-11T18:32:31.493651",
+    "updated_at": "2025-09-11T18:32:31.493652"
+  },
+  {
+    "id": 947,
+    "slug": "salesforce-sales-security-professional",
+    "name": "Salesforce Sales Security Professional",
+    "issuer": "Salesforce",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 153,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 502,
+    "job_postings": 688,
+    "salary": {
+      "min": 43207,
+      "max": 144024,
+      "avg": 81613
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Presentation Skills",
+      "Customer Relations",
+      "Account Management",
+      "Lead Generation",
+      "Sales Analytics",
+      "Negotiation",
+      "Sales Process",
+      "CRM"
+    ],
+    "description": "Professional certification in salesforce sales security professional offered by Salesforce. Validates expertise in Sales and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 377,
+    "created_at": "2025-09-11T18:32:31.494024",
+    "updated_at": "2025-09-11T18:32:31.494026"
+  },
+  {
+    "id": 937,
+    "slug": "hubspot-sales-strategy-master",
+    "name": "HubSpot Sales Strategy Master",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 505,
+    "job_postings": 152,
+    "salary": {
+      "min": 40929,
+      "max": 136432,
+      "avg": 77311
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Lead Generation",
+      "CRM",
+      "Sales Analytics",
+      "Account Management",
+      "Presentation Skills",
+      "Negotiation",
+      "Sales Process"
+    ],
+    "description": "Professional certification in hubspot sales strategy master offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 418,
+    "created_at": "2025-09-11T18:32:31.493610",
+    "updated_at": "2025-09-11T18:32:31.493612"
+  },
+  {
+    "id": 944,
+    "slug": "certified-sales-management-administrator",
+    "name": "Certified Sales Management Administrator",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 518,
+    "job_postings": 406,
+    "salary": {
+      "min": 47454,
+      "max": 158180,
+      "avg": 89635
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Account Management",
+      "CRM",
+      "Sales Process",
+      "Presentation Skills"
+    ],
+    "description": "Professional certification in certified sales management administrator offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 420,
+    "created_at": "2025-09-11T18:32:31.493897",
+    "updated_at": "2025-09-11T18:32:31.493898"
+  },
+  {
+    "id": 950,
+    "slug": "certified-sales-management-specialist",
+    "name": "Certified Sales Management Specialist",
+    "issuer": "Salesforce",
+    "domain": "sales",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 232,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 490,
+    "job_postings": 129,
+    "salary": {
+      "min": 47717,
+      "max": 159056,
+      "avg": 90132
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Sales Analytics",
+      "Presentation Skills",
+      "Sales Process",
+      "Account Management",
+      "Customer Relations"
+    ],
+    "description": "Professional certification in certified sales management specialist offered by Salesforce. Validates expertise in Sales and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 518,
+    "created_at": "2025-09-11T18:32:31.494146",
+    "updated_at": "2025-09-11T18:32:31.494147"
+  },
+  {
+    "id": 941,
+    "slug": "crm-analytics-certificate",
+    "name": "CRM Analytics Certificate",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 355,
+    "job_postings": 78,
+    "salary": {
+      "min": 44622,
+      "max": 148742,
+      "avg": 84287
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Account Management",
+      "Customer Relations",
+      "Lead Generation",
+      "Sales Process",
+      "Presentation Skills",
+      "Sales Analytics"
+    ],
+    "description": "Professional certification in crm analytics certificate offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 536,
+    "created_at": "2025-09-11T18:32:31.493775",
+    "updated_at": "2025-09-11T18:32:31.493776"
+  },
+  {
+    "id": 959,
+    "slug": "certified-account-management-professional",
+    "name": "Certified Account Management Professional",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 359,
+    "job_postings": 49,
+    "salary": {
+      "min": 46244,
+      "max": 154147,
+      "avg": 87350
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Lead Generation",
+      "Presentation Skills",
+      "Account Management",
+      "Negotiation",
+      "Sales Analytics",
+      "Customer Relations",
+      "Sales Process",
+      "CRM"
+    ],
+    "description": "Professional certification in certified account management professional offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 574,
+    "created_at": "2025-09-11T18:32:31.494510",
+    "updated_at": "2025-09-11T18:32:31.494511"
+  },
+  {
+    "id": 958,
+    "slug": "salesforce-sales-management-senior",
+    "name": "Salesforce Sales Management Senior",
+    "issuer": "Salesforce",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 149,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 522,
+    "job_postings": 16,
+    "salary": {
+      "min": 46927,
+      "max": 156425,
+      "avg": 88641
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Sales Process",
+      "Account Management",
+      "Sales Analytics",
+      "Negotiation",
+      "Presentation Skills",
+      "Lead Generation",
+      "Customer Relations",
+      "CRM"
+    ],
+    "description": "Professional certification in salesforce sales management senior offered by Salesforce. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 615,
+    "created_at": "2025-09-11T18:32:31.494470",
+    "updated_at": "2025-09-11T18:32:31.494471"
+  },
+  {
+    "id": 942,
+    "slug": "lead-generation-engineering-certificate",
+    "name": "Lead Generation Engineering Certificate",
+    "issuer": "Salesforce",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 236,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 553,
+    "job_postings": 92,
+    "salary": {
+      "min": 43136,
+      "max": 143787,
+      "avg": 81479
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "CRM",
+      "Customer Relations",
+      "Presentation Skills",
+      "Account Management"
+    ],
+    "description": "Professional certification in lead generation engineering certificate offered by Salesforce. Validates expertise in Sales and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 661,
+    "created_at": "2025-09-11T18:32:31.493816",
+    "updated_at": "2025-09-11T18:32:31.493818"
+  },
+  {
+    "id": 960,
+    "slug": "hubspot-sales-architecture-expert",
+    "name": "HubSpot Sales Architecture Expert",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 245,
+    "job_postings": 559,
+    "salary": {
+      "min": 48220,
+      "max": 160735,
+      "avg": 91083
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Customer Relations",
+      "CRM",
+      "Presentation Skills",
+      "Negotiation",
+      "Lead Generation"
+    ],
+    "description": "Professional certification in hubspot sales architecture expert offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 667,
+    "created_at": "2025-09-11T18:32:31.494550",
+    "updated_at": "2025-09-11T18:32:31.494552"
+  },
+  {
+    "id": 949,
+    "slug": "pardot-sales-administration-foundational",
+    "name": "Pardot Sales Administration Foundational",
+    "issuer": "Pardot",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 225,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 370,
+    "job_postings": 132,
+    "salary": {
+      "min": 40875,
+      "max": 136252,
+      "avg": 77209
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "CRM",
+      "Sales Analytics",
+      "Presentation Skills",
+      "Customer Relations",
+      "Account Management",
+      "Sales Process",
+      "Lead Generation",
+      "Negotiation"
+    ],
+    "description": "Professional certification in pardot sales administration foundational offered by Pardot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 817,
+    "created_at": "2025-09-11T18:32:31.494106",
+    "updated_at": "2025-09-11T18:32:31.494107"
+  },
+  {
+    "id": 943,
+    "slug": "lead-generation-engineering-certificate-1",
+    "name": "Lead Generation Engineering Certificate",
+    "issuer": "Pardot",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 238,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 227,
+    "job_postings": 736,
+    "salary": {
+      "min": 51067,
+      "max": 170223,
+      "avg": 96460
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Negotiation",
+      "Presentation Skills",
+      "Lead Generation",
+      "Sales Process",
+      "CRM",
+      "Sales Analytics"
+    ],
+    "description": "Professional certification in lead generation engineering certificate offered by Pardot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 852,
+    "created_at": "2025-09-11T18:32:31.493857",
+    "updated_at": "2025-09-11T18:32:31.493858"
+  },
+  {
+    "id": 957,
+    "slug": "certified-sales-management-analyst-1",
+    "name": "Certified Sales Management Analyst",
+    "issuer": "Pardot",
+    "domain": "sales",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 146,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 161,
+    "job_postings": 286,
+    "salary": {
+      "min": 45936,
+      "max": 153123,
+      "avg": 86769
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Negotiation",
+      "Presentation Skills",
+      "Account Management",
+      "Sales Analytics",
+      "Lead Generation"
+    ],
+    "description": "Professional certification in certified sales management analyst offered by Pardot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 858,
+    "created_at": "2025-09-11T18:32:31.494429",
+    "updated_at": "2025-09-11T18:32:31.494430"
+  },
+  {
+    "id": 946,
+    "slug": "pardot-sales-strategy-professional",
+    "name": "Pardot Sales Strategy Professional",
+    "issuer": "Pardot",
+    "domain": "sales",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 276,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 159,
+    "job_postings": 196,
+    "salary": {
+      "min": 45294,
+      "max": 150981,
+      "avg": 85556
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Sales Analytics",
+      "Negotiation",
+      "CRM",
+      "Account Management",
+      "Sales Process",
+      "Lead Generation",
+      "Presentation Skills"
+    ],
+    "description": "Professional certification in pardot sales strategy professional offered by Pardot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 935,
+    "created_at": "2025-09-11T18:32:31.493984",
+    "updated_at": "2025-09-11T18:32:31.493986"
+  },
+  {
+    "id": 955,
+    "slug": "sales-automation-engineering-certificate",
+    "name": "Sales Automation Engineering Certificate",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 265,
+    "job_postings": 28,
+    "salary": {
+      "min": 47449,
+      "max": 158164,
+      "avg": 89626
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Sales Analytics",
+      "Negotiation",
+      "Lead Generation",
+      "Presentation Skills",
+      "CRM",
+      "Customer Relations",
+      "Account Management",
+      "Sales Process"
+    ],
+    "description": "Professional certification in sales automation engineering certificate offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1062,
+    "created_at": "2025-09-11T18:32:31.494348",
+    "updated_at": "2025-09-11T18:32:31.494349"
+  },
+  {
+    "id": 954,
+    "slug": "solution-selling-strategy-certification",
+    "name": "Solution Selling Strategy Certification",
+    "issuer": "Pardot",
+    "domain": "sales",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 187,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 26,
+    "job_postings": 561,
+    "salary": {
+      "min": 47365,
+      "max": 157885,
+      "avg": 89468
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Negotiation",
+      "CRM",
+      "Sales Analytics",
+      "Sales Process",
+      "Presentation Skills",
+      "Account Management",
+      "Customer Relations",
+      "Lead Generation"
+    ],
+    "description": "Professional certification in solution selling strategy certification offered by Pardot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 1248,
+    "created_at": "2025-09-11T18:32:31.494308",
+    "updated_at": "2025-09-11T18:32:31.494309"
+  },
+  {
+    "id": 940,
+    "slug": "enterprise-management-foundational",
+    "name": "Enterprise Management Foundational",
+    "issuer": "HubSpot",
+    "domain": "sales",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 0,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 16,
+    "job_postings": 32,
+    "salary": {
+      "min": 44244,
+      "max": 147483,
+      "avg": 83573
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Negotiation",
+      "Account Management",
+      "Presentation Skills",
+      "Sales Analytics",
+      "Lead Generation",
+      "CRM"
+    ],
+    "description": "Professional certification in enterprise management foundational offered by HubSpot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1269,
+    "created_at": "2025-09-11T18:32:31.493736",
+    "updated_at": "2025-09-11T18:32:31.493737"
+  },
+  {
+    "id": 953,
+    "slug": "online-management-expert",
+    "name": "Online Management Expert",
+    "issuer": "Pardot",
+    "domain": "sales",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 221,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 59,
+    "job_postings": 30,
+    "salary": {
+      "min": 50973,
+      "max": 169912,
+      "avg": 96283
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Sales Analytics",
+      "Lead Generation",
+      "Presentation Skills",
+      "Negotiation",
+      "Account Management",
+      "Sales Process",
+      "Customer Relations",
+      "CRM"
+    ],
+    "description": "Professional certification in online management expert offered by Pardot. Validates expertise in Sales and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1361,
+    "created_at": "2025-09-11T18:32:31.494265",
+    "updated_at": "2025-09-11T18:32:31.494267"
+  }
+]

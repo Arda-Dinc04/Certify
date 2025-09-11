@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certify - Certification Cards Demo</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .cert-card {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            transition: all 0.3s ease;
+        }
+        .cert-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .card-footer {
+            margin-top: auto;
+        }
+        .banner-gradient {
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+        }
+        .animate-pulse {
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <div class="bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h1 class="text-4xl font-bold mb-4">🏆 Certification Cards Showcase</h1>
+            <p class="text-xl text-indigo-100 mb-8">Consistent card sizes with working banner images</p>
+            <div class="flex justify-center space-x-8 text-lg">
+                <div><span id="card-count" class="font-bold">12</span> Sample Cards</div>
+                <div><span class="font-bold">100%</span> Consistent Heights</div>
+                <div><span class="font-bold">✅</span> Working Banners</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div class="mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">Featured Certifications</h2>
+            <p class="text-gray-600">All cards maintain consistent heights with beautiful banner images and issuer logos</p>
+        </div>
+
+        <div id="cards-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <!-- Loading skeleton -->
+            <div class="cert-card bg-white rounded-lg shadow-sm border border-gray-200 animate-pulse">
+                <div class="h-20 bg-gray-200"></div>
+                <div class="p-6">
+                    <div class="h-4 bg-gray-200 rounded mb-2"></div>
+                    <div class="h-3 bg-gray-200 rounded w-3/4 mb-4"></div>
+                    <div class="space-y-2">
+                        <div class="h-3 bg-gray-200 rounded"></div>
+                        <div class="h-3 bg-gray-200 rounded w-2/3"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Sample certification data with various issuers to showcase logos
+        const SAMPLE_CERTIFICATIONS = [
+            {
+                slug: 'aws-solutions-architect',
+                name: 'AWS Certified Solutions Architect',
+                issuer: 'Amazon Web Services (AWS)',
+                domain: 'cloud-computing',
+                level: 'Professional',
+                duration: '3 weeks',
+                cost: 150,
+                currency: 'USD',
+                rating: 4.7,
+                ranking: 1,
+                description: 'Validate cloud architecture knowledge and skills'
+            },
+            {
+                slug: 'azure-fundamentals',
+                name: 'Microsoft Azure Fundamentals',
+                issuer: 'Microsoft',
+                domain: 'cloud-computing',
+                level: 'Foundational',
+                duration: '2 weeks',
+                cost: 99,
+                currency: 'USD',
+                rating: 4.5,
+                ranking: 5,
+                description: 'Demonstrate foundational knowledge of cloud services'
+            },
+            {
+                slug: 'google-cloud-architect',
+                name: 'Google Cloud Professional Architect',
+                issuer: 'Google Cloud',
+                domain: 'cloud-computing',
+                level: 'Professional',
+                duration: '4 weeks',
+                cost: 200,
+                currency: 'USD',
+                rating: 4.6,
+                ranking: 3,
+                description: 'Design and manage robust, secure cloud solutions'
+            },
+            {
+                slug: 'adobe-certified-expert',
+                name: 'Adobe Certified Expert',
+                issuer: 'Adobe',
+                domain: 'digital-marketing',
+                level: 'Expert',
+                duration: '6 weeks',
+                cost: 180,
+                currency: 'USD',
+                rating: 4.4,
+                ranking: 12,
+                description: 'Master Adobe Creative Suite for digital marketing'
+            },
+            {
+                slug: 'oracle-database-admin',
+                name: 'Oracle Database Administrator',
+                issuer: 'Oracle',
+                domain: 'database-management',
+                level: 'Professional',
+                duration: '8 weeks',
+                cost: 300,
+                currency: 'USD',
+                rating: 4.3,
+                ranking: 8,
+                description: 'Comprehensive Oracle database administration'
+            },
+            {
+                slug: 'docker-certified-associate',
+                name: 'Docker Certified Associate',
+                issuer: 'Docker',
+                domain: 'software-development',
+                level: 'Associate',
+                duration: '3 weeks',
+                cost: 195,
+                currency: 'USD',
+                rating: 4.2,
+                ranking: 15,
+                description: 'Container orchestration and management'
+            },
+            {
+                slug: 'finra-series-7',
+                name: 'FINRA Series 7',
+                issuer: 'FINRA',
+                domain: 'finance',
+                level: 'Professional',
+                duration: '12 weeks',
+                cost: 300,
+                currency: 'USD',
+                rating: 4.1,
+                ranking: 20,
+                description: 'General Securities Representative Examination'
+            },
+            {
+                slug: 'comptia-security-plus',
+                name: 'CompTIA Security+',
+                issuer: 'CompTIA',
+                domain: 'cybersecurity',
+                level: 'Associate',
+                duration: '6 weeks',
+                cost: 350,
+                currency: 'USD',
+                rating: 4.8,
+                ranking: 2,
+                description: 'Essential cybersecurity skills certification'
+            },
+            {
+                slug: 'pmp-certification',
+                name: 'Project Management Professional',
+                issuer: 'PMI',
+                domain: 'project-management',
+                level: 'Professional',
+                duration: '10 weeks',
+                cost: 405,
+                currency: 'USD',
+                rating: 4.6,
+                ranking: 4,
+                description: 'Leading project management certification globally'
+            },
+            {
+                slug: 'caia-level-1',
+                name: 'CAIA Level I',
+                issuer: 'CAIA Association',
+                domain: 'finance',
+                level: 'Professional',
+                duration: '16 weeks',
+                cost: 900,
+                currency: 'USD',
+                rating: 4.5,
+                ranking: 6,
+                description: 'Chartered Alternative Investment Analyst'
+            },
+            {
+                slug: 'ncees-fe-exam',
+                name: 'Fundamentals of Engineering',
+                issuer: 'NCEES',
+                domain: 'mechanical-engineering',
+                level: 'Foundational',
+                duration: '20 weeks',
+                cost: 175,
+                currency: 'USD',
+                rating: 4.0,
+                ranking: 25,
+                description: 'First step in engineering licensure process'
+            },
+            {
+                slug: 'cisco-ccna',
+                name: 'Cisco Certified Network Associate',
+                issuer: 'Cisco',
+                domain: 'networking',
+                level: 'Associate',
+                duration: '8 weeks',
+                cost: 300,
+                currency: 'USD',
+                rating: 4.7,
+                ranking: 7,
+                description: 'Foundational networking skills and knowledge'
+            }
+        ];
+
+        // Domain metadata with emojis and colors
+        const DOMAIN_INFO = {
+            'cloud-computing': { emoji: '☁️', color: '#0EA5E9' },
+            'digital-marketing': { emoji: '📱', color: '#EC4899' },
+            'database-management': { emoji: '🗄️', color: '#64748B' },
+            'software-development': { emoji: '👨‍💻', color: '#6366F1' },
+            'finance': { emoji: '💰', color: '#EAB308' },
+            'cybersecurity': { emoji: '🔐', color: '#EF4444' },
+            'project-management': { emoji: '📋', color: '#10B981' },
+            'mechanical-engineering': { emoji: '⚙️', color: '#475569' },
+            'networking': { emoji: '🌐', color: '#06B6D4' }
+        };
+
+        // Issuer logo mapping
+        const ISSUER_LOGOS = {
+            'Amazon Web Services (AWS)': '/assets/aws.jpeg',
+            'Microsoft': '/assets/microsoft.jpg',
+            'Google Cloud': '/assets/Google-Logo-PNG.png',
+            'Adobe': '/assets/adobe.png',
+            'Oracle': '/assets/oracle.png',
+            'FINRA': '/assets/finra.png',
+            'Docker': '/assets/docker.png',
+            'CAIA Association': '/assets/CAIA Association .png',
+            'NCEES': '/assets/NCEES.png'
+        };
+
+        function formatCost(cost, currency) {
+            return new Intl.NumberFormat('en-US', {
+                style: 'currency',
+                currency: currency || 'USD',
+                minimumFractionDigits: 0,
+                maximumFractionDigits: 0,
+            }).format(cost);
+        }
+
+        function createCertificationCard(cert) {
+            const domainInfo = DOMAIN_INFO[cert.domain] || { emoji: '📊', color: '#6B7280' };
+            const logoUrl = ISSUER_LOGOS[cert.issuer];
+            
+            return `
+                <div class="cert-card bg-white shadow-sm border border-gray-200 hover:shadow-md transition-shadow duration-200 overflow-hidden rounded-lg">
+                    <!-- Banner with Logo/Icon -->
+                    <div class="relative h-20 banner-gradient flex items-center justify-center border-b border-gray-200">
+                        <div class="flex items-center space-x-3">
+                            ${logoUrl ? 
+                                `<img src="${logoUrl}" alt="${cert.issuer} logo" class="h-8 w-8 object-contain rounded" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                                 <div class="h-8 w-8 bg-gray-400 rounded flex items-center justify-center text-white font-bold text-xs" style="display:none">${cert.issuer.charAt(0)}</div>` :
+                                `<div class="h-8 w-8 bg-gray-400 rounded flex items-center justify-center text-white font-bold text-xs">${cert.issuer.charAt(0)}</div>`
+                            }
+                            <span class="text-sm font-medium text-gray-700 truncate max-w-[140px]" title="${cert.issuer}">
+                                ${cert.issuer}
+                            </span>
+                        </div>
+                        ${cert.ranking ? `
+                            <div class="absolute top-2 right-2">
+                                <div class="bg-green-500 text-white text-xs font-bold px-2 py-1 rounded-full flex items-center space-x-1">
+                                    <span>🏆</span>
+                                    <span>#${cert.ranking}</span>
+                                </div>
+                            </div>
+                        ` : ''}
+                    </div>
+
+                    <!-- Card Content -->
+                    <div class="p-6 flex-1">
+                        <div class="mb-3">
+                            <h3 class="font-bold text-gray-900 text-sm leading-tight mb-1">
+                                ${cert.name}
+                            </h3>
+                            <p class="text-xs text-gray-600">${cert.issuer}</p>
+                        </div>
+
+                        <!-- Tags -->
+                        <div class="flex flex-wrap gap-2 mb-3">
+                            <span class="text-xs px-2 py-1 bg-blue-100 text-blue-800 border border-blue-200 rounded-md flex items-center space-x-1">
+                                <span>${domainInfo.emoji}</span>
+                                <span>${cert.domain.replace('-', ' ').replace(/\b\w/g, l => l.toUpperCase())}</span>
+                            </span>
+                            <span class="text-xs px-2 py-1 bg-gray-100 text-gray-700 border border-gray-200 rounded-md">
+                                ${cert.level}
+                            </span>
+                        </div>
+
+                        <!-- Price -->
+                        <div class="text-teal-600 font-semibold text-lg mb-3">
+                            ${formatCost(cert.cost, cert.currency)}
+                        </div>
+
+                        <!-- Duration -->
+                        <div class="flex items-center space-x-2 text-sm text-gray-600 mb-3">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                            <span>${cert.duration}</span>
+                        </div>
+
+                        <!-- Rating -->
+                        <div class="mb-4">
+                            <div class="flex items-center justify-between mb-1">
+                                <span class="text-sm text-gray-600">Rating</span>
+                                <span class="text-sm font-medium">${cert.rating.toFixed(1)}/5.0</span>
+                            </div>
+                            <div class="w-full bg-gray-200 rounded-full h-2">
+                                <div class="bg-blue-500 h-2 rounded-full" style="width: ${(cert.rating / 5) * 100}%"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card Footer -->
+                    <div class="card-footer p-6 pt-0">
+                        <button class="w-full flex items-center justify-center space-x-2 text-sm border border-gray-300 text-gray-700 hover:bg-gray-50 bg-white py-2 px-4 rounded-md transition-colors">
+                            <span>View Details</span>
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            `;
+        }
+
+        function loadCertificationCards() {
+            const cardsGrid = document.getElementById('cards-grid');
+            cardsGrid.innerHTML = '';
+
+            SAMPLE_CERTIFICATIONS.forEach(cert => {
+                const cardHTML = createCertificationCard(cert);
+                cardsGrid.innerHTML += cardHTML;
+            });
+
+            document.getElementById('card-count').textContent = SAMPLE_CERTIFICATIONS.length;
+        }
+
+        // Load cards when page loads
+        loadCertificationCards();
+    </script>
+</body>
+</html>

@@ -1,0 +1,1554 @@
+[
+  {
+    "id": 885,
+    "slug": "apics-supply-chain-security-associate",
+    "name": "APICS Supply Chain Security Associate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 597,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 719,
+    "job_postings": 134,
+    "salary": {
+      "min": 68205,
+      "max": 147778,
+      "avg": 96624
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Procurement",
+      "Lean Manufacturing",
+      "Inventory Management",
+      "Six Sigma",
+      "Supply Chain Management",
+      "Logistics",
+      "ERP Systems",
+      "Demand Planning"
+    ],
+    "description": "Professional certification in apics supply chain security associate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "German"
+    ],
+    "ranking": 190,
+    "created_at": "2025-09-11T18:32:31.491513",
+    "updated_at": "2025-09-11T18:32:31.491514"
+  },
+  {
+    "id": 878,
+    "slug": "scor-engineering-certificate",
+    "name": "SCOR Engineering Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 827,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 695,
+    "job_postings": 1146,
+    "salary": {
+      "min": 62627,
+      "max": 135692,
+      "avg": 88721
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Supply Chain Management",
+      "Logistics",
+      "ERP Systems",
+      "Demand Planning",
+      "Lean Manufacturing",
+      "Six Sigma",
+      "Procurement",
+      "Inventory Management"
+    ],
+    "description": "Professional certification in scor engineering certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 218,
+    "created_at": "2025-09-11T18:32:31.491229",
+    "updated_at": "2025-09-11T18:32:31.491230"
+  },
+  {
+    "id": 894,
+    "slug": "apics-supply-chain-architecture-senior",
+    "name": "APICS Supply Chain Architecture Senior",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 490,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 655,
+    "job_postings": 7,
+    "salary": {
+      "min": 55884,
+      "max": 121083,
+      "avg": 79170
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Supply Chain Management",
+      "Lean Manufacturing",
+      "Six Sigma",
+      "Procurement",
+      "Inventory Management",
+      "Demand Planning",
+      "ERP Systems"
+    ],
+    "description": "Professional certification in apics supply chain architecture senior offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Japanese",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 245,
+    "created_at": "2025-09-11T18:32:31.491874",
+    "updated_at": "2025-09-11T18:32:31.491876"
+  },
+  {
+    "id": 892,
+    "slug": "lean-management-certificate",
+    "name": "Lean Management Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 711,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 757,
+    "job_postings": 94,
+    "salary": {
+      "min": 57716,
+      "max": 125051,
+      "avg": 81764
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Inventory Management",
+      "Logistics",
+      "ERP Systems",
+      "Lean Manufacturing",
+      "Demand Planning",
+      "Six Sigma",
+      "Supply Chain Management",
+      "Procurement"
+    ],
+    "description": "Professional certification in lean management certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 247,
+    "created_at": "2025-09-11T18:32:31.491794",
+    "updated_at": "2025-09-11T18:32:31.491795"
+  },
+  {
+    "id": 883,
+    "slug": "sourcing-engineering-certification",
+    "name": "Sourcing Engineering Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 741,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 765,
+    "job_postings": 780,
+    "salary": {
+      "min": 68594,
+      "max": 148620,
+      "avg": 97175
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Demand Planning",
+      "Logistics",
+      "Inventory Management",
+      "Lean Manufacturing",
+      "Six Sigma",
+      "ERP Systems",
+      "Supply Chain Management",
+      "Procurement"
+    ],
+    "description": "Professional certification in sourcing engineering certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 248,
+    "created_at": "2025-09-11T18:32:31.491431",
+    "updated_at": "2025-09-11T18:32:31.491432"
+  },
+  {
+    "id": 897,
+    "slug": "returns-management-certification",
+    "name": "Returns Management Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 620,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 674,
+    "job_postings": 168,
+    "salary": {
+      "min": 57701,
+      "max": 125018,
+      "avg": 81743
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Six Sigma",
+      "Logistics",
+      "Supply Chain Management",
+      "Demand Planning",
+      "Procurement"
+    ],
+    "description": "Professional certification in returns management certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 256,
+    "created_at": "2025-09-11T18:32:31.491999",
+    "updated_at": "2025-09-11T18:32:31.492000"
+  },
+  {
+    "id": 893,
+    "slug": "logistics-administrator-senior",
+    "name": "Logistics Administrator Senior",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 678,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 782,
+    "job_postings": 7,
+    "salary": {
+      "min": 58128,
+      "max": 125946,
+      "avg": 82349
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Demand Planning",
+      "ERP Systems",
+      "Logistics",
+      "Six Sigma",
+      "Inventory Management",
+      "Procurement"
+    ],
+    "description": "Professional certification in logistics administrator senior offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 357,
+    "created_at": "2025-09-11T18:32:31.491834",
+    "updated_at": "2025-09-11T18:32:31.491835"
+  },
+  {
+    "id": 886,
+    "slug": "apics-supply-chain-development-foundational",
+    "name": "APICS Supply Chain Development Foundational",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 817,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 743,
+    "job_postings": 66,
+    "salary": {
+      "min": 63865,
+      "max": 138374,
+      "avg": 90475
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Six Sigma",
+      "Lean Manufacturing",
+      "Demand Planning",
+      "Supply Chain Management",
+      "Inventory Management",
+      "Procurement"
+    ],
+    "description": "Professional certification in apics supply chain development foundational offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 373,
+    "created_at": "2025-09-11T18:32:31.491555",
+    "updated_at": "2025-09-11T18:32:31.491556"
+  },
+  {
+    "id": 866,
+    "slug": "cpfr-strategy-certificate",
+    "name": "CPFR Strategy Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 751,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 716,
+    "job_postings": 11,
+    "salary": {
+      "min": 66318,
+      "max": 143689,
+      "avg": 93950
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Supply Chain Management",
+      "Logistics",
+      "Demand Planning",
+      "ERP Systems",
+      "Lean Manufacturing",
+      "Procurement",
+      "Six Sigma",
+      "Inventory Management"
+    ],
+    "description": "Professional certification in cpfr strategy certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 389,
+    "created_at": "2025-09-11T18:32:31.490733",
+    "updated_at": "2025-09-11T18:32:31.490734"
+  },
+  {
+    "id": 874,
+    "slug": "certified-operations-professional",
+    "name": "Certified Operations Professional",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 746,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 559,
+    "job_postings": 29,
+    "salary": {
+      "min": 53383,
+      "max": 115663,
+      "avg": 75626
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Inventory Management",
+      "Supply Chain Management",
+      "Demand Planning",
+      "Lean Manufacturing",
+      "Procurement",
+      "Logistics",
+      "Six Sigma"
+    ],
+    "description": "Professional certification in certified operations professional offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 471,
+    "created_at": "2025-09-11T18:32:31.491060",
+    "updated_at": "2025-09-11T18:32:31.491061"
+  },
+  {
+    "id": 891,
+    "slug": "scor-management-certificate-1",
+    "name": "SCOR Management Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 835,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 750,
+    "job_postings": 9,
+    "salary": {
+      "min": 54438,
+      "max": 117950,
+      "avg": 77121
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Six Sigma",
+      "Logistics",
+      "ERP Systems",
+      "Procurement",
+      "Demand Planning",
+      "Inventory Management",
+      "Lean Manufacturing",
+      "Supply Chain Management"
+    ],
+    "description": "Professional certification in scor management certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 486,
+    "created_at": "2025-09-11T18:32:31.491756",
+    "updated_at": "2025-09-11T18:32:31.491757"
+  },
+  {
+    "id": 868,
+    "slug": "delivery-development-certification",
+    "name": "Delivery Development Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 526,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 649,
+    "job_postings": 117,
+    "salary": {
+      "min": 68224,
+      "max": 147819,
+      "avg": 96651
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Inventory Management",
+      "Logistics",
+      "Supply Chain Management",
+      "Six Sigma",
+      "ERP Systems",
+      "Lean Manufacturing",
+      "Procurement",
+      "Demand Planning"
+    ],
+    "description": "Professional certification in delivery development certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 533,
+    "created_at": "2025-09-11T18:32:31.490814",
+    "updated_at": "2025-09-11T18:32:31.490816"
+  },
+  {
+    "id": 896,
+    "slug": "delivery-development-certification-1",
+    "name": "Delivery Development Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 525,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 292,
+    "job_postings": 1855,
+    "salary": {
+      "min": 52938,
+      "max": 114699,
+      "avg": 74996
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Procurement",
+      "Demand Planning",
+      "Inventory Management",
+      "Six Sigma",
+      "Supply Chain Management",
+      "Logistics",
+      "ERP Systems",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in delivery development certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 622,
+    "created_at": "2025-09-11T18:32:31.491954",
+    "updated_at": "2025-09-11T18:32:31.491955"
+  },
+  {
+    "id": 888,
+    "slug": "certified-supply-chain-professional",
+    "name": "Certified Supply Chain Professional",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 538,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 451,
+    "job_postings": 125,
+    "salary": {
+      "min": 54355,
+      "max": 117770,
+      "avg": 77003
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "ERP Systems",
+      "Lean Manufacturing",
+      "Demand Planning",
+      "Supply Chain Management",
+      "Inventory Management",
+      "Six Sigma",
+      "Logistics",
+      "Procurement"
+    ],
+    "description": "Professional certification in certified supply chain professional offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 706,
+    "created_at": "2025-09-11T18:32:31.491637",
+    "updated_at": "2025-09-11T18:32:31.491638"
+  },
+  {
+    "id": 867,
+    "slug": "logistics-engineer-expert",
+    "name": "Logistics Engineer Expert",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 457,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 500,
+    "job_postings": 47,
+    "salary": {
+      "min": 64337,
+      "max": 139398,
+      "avg": 91145
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Demand Planning",
+      "Lean Manufacturing",
+      "Six Sigma",
+      "Procurement",
+      "Inventory Management",
+      "ERP Systems",
+      "Supply Chain Management",
+      "Logistics"
+    ],
+    "description": "Professional certification in logistics engineer expert offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 752,
+    "created_at": "2025-09-11T18:32:31.490774",
+    "updated_at": "2025-09-11T18:32:31.490775"
+  },
+  {
+    "id": 869,
+    "slug": "logistics-administrator-expert",
+    "name": "Logistics Administrator Expert",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 652,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 113,
+    "job_postings": 2246,
+    "salary": {
+      "min": 51971,
+      "max": 112604,
+      "avg": 73626
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "ERP Systems",
+      "Supply Chain Management",
+      "Lean Manufacturing",
+      "Procurement",
+      "Six Sigma",
+      "Demand Planning",
+      "Inventory Management",
+      "Logistics"
+    ],
+    "description": "Professional certification in logistics administrator expert offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 753,
+    "created_at": "2025-09-11T18:32:31.490855",
+    "updated_at": "2025-09-11T18:32:31.490856"
+  },
+  {
+    "id": 884,
+    "slug": "delivery-administration-certification-1",
+    "name": "Delivery Administration Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 574,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 542,
+    "job_postings": 29,
+    "salary": {
+      "min": 54295,
+      "max": 117639,
+      "avg": 76918
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Inventory Management",
+      "Supply Chain Management",
+      "ERP Systems",
+      "Lean Manufacturing",
+      "Procurement",
+      "Demand Planning",
+      "Six Sigma",
+      "Logistics"
+    ],
+    "description": "Professional certification in delivery administration certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 762,
+    "created_at": "2025-09-11T18:32:31.491472",
+    "updated_at": "2025-09-11T18:32:31.491474"
+  },
+  {
+    "id": 887,
+    "slug": "cpfr-development-certificate",
+    "name": "CPFR Development Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 504,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 449,
+    "job_postings": 14,
+    "salary": {
+      "min": 68949,
+      "max": 149390,
+      "avg": 97678
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Inventory Management",
+      "Lean Manufacturing",
+      "Supply Chain Management",
+      "Demand Planning",
+      "Procurement",
+      "ERP Systems",
+      "Six Sigma",
+      "Logistics"
+    ],
+    "description": "Professional certification in cpfr development certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 773,
+    "created_at": "2025-09-11T18:32:31.491595",
+    "updated_at": "2025-09-11T18:32:31.491596"
+  },
+  {
+    "id": 900,
+    "slug": "logistics-engineer-senior",
+    "name": "Logistics Engineer Senior",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 558,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 483,
+    "job_postings": 32,
+    "salary": {
+      "min": 64386,
+      "max": 139504,
+      "avg": 91214
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "ERP Systems",
+      "Demand Planning",
+      "Supply Chain Management",
+      "Inventory Management",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in logistics engineer senior offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 790,
+    "created_at": "2025-09-11T18:32:31.492118",
+    "updated_at": "2025-09-11T18:32:31.492119"
+  },
+  {
+    "id": 877,
+    "slug": "sourcing-management-certification",
+    "name": "Sourcing Management Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 749,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 493,
+    "job_postings": 18,
+    "salary": {
+      "min": 58463,
+      "max": 126670,
+      "avg": 82822
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Inventory Management",
+      "Lean Manufacturing",
+      "Demand Planning",
+      "Logistics",
+      "Six Sigma",
+      "Procurement"
+    ],
+    "description": "Professional certification in sourcing management certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 80,
+    "languages": [
+      "English"
+    ],
+    "ranking": 801,
+    "created_at": "2025-09-11T18:32:31.491188",
+    "updated_at": "2025-09-11T18:32:31.491189"
+  },
+  {
+    "id": 899,
+    "slug": "six-sigma-security-certificate",
+    "name": "Six Sigma Security Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 708,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 260,
+    "job_postings": 83,
+    "salary": {
+      "min": 55021,
+      "max": 119213,
+      "avg": 77947
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Six Sigma",
+      "Demand Planning",
+      "Supply Chain Management",
+      "Logistics",
+      "Inventory Management",
+      "Lean Manufacturing",
+      "Procurement",
+      "ERP Systems"
+    ],
+    "description": "Professional certification in six sigma security certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 927,
+    "created_at": "2025-09-11T18:32:31.492079",
+    "updated_at": "2025-09-11T18:32:31.492080"
+  },
+  {
+    "id": 880,
+    "slug": "manufacturing-architecture-certification",
+    "name": "Manufacturing Architecture Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 620,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 308,
+    "job_postings": 197,
+    "salary": {
+      "min": 56729,
+      "max": 122913,
+      "avg": 80366
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Lean Manufacturing",
+      "ERP Systems",
+      "Inventory Management",
+      "Six Sigma",
+      "Logistics",
+      "Demand Planning",
+      "Supply Chain Management",
+      "Procurement"
+    ],
+    "description": "Professional certification in manufacturing architecture certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 953,
+    "created_at": "2025-09-11T18:32:31.491311",
+    "updated_at": "2025-09-11T18:32:31.491312"
+  },
+  {
+    "id": 872,
+    "slug": "apics-supply-chain-analytics-associate",
+    "name": "APICS Supply Chain Analytics Associate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 697,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 336,
+    "job_postings": 90,
+    "salary": {
+      "min": 60977,
+      "max": 132118,
+      "avg": 86385
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Procurement",
+      "Six Sigma",
+      "Supply Chain Management",
+      "Logistics",
+      "Inventory Management",
+      "Demand Planning",
+      "ERP Systems",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in apics supply chain analytics associate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1046,
+    "created_at": "2025-09-11T18:32:31.490978",
+    "updated_at": "2025-09-11T18:32:31.490979"
+  },
+  {
+    "id": 876,
+    "slug": "lean-analytics-certificate",
+    "name": "Lean Analytics Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 553,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 129,
+    "job_postings": 294,
+    "salary": {
+      "min": 53348,
+      "max": 115588,
+      "avg": 75576
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Lean Manufacturing",
+      "Demand Planning",
+      "Supply Chain Management",
+      "Procurement",
+      "Six Sigma",
+      "Inventory Management",
+      "Logistics",
+      "ERP Systems"
+    ],
+    "description": "Professional certification in lean analytics certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 1057,
+    "created_at": "2025-09-11T18:32:31.491147",
+    "updated_at": "2025-09-11T18:32:31.491148"
+  },
+  {
+    "id": 895,
+    "slug": "delivery-strategy-certification",
+    "name": "Delivery Strategy Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 764,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 299,
+    "job_postings": 175,
+    "salary": {
+      "min": 51429,
+      "max": 111431,
+      "avg": 72858
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Inventory Management",
+      "Demand Planning",
+      "Supply Chain Management",
+      "Procurement",
+      "Logistics",
+      "ERP Systems"
+    ],
+    "description": "Professional certification in delivery strategy certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1085,
+    "created_at": "2025-09-11T18:32:31.491914",
+    "updated_at": "2025-09-11T18:32:31.491915"
+  },
+  {
+    "id": 879,
+    "slug": "planning-security-certification",
+    "name": "Planning Security Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 668,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 143,
+    "job_postings": 25,
+    "salary": {
+      "min": 52310,
+      "max": 113339,
+      "avg": 74106
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Supply Chain Management",
+      "Inventory Management",
+      "ERP Systems",
+      "Six Sigma",
+      "Procurement",
+      "Demand Planning",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in planning security certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1145,
+    "created_at": "2025-09-11T18:32:31.491269",
+    "updated_at": "2025-09-11T18:32:31.491270"
+  },
+  {
+    "id": 873,
+    "slug": "apics-supply-chain-development-senior",
+    "name": "APICS Supply Chain Development Senior",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 555,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 165,
+    "job_postings": 23,
+    "salary": {
+      "min": 52952,
+      "max": 114730,
+      "avg": 75016
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Six Sigma",
+      "Supply Chain Management",
+      "ERP Systems",
+      "Demand Planning",
+      "Procurement"
+    ],
+    "description": "Professional certification in apics supply chain development senior offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1146,
+    "created_at": "2025-09-11T18:32:31.491019",
+    "updated_at": "2025-09-11T18:32:31.491020"
+  },
+  {
+    "id": 871,
+    "slug": "sourcing-security-certification",
+    "name": "Sourcing Security Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 817,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 405,
+    "job_postings": 76,
+    "salary": {
+      "min": 51642,
+      "max": 111892,
+      "avg": 73160
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Demand Planning",
+      "Inventory Management",
+      "Six Sigma",
+      "Procurement",
+      "ERP Systems",
+      "Lean Manufacturing",
+      "Logistics",
+      "Supply Chain Management"
+    ],
+    "description": "Professional certification in sourcing security certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1149,
+    "created_at": "2025-09-11T18:32:31.490937",
+    "updated_at": "2025-09-11T18:32:31.490938"
+  },
+  {
+    "id": 889,
+    "slug": "cpfr-management-certificate",
+    "name": "CPFR Management Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 420,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 146,
+    "job_postings": 538,
+    "salary": {
+      "min": 65612,
+      "max": 142160,
+      "avg": 92951
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Procurement",
+      "ERP Systems",
+      "Demand Planning",
+      "Six Sigma",
+      "Supply Chain Management",
+      "Logistics"
+    ],
+    "description": "Professional certification in cpfr management certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "German",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 1187,
+    "created_at": "2025-09-11T18:32:31.491676",
+    "updated_at": "2025-09-11T18:32:31.491677"
+  },
+  {
+    "id": 875,
+    "slug": "sop-administration-certificate",
+    "name": "S&OP Administration Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 472,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 19,
+    "job_postings": 111,
+    "salary": {
+      "min": 68197,
+      "max": 147760,
+      "avg": 96612
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Six Sigma",
+      "Demand Planning",
+      "Logistics",
+      "Procurement",
+      "Inventory Management",
+      "Lean Manufacturing",
+      "ERP Systems",
+      "Supply Chain Management"
+    ],
+    "description": "Professional certification in s&op administration certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 1274,
+    "created_at": "2025-09-11T18:32:31.491103",
+    "updated_at": "2025-09-11T18:32:31.491104"
+  },
+  {
+    "id": 870,
+    "slug": "scor-management-certificate",
+    "name": "SCOR Management Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 717,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 158,
+    "job_postings": 30,
+    "salary": {
+      "min": 61752,
+      "max": 133796,
+      "avg": 87482
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Lean Manufacturing",
+      "Inventory Management",
+      "Six Sigma",
+      "Demand Planning"
+    ],
+    "description": "Professional certification in scor management certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1307,
+    "created_at": "2025-09-11T18:32:31.490894",
+    "updated_at": "2025-09-11T18:32:31.490895"
+  },
+  {
+    "id": 898,
+    "slug": "lean-management-certificate-1",
+    "name": "Lean Management Certificate",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 559,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 65,
+    "job_postings": 161,
+    "salary": {
+      "min": 56962,
+      "max": 123419,
+      "avg": 80697
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Six Sigma",
+      "Inventory Management",
+      "Procurement",
+      "Lean Manufacturing",
+      "Logistics",
+      "Supply Chain Management",
+      "ERP Systems",
+      "Demand Planning"
+    ],
+    "description": "Professional certification in lean management certificate offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 1349,
+    "created_at": "2025-09-11T18:32:31.492038",
+    "updated_at": "2025-09-11T18:32:31.492040"
+  },
+  {
+    "id": 881,
+    "slug": "apics-supply-chain-analytics-senior",
+    "name": "APICS Supply Chain Analytics Senior",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 739,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 147,
+    "job_postings": 180,
+    "salary": {
+      "min": 66047,
+      "max": 143103,
+      "avg": 93567
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Demand Planning",
+      "Supply Chain Management",
+      "ERP Systems",
+      "Procurement",
+      "Logistics",
+      "Lean Manufacturing",
+      "Six Sigma"
+    ],
+    "description": "Professional certification in apics supply chain analytics senior offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 1354,
+    "created_at": "2025-09-11T18:32:31.491352",
+    "updated_at": "2025-09-11T18:32:31.491353"
+  },
+  {
+    "id": 865,
+    "slug": "delivery-administration-certification",
+    "name": "Delivery Administration Certification",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Specialty",
+    "duration": "2 weeks",
+    "cost": 741,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 111,
+    "job_postings": 62,
+    "salary": {
+      "min": 53952,
+      "max": 116897,
+      "avg": 76433
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Six Sigma",
+      "Logistics",
+      "Demand Planning",
+      "Supply Chain Management"
+    ],
+    "description": "Professional certification in delivery administration certification offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 1358,
+    "created_at": "2025-09-11T18:32:31.490690",
+    "updated_at": "2025-09-11T18:32:31.490692"
+  },
+  {
+    "id": 890,
+    "slug": "apics-supply-chain-engineering-foundational",
+    "name": "APICS Supply Chain Engineering Foundational",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 501,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 117,
+    "job_postings": 11,
+    "salary": {
+      "min": 64160,
+      "max": 139014,
+      "avg": 90893
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Procurement",
+      "Lean Manufacturing",
+      "Supply Chain Management",
+      "Logistics",
+      "Six Sigma",
+      "Inventory Management",
+      "Demand Planning",
+      "ERP Systems"
+    ],
+    "description": "Professional certification in apics supply chain engineering foundational offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 1370,
+    "created_at": "2025-09-11T18:32:31.491717",
+    "updated_at": "2025-09-11T18:32:31.491718"
+  },
+  {
+    "id": 882,
+    "slug": "certified-operations-practitioner",
+    "name": "Certified Operations Practitioner",
+    "issuer": "APICS",
+    "domain": "supply-chain",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 780,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 29,
+    "job_postings": 95,
+    "salary": {
+      "min": 51514,
+      "max": 111614,
+      "avg": 72978
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Inventory Management",
+      "ERP Systems",
+      "Supply Chain Management",
+      "Logistics"
+    ],
+    "description": "Professional certification in certified operations practitioner offered by APICS. Validates expertise in Supply Chain and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 1377,
+    "created_at": "2025-09-11T18:32:31.491391",
+    "updated_at": "2025-09-11T18:32:31.491392"
+  }
+]

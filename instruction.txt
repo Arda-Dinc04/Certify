@@ -1,0 +1,233 @@
+Awesome—here’s a crisp handoff for Claude to make **domains consistent across Browse, Home, and Ranking**, with a single source of truth for labels + emojis (and zero drift).
+
+# ✅ What we want
+
+* One canonical domain list with **slug, label, emoji, color**.
+* Every page (Browse, Home, Ranking) pulls from this same registry.
+* CI guardrails so no page accidentally invents a new domain.
+
+---
+
+# 1) Create a single source of truth
+
+## `src/config/domains.ts`
+
+```ts
+// Single source of truth for domains across the app.
+// Only edit here if adding/removing a domain.
+
+export type DomainSlug =
+  | "cs-it"
+  | "cybersecurity"
+  | "data-ai"
+  | "finance"
+  | "accounting-audit"
+  | "project-management"
+  | "engineering"
+  | "actuarial-math"
+  | "healthcare"
+  | "skilled-trades"
+  | "education"
+  | "design-media"
+  | "supply-chain"
+  | "environment-energy";
+
+// Registry drives UI (tabs, chips, headings) and filters.
+// Emoji choice: one emoji per domain to keep a clean, consistent look.
+export const DOMAIN_REGISTRY: Record<DomainSlug, {
+  slug: DomainSlug;
+  label: string;
+  emoji: string;
+  color?: string; // optional Tailwind class token
+}> = {
+  "cs-it":              { slug: "cs-it",              label: "CS / IT",               emoji: "💻", color: "bg-blue-50" },
+  "cybersecurity":      { slug: "cybersecurity",      label: "Cybersecurity",         emoji: "🛡️", color: "bg-rose-50" },
+  "data-ai":            { slug: "data-ai",            label: "Data & AI",             emoji: "📈", color: "bg-violet-50" },
+  "finance":            { slug: "finance",            label: "Finance",               emoji: "💹", color: "bg-emerald-50" },
+  "accounting-audit":   { slug: "accounting-audit",   label: "Accounting & Audit",    emoji: "🧾", color: "bg-amber-50" },
+  "project-management": { slug: "project-management", label: "Project Management",    emoji: "📋", color: "bg-cyan-50" },
+  "engineering":        { slug: "engineering",        label: "Engineering",           emoji: "🛠️", color: "bg-slate-50" },
+  "actuarial-math":     { slug: "actuarial-math",     label: "Actuarial & Math",      emoji: "∑",  color: "bg-indigo-50" },
+  "healthcare":         { slug: "healthcare",         label: "Healthcare",            emoji: "🩺", color: "bg-red-50" },
+  "skilled-trades":     { slug: "skilled-trades",     label: "Skilled Trades",        emoji: "🔧", color: "bg-stone-50" },
+  "education":          { slug: "education",          label: "Education",             emoji: "🏫", color: "bg-yellow-50" },
+  "design-media":       { slug: "design-media",       label: "Design & Media",        emoji: "🎨", color: "bg-pink-50" },
+  "supply-chain":       { slug: "supply-chain",       label: "Supply Chain",          emoji: "🚚", color: "bg-lime-50" },
+  "environment-energy": { slug: "environment-energy", label: "Environment & Energy",  emoji: "🌱", color: "bg-green-50" },
+};
+
+// Utility getters
+export const ALL_DOMAIN_SLUGS: DomainSlug[] = Object.keys(DOMAIN_REGISTRY) as DomainSlug[];
+
+export function getDomainMeta(slug: string) {
+  return DOMAIN_REGISTRY[slug as DomainSlug];
+}
+
+export function getDomainLabel(slug: string) {
+  return getDomainMeta(slug)?.label ?? slug;
+}
+
+export function getDomainEmoji(slug: string) {
+  return getDomainMeta(slug)?.emoji ?? "🏷️";
+}
+```
+
+> **Rule:** Any UI that shows a domain **must** use `getDomainLabel()` and `getDomainEmoji()`.
+
+---
+
+# 2) Wire pages to the registry
+
+## Browse page (e.g., `/browse` or `/certifications`)
+
+* Tabs or filters should be rendered from `ALL_DOMAIN_SLUGS`.
+
+```tsx
+// example: DomainTabs.tsx
+import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji } from "@/config/domains";
+
+export function DomainTabs({ active, onChange }:{active:string; onChange:(s:string)=>void}) {
+  return (
+    <div className="flex flex-wrap gap-2">
+      {ALL_DOMAIN_SLUGS.map(slug => (
+        <button
+          key={slug}
+          onClick={() => onChange(slug)}
+          className={`px-3 py-1 rounded-full border ${active===slug?"bg-black text-white":"bg-white"}`}
+          aria-label={`Filter by ${getDomainLabel(slug)}`}
+        >
+          <span className="mr-1">{getDomainEmoji(slug)}</span>{getDomainLabel(slug)}
+        </button>
+      ))}
+    </div>
+  );
+}
+```
+
+## Home page
+
+* Domain sections (“Top 10 today”, “Big movers”) must iterate over `ALL_DOMAIN_SLUGS` and pull labels/emojis from the registry for section headers.
+
+## Ranking page
+
+* Domain filter dropdown + table column chips must use the same helpers.
+
+```tsx
+<span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-muted">
+  <span>{getDomainEmoji(row.domain)}</span>
+  <span className="text-xs">{getDomainLabel(row.domain)}</span>
+</span>
+```
+
+---
+
+# 3) Enforce consistency at compile & CI time
+
+## 3.1 Type-level safety
+
+* Wherever we store/accept a domain, prefer `DomainSlug` (union type).
+* If a domain value comes from data files, map/validate to `DomainSlug` (fallback to `"cs-it"` or drop).
+
+```ts
+import { DomainSlug, DOMAIN_REGISTRY } from "@/config/domains";
+
+export function coerceDomainSlug(value: string): DomainSlug {
+  const s = value as DomainSlug;
+  return (s in DOMAIN_REGISTRY) ? s : "cs-it";
+}
+```
+
+Use `coerceDomainSlug` in data transforms (e.g., `transformCertification`).
+
+## 3.2 CI guard: “no rogue domains”
+
+Add a quick script to validate that **every** domain found in the generated JSON exists in `DOMAIN_REGISTRY`.
+
+### `scripts/validate_domains.ts`
+
+```ts
+import fs from "node:fs";
+import path from "node:path";
+import { DOMAIN_REGISTRY } from "../web/src/config/domains"; // path as per repo
+
+const dataRoot = path.resolve(__dirname, "../web/public/data");
+const registry = new Set(Object.keys(DOMAIN_REGISTRY));
+
+function readJson(p:string){ return JSON.parse(fs.readFileSync(p,"utf-8")); }
+
+function collectDomains() {
+  const found = new Set<string>();
+  const certIndex = readJson(path.join(dataRoot, "certifications", "index.json"));
+  certIndex.forEach((c:any) => found.add(String(c.domain).toLowerCase()));
+  const rankings = readJson(path.join(dataRoot, "rankings", "today.json"));
+  rankings.forEach((r:any) => found.add(String(r.domain).toLowerCase()));
+  return found;
+}
+
+const found = collectDomains();
+const missing = [...found].filter(d => !registry.has(d as any));
+if (missing.length) {
+  console.error("❌ Unknown domain(s) in data:", missing);
+  process.exit(1);
+}
+console.log("✅ Domains OK:", [...found].join(", "));
+```
+
+**Add to GitHub Actions** (after data generation, before deploy):
+
+```yaml
+- name: Validate domain registry usage
+  run: node scripts/validate_domains.ts
+```
+
+---
+
+# 4) Data pipeline alignment
+
+* Ensure **generators** write `domain` as a **slug** that matches the registry keys above:
+
+  * `"cs-it"`, `"cybersecurity"`, `"data-ai"`, `"finance"`, `"accounting-audit"`, `"project-management"`, `"engineering"`, `"actuarial-math"`, `"healthcare"`, `"skilled-trades"`, `"education"`, `"design-media"`, `"supply-chain"`, `"environment-energy"`.
+* If incoming sources use human labels (e.g., “CS/IT”), map them in the script **once**:
+
+  ```python
+  DOMAIN_MAP = {
+    "CS / IT": "cs-it",
+    "CS/IT": "cs-it",
+    "Cybersecurity": "cybersecurity",
+    # ...
+  }
+  slug = DOMAIN_MAP.get(source_domain.strip(), "cs-it")
+  ```
+
+---
+
+# 5) UI polish rules
+
+* **Always** show emoji + label together in headers, tabs, and chips.
+* Keep emojis **single-character** (except ∑ which renders fine).
+* Don’t introduce new emojis in components—**only** pull from the registry.
+* Optional: add subtle background color per domain (using `color` from registry) for cards or section headers.
+
+---
+
+# 6) QA checklist (acceptance)
+
+* Browse, Home, Ranking show **the same** domain set, in the **same order**.
+* Every domain has the **same emoji** everywhere.
+* No “Unknown” or stray domain chips.
+* CI fails if a new domain appears in data without being added to the registry.
+* Lighthouse passes (no visual regressions from emojis).
+
+---
+
+# 7) Nice extras (optional)
+
+* Add a **domain selector** to the URL (`?domain=cs-it`) and persist across pages.
+* Provide a small **legend** component (e.g., on About/Methodology) that lists all domains with emojis and one-line descriptions (pulled from an optional `description` field in the registry).
+
+---
+
+If you want, I can also generate:
+
+* a quick **patch** for `transformCertification` to coerce domains to `DomainSlug`, and
+* a **DomainLegend** UI component that can be dropped on any page.

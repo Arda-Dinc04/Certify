@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "journeyman-electrician-state-licensing-boards",
+    "name": "Journeyman Electrician",
+    "domain": "skilled-trades",
+    "issuer": "State Licensing Boards",
+    "url": "https://www.neca-neis.org/",
+    "level": "Professional",
+    "exam_fee_usd": 150,
+    "price_source": "heuristic",
+    "recommended_hours_min": 8000,
+    "recommended_hours_max": 10000,
+    "hours_source": "heuristic",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "written exam",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.neca-neis.org/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  }
+]

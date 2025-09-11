@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "google-cloud-digital-leader",
+    "name": "Google Cloud Digital Leader",
+    "domain": "cs-it",
+    "issuer": "Google Cloud",
+    "url": "https://cloud.google.com/certification",
+    "level": "Foundational",
+    "exam_fee_usd": 99,
+    "price_source": "official",
+    "recommended_hours_min": 20,
+    "recommended_hours_max": 40,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://cloud.google.com/certification",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "google-cloud-professional-cloud-architect",
+    "name": "Google Cloud Professional Cloud Architect",
+    "domain": "cs-it",
+    "issuer": "Google Cloud",
+    "url": "https://cloud.google.com/certification",
+    "level": "Professional",
+    "exam_fee_usd": 200,
+    "price_source": "official",
+    "recommended_hours_min": 60,
+    "recommended_hours_max": 100,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://cloud.google.com/certification",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "google-cloud-professional-data-engineer",
+    "name": "Google Cloud Professional Data Engineer",
+    "domain": "cs-it",
+    "issuer": "Google Cloud",
+    "url": "https://cloud.google.com/certification",
+    "level": "Professional",
+    "exam_fee_usd": 200,
+    "price_source": "official",
+    "recommended_hours_min": 60,
+    "recommended_hours_max": 100,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://cloud.google.com/certification",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  }
+]

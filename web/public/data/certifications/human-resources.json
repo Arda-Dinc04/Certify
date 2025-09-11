@@ -1,0 +1,1519 @@
+[
+  {
+    "id": 925,
+    "slug": "hr-administrator-associate",
+    "name": "HR Administrator Associate",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 399,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 773,
+    "job_postings": 35,
+    "salary": {
+      "min": 58231,
+      "max": 127050,
+      "avg": 84700
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Compliance",
+      "Employee Relations",
+      "Compensation & Benefits",
+      "HR Analytics",
+      "Training & Development",
+      "Talent Acquisition",
+      "Performance Management"
+    ],
+    "description": "Professional certification in hr administrator associate offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 61,
+    "created_at": "2025-09-11T18:32:31.493126",
+    "updated_at": "2025-09-11T18:32:31.493127"
+  },
+  {
+    "id": 904,
+    "slug": "shrm-advanced-certificate",
+    "name": "SHRM Advanced Certificate",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 474,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 675,
+    "job_postings": 1117,
+    "salary": {
+      "min": 58072,
+      "max": 126704,
+      "avg": 84469
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Compliance",
+      "Employee Relations",
+      "HR Analytics",
+      "Talent Acquisition",
+      "Compensation & Benefits",
+      "Performance Management"
+    ],
+    "description": "Professional certification in shrm advanced certificate offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 104,
+    "created_at": "2025-09-11T18:32:31.492284",
+    "updated_at": "2025-09-11T18:32:31.492285"
+  },
+  {
+    "id": 914,
+    "slug": "phr-foundational-certificate",
+    "name": "PHR Foundational Certificate",
+    "issuer": "ATD",
+    "domain": "human-resources",
+    "level": "Foundational",
+    "duration": "3 weeks",
+    "cost": 419,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 760,
+    "job_postings": 357,
+    "salary": {
+      "min": 57676,
+      "max": 125840,
+      "avg": 83893
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Talent Acquisition",
+      "Compliance",
+      "HR Analytics",
+      "Training & Development",
+      "Performance Management",
+      "Employee Relations",
+      "Compensation & Benefits"
+    ],
+    "description": "Professional certification in phr foundational certificate offered by ATD. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 151,
+    "created_at": "2025-09-11T18:32:31.492684",
+    "updated_at": "2025-09-11T18:32:31.492685"
+  },
+  {
+    "id": 908,
+    "slug": "certified-human-resources-specialist",
+    "name": "Certified Human Resources Specialist",
+    "issuer": "ATD",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 379,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 688,
+    "job_postings": 40,
+    "salary": {
+      "min": 50938,
+      "max": 111138,
+      "avg": 74092
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Talent Acquisition",
+      "Performance Management",
+      "Training & Development",
+      "HR Analytics",
+      "Compliance",
+      "Compensation & Benefits",
+      "Employee Relations"
+    ],
+    "description": "Professional certification in certified human resources specialist offered by ATD. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 159,
+    "created_at": "2025-09-11T18:32:31.492442",
+    "updated_at": "2025-09-11T18:32:31.492443"
+  },
+  {
+    "id": 910,
+    "slug": "atd-human-resources-analytics-expert",
+    "name": "ATD Human Resources Analytics Expert",
+    "issuer": "ATD",
+    "domain": "human-resources",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 408,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 602,
+    "job_postings": 454,
+    "salary": {
+      "min": 52067,
+      "max": 113602,
+      "avg": 75734
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Training & Development",
+      "Employee Relations",
+      "HR Analytics",
+      "Talent Acquisition",
+      "Compliance",
+      "Performance Management",
+      "Compensation & Benefits"
+    ],
+    "description": "Professional certification in atd human resources analytics expert offered by ATD. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 163,
+    "created_at": "2025-09-11T18:32:31.492523",
+    "updated_at": "2025-09-11T18:32:31.492524"
+  },
+  {
+    "id": 923,
+    "slug": "certified-human-resources-practitioner",
+    "name": "Certified Human Resources Practitioner",
+    "issuer": "ATD",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 356,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 400,
+    "job_postings": 1484,
+    "salary": {
+      "min": 48771,
+      "max": 106410,
+      "avg": 70940
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Compliance",
+      "Employee Relations",
+      "Talent Acquisition",
+      "Performance Management",
+      "Compensation & Benefits"
+    ],
+    "description": "Professional certification in certified human resources practitioner offered by ATD. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 291,
+    "created_at": "2025-09-11T18:32:31.493046",
+    "updated_at": "2025-09-11T18:32:31.493047"
+  },
+  {
+    "id": 919,
+    "slug": "hrci-human-resources-analytics-professional",
+    "name": "HRCI Human Resources Analytics Professional",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 476,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 787,
+    "job_postings": 114,
+    "salary": {
+      "min": 58942,
+      "max": 128601,
+      "avg": 85734
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compliance",
+      "Training & Development",
+      "Performance Management",
+      "Compensation & Benefits",
+      "Talent Acquisition",
+      "HR Analytics",
+      "Employee Relations"
+    ],
+    "description": "Professional certification in hrci human resources analytics professional offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 339,
+    "created_at": "2025-09-11T18:32:31.492886",
+    "updated_at": "2025-09-11T18:32:31.492888"
+  },
+  {
+    "id": 930,
+    "slug": "certified-talent-management-specialist",
+    "name": "Certified Talent Management Specialist",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 432,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 661,
+    "job_postings": 28,
+    "salary": {
+      "min": 61836,
+      "max": 134916,
+      "avg": 89944
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compensation & Benefits",
+      "HR Analytics",
+      "Talent Acquisition",
+      "Employee Relations",
+      "Performance Management",
+      "Training & Development"
+    ],
+    "description": "Professional certification in certified talent management specialist offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 343,
+    "created_at": "2025-09-11T18:32:31.493330",
+    "updated_at": "2025-09-11T18:32:31.493331"
+  },
+  {
+    "id": 911,
+    "slug": "shrm-senior-certificate",
+    "name": "SHRM Senior Certificate",
+    "issuer": "ATD",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 388,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 627,
+    "job_postings": 166,
+    "salary": {
+      "min": 58990,
+      "max": 128705,
+      "avg": 85803
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Talent Acquisition",
+      "Compliance",
+      "HR Analytics",
+      "Employee Relations",
+      "Performance Management",
+      "Compensation & Benefits",
+      "Training & Development"
+    ],
+    "description": "Professional certification in shrm senior certificate offered by ATD. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 375,
+    "created_at": "2025-09-11T18:32:31.492562",
+    "updated_at": "2025-09-11T18:32:31.492563"
+  },
+  {
+    "id": 924,
+    "slug": "certified-human-resources-specialist-1",
+    "name": "Certified Human Resources Specialist",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 269,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 488,
+    "job_postings": 87,
+    "salary": {
+      "min": 62426,
+      "max": 136203,
+      "avg": 90802
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Compliance",
+      "Employee Relations",
+      "Training & Development",
+      "Performance Management",
+      "Talent Acquisition",
+      "HR Analytics",
+      "Compensation & Benefits"
+    ],
+    "description": "Professional certification in certified human resources specialist offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 400,
+    "created_at": "2025-09-11T18:32:31.493086",
+    "updated_at": "2025-09-11T18:32:31.493087"
+  },
+  {
+    "id": 917,
+    "slug": "gphr-professional-certificate",
+    "name": "GPHR Professional Certificate",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 541,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 522,
+    "job_postings": 308,
+    "salary": {
+      "min": 47474,
+      "max": 103581,
+      "avg": 69054
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compliance",
+      "Training & Development",
+      "Compensation & Benefits",
+      "HR Analytics",
+      "Talent Acquisition",
+      "Performance Management",
+      "Employee Relations"
+    ],
+    "description": "Professional certification in gphr professional certificate offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 440,
+    "created_at": "2025-09-11T18:32:31.492800",
+    "updated_at": "2025-09-11T18:32:31.492801"
+  },
+  {
+    "id": 907,
+    "slug": "cebs-professional-certificate",
+    "name": "CEBS Professional Certificate",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 305,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 629,
+    "job_postings": 23,
+    "salary": {
+      "min": 53217,
+      "max": 116111,
+      "avg": 77407
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Employee Relations",
+      "Compliance",
+      "Training & Development",
+      "Performance Management",
+      "HR Analytics",
+      "Compensation & Benefits",
+      "Talent Acquisition"
+    ],
+    "description": "Professional certification in cebs professional certificate offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 443,
+    "created_at": "2025-09-11T18:32:31.492402",
+    "updated_at": "2025-09-11T18:32:31.492403"
+  },
+  {
+    "id": 932,
+    "slug": "hr-manager-senior-1",
+    "name": "HR Manager Senior",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 361,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 672,
+    "job_postings": 180,
+    "salary": {
+      "min": 58802,
+      "max": 128295,
+      "avg": 85530
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "HR Analytics",
+      "Compensation & Benefits",
+      "Performance Management",
+      "Compliance",
+      "Talent Acquisition"
+    ],
+    "description": "Professional certification in hr manager senior offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 456,
+    "created_at": "2025-09-11T18:32:31.493407",
+    "updated_at": "2025-09-11T18:32:31.493409"
+  },
+  {
+    "id": 918,
+    "slug": "hr-manager-senior",
+    "name": "HR Manager Senior",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 553,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 547,
+    "job_postings": 22,
+    "salary": {
+      "min": 50493,
+      "max": 110168,
+      "avg": 73445
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Compensation & Benefits",
+      "Training & Development",
+      "Employee Relations",
+      "Performance Management",
+      "Talent Acquisition",
+      "Compliance",
+      "HR Analytics"
+    ],
+    "description": "Professional certification in hr manager senior offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 458,
+    "created_at": "2025-09-11T18:32:31.492840",
+    "updated_at": "2025-09-11T18:32:31.492842"
+  },
+  {
+    "id": 933,
+    "slug": "hr-architect-advanced",
+    "name": "HR Architect Advanced",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 298,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 430,
+    "job_postings": 35,
+    "salary": {
+      "min": 54440,
+      "max": 118779,
+      "avg": 79186
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Performance Management",
+      "Compliance",
+      "Talent Acquisition",
+      "Compensation & Benefits",
+      "HR Analytics",
+      "Training & Development"
+    ],
+    "description": "Professional certification in hr architect advanced offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 510,
+    "created_at": "2025-09-11T18:32:31.493446",
+    "updated_at": "2025-09-11T18:32:31.493447"
+  },
+  {
+    "id": 926,
+    "slug": "shrm-human-resources-engineering-master",
+    "name": "SHRM Human Resources Engineering Master",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 430,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 451,
+    "job_postings": 493,
+    "salary": {
+      "min": 55357,
+      "max": 120779,
+      "avg": 80519
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Compliance",
+      "Compensation & Benefits",
+      "HR Analytics",
+      "Training & Development",
+      "Employee Relations",
+      "Talent Acquisition",
+      "Performance Management"
+    ],
+    "description": "Professional certification in shrm human resources engineering master offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 575,
+    "created_at": "2025-09-11T18:32:31.493167",
+    "updated_at": "2025-09-11T18:32:31.493168"
+  },
+  {
+    "id": 927,
+    "slug": "sphr-professional-certificate",
+    "name": "SPHR Professional Certificate",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 478,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 450,
+    "job_postings": 726,
+    "salary": {
+      "min": 54487,
+      "max": 118881,
+      "avg": 79254
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Talent Acquisition",
+      "HR Analytics",
+      "Compliance",
+      "Compensation & Benefits"
+    ],
+    "description": "Professional certification in sphr professional certificate offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 586,
+    "created_at": "2025-09-11T18:32:31.493207",
+    "updated_at": "2025-09-11T18:32:31.493208"
+  },
+  {
+    "id": 902,
+    "slug": "shrm-lead-certificate",
+    "name": "SHRM Lead Certificate",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 530,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 454,
+    "job_postings": 33,
+    "salary": {
+      "min": 46904,
+      "max": 102337,
+      "avg": 68224
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compensation & Benefits",
+      "HR Analytics",
+      "Training & Development",
+      "Employee Relations",
+      "Compliance",
+      "Talent Acquisition",
+      "Performance Management"
+    ],
+    "description": "Professional certification in shrm lead certificate offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 599,
+    "created_at": "2025-09-11T18:32:31.492203",
+    "updated_at": "2025-09-11T18:32:31.492205"
+  },
+  {
+    "id": 921,
+    "slug": "certified-training-specialist",
+    "name": "Certified Training Specialist",
+    "issuer": "ATD",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 331,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 360,
+    "job_postings": 80,
+    "salary": {
+      "min": 60341,
+      "max": 131653,
+      "avg": 87769
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "HR Analytics",
+      "Performance Management",
+      "Compliance",
+      "Training & Development",
+      "Compensation & Benefits",
+      "Employee Relations",
+      "Talent Acquisition"
+    ],
+    "description": "Professional certification in certified training specialist offered by ATD. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 623,
+    "created_at": "2025-09-11T18:32:31.492966",
+    "updated_at": "2025-09-11T18:32:31.492967"
+  },
+  {
+    "id": 905,
+    "slug": "cebs-lead-certificate",
+    "name": "CEBS Lead Certificate",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 412,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 574,
+    "job_postings": 142,
+    "salary": {
+      "min": 54081,
+      "max": 117996,
+      "avg": 78664
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Talent Acquisition",
+      "HR Analytics",
+      "Compliance",
+      "Performance Management",
+      "Training & Development",
+      "Employee Relations"
+    ],
+    "description": "Professional certification in cebs lead certificate offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 662,
+    "created_at": "2025-09-11T18:32:31.492323",
+    "updated_at": "2025-09-11T18:32:31.492324"
+  },
+  {
+    "id": 922,
+    "slug": "certified-compensation-professional",
+    "name": "Certified Compensation Professional",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 488,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 402,
+    "job_postings": 19,
+    "salary": {
+      "min": 60237,
+      "max": 131428,
+      "avg": 87618
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Performance Management",
+      "Training & Development",
+      "Compliance",
+      "Employee Relations",
+      "Compensation & Benefits",
+      "HR Analytics",
+      "Talent Acquisition"
+    ],
+    "description": "Professional certification in certified compensation professional offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 674,
+    "created_at": "2025-09-11T18:32:31.493006",
+    "updated_at": "2025-09-11T18:32:31.493007"
+  },
+  {
+    "id": 934,
+    "slug": "certified-compensation-consultant",
+    "name": "Certified Compensation Consultant",
+    "issuer": "ATD",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 322,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 352,
+    "job_postings": 39,
+    "salary": {
+      "min": 55863,
+      "max": 121885,
+      "avg": 81256
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Training & Development",
+      "Compensation & Benefits",
+      "Compliance",
+      "Employee Relations",
+      "Talent Acquisition",
+      "HR Analytics",
+      "Performance Management"
+    ],
+    "description": "Professional certification in certified compensation consultant offered by ATD. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 745,
+    "created_at": "2025-09-11T18:32:31.493485",
+    "updated_at": "2025-09-11T18:32:31.493486"
+  },
+  {
+    "id": 912,
+    "slug": "shrm-lead-certificate-1",
+    "name": "SHRM Lead Certificate",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 502,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 500,
+    "job_postings": 92,
+    "salary": {
+      "min": 58274,
+      "max": 127144,
+      "avg": 84762
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Training & Development",
+      "Compensation & Benefits",
+      "Compliance",
+      "Talent Acquisition",
+      "Performance Management"
+    ],
+    "description": "Professional certification in shrm lead certificate offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 765,
+    "created_at": "2025-09-11T18:32:31.492605",
+    "updated_at": "2025-09-11T18:32:31.492606"
+  },
+  {
+    "id": 906,
+    "slug": "shrm-foundational-certificate",
+    "name": "SHRM Foundational Certificate",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 258,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 363,
+    "job_postings": 27,
+    "salary": {
+      "min": 51109,
+      "max": 111510,
+      "avg": 74340
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Training & Development",
+      "Compliance",
+      "HR Analytics",
+      "Performance Management",
+      "Compensation & Benefits",
+      "Talent Acquisition",
+      "Employee Relations"
+    ],
+    "description": "Professional certification in shrm foundational certificate offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 799,
+    "created_at": "2025-09-11T18:32:31.492363",
+    "updated_at": "2025-09-11T18:32:31.492364"
+  },
+  {
+    "id": 928,
+    "slug": "gphr-professional-certificate-1",
+    "name": "GPHR Professional Certificate",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 399,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 283,
+    "job_postings": 78,
+    "salary": {
+      "min": 52261,
+      "max": 114025,
+      "avg": 76016
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "HR Analytics",
+      "Performance Management",
+      "Employee Relations",
+      "Compliance",
+      "Compensation & Benefits",
+      "Training & Development"
+    ],
+    "description": "Professional certification in gphr professional certificate offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 862,
+    "created_at": "2025-09-11T18:32:31.493247",
+    "updated_at": "2025-09-11T18:32:31.493248"
+  },
+  {
+    "id": 929,
+    "slug": "performance-management-engineering-certification",
+    "name": "Performance Management Engineering Certification",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 291,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 354,
+    "job_postings": 48,
+    "salary": {
+      "min": 51225,
+      "max": 111764,
+      "avg": 74509
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Compensation & Benefits",
+      "Talent Acquisition",
+      "HR Analytics",
+      "Performance Management",
+      "Compliance",
+      "Employee Relations",
+      "Training & Development"
+    ],
+    "description": "Professional certification in performance management engineering certification offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 894,
+    "created_at": "2025-09-11T18:32:31.493289",
+    "updated_at": "2025-09-11T18:32:31.493291"
+  },
+  {
+    "id": 901,
+    "slug": "certified-benefits-administrator",
+    "name": "Certified Benefits Administrator",
+    "issuer": "ATD",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 254,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 213,
+    "job_postings": 186,
+    "salary": {
+      "min": 59109,
+      "max": 128966,
+      "avg": 85977
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Talent Acquisition",
+      "Performance Management",
+      "Compliance",
+      "Employee Relations",
+      "Training & Development",
+      "HR Analytics",
+      "Compensation & Benefits"
+    ],
+    "description": "Professional certification in certified benefits administrator offered by ATD. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 906,
+    "created_at": "2025-09-11T18:32:31.492164",
+    "updated_at": "2025-09-11T18:32:31.492165"
+  },
+  {
+    "id": 913,
+    "slug": "cebs-professional-certificate-1",
+    "name": "CEBS Professional Certificate",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 465,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 223,
+    "job_postings": 44,
+    "salary": {
+      "min": 62908,
+      "max": 137255,
+      "avg": 91503
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Compensation & Benefits",
+      "Performance Management",
+      "Talent Acquisition",
+      "Training & Development",
+      "Compliance",
+      "HR Analytics",
+      "Employee Relations"
+    ],
+    "description": "Professional certification in cebs professional certificate offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 1001,
+    "created_at": "2025-09-11T18:32:31.492645",
+    "updated_at": "2025-09-11T18:32:31.492646"
+  },
+  {
+    "id": 915,
+    "slug": "certified-benefits-expert",
+    "name": "Certified Benefits Expert",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 404,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 230,
+    "job_postings": 34,
+    "salary": {
+      "min": 57287,
+      "max": 124990,
+      "avg": 83326
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Training & Development",
+      "Compensation & Benefits",
+      "Compliance",
+      "Performance Management",
+      "HR Analytics",
+      "Talent Acquisition"
+    ],
+    "description": "Professional certification in certified benefits expert offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1070,
+    "created_at": "2025-09-11T18:32:31.492723",
+    "updated_at": "2025-09-11T18:32:31.492724"
+  },
+  {
+    "id": 909,
+    "slug": "gphr-master-certificate",
+    "name": "GPHR Master Certificate",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 344,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 259,
+    "job_postings": 391,
+    "salary": {
+      "min": 57650,
+      "max": 125783,
+      "avg": 83855
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Employee Relations",
+      "HR Analytics",
+      "Training & Development",
+      "Compliance"
+    ],
+    "description": "Professional certification in gphr master certificate offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1082,
+    "created_at": "2025-09-11T18:32:31.492480",
+    "updated_at": "2025-09-11T18:32:31.492481"
+  },
+  {
+    "id": 931,
+    "slug": "hr-administrator-professional",
+    "name": "HR Administrator Professional",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 270,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 255,
+    "job_postings": 202,
+    "salary": {
+      "min": 53021,
+      "max": 115683,
+      "avg": 77122
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "HR Analytics",
+      "Training & Development",
+      "Compliance",
+      "Talent Acquisition",
+      "Compensation & Benefits"
+    ],
+    "description": "Professional certification in hr administrator professional offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1148,
+    "created_at": "2025-09-11T18:32:31.493369",
+    "updated_at": "2025-09-11T18:32:31.493370"
+  },
+  {
+    "id": 903,
+    "slug": "employee-relations-strategy-certification",
+    "name": "Employee Relations Strategy Certification",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 479,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 88,
+    "job_postings": 8,
+    "salary": {
+      "min": 52391,
+      "max": 114308,
+      "avg": 76205
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Talent Acquisition",
+      "HR Analytics",
+      "Employee Relations",
+      "Performance Management",
+      "Training & Development"
+    ],
+    "description": "Professional certification in employee relations strategy certification offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 1188,
+    "created_at": "2025-09-11T18:32:31.492244",
+    "updated_at": "2025-09-11T18:32:31.492246"
+  },
+  {
+    "id": 935,
+    "slug": "certified-compensation-analyst",
+    "name": "Certified Compensation Analyst",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 384,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 127,
+    "job_postings": 52,
+    "salary": {
+      "min": 56414,
+      "max": 123085,
+      "avg": 82056
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Compliance",
+      "Talent Acquisition",
+      "Performance Management",
+      "Training & Development"
+    ],
+    "description": "Professional certification in certified compensation analyst offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 1191,
+    "created_at": "2025-09-11T18:32:31.493524",
+    "updated_at": "2025-09-11T18:32:31.493525"
+  },
+  {
+    "id": 916,
+    "slug": "sphr-lead-certificate",
+    "name": "SPHR Lead Certificate",
+    "issuer": "ATD",
+    "domain": "human-resources",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 311,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 201,
+    "job_postings": 36,
+    "salary": {
+      "min": 47593,
+      "max": 103840,
+      "avg": 69227
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "HR Analytics",
+      "Performance Management",
+      "Employee Relations",
+      "Compliance",
+      "Training & Development"
+    ],
+    "description": "Professional certification in sphr lead certificate offered by ATD. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1233,
+    "created_at": "2025-09-11T18:32:31.492761",
+    "updated_at": "2025-09-11T18:32:31.492762"
+  },
+  {
+    "id": 936,
+    "slug": "shrm-human-resources-security-expert",
+    "name": "SHRM Human Resources Security Expert",
+    "issuer": "SHRM",
+    "domain": "human-resources",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 313,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 130,
+    "job_postings": 8,
+    "salary": {
+      "min": 60041,
+      "max": 130998,
+      "avg": 87332
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "HR Analytics",
+      "Compensation & Benefits",
+      "Employee Relations",
+      "Compliance",
+      "Talent Acquisition",
+      "Training & Development",
+      "Performance Management"
+    ],
+    "description": "Professional certification in shrm human resources security expert offered by SHRM. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 1306,
+    "created_at": "2025-09-11T18:32:31.493566",
+    "updated_at": "2025-09-11T18:32:31.493567"
+  },
+  {
+    "id": 920,
+    "slug": "certified-human-resources-expert",
+    "name": "Certified Human Resources Expert",
+    "issuer": "HRCI",
+    "domain": "human-resources",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 304,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 78,
+    "job_postings": 11,
+    "salary": {
+      "min": 61010,
+      "max": 133114,
+      "avg": 88743
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Compliance",
+      "Talent Acquisition",
+      "Performance Management",
+      "Training & Development"
+    ],
+    "description": "Professional certification in certified human resources expert offered by HRCI. Validates expertise in Human Resources and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1350,
+    "created_at": "2025-09-11T18:32:31.492926",
+    "updated_at": "2025-09-11T18:32:31.492927"
+  }
+]

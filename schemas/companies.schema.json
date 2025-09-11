@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "companies.schema.json",
+  "title": "Companies by Domain",
+  "type": "object",
+  "patternProperties": {
+    "^.+$": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["company_id", "slug", "name", "postings_30d", "top_roles"],
+        "properties": {
+          "company_id": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "postings_30d": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "top_roles": {
+            "type": "object",
+            "patternProperties": {
+              "^.+$": {
+                "type": "integer",
+                "minimum": 0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

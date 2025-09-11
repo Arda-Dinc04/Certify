@@ -1,0 +1,256 @@
+[
+  {
+    "id": 1371,
+    "slug": "privacy-compliance-advanced",
+    "name": "Privacy Compliance Advanced",
+    "issuer": "IAPP",
+    "domain": "legal",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 537,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 731,
+    "job_postings": 751,
+    "salary": {
+      "min": 64266,
+      "max": 165257,
+      "avg": 105581
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Litigation",
+      "Regulatory Compliance",
+      "Risk Management",
+      "Contract Law"
+    ],
+    "description": "Professional certification in privacy compliance advanced offered by IAPP. Validates expertise in Legal and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 52,
+    "created_at": "2025-09-11T18:32:31.512507",
+    "updated_at": "2025-09-11T18:32:31.512508"
+  },
+  {
+    "id": 1369,
+    "slug": "privacy-compliance-expert",
+    "name": "Privacy Compliance Expert",
+    "issuer": "ACAMS",
+    "domain": "legal",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 556,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 784,
+    "job_postings": 617,
+    "salary": {
+      "min": 75645,
+      "max": 194517,
+      "avg": 124275
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Litigation",
+      "Legal Writing",
+      "Privacy Law"
+    ],
+    "description": "Professional certification in privacy compliance expert offered by ACAMS. Validates expertise in Legal and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 99,
+    "created_at": "2025-09-11T18:32:31.512422",
+    "updated_at": "2025-09-11T18:32:31.512423"
+  },
+  {
+    "id": 1370,
+    "slug": "certified-compliance-administrator",
+    "name": "Certified Compliance Administrator",
+    "issuer": "ACAMS",
+    "domain": "legal",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 694,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 699,
+    "job_postings": 40,
+    "salary": {
+      "min": 78361,
+      "max": 201500,
+      "avg": 128736
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Corporate Law",
+      "Privacy Law",
+      "Regulatory Compliance",
+      "Contract Law",
+      "Risk Management",
+      "Legal Writing",
+      "Legal Research",
+      "Litigation"
+    ],
+    "description": "Professional certification in certified compliance administrator offered by ACAMS. Validates expertise in Legal and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 277,
+    "created_at": "2025-09-11T18:32:31.512466",
+    "updated_at": "2025-09-11T18:32:31.512468"
+  },
+  {
+    "id": 1374,
+    "slug": "privacy-compliance-foundational",
+    "name": "Privacy Compliance Foundational",
+    "issuer": "IAPP",
+    "domain": "legal",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 375,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 358,
+    "job_postings": 559,
+    "salary": {
+      "min": 77664,
+      "max": 199708,
+      "avg": 127591
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Corporate Law",
+      "Regulatory Compliance",
+      "Legal Research",
+      "Contract Law",
+      "Legal Writing",
+      "Risk Management",
+      "Litigation",
+      "Privacy Law"
+    ],
+    "description": "Professional certification in privacy compliance foundational offered by IAPP. Validates expertise in Legal and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 907,
+    "created_at": "2025-09-11T18:32:31.512632",
+    "updated_at": "2025-09-11T18:32:31.512633"
+  },
+  {
+    "id": 1372,
+    "slug": "data-protection-compliance-lead",
+    "name": "Data Protection Compliance Lead",
+    "issuer": "ACAMS",
+    "domain": "legal",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 536,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 16,
+    "job_postings": 784,
+    "salary": {
+      "min": 73508,
+      "max": 189021,
+      "avg": 120763
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Corporate Law",
+      "Litigation",
+      "Legal Writing",
+      "Privacy Law",
+      "Legal Research",
+      "Contract Law",
+      "Risk Management",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in data protection compliance lead offered by ACAMS. Validates expertise in Legal and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1352,
+    "created_at": "2025-09-11T18:32:31.512548",
+    "updated_at": "2025-09-11T18:32:31.512550"
+  },
+  {
+    "id": 1373,
+    "slug": "securities-compliance-associate",
+    "name": "Securities Compliance Associate",
+    "issuer": "IAPP",
+    "domain": "legal",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 397,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 44,
+    "job_postings": 31,
+    "salary": {
+      "min": 64410,
+      "max": 165628,
+      "avg": 105817
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Regulatory Compliance",
+      "Legal Research",
+      "Legal Writing",
+      "Risk Management",
+      "Contract Law",
+      "Corporate Law",
+      "Privacy Law",
+      "Litigation"
+    ],
+    "description": "Professional certification in securities compliance associate offered by IAPP. Validates expertise in Legal and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "German"
+    ],
+    "ranking": 1356,
+    "created_at": "2025-09-11T18:32:31.512590",
+    "updated_at": "2025-09-11T18:32:31.512591"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "osha-10-hour-construction-osha",
+    "name": "OSHA 10-Hour Construction",
+    "domain": "skilled-trades",
+    "issuer": "OSHA",
+    "url": "https://www.osha.gov/",
+    "level": "Foundational",
+    "exam_fee_usd": 25,
+    "price_source": "heuristic",
+    "recommended_hours_min": 10,
+    "recommended_hours_max": 12,
+    "hours_source": "official",
+    "validity_years": null,
+    "delivery": "online or classroom",
+    "format": "course completion",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.osha.gov/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  },
+  {
+    "slug": "osha-30-hour-construction-osha",
+    "name": "OSHA 30-Hour Construction",
+    "domain": "skilled-trades",
+    "issuer": "OSHA",
+    "url": "https://www.osha.gov/",
+    "level": "Professional",
+    "exam_fee_usd": 75,
+    "price_source": "heuristic",
+    "recommended_hours_min": 30,
+    "recommended_hours_max": 35,
+    "hours_source": "official",
+    "validity_years": null,
+    "delivery": "online or classroom",
+    "format": "course completion",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.osha.gov/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  }
+]

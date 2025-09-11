@@ -1,0 +1,32 @@
+company,issuer,affinity_score,reasoning
+Amazon,Amazon Web Services (AWS),1.0,Direct subsidiary relationship
+Microsoft,Microsoft,1.0,Direct company relationship  
+Google,Google Cloud,1.0,Direct subsidiary relationship
+Cisco,Cisco,1.0,Direct company relationship
+IBM,Red Hat,0.9,IBM acquired Red Hat
+Microsoft,CompTIA,0.7,Strong partnership in enterprise training
+Amazon,CompTIA,0.6,AWS partners with CompTIA for foundational training
+Google,CompTIA,0.6,GCP integrates with CompTIA pathways
+Oracle,Oracle,1.0,Direct company relationship
+VMware,VMware,1.0,Direct company relationship
+Red Hat,Red Hat,1.0,Direct company relationship
+Salesforce,Salesforce,1.0,Direct company relationship
+Adobe,Adobe,1.0,Direct company relationship
+Cisco,CompTIA,0.8,Networking certification synergy
+Amazon,Oracle,0.3,Competing cloud platforms
+Microsoft,Oracle,0.4,Some integration partnerships
+Google,Oracle,0.3,Competing cloud platforms
+IBM,Microsoft,0.5,Enterprise software partnerships
+IBM,Oracle,0.6,Enterprise database partnerships
+VMware,Microsoft,0.7,Virtualization partnerships
+Red Hat,Microsoft,0.6,Linux-Windows integration
+Accenture,Microsoft,0.8,Major consulting partnership
+Accenture,Amazon Web Services (AWS),0.8,Major cloud consulting
+Accenture,Google Cloud,0.7,Cloud consulting partnership
+Deloitte,Microsoft,0.8,Enterprise consulting partnership
+Deloitte,Amazon Web Services (AWS),0.7,Cloud transformation services
+McKinsey,Project Management Institute (PMI),0.6,Management consulting synergy
+BCG,Project Management Institute (PMI),0.6,Strategic project management
+PwC,Microsoft,0.7,Enterprise technology consulting
+EY,Amazon Web Services (AWS),0.7,Cloud audit and consulting
+KPMG,Oracle,0.6,Enterprise system implementations

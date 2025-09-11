@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "hvac-excellence-employment-ready-hvac-excellence",
+    "name": "HVAC Excellence Employment Ready",
+    "domain": "skilled-trades",
+    "issuer": "HVAC Excellence",
+    "url": "https://www.hvacexcellence.org/",
+    "level": "Associate",
+    "exam_fee_usd": 45,
+    "price_source": "heuristic",
+    "recommended_hours_min": 60,
+    "recommended_hours_max": 120,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "written exam",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.hvacexcellence.org/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  }
+]

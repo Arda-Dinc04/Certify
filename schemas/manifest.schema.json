@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "manifest.schema.json",
+  "title": "Data Manifest",
+  "type": "object",
+  "required": ["generated_at", "versions", "files"],
+  "properties": {
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "versions": {
+      "type": "object",
+      "properties": {
+        "certifications": {
+          "type": "string",
+          "format": "date"
+        },
+        "rankings": {
+          "type": "string", 
+          "format": "date"
+        },
+        "companies": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "files": {
+      "type": "object",
+      "properties": {
+        "certifications_index": {
+          "type": "string"
+        },
+        "rankings_today": {
+          "type": "string"
+        },
+        "rank_trends": {
+          "type": "string"
+        },
+        "demand_metrics": {
+          "type": "string"
+        },
+        "role_salaries": {
+          "type": "string"
+        },
+        "companies_by_domain": {
+          "type": "string"
+        },
+        "company_recommendations": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

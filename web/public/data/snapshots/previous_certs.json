@@ -1,0 +1,1072 @@
+[
+  {
+    "slug": "aws-certified-cloud-practitioner",
+    "name": "AWS Certified Cloud Practitioner",
+    "domain": "CS/IT",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Foundational",
+    "exam_fee_usd": 100,
+    "price_source": "official",
+    "recommended_hours_min": 20,
+    "recommended_hours_max": 40,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "aws-certified-solutions-architect-associate",
+    "name": "AWS Certified Solutions Architect – Associate",
+    "domain": "CS/IT",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Associate",
+    "exam_fee_usd": 150,
+    "price_source": "official",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 80,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "aws-certified-developer-associate",
+    "name": "AWS Certified Developer – Associate",
+    "domain": "CS/IT",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Associate",
+    "exam_fee_usd": 150,
+    "price_source": "official",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 80,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "aws-certified-sysops-administrator-associate",
+    "name": "AWS Certified SysOps Administrator – Associate",
+    "domain": "CS/IT",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Associate",
+    "exam_fee_usd": 150,
+    "price_source": "official",
+    "recommended_hours_min": 50,
+    "recommended_hours_max": 90,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "aws-certified-solutions-architect-professional",
+    "name": "AWS Certified Solutions Architect – Professional",
+    "domain": "CS/IT",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Professional",
+    "exam_fee_usd": 300,
+    "price_source": "official",
+    "recommended_hours_min": 80,
+    "recommended_hours_max": 120,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-azure-fundamentals",
+    "name": "Microsoft Azure Fundamentals",
+    "domain": "CS/IT",
+    "issuer": "Microsoft",
+    "url": "https://learn.microsoft.com/en-us/certifications/",
+    "level": "Foundational",
+    "exam_fee_usd": 99,
+    "price_source": "official",
+    "recommended_hours_min": 15,
+    "recommended_hours_max": 30,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://learn.microsoft.com/en-us/certifications/",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-azure-administrator-associate",
+    "name": "Microsoft Azure Administrator Associate",
+    "domain": "CS/IT",
+    "issuer": "Microsoft",
+    "url": "https://learn.microsoft.com/en-us/certifications/",
+    "level": "Associate",
+    "exam_fee_usd": 165,
+    "price_source": "official",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 70,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://learn.microsoft.com/en-us/certifications/",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-azure-solutions-architect-expert",
+    "name": "Microsoft Azure Solutions Architect Expert",
+    "domain": "CS/IT",
+    "issuer": "Microsoft",
+    "url": "https://learn.microsoft.com/en-us/certifications/",
+    "level": "Expert",
+    "exam_fee_usd": 165,
+    "price_source": "official",
+    "recommended_hours_min": 80,
+    "recommended_hours_max": 120,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://learn.microsoft.com/en-us/certifications/",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "google-cloud-digital-leader",
+    "name": "Google Cloud Digital Leader",
+    "domain": "CS/IT",
+    "issuer": "Google Cloud",
+    "url": "https://cloud.google.com/certification",
+    "level": "Foundational",
+    "exam_fee_usd": 99,
+    "price_source": "official",
+    "recommended_hours_min": 20,
+    "recommended_hours_max": 40,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://cloud.google.com/certification",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "google-cloud-professional-cloud-architect",
+    "name": "Google Cloud Professional Cloud Architect",
+    "domain": "CS/IT",
+    "issuer": "Google Cloud",
+    "url": "https://cloud.google.com/certification",
+    "level": "Professional",
+    "exam_fee_usd": 200,
+    "price_source": "official",
+    "recommended_hours_min": 60,
+    "recommended_hours_max": 100,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://cloud.google.com/certification",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "google-cloud-professional-data-engineer",
+    "name": "Google Cloud Professional Data Engineer",
+    "domain": "CS/IT",
+    "issuer": "Google Cloud",
+    "url": "https://cloud.google.com/certification",
+    "level": "Professional",
+    "exam_fee_usd": 200,
+    "price_source": "official",
+    "recommended_hours_min": 60,
+    "recommended_hours_max": 100,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://cloud.google.com/certification",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "comptia-security",
+    "name": "CompTIA Security+",
+    "domain": "CS/IT",
+    "issuer": "CompTIA",
+    "url": "https://www.comptia.org/certifications",
+    "level": "Associate",
+    "exam_fee_usd": 370,
+    "price_source": "official",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 80,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://www.comptia.org/certifications",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "comptia-network",
+    "name": "CompTIA Network+",
+    "domain": "CS/IT",
+    "issuer": "CompTIA",
+    "url": "https://www.comptia.org/certifications",
+    "level": "Associate",
+    "exam_fee_usd": 358,
+    "price_source": "official",
+    "recommended_hours_min": 50,
+    "recommended_hours_max": 90,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://www.comptia.org/certifications",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "comptia-a",
+    "name": "CompTIA A+",
+    "domain": "CS/IT",
+    "issuer": "CompTIA",
+    "url": "https://www.comptia.org/certifications",
+    "level": "Associate",
+    "exam_fee_usd": 358,
+    "price_source": "official",
+    "recommended_hours_min": 60,
+    "recommended_hours_max": 100,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://www.comptia.org/certifications",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "project-management-professional-pmp",
+    "name": "Project Management Professional (PMP)",
+    "domain": "Engineering / Business",
+    "issuer": "Project Management Institute (PMI)",
+    "url": "https://www.pmi.org/certifications",
+    "level": "Professional",
+    "exam_fee_usd": 555,
+    "price_source": "official",
+    "recommended_hours_min": 60,
+    "recommended_hours_max": 120,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "test center or online",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://www.pmi.org/certifications",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "certified-associate-in-project-management-capm",
+    "name": "Certified Associate in Project Management (CAPM)",
+    "domain": "Engineering / Business",
+    "issuer": "Project Management Institute (PMI)",
+    "url": "https://www.pmi.org/certifications",
+    "level": "Associate",
+    "exam_fee_usd": 300,
+    "price_source": "official",
+    "recommended_hours_min": 30,
+    "recommended_hours_max": 60,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "test center or online",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://www.pmi.org/certifications",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "cisco-certified-network-associate-ccna",
+    "name": "Cisco Certified Network Associate (CCNA)",
+    "domain": "CS/IT",
+    "issuer": "Cisco",
+    "url": "https://www.cisco.com/c/en/us/training-events/training-certifications.html",
+    "level": "Associate",
+    "exam_fee_usd": 300,
+    "price_source": "official",
+    "recommended_hours_min": 50,
+    "recommended_hours_max": 100,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "multiple choice and lab",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://www.cisco.com/c/en/us/training-events/training-certifications.html",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "cisco-certified-network-professional-ccnp",
+    "name": "Cisco Certified Network Professional (CCNP)",
+    "domain": "CS/IT",
+    "issuer": "Cisco",
+    "url": "https://www.cisco.com/c/en/us/training-events/training-certifications.html",
+    "level": "Professional",
+    "exam_fee_usd": 400,
+    "price_source": "official",
+    "recommended_hours_min": 80,
+    "recommended_hours_max": 150,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "multiple choice and lab",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.595752Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://www.cisco.com/c/en/us/training-events/training-certifications.html",
+        "checked_at": "2025-09-11T15:56:47.596192Z"
+      }
+    ]
+  },
+  {
+    "slug": "nclex-rn-ncsbn",
+    "name": "NCLEX-RN",
+    "domain": "Healthcare",
+    "issuer": "NCSBN",
+    "url": "https://www.ncsbn.org/exams/nclex",
+    "level": "Foundational",
+    "exam_fee_usd": 200,
+    "price_source": "heuristic",
+    "recommended_hours_min": 120,
+    "recommended_hours_max": 200,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "adaptive MCQ",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.ncsbn.org/exams/nclex",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": "State Boards of Nursing",
+    "prerequisites": "State eligibility; nursing education",
+    "ce_credits": null
+  },
+  {
+    "slug": "cic-certification-in-infection-control-cbic",
+    "name": "CIC (Certification in Infection Control)",
+    "domain": "Healthcare",
+    "issuer": "CBIC",
+    "url": "https://www.cbic.org/",
+    "level": "Professional",
+    "exam_fee_usd": 410,
+    "price_source": "heuristic",
+    "recommended_hours_min": 60,
+    "recommended_hours_max": 120,
+    "hours_source": "heuristic",
+    "validity_years": 5,
+    "delivery": "online or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.cbic.org/",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": null,
+    "prerequisites": "Experience in infection prevention/control",
+    "ce_credits": 80
+  },
+  {
+    "slug": "ccrn-critical-care-registered-nurse-aacn",
+    "name": "CCRN (Critical Care Registered Nurse)",
+    "domain": "Healthcare",
+    "issuer": "AACN",
+    "url": "https://www.aacn.org/certification",
+    "level": "Professional",
+    "exam_fee_usd": 285,
+    "price_source": "heuristic",
+    "recommended_hours_min": 80,
+    "recommended_hours_max": 150,
+    "hours_source": "heuristic",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.aacn.org/certification",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": null,
+    "prerequisites": "RN license; minimum 1 yr ICU experience",
+    "ce_credits": 100
+  },
+  {
+    "slug": "fnp-c-family-nurse-practitioner-ancc",
+    "name": "FNP-C (Family Nurse Practitioner)",
+    "domain": "Healthcare",
+    "issuer": "ANCC",
+    "url": "https://www.nursingworld.org/our-certifications/family-nurse-practitioner/",
+    "level": "Expert",
+    "exam_fee_usd": 395,
+    "price_source": "heuristic",
+    "recommended_hours_min": 200,
+    "recommended_hours_max": 300,
+    "hours_source": "heuristic",
+    "validity_years": 5,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.nursingworld.org/our-certifications/family-nurse-practitioner/",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": "State Boards of Nursing",
+    "prerequisites": "MSN in Family Practice; clinical hours",
+    "ce_credits": 75
+  },
+  {
+    "slug": "nremt-p-national-registry-paramedic-nremt",
+    "name": "NREMT-P (National Registry Paramedic)",
+    "domain": "Healthcare",
+    "issuer": "NREMT",
+    "url": "https://www.nremt.org/",
+    "level": "Professional",
+    "exam_fee_usd": 110,
+    "price_source": "heuristic",
+    "recommended_hours_min": 1000,
+    "recommended_hours_max": 1500,
+    "hours_source": "heuristic",
+    "validity_years": 2,
+    "delivery": "test center",
+    "format": "adaptive MCQ + practical",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.nremt.org/",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": "State EMS authorities",
+    "prerequisites": "Paramedic training program completion",
+    "ce_credits": 40
+  },
+  {
+    "slug": "arrt-american-registry-of-radiologic-technologists-arrt",
+    "name": "ARRT (American Registry of Radiologic Technologists)",
+    "domain": "Healthcare",
+    "issuer": "ARRT",
+    "url": "https://www.arrt.org/",
+    "level": "Foundational",
+    "exam_fee_usd": 200,
+    "price_source": "heuristic",
+    "recommended_hours_min": 1800,
+    "recommended_hours_max": 2400,
+    "hours_source": "heuristic",
+    "validity_years": 2,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.arrt.org/",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": "State licensing boards",
+    "prerequisites": "ARRT-approved education program",
+    "ce_credits": 24
+  },
+  {
+    "slug": "crt-certified-respiratory-therapist-nbrc",
+    "name": "CRT (Certified Respiratory Therapist)",
+    "domain": "Healthcare",
+    "issuer": "NBRC",
+    "url": "https://www.nbrc.org/",
+    "level": "Foundational",
+    "exam_fee_usd": 200,
+    "price_source": "heuristic",
+    "recommended_hours_min": 120,
+    "recommended_hours_max": 180,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.nbrc.org/",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": "State licensing boards",
+    "prerequisites": "RT education program completion",
+    "ce_credits": null
+  },
+  {
+    "slug": "pharmd-doctor-of-pharmacy-nabp",
+    "name": "PharmD (Doctor of Pharmacy)",
+    "domain": "Healthcare",
+    "issuer": "NABP",
+    "url": "https://nabp.pharmacy/",
+    "level": "Expert",
+    "exam_fee_usd": 700,
+    "price_source": "heuristic",
+    "recommended_hours_min": 4000,
+    "recommended_hours_max": 6000,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://nabp.pharmacy/",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": "State Boards of Pharmacy",
+    "prerequisites": "PharmD degree; internship hours",
+    "ce_credits": 30
+  },
+  {
+    "slug": "cpht-certified-pharmacy-technician-ptcb",
+    "name": "CPhT (Certified Pharmacy Technician)",
+    "domain": "Healthcare",
+    "issuer": "PTCB",
+    "url": "https://www.ptcb.org/",
+    "level": "Associate",
+    "exam_fee_usd": 129,
+    "price_source": "heuristic",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 80,
+    "hours_source": "heuristic",
+    "validity_years": 2,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.ptcb.org/",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": "State Boards of Pharmacy",
+    "prerequisites": "High school diploma or equivalent",
+    "ce_credits": 20
+  },
+  {
+    "slug": "cph-certified-in-public-health-nbphe",
+    "name": "CPH (Certified in Public Health)",
+    "domain": "Healthcare",
+    "issuer": "NBPHE",
+    "url": "https://www.ceph.org/",
+    "level": "Professional",
+    "exam_fee_usd": 375,
+    "price_source": "heuristic",
+    "recommended_hours_min": 100,
+    "recommended_hours_max": 200,
+    "hours_source": "heuristic",
+    "validity_years": 2,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596064Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.ceph.org/",
+        "checked_at": "2025-09-11T15:56:47.596064Z"
+      }
+    ],
+    "license_authority": null,
+    "prerequisites": "MPH or equivalent; public health experience",
+    "ce_credits": 42
+  },
+  {
+    "slug": "cfa-level-i-cfa-institute",
+    "name": "CFA Level I",
+    "domain": "Finance",
+    "issuer": "CFA Institute",
+    "url": "https://www.cfainstitute.org/",
+    "level": "Professional",
+    "exam_fee_usd": 940,
+    "price_source": "estimate",
+    "recommended_hours_min": 250,
+    "recommended_hours_max": 300,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.cfainstitute.org/",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "cfa-level-ii-cfa-institute",
+    "name": "CFA Level II",
+    "domain": "Finance",
+    "issuer": "CFA Institute",
+    "url": "https://www.cfainstitute.org/",
+    "level": "Professional",
+    "exam_fee_usd": 940,
+    "price_source": "estimate",
+    "recommended_hours_min": 300,
+    "recommended_hours_max": 350,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.cfainstitute.org/",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "cfa-level-iii-cfa-institute",
+    "name": "CFA Level III",
+    "domain": "Finance",
+    "issuer": "CFA Institute",
+    "url": "https://www.cfainstitute.org/",
+    "level": "Expert",
+    "exam_fee_usd": 940,
+    "price_source": "estimate",
+    "recommended_hours_min": 350,
+    "recommended_hours_max": 400,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ + Essay",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.cfainstitute.org/",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "frm-part-i-garp",
+    "name": "FRM Part I",
+    "domain": "Finance",
+    "issuer": "GARP",
+    "url": "https://www.garp.org/frm",
+    "level": "Professional",
+    "exam_fee_usd": 600,
+    "price_source": "estimate",
+    "recommended_hours_min": 200,
+    "recommended_hours_max": 300,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.garp.org/frm",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "frm-part-ii-garp",
+    "name": "FRM Part II",
+    "domain": "Finance",
+    "issuer": "GARP",
+    "url": "https://www.garp.org/frm",
+    "level": "Professional",
+    "exam_fee_usd": 600,
+    "price_source": "estimate",
+    "recommended_hours_min": 250,
+    "recommended_hours_max": 350,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.garp.org/frm",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "cpa-state-boards-nasba",
+    "name": "CPA",
+    "domain": "Finance",
+    "issuer": "State Boards / NASBA",
+    "url": "https://nasba.org/exams/cpaexam/",
+    "level": "Professional",
+    "exam_fee_usd": 1000,
+    "price_source": "heuristic",
+    "recommended_hours_min": 300,
+    "recommended_hours_max": 450,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ+Task-based",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://nasba.org/exams/cpaexam/",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "cma-certified-management-accountant-ima",
+    "name": "CMA (Certified Management Accountant)",
+    "domain": "Finance",
+    "issuer": "IMA",
+    "url": "https://www.imanet.org/cma-certification",
+    "level": "Professional",
+    "exam_fee_usd": 415,
+    "price_source": "heuristic",
+    "recommended_hours_min": 150,
+    "recommended_hours_max": 250,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ + Essay",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.imanet.org/cma-certification",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "cia-certified-internal-auditor-iia",
+    "name": "CIA (Certified Internal Auditor)",
+    "domain": "Finance",
+    "issuer": "IIA",
+    "url": "https://www.theiia.org/en/certifications/cia/",
+    "level": "Professional",
+    "exam_fee_usd": 375,
+    "price_source": "heuristic",
+    "recommended_hours_min": 120,
+    "recommended_hours_max": 200,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.theiia.org/en/certifications/cia/",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "cisa-certified-information-systems-auditor-isaca",
+    "name": "CISA (Certified Information Systems Auditor)",
+    "domain": "Finance",
+    "issuer": "ISACA",
+    "url": "https://www.isaca.org/credentialing/cisa",
+    "level": "Professional",
+    "exam_fee_usd": 760,
+    "price_source": "heuristic",
+    "recommended_hours_min": 200,
+    "recommended_hours_max": 300,
+    "hours_source": "heuristic",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.isaca.org/credentialing/cisa",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "cfp-certified-financial-planner-cfp-board",
+    "name": "CFP (Certified Financial Planner)",
+    "domain": "Finance",
+    "issuer": "CFP Board",
+    "url": "https://www.cfp.net/",
+    "level": "Professional",
+    "exam_fee_usd": 825,
+    "price_source": "heuristic",
+    "recommended_hours_min": 250,
+    "recommended_hours_max": 350,
+    "hours_source": "heuristic",
+    "validity_years": 2,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.cfp.net/",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "cams-certified-anti-money-laundering-specialist-acams",
+    "name": "CAMS (Certified Anti-Money Laundering Specialist)",
+    "domain": "Finance",
+    "issuer": "ACAMS",
+    "url": "https://www.acams.org/en/cams-certification",
+    "level": "Professional",
+    "exam_fee_usd": 1495,
+    "price_source": "heuristic",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 80,
+    "hours_source": "heuristic",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.acams.org/en/cams-certification",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  },
+  {
+    "slug": "ea-enrolled-agent-irs",
+    "name": "EA (Enrolled Agent)",
+    "domain": "Finance",
+    "issuer": "IRS",
+    "url": "https://www.irs.gov/tax-professionals/enrolled-agents",
+    "level": "Professional",
+    "exam_fee_usd": 181,
+    "price_source": "heuristic",
+    "recommended_hours_min": 120,
+    "recommended_hours_max": 200,
+    "hours_source": "heuristic",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T15:56:47.596134Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.irs.gov/tax-professionals/enrolled-agents",
+        "checked_at": "2025-09-11T15:56:47.596134Z"
+      }
+    ]
+  }
+]

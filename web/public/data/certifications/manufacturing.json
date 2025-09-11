@@ -1,0 +1,1526 @@
+[
+  {
+    "id": 1207,
+    "slug": "certified-process-improvement-consultant",
+    "name": "Certified Process Improvement Consultant",
+    "issuer": "ASQ",
+    "domain": "manufacturing",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 328,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 701,
+    "job_postings": 565,
+    "salary": {
+      "min": 59474,
+      "max": 129762,
+      "avg": 86508
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Process Improvement",
+      "Equipment Maintenance",
+      "Six Sigma",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in certified process improvement consultant offered by ASQ. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 93,
+    "created_at": "2025-09-11T18:32:31.504897",
+    "updated_at": "2025-09-11T18:32:31.504898"
+  },
+  {
+    "id": 1214,
+    "slug": "robotics-security-certificate",
+    "name": "Robotics Security Certificate",
+    "issuer": "Six Sigma Institute",
+    "domain": "manufacturing",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 508,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 750,
+    "job_postings": 20,
+    "salary": {
+      "min": 52488,
+      "max": 114520,
+      "avg": 76346
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Equipment Maintenance",
+      "ISO 9001",
+      "Lean Manufacturing",
+      "Six Sigma",
+      "Safety Management",
+      "Quality Control",
+      "Process Improvement",
+      "Production Planning"
+    ],
+    "description": "Professional certification in robotics security certificate offered by Six Sigma Institute. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 160,
+    "created_at": "2025-09-11T18:32:31.505218",
+    "updated_at": "2025-09-11T18:32:31.505219"
+  },
+  {
+    "id": 1233,
+    "slug": "iso-9001-management-certification",
+    "name": "ISO 9001 Management Certification",
+    "issuer": "Six Sigma Institute",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 586,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 752,
+    "job_postings": 582,
+    "salary": {
+      "min": 47438,
+      "max": 103502,
+      "avg": 69001
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Production Planning",
+      "Six Sigma",
+      "Process Improvement",
+      "Equipment Maintenance",
+      "Safety Management",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in iso 9001 management certification offered by Six Sigma Institute. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 168,
+    "created_at": "2025-09-11T18:32:31.506162",
+    "updated_at": "2025-09-11T18:32:31.506163"
+  },
+  {
+    "id": 1210,
+    "slug": "toyota-production-security-certification",
+    "name": "Toyota Production Security Certification",
+    "issuer": "APICS",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 699,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 712,
+    "job_postings": 171,
+    "salary": {
+      "min": 48547,
+      "max": 105921,
+      "avg": 70614
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Equipment Maintenance",
+      "Quality Control",
+      "Production Planning",
+      "Safety Management",
+      "ISO 9001",
+      "Process Improvement",
+      "Six Sigma",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in toyota production security certification offered by APICS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 169,
+    "created_at": "2025-09-11T18:32:31.505033",
+    "updated_at": "2025-09-11T18:32:31.505034"
+  },
+  {
+    "id": 1235,
+    "slug": "lean-5s-senior",
+    "name": "Lean 5S Senior",
+    "issuer": "Six Sigma Institute",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 443,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 729,
+    "job_postings": 174,
+    "salary": {
+      "min": 51032,
+      "max": 111343,
+      "avg": 74228
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Production Planning",
+      "Six Sigma",
+      "Equipment Maintenance",
+      "Lean Manufacturing",
+      "Process Improvement",
+      "ISO 9001",
+      "Quality Control"
+    ],
+    "description": "Professional certification in lean 5s senior offered by Six Sigma Institute. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 279,
+    "created_at": "2025-09-11T18:32:31.506241",
+    "updated_at": "2025-09-11T18:32:31.506242"
+  },
+  {
+    "id": 1231,
+    "slug": "as9100-architecture-certification",
+    "name": "AS9100 Architecture Certification",
+    "issuer": "NIMS",
+    "domain": "manufacturing",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 141,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 531,
+    "job_postings": 386,
+    "salary": {
+      "min": 62160,
+      "max": 135623,
+      "avg": 90415
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Process Improvement",
+      "Lean Manufacturing",
+      "Safety Management",
+      "Quality Control",
+      "Production Planning",
+      "Six Sigma",
+      "ISO 9001",
+      "Equipment Maintenance"
+    ],
+    "description": "Professional certification in as9100 architecture certification offered by NIMS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 301,
+    "created_at": "2025-09-11T18:32:31.506076",
+    "updated_at": "2025-09-11T18:32:31.506077"
+  },
+  {
+    "id": 1217,
+    "slug": "toyota-production-security-certification-1",
+    "name": "Toyota Production Security Certification",
+    "issuer": "OSHA",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 116,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 599,
+    "job_postings": 424,
+    "salary": {
+      "min": 55202,
+      "max": 120441,
+      "avg": 80294
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "ISO 9001",
+      "Six Sigma",
+      "Equipment Maintenance",
+      "Quality Control",
+      "Safety Management"
+    ],
+    "description": "Professional certification in toyota production security certification offered by OSHA. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 354,
+    "created_at": "2025-09-11T18:32:31.505345",
+    "updated_at": "2025-09-11T18:32:31.505346"
+  },
+  {
+    "id": 1229,
+    "slug": "as9100-development-certification",
+    "name": "AS9100 Development Certification",
+    "issuer": "OSHA",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 131,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 375,
+    "job_postings": 47,
+    "salary": {
+      "min": 63231,
+      "max": 137959,
+      "avg": 91972
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Six Sigma",
+      "Process Improvement",
+      "ISO 9001",
+      "Quality Control",
+      "Lean Manufacturing",
+      "Production Planning",
+      "Equipment Maintenance",
+      "Safety Management"
+    ],
+    "description": "Professional certification in as9100 development certification offered by OSHA. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 504,
+    "created_at": "2025-09-11T18:32:31.505990",
+    "updated_at": "2025-09-11T18:32:31.505991"
+  },
+  {
+    "id": 1213,
+    "slug": "certified-process-improvement-practitioner",
+    "name": "Certified Process Improvement Practitioner",
+    "issuer": "ASQ",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 553,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 648,
+    "job_postings": 76,
+    "salary": {
+      "min": 61602,
+      "max": 134404,
+      "avg": 89602
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Safety Management",
+      "Process Improvement",
+      "Equipment Maintenance",
+      "Lean Manufacturing",
+      "Six Sigma",
+      "Production Planning",
+      "Quality Control",
+      "ISO 9001"
+    ],
+    "description": "Professional certification in certified process improvement practitioner offered by ASQ. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 550,
+    "created_at": "2025-09-11T18:32:31.505173",
+    "updated_at": "2025-09-11T18:32:31.505175"
+  },
+  {
+    "id": 1215,
+    "slug": "apics-lean-professional",
+    "name": "APICS Lean Professional",
+    "issuer": "APICS",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 793,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 525,
+    "job_postings": 182,
+    "salary": {
+      "min": 48900,
+      "max": 106691,
+      "avg": 71127
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Safety Management",
+      "Equipment Maintenance",
+      "Process Improvement",
+      "Quality Control",
+      "Production Planning",
+      "ISO 9001",
+      "Six Sigma",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in apics lean professional offered by APICS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 564,
+    "created_at": "2025-09-11T18:32:31.505260",
+    "updated_at": "2025-09-11T18:32:31.505261"
+  },
+  {
+    "id": 1236,
+    "slug": "certified-quality-control-administrator",
+    "name": "Certified Quality Control Administrator",
+    "issuer": "NIMS",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 192,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 512,
+    "job_postings": 313,
+    "salary": {
+      "min": 51257,
+      "max": 111834,
+      "avg": 74556
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Equipment Maintenance",
+      "Safety Management",
+      "Production Planning",
+      "ISO 9001",
+      "Six Sigma",
+      "Quality Control",
+      "Process Improvement"
+    ],
+    "description": "Professional certification in certified quality control administrator offered by NIMS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 571,
+    "created_at": "2025-09-11T18:32:31.506285",
+    "updated_at": "2025-09-11T18:32:31.506286"
+  },
+  {
+    "id": 1203,
+    "slug": "as9100-security-certification",
+    "name": "AS9100 Security Certification",
+    "issuer": "ASQ",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 436,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 365,
+    "job_postings": 627,
+    "salary": {
+      "min": 47057,
+      "max": 102670,
+      "avg": 68447
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Production Planning",
+      "Safety Management",
+      "Quality Control",
+      "Equipment Maintenance",
+      "Process Improvement",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in as9100 security certification offered by ASQ. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 594,
+    "created_at": "2025-09-11T18:32:31.504618",
+    "updated_at": "2025-09-11T18:32:31.504619"
+  },
+  {
+    "id": 1218,
+    "slug": "certified-process-improvement-consultant-1",
+    "name": "Certified Process Improvement Consultant",
+    "issuer": "APICS",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 456,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 563,
+    "job_postings": 135,
+    "salary": {
+      "min": 55762,
+      "max": 121663,
+      "avg": 81108
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Production Planning",
+      "ISO 9001",
+      "Six Sigma",
+      "Lean Manufacturing",
+      "Equipment Maintenance",
+      "Process Improvement"
+    ],
+    "description": "Professional certification in certified process improvement consultant offered by APICS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 614,
+    "created_at": "2025-09-11T18:32:31.505506",
+    "updated_at": "2025-09-11T18:32:31.505507"
+  },
+  {
+    "id": 1216,
+    "slug": "lean-5s-master",
+    "name": "Lean 5S Master",
+    "issuer": "ASQ",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 351,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 421,
+    "job_postings": 89,
+    "salary": {
+      "min": 54363,
+      "max": 118611,
+      "avg": 79074
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Process Improvement",
+      "Six Sigma",
+      "Equipment Maintenance",
+      "Lean Manufacturing",
+      "Quality Control",
+      "Safety Management",
+      "Production Planning"
+    ],
+    "description": "Professional certification in lean 5s master offered by ASQ. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 621,
+    "created_at": "2025-09-11T18:32:31.505301",
+    "updated_at": "2025-09-11T18:32:31.505303"
+  },
+  {
+    "id": 1221,
+    "slug": "sme-kaizen-associate",
+    "name": "SME Kaizen Associate",
+    "issuer": "SME",
+    "domain": "manufacturing",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 272,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 493,
+    "job_postings": 341,
+    "salary": {
+      "min": 55906,
+      "max": 121977,
+      "avg": 81318
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Lean Manufacturing",
+      "ISO 9001",
+      "Equipment Maintenance",
+      "Production Planning",
+      "Quality Control",
+      "Six Sigma",
+      "Process Improvement",
+      "Safety Management"
+    ],
+    "description": "Professional certification in sme kaizen associate offered by SME. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 632,
+    "created_at": "2025-09-11T18:32:31.505637",
+    "updated_at": "2025-09-11T18:32:31.505638"
+  },
+  {
+    "id": 1205,
+    "slug": "lean-kaizen-associate",
+    "name": "Lean Kaizen Associate",
+    "issuer": "OSHA",
+    "domain": "manufacturing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 88,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 392,
+    "job_postings": 167,
+    "salary": {
+      "min": 63028,
+      "max": 137515,
+      "avg": 91677
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Process Improvement",
+      "Lean Manufacturing",
+      "Production Planning",
+      "Safety Management",
+      "Equipment Maintenance"
+    ],
+    "description": "Professional certification in lean kaizen associate offered by OSHA. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 642,
+    "created_at": "2025-09-11T18:32:31.504700",
+    "updated_at": "2025-09-11T18:32:31.504701"
+  },
+  {
+    "id": 1230,
+    "slug": "automation-security-certificate",
+    "name": "Automation Security Certificate",
+    "issuer": "ASQ",
+    "domain": "manufacturing",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 435,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 373,
+    "job_postings": 419,
+    "salary": {
+      "min": 51176,
+      "max": 111657,
+      "avg": 74438
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Process Improvement",
+      "ISO 9001",
+      "Production Planning",
+      "Six Sigma",
+      "Safety Management",
+      "Lean Manufacturing",
+      "Quality Control",
+      "Equipment Maintenance"
+    ],
+    "description": "Professional certification in automation security certificate offered by ASQ. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 653,
+    "created_at": "2025-09-11T18:32:31.506034",
+    "updated_at": "2025-09-11T18:32:31.506035"
+  },
+  {
+    "id": 1222,
+    "slug": "certified-lean-manufacturing-practitioner",
+    "name": "Certified Lean Manufacturing Practitioner",
+    "issuer": "ASQ",
+    "domain": "manufacturing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 532,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 416,
+    "job_postings": 383,
+    "salary": {
+      "min": 52889,
+      "max": 115395,
+      "avg": 76930
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Equipment Maintenance",
+      "Quality Control",
+      "Six Sigma",
+      "Lean Manufacturing",
+      "Safety Management",
+      "ISO 9001",
+      "Production Planning"
+    ],
+    "description": "Professional certification in certified lean manufacturing practitioner offered by ASQ. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 690,
+    "created_at": "2025-09-11T18:32:31.505679",
+    "updated_at": "2025-09-11T18:32:31.505680"
+  },
+  {
+    "id": 1226,
+    "slug": "lean-5s-professional",
+    "name": "Lean 5S Professional",
+    "issuer": "SME",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 436,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 500,
+    "job_postings": 16,
+    "salary": {
+      "min": 56403,
+      "max": 123061,
+      "avg": 82040
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Safety Management",
+      "ISO 9001",
+      "Lean Manufacturing",
+      "Equipment Maintenance"
+    ],
+    "description": "Professional certification in lean 5s professional offered by SME. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 693,
+    "created_at": "2025-09-11T18:32:31.505846",
+    "updated_at": "2025-09-11T18:32:31.505847"
+  },
+  {
+    "id": 1224,
+    "slug": "industry-40-administration-certificate",
+    "name": "Industry 4.0 Administration Certificate",
+    "issuer": "SME",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 301,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 382,
+    "job_postings": 510,
+    "salary": {
+      "min": 49279,
+      "max": 107518,
+      "avg": 71678
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Lean Manufacturing",
+      "Six Sigma",
+      "Quality Control",
+      "Equipment Maintenance",
+      "Process Improvement",
+      "Production Planning",
+      "Safety Management"
+    ],
+    "description": "Professional certification in industry 4.0 administration certificate offered by SME. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 712,
+    "created_at": "2025-09-11T18:32:31.505766",
+    "updated_at": "2025-09-11T18:32:31.505767"
+  },
+  {
+    "id": 1225,
+    "slug": "lean-kaizen-advanced",
+    "name": "Lean Kaizen Advanced",
+    "issuer": "NIMS",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 235,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 389,
+    "job_postings": 15,
+    "salary": {
+      "min": 47136,
+      "max": 102844,
+      "avg": 68562
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Equipment Maintenance",
+      "ISO 9001",
+      "Production Planning",
+      "Quality Control"
+    ],
+    "description": "Professional certification in lean kaizen advanced offered by NIMS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 728,
+    "created_at": "2025-09-11T18:32:31.505806",
+    "updated_at": "2025-09-11T18:32:31.505807"
+  },
+  {
+    "id": 1208,
+    "slug": "as9100-administration-certification",
+    "name": "AS9100 Administration Certification",
+    "issuer": "OSHA",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 126,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 298,
+    "job_postings": 40,
+    "salary": {
+      "min": 52903,
+      "max": 115425,
+      "avg": 76950
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Lean Manufacturing",
+      "Process Improvement",
+      "Six Sigma",
+      "Equipment Maintenance",
+      "Safety Management",
+      "Production Planning",
+      "ISO 9001",
+      "Quality Control"
+    ],
+    "description": "Professional certification in as9100 administration certification offered by OSHA. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 732,
+    "created_at": "2025-09-11T18:32:31.504941",
+    "updated_at": "2025-09-11T18:32:31.504943"
+  },
+  {
+    "id": 1232,
+    "slug": "toyota-production-development-certification",
+    "name": "Toyota Production Development Certification",
+    "issuer": "OSHA",
+    "domain": "manufacturing",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 99,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 356,
+    "job_postings": 101,
+    "salary": {
+      "min": 52840,
+      "max": 115287,
+      "avg": 76858
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Quality Control",
+      "ISO 9001",
+      "Production Planning",
+      "Process Improvement",
+      "Safety Management"
+    ],
+    "description": "Professional certification in toyota production development certification offered by OSHA. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 754,
+    "created_at": "2025-09-11T18:32:31.506118",
+    "updated_at": "2025-09-11T18:32:31.506120"
+  },
+  {
+    "id": 1202,
+    "slug": "lean-manufacturing-foundational",
+    "name": "Lean Manufacturing Foundational",
+    "issuer": "ASQ",
+    "domain": "manufacturing",
+    "level": "Specialty",
+    "duration": "8 hours",
+    "cost": 328,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 270,
+    "job_postings": 707,
+    "salary": {
+      "min": 61590,
+      "max": 134378,
+      "avg": 89585
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Safety Management",
+      "Process Improvement",
+      "ISO 9001",
+      "Six Sigma",
+      "Quality Control",
+      "Production Planning",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in lean manufacturing foundational offered by ASQ. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 763,
+    "created_at": "2025-09-11T18:32:31.504575",
+    "updated_at": "2025-09-11T18:32:31.504576"
+  },
+  {
+    "id": 1211,
+    "slug": "robotics-strategy-certificate",
+    "name": "Robotics Strategy Certificate",
+    "issuer": "APICS",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 728,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 575,
+    "job_postings": 46,
+    "salary": {
+      "min": 57097,
+      "max": 124577,
+      "avg": 83051
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "ISO 9001",
+      "Six Sigma",
+      "Quality Control",
+      "Safety Management",
+      "Production Planning"
+    ],
+    "description": "Professional certification in robotics strategy certificate offered by APICS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 783,
+    "created_at": "2025-09-11T18:32:31.505078",
+    "updated_at": "2025-09-11T18:32:31.505079"
+  },
+  {
+    "id": 1219,
+    "slug": "lean-manufacturing-lead",
+    "name": "Lean Manufacturing Lead",
+    "issuer": "ASQ",
+    "domain": "manufacturing",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 486,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 325,
+    "job_postings": 43,
+    "salary": {
+      "min": 59600,
+      "max": 130036,
+      "avg": 86690
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Six Sigma",
+      "Safety Management",
+      "Production Planning",
+      "Quality Control",
+      "Equipment Maintenance",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in lean manufacturing lead offered by ASQ. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 837,
+    "created_at": "2025-09-11T18:32:31.505551",
+    "updated_at": "2025-09-11T18:32:31.505552"
+  },
+  {
+    "id": 1201,
+    "slug": "lean-engineering-certification",
+    "name": "Lean Engineering Certification",
+    "issuer": "OSHA",
+    "domain": "manufacturing",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 72,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 273,
+    "job_postings": 20,
+    "salary": {
+      "min": 58758,
+      "max": 128200,
+      "avg": 85466
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Six Sigma",
+      "Equipment Maintenance",
+      "Safety Management",
+      "Lean Manufacturing",
+      "Process Improvement",
+      "ISO 9001",
+      "Quality Control",
+      "Production Planning"
+    ],
+    "description": "Professional certification in lean engineering certification offered by OSHA. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 943,
+    "created_at": "2025-09-11T18:32:31.504533",
+    "updated_at": "2025-09-11T18:32:31.504534"
+  },
+  {
+    "id": 1227,
+    "slug": "iso-9001-architecture-certification",
+    "name": "ISO 9001 Architecture Certification",
+    "issuer": "OSHA",
+    "domain": "manufacturing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 77,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 295,
+    "job_postings": 67,
+    "salary": {
+      "min": 52089,
+      "max": 113649,
+      "avg": 75766
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "ISO 9001",
+      "Equipment Maintenance",
+      "Six Sigma",
+      "Lean Manufacturing",
+      "Safety Management",
+      "Production Planning",
+      "Process Improvement",
+      "Quality Control"
+    ],
+    "description": "Professional certification in iso 9001 architecture certification offered by OSHA. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 971,
+    "created_at": "2025-09-11T18:32:31.505889",
+    "updated_at": "2025-09-11T18:32:31.505890"
+  },
+  {
+    "id": 1206,
+    "slug": "toyota-production-analytics-certification",
+    "name": "Toyota Production Analytics Certification",
+    "issuer": "OSHA",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 104,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 91,
+    "job_postings": 418,
+    "salary": {
+      "min": 62158,
+      "max": 135619,
+      "avg": 90412
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Production Planning",
+      "Six Sigma",
+      "Equipment Maintenance",
+      "ISO 9001",
+      "Safety Management",
+      "Lean Manufacturing",
+      "Quality Control",
+      "Process Improvement"
+    ],
+    "description": "Professional certification in toyota production analytics certification offered by OSHA. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 989,
+    "created_at": "2025-09-11T18:32:31.504843",
+    "updated_at": "2025-09-11T18:32:31.504846"
+  },
+  {
+    "id": 1209,
+    "slug": "six-sigma-development-certification",
+    "name": "Six Sigma Development Certification",
+    "issuer": "ASQ",
+    "domain": "manufacturing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 488,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 311,
+    "job_postings": 81,
+    "salary": {
+      "min": 60389,
+      "max": 131759,
+      "avg": 87839
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Lean Manufacturing",
+      "ISO 9001",
+      "Six Sigma",
+      "Process Improvement"
+    ],
+    "description": "Professional certification in six sigma development certification offered by ASQ. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 999,
+    "created_at": "2025-09-11T18:32:31.504990",
+    "updated_at": "2025-09-11T18:32:31.504991"
+  },
+  {
+    "id": 1204,
+    "slug": "certified-quality-control-expert",
+    "name": "Certified Quality Control Expert",
+    "issuer": "NIMS",
+    "domain": "manufacturing",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 203,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 148,
+    "job_postings": 29,
+    "salary": {
+      "min": 48736,
+      "max": 106333,
+      "avg": 70889
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Process Improvement",
+      "Six Sigma",
+      "Lean Manufacturing",
+      "Production Planning",
+      "Safety Management",
+      "Equipment Maintenance",
+      "Quality Control",
+      "ISO 9001"
+    ],
+    "description": "Professional certification in certified quality control expert offered by NIMS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 1049,
+    "created_at": "2025-09-11T18:32:31.504659",
+    "updated_at": "2025-09-11T18:32:31.504661"
+  },
+  {
+    "id": 1234,
+    "slug": "lean-kaizen-foundational",
+    "name": "Lean Kaizen Foundational",
+    "issuer": "Six Sigma Institute",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 394,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 131,
+    "job_postings": 28,
+    "salary": {
+      "min": 62250,
+      "max": 135820,
+      "avg": 90546
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Lean Manufacturing",
+      "Production Planning",
+      "Equipment Maintenance",
+      "ISO 9001",
+      "Six Sigma",
+      "Quality Control",
+      "Process Improvement",
+      "Safety Management"
+    ],
+    "description": "Professional certification in lean kaizen foundational offered by Six Sigma Institute. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 1063,
+    "created_at": "2025-09-11T18:32:31.506202",
+    "updated_at": "2025-09-11T18:32:31.506204"
+  },
+  {
+    "id": 1212,
+    "slug": "certified-quality-control-professional",
+    "name": "Certified Quality Control Professional",
+    "issuer": "OSHA",
+    "domain": "manufacturing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 136,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 27,
+    "job_postings": 61,
+    "salary": {
+      "min": 56858,
+      "max": 124054,
+      "avg": 82703
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Process Improvement",
+      "Production Planning",
+      "Safety Management",
+      "Six Sigma",
+      "ISO 9001",
+      "Quality Control",
+      "Equipment Maintenance",
+      "Lean Manufacturing"
+    ],
+    "description": "Professional certification in certified quality control professional offered by OSHA. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1084,
+    "created_at": "2025-09-11T18:32:31.505123",
+    "updated_at": "2025-09-11T18:32:31.505124"
+  },
+  {
+    "id": 1220,
+    "slug": "smart-manufacturing-analytics-certificate",
+    "name": "Smart Manufacturing Analytics Certificate",
+    "issuer": "Six Sigma Institute",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 692,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 252,
+    "job_postings": 313,
+    "salary": {
+      "min": 47677,
+      "max": 104023,
+      "avg": 69348
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Process Improvement",
+      "Production Planning",
+      "Lean Manufacturing",
+      "Quality Control",
+      "Six Sigma",
+      "ISO 9001"
+    ],
+    "description": "Professional certification in smart manufacturing analytics certificate offered by Six Sigma Institute. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 1096,
+    "created_at": "2025-09-11T18:32:31.505595",
+    "updated_at": "2025-09-11T18:32:31.505597"
+  },
+  {
+    "id": 1223,
+    "slug": "apics-lean-lead",
+    "name": "APICS Lean Lead",
+    "issuer": "APICS",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 521,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 21,
+    "job_postings": 20,
+    "salary": {
+      "min": 55657,
+      "max": 121433,
+      "avg": 80955
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Lean Manufacturing",
+      "Equipment Maintenance",
+      "Production Planning",
+      "Quality Control",
+      "Safety Management",
+      "Six Sigma",
+      "ISO 9001",
+      "Process Improvement"
+    ],
+    "description": "Professional certification in apics lean lead offered by APICS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1299,
+    "created_at": "2025-09-11T18:32:31.505722",
+    "updated_at": "2025-09-11T18:32:31.505724"
+  },
+  {
+    "id": 1228,
+    "slug": "six-sigma-strategy-certification",
+    "name": "Six Sigma Strategy Certification",
+    "issuer": "NIMS",
+    "domain": "manufacturing",
+    "level": "Associate",
+    "duration": "5 weeks",
+    "cost": 185,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 59,
+    "job_postings": 20,
+    "salary": {
+      "min": 51668,
+      "max": 112730,
+      "avg": 75153
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Six Sigma",
+      "Safety Management",
+      "Production Planning",
+      "Quality Control"
+    ],
+    "description": "Professional certification in six sigma strategy certification offered by NIMS. Validates expertise in Manufacturing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1340,
+    "created_at": "2025-09-11T18:32:31.505930",
+    "updated_at": "2025-09-11T18:32:31.505931"
+  }
+]

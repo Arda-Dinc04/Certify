@@ -1,0 +1,511 @@
+[
+  {
+    "id": 1350,
+    "slug": "i-car-automotive-management-foundational",
+    "name": "I-CAR Automotive Management Foundational",
+    "issuer": "I-CAR",
+    "domain": "automotive",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 276,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 799,
+    "job_postings": 181,
+    "salary": {
+      "min": 41379,
+      "max": 87932,
+      "avg": 62069
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Diagnostic Testing",
+      "Brake Systems",
+      "Engine Repair",
+      "Computer Diagnostics"
+    ],
+    "description": "Professional certification in i-car automotive management foundational offered by I-CAR. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 14,
+    "created_at": "2025-09-11T18:32:31.511515",
+    "updated_at": "2025-09-11T18:32:31.511519"
+  },
+  {
+    "id": 1355,
+    "slug": "i-car-automotive-analytics-foundational",
+    "name": "I-CAR Automotive Analytics Foundational",
+    "issuer": "I-CAR",
+    "domain": "automotive",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 242,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 739,
+    "job_postings": 276,
+    "salary": {
+      "min": 42604,
+      "max": 90534,
+      "avg": 63906
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Hybrid Technology",
+      "Computer Diagnostics",
+      "Transmission Repair",
+      "Engine Repair",
+      "Air Conditioning",
+      "Brake Systems",
+      "Electrical Systems",
+      "Diagnostic Testing"
+    ],
+    "description": "Professional certification in i-car automotive analytics foundational offered by I-CAR. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 28,
+    "created_at": "2025-09-11T18:32:31.511755",
+    "updated_at": "2025-09-11T18:32:31.511757"
+  },
+  {
+    "id": 1347,
+    "slug": "honda-administration-foundational",
+    "name": "Honda Administration Foundational",
+    "issuer": "I-CAR",
+    "domain": "automotive",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 254,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 787,
+    "job_postings": 140,
+    "salary": {
+      "min": 38695,
+      "max": 82228,
+      "avg": 58043
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Computer Diagnostics",
+      "Engine Repair",
+      "Diagnostic Testing",
+      "Electrical Systems",
+      "Brake Systems",
+      "Transmission Repair",
+      "Hybrid Technology"
+    ],
+    "description": "Professional certification in honda administration foundational offered by I-CAR. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 33,
+    "created_at": "2025-09-11T18:32:31.511145",
+    "updated_at": "2025-09-11T18:32:31.511146"
+  },
+  {
+    "id": 1356,
+    "slug": "i-car-automotive-development-master",
+    "name": "I-CAR Automotive Development Master",
+    "issuer": "I-CAR",
+    "domain": "automotive",
+    "level": "Associate",
+    "duration": "5 weeks",
+    "cost": 258,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 774,
+    "job_postings": 326,
+    "salary": {
+      "min": 37267,
+      "max": 79193,
+      "avg": 55901
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Transmission Repair",
+      "Engine Repair",
+      "Brake Systems",
+      "Electrical Systems",
+      "Hybrid Technology",
+      "Diagnostic Testing",
+      "Computer Diagnostics"
+    ],
+    "description": "Professional certification in i-car automotive development master offered by I-CAR. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 95,
+    "created_at": "2025-09-11T18:32:31.511797",
+    "updated_at": "2025-09-11T18:32:31.511798"
+  },
+  {
+    "id": 1345,
+    "slug": "repair-administration-certificate",
+    "name": "Repair Administration Certificate",
+    "issuer": "I-CAR",
+    "domain": "automotive",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 176,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 178,
+    "job_postings": 2705,
+    "salary": {
+      "min": 35311,
+      "max": 75036,
+      "avg": 52966
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Computer Diagnostics",
+      "Electrical Systems",
+      "Engine Repair",
+      "Hybrid Technology",
+      "Transmission Repair",
+      "Brake Systems",
+      "Air Conditioning",
+      "Diagnostic Testing"
+    ],
+    "description": "Professional certification in repair administration certificate offered by I-CAR. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 288,
+    "created_at": "2025-09-11T18:32:31.511059",
+    "updated_at": "2025-09-11T18:32:31.511060"
+  },
+  {
+    "id": 1354,
+    "slug": "diagnostic-development-certificate",
+    "name": "Diagnostic Development Certificate",
+    "issuer": "I-CAR",
+    "domain": "automotive",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 313,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 516,
+    "job_postings": 725,
+    "salary": {
+      "min": 45082,
+      "max": 95800,
+      "avg": 67623
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Computer Diagnostics",
+      "Transmission Repair",
+      "Brake Systems",
+      "Electrical Systems",
+      "Engine Repair",
+      "Air Conditioning",
+      "Diagnostic Testing",
+      "Hybrid Technology"
+    ],
+    "description": "Professional certification in diagnostic development certificate offered by I-CAR. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 308,
+    "created_at": "2025-09-11T18:32:31.511710",
+    "updated_at": "2025-09-11T18:32:31.511712"
+  },
+  {
+    "id": 1352,
+    "slug": "certified-collision-repair-professional",
+    "name": "Certified Collision Repair Professional",
+    "issuer": "I-CAR",
+    "domain": "automotive",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 287,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 506,
+    "job_postings": 10,
+    "salary": {
+      "min": 43378,
+      "max": 92179,
+      "avg": 65068
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Computer Diagnostics",
+      "Transmission Repair",
+      "Brake Systems",
+      "Hybrid Technology",
+      "Engine Repair"
+    ],
+    "description": "Professional certification in certified collision repair professional offered by I-CAR. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 437,
+    "created_at": "2025-09-11T18:32:31.511623",
+    "updated_at": "2025-09-11T18:32:31.511624"
+  },
+  {
+    "id": 1349,
+    "slug": "electrical-development-certification",
+    "name": "Electrical Development Certification",
+    "issuer": "I-CAR",
+    "domain": "automotive",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 182,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 476,
+    "job_postings": 41,
+    "salary": {
+      "min": 34837,
+      "max": 74029,
+      "avg": 52255
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Electrical Systems",
+      "Hybrid Technology",
+      "Brake Systems",
+      "Diagnostic Testing",
+      "Engine Repair",
+      "Computer Diagnostics",
+      "Air Conditioning",
+      "Transmission Repair"
+    ],
+    "description": "Professional certification in electrical development certification offered by I-CAR. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 454,
+    "created_at": "2025-09-11T18:32:31.511410",
+    "updated_at": "2025-09-11T18:32:31.511412"
+  },
+  {
+    "id": 1351,
+    "slug": "repair-analytics-certificate",
+    "name": "Repair Analytics Certificate",
+    "issuer": "I-CAR",
+    "domain": "automotive",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 219,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 36,
+    "job_postings": 235,
+    "salary": {
+      "min": 41007,
+      "max": 87140,
+      "avg": 61511
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Brake Systems",
+      "Computer Diagnostics",
+      "Transmission Repair",
+      "Engine Repair",
+      "Hybrid Technology",
+      "Air Conditioning",
+      "Electrical Systems",
+      "Diagnostic Testing"
+    ],
+    "description": "Professional certification in repair analytics certificate offered by I-CAR. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 1183,
+    "created_at": "2025-09-11T18:32:31.511574",
+    "updated_at": "2025-09-11T18:32:31.511576"
+  },
+  {
+    "id": 1353,
+    "slug": "bmw-management-associate",
+    "name": "BMW Management Associate",
+    "issuer": "ASE",
+    "domain": "automotive",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 219,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 242,
+    "job_postings": 56,
+    "salary": {
+      "min": 37324,
+      "max": 79314,
+      "avg": 55987
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Engine Repair",
+      "Computer Diagnostics",
+      "Electrical Systems",
+      "Diagnostic Testing"
+    ],
+    "description": "Professional certification in bmw management associate offered by ASE. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1201,
+    "created_at": "2025-09-11T18:32:31.511666",
+    "updated_at": "2025-09-11T18:32:31.511668"
+  },
+  {
+    "id": 1346,
+    "slug": "hybrid-engineering-certification",
+    "name": "Hybrid Engineering Certification",
+    "issuer": "ASE",
+    "domain": "automotive",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 235,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 96,
+    "job_postings": 69,
+    "salary": {
+      "min": 40449,
+      "max": 85955,
+      "avg": 60674
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Air Conditioning",
+      "Computer Diagnostics",
+      "Transmission Repair",
+      "Engine Repair"
+    ],
+    "description": "Professional certification in hybrid engineering certification offered by ASE. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 1217,
+    "created_at": "2025-09-11T18:32:31.511100",
+    "updated_at": "2025-09-11T18:32:31.511101"
+  },
+  {
+    "id": 1348,
+    "slug": "hvac-security-certification",
+    "name": "HVAC Security Certification",
+    "issuer": "ASE",
+    "domain": "automotive",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 188,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 117,
+    "job_postings": 51,
+    "salary": {
+      "min": 42747,
+      "max": 90837,
+      "avg": 64120
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Engine Repair",
+      "Computer Diagnostics",
+      "Air Conditioning",
+      "Diagnostic Testing"
+    ],
+    "description": "Professional certification in hvac security certification offered by ASE. Validates expertise in Automotive and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1320,
+    "created_at": "2025-09-11T18:32:31.511188",
+    "updated_at": "2025-09-11T18:32:31.511189"
+  }
+]

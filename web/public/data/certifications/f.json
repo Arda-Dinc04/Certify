@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "fnp-c-family-nurse-practitioner-ancc",
+    "name": "FNP-C (Family Nurse Practitioner)",
+    "domain": "healthcare",
+    "issuer": "ANCC",
+    "url": "https://www.nursingworld.org/our-certifications/family-nurse-practitioner/",
+    "level": "Expert",
+    "exam_fee_usd": 395,
+    "price_source": "heuristic",
+    "recommended_hours_min": 200,
+    "recommended_hours_max": 300,
+    "hours_source": "heuristic",
+    "validity_years": 5,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782315Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.nursingworld.org/our-certifications/family-nurse-practitioner/",
+        "checked_at": "2025-09-11T17:29:51.782315Z"
+      }
+    ],
+    "license_authority": "State Boards of Nursing",
+    "prerequisites": "MSN in Family Practice; clinical hours",
+    "ce_credits": 75
+  },
+  {
+    "slug": "frm-part-i-garp",
+    "name": "FRM Part I",
+    "domain": "finance",
+    "issuer": "GARP",
+    "url": "https://www.garp.org/frm",
+    "level": "Professional",
+    "exam_fee_usd": 600,
+    "price_source": "estimate",
+    "recommended_hours_min": 200,
+    "recommended_hours_max": 300,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782373Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.garp.org/frm",
+        "checked_at": "2025-09-11T17:29:51.782373Z"
+      }
+    ]
+  },
+  {
+    "slug": "frm-part-ii-garp",
+    "name": "FRM Part II",
+    "domain": "finance",
+    "issuer": "GARP",
+    "url": "https://www.garp.org/frm",
+    "level": "Professional",
+    "exam_fee_usd": 600,
+    "price_source": "estimate",
+    "recommended_hours_min": 250,
+    "recommended_hours_max": 350,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782373Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.garp.org/frm",
+        "checked_at": "2025-09-11T17:29:51.782373Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{"slug": "aws-certified-cloud-practitioner", "name": "AWS Certified Cloud Practitioner", "issuer": "Amazon Web Services (AWS)", "domain": "CS/IT", "level": "Foundational", "description": "", "keywords": []}
+{"slug": "aws-certified-solutions-architect-associate", "name": "AWS Certified Solutions Architect – Associate", "issuer": "Amazon Web Services (AWS)", "domain": "CS/IT", "level": "Associate", "description": "", "keywords": []}
+{"slug": "aws-certified-developer-associate", "name": "AWS Certified Developer – Associate", "issuer": "Amazon Web Services (AWS)", "domain": "CS/IT", "level": "Associate", "description": "", "keywords": []}
+{"slug": "aws-certified-sysops-administrator-associate", "name": "AWS Certified SysOps Administrator – Associate", "issuer": "Amazon Web Services (AWS)", "domain": "CS/IT", "level": "Associate", "description": "", "keywords": []}
+{"slug": "aws-certified-solutions-architect-professional", "name": "AWS Certified Solutions Architect – Professional", "issuer": "Amazon Web Services (AWS)", "domain": "CS/IT", "level": "Professional", "description": "", "keywords": []}
+{"slug": "arrt-american-registry-of-radiologic-technologists-arrt", "name": "ARRT (American Registry of Radiologic Technologists)", "issuer": "ARRT", "domain": "Healthcare", "level": "Foundational", "description": "", "keywords": []}
+{"slug": "comptia-security", "name": "CompTIA Security+", "issuer": "CompTIA", "domain": "CS/IT", "level": "Associate", "description": "", "keywords": []}
+{"slug": "comptia-network", "name": "CompTIA Network+", "issuer": "CompTIA", "domain": "CS/IT", "level": "Associate", "description": "", "keywords": []}
+{"slug": "comptia-a", "name": "CompTIA A+", "issuer": "CompTIA", "domain": "CS/IT", "level": "Associate", "description": "", "keywords": []}
+{"slug": "certified-associate-in-project-management-capm", "name": "Certified Associate in Project Management (CAPM)", "issuer": "Project Management Institute (PMI)", "domain": "Engineering / Business", "level": "Associate", "description": "", "keywords": []}
+{"slug": "cisco-certified-network-associate-ccna", "name": "Cisco Certified Network Associate (CCNA)", "issuer": "Cisco", "domain": "CS/IT", "level": "Associate", "description": "", "keywords": []}
+{"slug": "cisco-certified-network-professional-ccnp", "name": "Cisco Certified Network Professional (CCNP)", "issuer": "Cisco", "domain": "CS/IT", "level": "Professional", "description": "", "keywords": []}
+{"slug": "cic-certification-in-infection-control-cbic", "name": "CIC (Certification in Infection Control)", "issuer": "CBIC", "domain": "Healthcare", "level": "Professional", "description": "", "keywords": []}
+{"slug": "ccrn-critical-care-registered-nurse-aacn", "name": "CCRN (Critical Care Registered Nurse)", "issuer": "AACN", "domain": "Healthcare", "level": "Professional", "description": "", "keywords": []}
+{"slug": "crt-certified-respiratory-therapist-nbrc", "name": "CRT (Certified Respiratory Therapist)", "issuer": "NBRC", "domain": "Healthcare", "level": "Foundational", "description": "", "keywords": []}
+{"slug": "cpht-certified-pharmacy-technician-ptcb", "name": "CPhT (Certified Pharmacy Technician)", "issuer": "PTCB", "domain": "Healthcare", "level": "Associate", "description": "", "keywords": []}
+{"slug": "cph-certified-in-public-health-nbphe", "name": "CPH (Certified in Public Health)", "issuer": "NBPHE", "domain": "Healthcare", "level": "Professional", "description": "", "keywords": []}
+{"slug": "cfa-level-i-cfa-institute", "name": "CFA Level I", "issuer": "CFA Institute", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "cfa-level-ii-cfa-institute", "name": "CFA Level II", "issuer": "CFA Institute", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "cfa-level-iii-cfa-institute", "name": "CFA Level III", "issuer": "CFA Institute", "domain": "Finance", "level": "Expert", "description": "", "keywords": []}
+{"slug": "cpa-state-boards-nasba", "name": "CPA", "issuer": "State Boards / NASBA", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "cma-certified-management-accountant-ima", "name": "CMA (Certified Management Accountant)", "issuer": "IMA", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "cia-certified-internal-auditor-iia", "name": "CIA (Certified Internal Auditor)", "issuer": "IIA", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "cisa-certified-information-systems-auditor-isaca", "name": "CISA (Certified Information Systems Auditor)", "issuer": "ISACA", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "cfp-certified-financial-planner-cfp-board", "name": "CFP (Certified Financial Planner)", "issuer": "CFP Board", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "cams-certified-anti-money-laundering-specialist-acams", "name": "CAMS (Certified Anti-Money Laundering Specialist)", "issuer": "ACAMS", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "ea-enrolled-agent-irs", "name": "EA (Enrolled Agent)", "issuer": "IRS", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "fnp-c-family-nurse-practitioner-ancc", "name": "FNP-C (Family Nurse Practitioner)", "issuer": "ANCC", "domain": "Healthcare", "level": "Expert", "description": "", "keywords": []}
+{"slug": "frm-part-i-garp", "name": "FRM Part I", "issuer": "GARP", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "frm-part-ii-garp", "name": "FRM Part II", "issuer": "GARP", "domain": "Finance", "level": "Professional", "description": "", "keywords": []}
+{"slug": "google-cloud-digital-leader", "name": "Google Cloud Digital Leader", "issuer": "Google Cloud", "domain": "CS/IT", "level": "Foundational", "description": "", "keywords": []}
+{"slug": "google-cloud-professional-cloud-architect", "name": "Google Cloud Professional Cloud Architect", "issuer": "Google Cloud", "domain": "CS/IT", "level": "Professional", "description": "", "keywords": []}
+{"slug": "google-cloud-professional-data-engineer", "name": "Google Cloud Professional Data Engineer", "issuer": "Google Cloud", "domain": "CS/IT", "level": "Professional", "description": "", "keywords": []}
+{"slug": "microsoft-azure-fundamentals", "name": "Microsoft Azure Fundamentals", "issuer": "Microsoft", "domain": "CS/IT", "level": "Foundational", "description": "", "keywords": []}
+{"slug": "microsoft-azure-administrator-associate", "name": "Microsoft Azure Administrator Associate", "issuer": "Microsoft", "domain": "CS/IT", "level": "Associate", "description": "", "keywords": []}
+{"slug": "microsoft-azure-solutions-architect-expert", "name": "Microsoft Azure Solutions Architect Expert", "issuer": "Microsoft", "domain": "CS/IT", "level": "Expert", "description": "", "keywords": []}
+{"slug": "nclex-rn-ncsbn", "name": "NCLEX-RN", "issuer": "NCSBN", "domain": "Healthcare", "level": "Foundational", "description": "", "keywords": []}
+{"slug": "nremt-p-national-registry-paramedic-nremt", "name": "NREMT-P (National Registry Paramedic)", "issuer": "NREMT", "domain": "Healthcare", "level": "Professional", "description": "", "keywords": []}
+{"slug": "project-management-professional-pmp", "name": "Project Management Professional (PMP)", "issuer": "Project Management Institute (PMI)", "domain": "Engineering / Business", "level": "Professional", "description": "", "keywords": []}
+{"slug": "pharmd-doctor-of-pharmacy-nabp", "name": "PharmD (Doctor of Pharmacy)", "issuer": "NABP", "domain": "Healthcare", "level": "Expert", "description": "", "keywords": []}

@@ -1,0 +1,640 @@
+{
+  "version": "3.0.0",
+  "generated_at": "2025-09-11T18:32:31.742673",
+  "stats": {
+    "total_certifications": 1380,
+    "total_companies": 483,
+    "domains": 32,
+    "issuers": 82,
+    "data_quality_score": 95.8,
+    "coverage_completeness": 98.2
+  },
+  "shards": {
+    "software-development": {
+      "file": "certifications/software-development.json",
+      "count": 96,
+      "last_updated": "2025-09-11T18:32:31.742683",
+      "avg_rating": 3.99,
+      "avg_cost": 293.0,
+      "top_issuers": [
+        "Atlassian",
+        "Kubernetes",
+        "Adobe",
+        "JetBrains"
+      ]
+    },
+    "nursing": {
+      "file": "certifications/nursing.json",
+      "count": 36,
+      "last_updated": "2025-09-11T18:32:31.742723",
+      "avg_rating": 4.14,
+      "avg_cost": 394.0,
+      "top_issuers": [
+        "AACN",
+        "ANCC"
+      ]
+    },
+    "artificial-intelligence": {
+      "file": "certifications/artificial-intelligence.json",
+      "count": 60,
+      "last_updated": "2025-09-11T18:32:31.742739",
+      "avg_rating": 4.08,
+      "avg_cost": 441.0,
+      "top_issuers": [
+        "DataRobot",
+        "Google Cloud",
+        "IBM"
+      ]
+    },
+    "networking": {
+      "file": "certifications/networking.json",
+      "count": 60,
+      "last_updated": "2025-09-11T18:32:31.742757",
+      "avg_rating": 4.05,
+      "avg_cost": 409.0,
+      "top_issuers": [
+        "Cisco",
+        "Check Point",
+        "CompTIA"
+      ]
+    },
+    "accounting": {
+      "file": "certifications/accounting.json",
+      "count": 36,
+      "last_updated": "2025-09-11T18:32:31.742773",
+      "avg_rating": 3.97,
+      "avg_cost": 662.0,
+      "top_issuers": [
+        "AICPA",
+        "IMA",
+        "COSO"
+      ]
+    },
+    "project-management": {
+      "file": "certifications/project-management.json",
+      "count": 96,
+      "last_updated": "2025-09-11T18:32:31.742786",
+      "avg_rating": 4.03,
+      "avg_cost": 252.0,
+      "top_issuers": [
+        "Scrum.org",
+        "Atlassian",
+        "PRINCE2",
+        "Scrum Alliance",
+        "PMI"
+      ]
+    },
+    "database-management": {
+      "file": "certifications/database-management.json",
+      "count": 48,
+      "last_updated": "2025-09-11T18:32:31.742808",
+      "avg_rating": 4.02,
+      "avg_cost": 419.0,
+      "top_issuers": [
+        "Snowflake",
+        "MongoDB",
+        "Oracle"
+      ]
+    },
+    "quality-assurance": {
+      "file": "certifications/quality-assurance.json",
+      "count": 24,
+      "last_updated": "2025-09-11T18:32:31.742820",
+      "avg_rating": 3.93,
+      "avg_cost": 495.0,
+      "top_issuers": [
+        "ASQ",
+        "Six Sigma Institute"
+      ]
+    },
+    "skilled-trades": {
+      "file": "certifications/skilled-trades.json",
+      "count": 24,
+      "last_updated": "2025-09-11T18:32:31.742828",
+      "avg_rating": 4.08,
+      "avg_cost": 237.0,
+      "top_issuers": [
+        "AWS Welding Society",
+        "NATE",
+        "HVAC Excellence"
+      ]
+    },
+    "digital-marketing": {
+      "file": "certifications/digital-marketing.json",
+      "count": 60,
+      "last_updated": "2025-09-11T18:32:31.742838",
+      "avg_rating": 3.91,
+      "avg_cost": 157.0,
+      "top_issuers": [
+        "Pardot",
+        "Google Ads",
+        "Facebook Blueprint",
+        "Adobe"
+      ]
+    },
+    "cloud-computing": {
+      "file": "certifications/cloud-computing.json",
+      "count": 84,
+      "last_updated": "2025-09-11T18:32:31.742854",
+      "avg_rating": 4.09,
+      "avg_cost": 254.0,
+      "top_issuers": [
+        "IBM",
+        "Google Cloud"
+      ]
+    },
+    "automotive": {
+      "file": "certifications/automotive.json",
+      "count": 12,
+      "last_updated": "2025-09-11T18:32:31.742883",
+      "avg_rating": 4.25,
+      "avg_cost": 237.0,
+      "top_issuers": [
+        "I-CAR"
+      ]
+    },
+    "cs-it": {
+      "file": "certifications/cs-it.json",
+      "count": 144,
+      "last_updated": "2025-09-11T18:32:31.742890",
+      "avg_rating": 4.11,
+      "avg_cost": 281.0,
+      "top_issuers": [
+        "Docker",
+        "Microsoft",
+        "Salesforce",
+        "VMware"
+      ]
+    },
+    "environmental": {
+      "file": "certifications/environmental.json",
+      "count": 6,
+      "last_updated": "2025-09-11T18:32:31.742934",
+      "avg_rating": 3.98,
+      "avg_cost": 322.0,
+      "top_issuers": [
+        "Green Business Certification"
+      ]
+    },
+    "data-science": {
+      "file": "certifications/data-science.json",
+      "count": 72,
+      "last_updated": "2025-09-11T18:32:31.742942",
+      "avg_rating": 4.06,
+      "avg_cost": 329.0,
+      "top_issuers": [
+        "Google Cloud",
+        "Elastic",
+        "Microsoft",
+        "Amazon Web Services (AWS)"
+      ]
+    },
+    "medical-technology": {
+      "file": "certifications/medical-technology.json",
+      "count": 12,
+      "last_updated": "2025-09-11T18:32:31.742964",
+      "avg_rating": 3.98,
+      "avg_cost": 385.0,
+      "top_issuers": [
+        "ARRT",
+        "ARDMS"
+      ]
+    },
+    "cybersecurity": {
+      "file": "certifications/cybersecurity.json",
+      "count": 96,
+      "last_updated": "2025-09-11T18:32:31.742971",
+      "avg_rating": 4.1,
+      "avg_cost": 552.0,
+      "top_issuers": [
+        "Check Point",
+        "Cisco",
+        "CrowdStrike",
+        "EC-Council"
+      ]
+    },
+    "pharmacy": {
+      "file": "certifications/pharmacy.json",
+      "count": 24,
+      "last_updated": "2025-09-11T18:32:31.743005",
+      "avg_rating": 4.07,
+      "avg_cost": 305.0,
+      "top_issuers": [
+        "PTCB",
+        "NABP"
+      ]
+    },
+    "electrical-engineering": {
+      "file": "certifications/electrical-engineering.json",
+      "count": 12,
+      "last_updated": "2025-09-11T18:32:31.743013",
+      "avg_rating": 3.9,
+      "avg_cost": 309.0,
+      "top_issuers": [
+        "IEEE",
+        "NECA"
+      ]
+    },
+    "education": {
+      "file": "certifications/education.json",
+      "count": 12,
+      "last_updated": "2025-09-11T18:32:31.743019",
+      "avg_rating": 4.24,
+      "avg_cost": 267.0,
+      "top_issuers": [
+        "ATD"
+      ]
+    },
+    "healthcare": {
+      "file": "certifications/healthcare.json",
+      "count": 48,
+      "last_updated": "2025-09-11T18:32:31.743025",
+      "avg_rating": 4.04,
+      "avg_cost": 262.0,
+      "top_issuers": [
+        "NREMT",
+        "AAPC",
+        "AHIMA"
+      ]
+    },
+    "construction": {
+      "file": "certifications/construction.json",
+      "count": 24,
+      "last_updated": "2025-09-11T18:32:31.743039",
+      "avg_rating": 4.24,
+      "avg_cost": 135.0,
+      "top_issuers": [
+        "NCCER",
+        "OSHA"
+      ]
+    },
+    "legal": {
+      "file": "certifications/legal.json",
+      "count": 6,
+      "last_updated": "2025-09-11T18:32:31.743047",
+      "avg_rating": 3.93,
+      "avg_cost": 516.0,
+      "top_issuers": [
+        "ACAMS",
+        "IAPP"
+      ]
+    },
+    "human-resources": {
+      "file": "certifications/human-resources.json",
+      "count": 36,
+      "last_updated": "2025-09-11T18:32:31.743052",
+      "avg_rating": 4.14,
+      "avg_cost": 390.0,
+      "top_issuers": [
+        "SHRM",
+        "ATD",
+        "HRCI"
+      ]
+    },
+    "finance": {
+      "file": "certifications/finance.json",
+      "count": 48,
+      "last_updated": "2025-09-11T18:32:31.743062",
+      "avg_rating": 4.04,
+      "avg_cost": 670.0,
+      "top_issuers": [
+        "ACAMS",
+        "FINRA",
+        "IMA"
+      ]
+    },
+    "risk-management": {
+      "file": "certifications/risk-management.json",
+      "count": 24,
+      "last_updated": "2025-09-11T18:32:31.743077",
+      "avg_rating": 4.11,
+      "avg_cost": 723.0,
+      "top_issuers": [
+        "FRM",
+        "COSO"
+      ]
+    },
+    "manufacturing": {
+      "file": "certifications/manufacturing.json",
+      "count": 36,
+      "last_updated": "2025-09-11T18:32:31.743085",
+      "avg_rating": 4.16,
+      "avg_cost": 352.0,
+      "top_issuers": [
+        "ASQ",
+        "APICS",
+        "Six Sigma Institute"
+      ]
+    },
+    "sales": {
+      "file": "certifications/sales.json",
+      "count": 24,
+      "last_updated": "2025-09-11T18:32:31.743094",
+      "avg_rating": 4.12,
+      "avg_cost": 116.0,
+      "top_issuers": [
+        "Salesforce",
+        "HubSpot"
+      ]
+    },
+    "business-analysis": {
+      "file": "certifications/business-analysis.json",
+      "count": 48,
+      "last_updated": "2025-09-11T18:32:31.743101",
+      "avg_rating": 4.09,
+      "avg_cost": 363.0,
+      "top_issuers": [
+        "IIBA"
+      ]
+    },
+    "supply-chain": {
+      "file": "certifications/supply-chain.json",
+      "count": 36,
+      "last_updated": "2025-09-11T18:32:31.743116",
+      "avg_rating": 4.05,
+      "avg_cost": 645.0,
+      "top_issuers": [
+        "APICS"
+      ]
+    },
+    "mechanical-engineering": {
+      "file": "certifications/mechanical-engineering.json",
+      "count": 24,
+      "last_updated": "2025-09-11T18:32:31.743125",
+      "avg_rating": 4.0,
+      "avg_cost": 524.0,
+      "top_issuers": [
+        "ASME"
+      ]
+    },
+    "insurance": {
+      "file": "certifications/insurance.json",
+      "count": 12,
+      "last_updated": "2025-09-11T18:32:31.743136",
+      "avg_rating": 4.24,
+      "avg_cost": 578.0,
+      "top_issuers": [
+        "The Institutes",
+        "CPCU Society"
+      ]
+    }
+  },
+  "domains_meta": {
+    "cs-it": {
+      "label": "Computer Science / IT",
+      "emoji": "💻",
+      "certification_count": 144,
+      "company_count": 57,
+      "avg_salary": 105580.0,
+      "job_market_strength": "Strong"
+    },
+    "cybersecurity": {
+      "label": "Cybersecurity",
+      "emoji": "🔐",
+      "certification_count": 96,
+      "company_count": 26,
+      "avg_salary": 120108.0,
+      "job_market_strength": "Growing"
+    },
+    "cloud-computing": {
+      "label": "Cloud Computing",
+      "emoji": "☁️",
+      "certification_count": 84,
+      "company_count": 29,
+      "avg_salary": 129880.0,
+      "job_market_strength": "Emerging"
+    },
+    "data-science": {
+      "label": "Data Science / Analytics",
+      "emoji": "📊",
+      "certification_count": 72,
+      "company_count": 22,
+      "avg_salary": 142065.0,
+      "job_market_strength": "Strong"
+    },
+    "artificial-intelligence": {
+      "label": "AI / Machine Learning",
+      "emoji": "🤖",
+      "certification_count": 60,
+      "company_count": 30,
+      "avg_salary": 162124.0,
+      "job_market_strength": "Moderate"
+    },
+    "software-development": {
+      "label": "Software Development",
+      "emoji": "👨‍💻",
+      "certification_count": 96,
+      "company_count": 35,
+      "avg_salary": 114056.0,
+      "job_market_strength": "Emerging"
+    },
+    "networking": {
+      "label": "Networking",
+      "emoji": "🌐",
+      "certification_count": 60,
+      "company_count": 24,
+      "avg_salary": 94316.0,
+      "job_market_strength": "Moderate"
+    },
+    "database-management": {
+      "label": "Database Management",
+      "emoji": "🗄️",
+      "certification_count": 48,
+      "company_count": 19,
+      "avg_salary": 101045.0,
+      "job_market_strength": "Emerging"
+    },
+    "project-management": {
+      "label": "Project Management",
+      "emoji": "📋",
+      "certification_count": 96,
+      "company_count": 27,
+      "avg_salary": 100936.0,
+      "job_market_strength": "Moderate"
+    },
+    "business-analysis": {
+      "label": "Business Analysis",
+      "emoji": "📈",
+      "certification_count": 48,
+      "company_count": 25,
+      "avg_salary": 90269.0,
+      "job_market_strength": "Growing"
+    },
+    "digital-marketing": {
+      "label": "Digital Marketing",
+      "emoji": "📱",
+      "certification_count": 60,
+      "company_count": 18,
+      "avg_salary": 74660.0,
+      "job_market_strength": "Growing"
+    },
+    "supply-chain": {
+      "label": "Supply Chain Management",
+      "emoji": "🚚",
+      "certification_count": 36,
+      "company_count": 17,
+      "avg_salary": 83717.0,
+      "job_market_strength": "Growing"
+    },
+    "human-resources": {
+      "label": "Human Resources",
+      "emoji": "👥",
+      "certification_count": 36,
+      "company_count": 13,
+      "avg_salary": 80806.0,
+      "job_market_strength": "Strong"
+    },
+    "sales": {
+      "label": "Sales",
+      "emoji": "💼",
+      "certification_count": 24,
+      "company_count": 3,
+      "avg_salary": 86561.0,
+      "job_market_strength": "Growing"
+    },
+    "finance": {
+      "label": "Finance",
+      "emoji": "💰",
+      "certification_count": 48,
+      "company_count": 20,
+      "avg_salary": 119718.0,
+      "job_market_strength": "Growing"
+    },
+    "accounting": {
+      "label": "Accounting",
+      "emoji": "🧮",
+      "certification_count": 36,
+      "company_count": 14,
+      "avg_salary": 84495.0,
+      "job_market_strength": "Emerging"
+    },
+    "risk-management": {
+      "label": "Risk Management",
+      "emoji": "⚠️",
+      "certification_count": 24,
+      "company_count": 11,
+      "avg_salary": 112811.0,
+      "job_market_strength": "Strong"
+    },
+    "insurance": {
+      "label": "Insurance",
+      "emoji": "🛡️",
+      "certification_count": 12,
+      "company_count": 1,
+      "avg_salary": 86972.0,
+      "job_market_strength": "Strong"
+    },
+    "healthcare": {
+      "label": "Healthcare",
+      "emoji": "🏥",
+      "certification_count": 48,
+      "company_count": 16,
+      "avg_salary": 80519.0,
+      "job_market_strength": "Emerging"
+    },
+    "nursing": {
+      "label": "Nursing",
+      "emoji": "👩‍⚕️",
+      "certification_count": 36,
+      "company_count": 9,
+      "avg_salary": 85886.0,
+      "job_market_strength": "Moderate"
+    },
+    "pharmacy": {
+      "label": "Pharmacy",
+      "emoji": "💊",
+      "certification_count": 24,
+      "company_count": 7,
+      "avg_salary": 107736.0,
+      "job_market_strength": "Moderate"
+    },
+    "medical-technology": {
+      "label": "Medical Technology",
+      "emoji": "🔬",
+      "certification_count": 12,
+      "company_count": 2,
+      "avg_salary": 78810.0,
+      "job_market_strength": "Growing"
+    },
+    "manufacturing": {
+      "label": "Manufacturing",
+      "emoji": "🏭",
+      "certification_count": 36,
+      "company_count": 10,
+      "avg_salary": 79782.0,
+      "job_market_strength": "Moderate"
+    },
+    "quality-assurance": {
+      "label": "Quality Assurance",
+      "emoji": "✅",
+      "certification_count": 24,
+      "company_count": 3,
+      "avg_salary": 85437.0,
+      "job_market_strength": "Growing"
+    },
+    "mechanical-engineering": {
+      "label": "Mechanical Engineering",
+      "emoji": "⚙️",
+      "certification_count": 24,
+      "company_count": 5,
+      "avg_salary": 97681.0,
+      "job_market_strength": "Emerging"
+    },
+    "electrical-engineering": {
+      "label": "Electrical Engineering",
+      "emoji": "⚡",
+      "certification_count": 12,
+      "company_count": 4,
+      "avg_salary": 102505.0,
+      "job_market_strength": "Moderate"
+    },
+    "skilled-trades": {
+      "label": "Skilled Trades",
+      "emoji": "🔧",
+      "certification_count": 24,
+      "company_count": 10,
+      "avg_salary": 66289.0,
+      "job_market_strength": "Emerging"
+    },
+    "construction": {
+      "label": "Construction",
+      "emoji": "🏗️",
+      "certification_count": 24,
+      "company_count": 11,
+      "avg_salary": 70488.0,
+      "job_market_strength": "Growing"
+    },
+    "automotive": {
+      "label": "Automotive",
+      "emoji": "🚗",
+      "certification_count": 12,
+      "company_count": 4,
+      "avg_salary": 60010.0,
+      "job_market_strength": "Strong"
+    },
+    "education": {
+      "label": "Education & Training",
+      "emoji": "🎓",
+      "certification_count": 12,
+      "company_count": 6,
+      "avg_salary": 55152.0,
+      "job_market_strength": "Strong"
+    },
+    "legal": {
+      "label": "Legal & Compliance",
+      "emoji": "⚖️",
+      "certification_count": 6,
+      "company_count": 3,
+      "avg_salary": 118794.0,
+      "job_market_strength": "Growing"
+    },
+    "environmental": {
+      "label": "Environmental & Sustainability",
+      "emoji": "🌱",
+      "certification_count": 6,
+      "company_count": 2,
+      "avg_salary": 76193.0,
+      "job_market_strength": "Emerging"
+    }
+  }
+}

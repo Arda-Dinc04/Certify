@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certify - Massive Dataset Test</title>
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; margin: 2rem; line-height: 1.6; }
+        .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; margin-bottom: 2rem; }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0; }
+        .stat-card { background: white; padding: 1.5rem; border-radius: 8px; border: 1px solid #e5e7eb; text-align: center; }
+        .stat-number { font-size: 2rem; font-weight: bold; color: #3b82f6; }
+        .stat-label { color: #6b7280; font-size: 0.875rem; }
+        .domain-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0; }
+        .domain-card { background: white; padding: 1rem; border-radius: 8px; border: 1px solid #e5e7eb; }
+        .domain-header { display: flex; align-items: center; gap: 0.5rem; font-weight: 600; margin-bottom: 0.5rem; }
+        .domain-emoji { font-size: 1.5rem; }
+        .cert-list { max-height: 200px; overflow-y: auto; }
+        .cert-item { padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; }
+        .cert-name { font-weight: 500; color: #1f2937; }
+        .cert-issuer { color: #6b7280; font-size: 0.875rem; }
+        .cert-rating { color: #f59e0b; font-size: 0.875rem; }
+        .loading { text-align: center; padding: 2rem; color: #6b7280; }
+        .error { color: #ef4444; text-align: center; padding: 2rem; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🎯 Certify - Massive Dataset Demo</h1>
+        <p>Testing the new 1,380+ certification dataset across 32 professional domains</p>
+    </div>
+
+    <div class="stats">
+        <div class="stat-card">
+            <div class="stat-number" id="total-certs">Loading...</div>
+            <div class="stat-label">Total Certifications</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="total-domains">Loading...</div>
+            <div class="stat-label">Professional Domains</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="total-issuers">Loading...</div>
+            <div class="stat-label">Certification Issuers</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="avg-rating">Loading...</div>
+            <div class="stat-label">Average Rating</div>
+        </div>
+    </div>
+
+    <h2>📊 Domains & Certifications</h2>
+    <div id="domains-container" class="loading">Loading domain data...</div>
+
+    <script>
+        async function loadData() {
+            try {
+                // Load manifest data
+                const manifestResponse = await fetch('/data/manifest.json');
+                const manifest = await manifestResponse.json();
+                
+                // Update stats
+                document.getElementById('total-certs').textContent = manifest.stats.total_certifications.toLocaleString();
+                document.getElementById('total-domains').textContent = manifest.stats.domains;
+                document.getElementById('total-issuers').textContent = manifest.stats.issuers;
+                document.getElementById('avg-rating').textContent = '4.1';
+
+                // Load domain data
+                const domainsContainer = document.getElementById('domains-container');
+                domainsContainer.innerHTML = '';
+                domainsContainer.className = 'domain-grid';
+
+                // Sort domains by certification count
+                const sortedDomains = Object.entries(manifest.domains_meta)
+                    .sort(([,a], [,b]) => b.certification_count - a.certification_count);
+
+                for (const [domainSlug, domainInfo] of sortedDomains) {
+                    const domainCard = document.createElement('div');
+                    domainCard.className = 'domain-card';
+                    
+                    // Load sample certifications for this domain
+                    let sampleCerts = '';
+                    try {
+                        const certsResponse = await fetch(`/data/certifications/${domainSlug}.json`);
+                        const certs = await certsResponse.json();
+                        const topCerts = certs.slice(0, 5);
+                        
+                        sampleCerts = topCerts.map(cert => `
+                            <div class="cert-item">
+                                <div class="cert-name">${cert.name}</div>
+                                <div class="cert-issuer">by ${cert.issuer}</div>
+                                <div class="cert-rating">⭐ ${cert.rating} • $${cert.cost}</div>
+                            </div>
+                        `).join('');
+                    } catch (e) {
+                        sampleCerts = '<div class="cert-item">Error loading certifications</div>';
+                    }
+
+                    domainCard.innerHTML = `
+                        <div class="domain-header">
+                            <span class="domain-emoji">${domainInfo.emoji}</span>
+                            <span>${domainInfo.label}</span>
+                            <span style="margin-left: auto; font-size: 0.875rem; color: #6b7280;">
+                                ${domainInfo.certification_count} certs
+                            </span>
+                        </div>
+                        <div style="font-size: 0.875rem; color: #6b7280; margin-bottom: 1rem;">
+                            Avg Salary: $${domainInfo.avg_salary.toLocaleString()} • 
+                            Market: ${domainInfo.job_market_strength}
+                        </div>
+                        <div class="cert-list">
+                            ${sampleCerts}
+                        </div>
+                    `;
+                    
+                    domainsContainer.appendChild(domainCard);
+                }
+                
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('domains-container').innerHTML = 
+                    '<div class="error">Error loading data. Please check the console.</div>';
+            }
+        }
+
+        // Load data when page loads
+        loadData();
+    </script>
+</body>
+</html>

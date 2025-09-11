@@ -1,0 +1,198 @@
+name: CI Status Notifications
+
+on:
+  workflow_run:
+    workflows: ["Domain Validation", "Data Pipeline CI", "Frontend Build"]
+    types: [completed]
+  pull_request:
+    types: [opened, synchronize, closed]
+  push:
+    branches: [main, develop]
+
+env:
+  SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+  DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set notification context
+        id: context
+        run: |
+          # Determine notification type and context
+          if [[ "${{ github.event_name }}" == "workflow_run" ]]; then
+            echo "type=workflow" >> $GITHUB_OUTPUT
+            echo "workflow_name=${{ github.event.workflow_run.name }}" >> $GITHUB_OUTPUT
+            echo "status=${{ github.event.workflow_run.conclusion }}" >> $GITHUB_OUTPUT
+            echo "run_id=${{ github.event.workflow_run.id }}" >> $GITHUB_OUTPUT
+          elif [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            echo "type=pr" >> $GITHUB_OUTPUT
+            echo "action=${{ github.event.action }}" >> $GITHUB_OUTPUT
+            echo "pr_number=${{ github.event.pull_request.number }}" >> $GITHUB_OUTPUT
+            echo "pr_title=${{ github.event.pull_request.title }}" >> $GITHUB_OUTPUT
+          else
+            echo "type=push" >> $GITHUB_OUTPUT
+            echo "branch=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
+          fi
+          
+          # Set colors based on status
+          case "${{ github.event.workflow_run.conclusion }}" in
+            "success") echo "color=good" >> $GITHUB_OUTPUT ;;
+            "failure") echo "color=danger" >> $GITHUB_OUTPUT ;;
+            "cancelled") echo "color=warning" >> $GITHUB_OUTPUT ;;
+            *) echo "color=#439FE0" >> $GITHUB_OUTPUT ;;
+          esac
+
+      - name: Send Slack notification
+        if: env.SLACK_WEBHOOK_URL != ''
+        uses: 8398a7/action-slack@v3
+        with:
+          status: custom
+          webhook_url: ${{ env.SLACK_WEBHOOK_URL }}
+          custom_payload: |
+            {
+              "channel": "#certify-ci",
+              "username": "CertRank CI",
+              "icon_emoji": ":gear:",
+              "attachments": [{
+                "color": "${{ steps.context.outputs.color }}",
+                "title": "${{ steps.context.outputs.type == 'workflow' && format('Workflow {0} {1}', steps.context.outputs.workflow_name, steps.context.outputs.status) || steps.context.outputs.type == 'pr' && format('PR #{0}: {1}', steps.context.outputs.pr_number, steps.context.outputs.pr_title) || format('Push to {0}', steps.context.outputs.branch) }}",
+                "title_link": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}",
+                "fields": [
+                  {
+                    "title": "Repository",
+                    "value": "${{ github.repository }}",
+                    "short": true
+                  },
+                  {
+                    "title": "Triggered by",
+                    "value": "${{ github.actor }}",
+                    "short": true
+                  },
+                  {
+                    "title": "Commit",
+                    "value": "<${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}|${{ github.sha }}>".substring(0, 7),
+                    "short": true
+                  },
+                  {
+                    "title": "Event",
+                    "value": "${{ github.event_name }}",
+                    "short": true
+                  }
+                ],
+                "footer": "CertRank CI System",
+                "ts": ${{ github.event.head_commit.timestamp && github.event.head_commit.timestamp || github.event.workflow_run.updated_at }}
+              }]
+            }
+
+      - name: Send Discord notification  
+        if: env.DISCORD_WEBHOOK_URL != ''
+        run: |
+          # Create Discord webhook payload
+          TITLE="${{ steps.context.outputs.type == 'workflow' && format('🔧 Workflow {0} {1}', steps.context.outputs.workflow_name, steps.context.outputs.status) || steps.context.outputs.type == 'pr' && format('🔀 PR #{0}: {1}', steps.context.outputs.pr_number, steps.context.outputs.pr_title) || format('📦 Push to {0}', steps.context.outputs.branch) }}"
+          
+          # Set embed color based on status
+          case "${{ steps.context.outputs.status }}" in
+            "success") COLOR=65280 ;;
+            "failure") COLOR=16711680 ;;
+            "cancelled") COLOR=16776960 ;;
+            *) COLOR=4423936 ;;
+          esac
+          
+          # Send notification
+          curl -X POST "${{ env.DISCORD_WEBHOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"embeds\": [{
+                \"title\": \"$TITLE\",
+                \"url\": \"${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\",
+                \"color\": $COLOR,
+                \"fields\": [
+                  {\"name\": \"Repository\", \"value\": \"${{ github.repository }}\", \"inline\": true},
+                  {\"name\": \"Triggered by\", \"value\": \"${{ github.actor }}\", \"inline\": true},
+                  {\"name\": \"Commit\", \"value\": \"[\`${GITHUB_SHA:0:7}\`](${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }})\", \"inline\": true},
+                  {\"name\": \"Event\", \"value\": \"${{ github.event_name }}\", \"inline\": true}
+                ],
+                \"footer\": {\"text\": \"CertRank CI System\"},
+                \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
+              }]
+            }"
+
+      - name: Send email notification on critical failures
+        if: steps.context.outputs.status == 'failure' && (steps.context.outputs.workflow_name == 'Domain Validation' || steps.context.outputs.workflow_name == 'Data Pipeline CI')
+        run: |
+          # Send critical failure email (requires SENDGRID_API_KEY secret)
+          if [[ -n "${{ secrets.SENDGRID_API_KEY }}" ]]; then
+            curl -X POST "https://api.sendgrid.com/v3/mail/send" \
+              -H "Authorization: Bearer ${{ secrets.SENDGRID_API_KEY }}" \
+              -H "Content-Type: application/json" \
+              -d '{
+                "personalizations": [
+                  {
+                    "to": [
+                      {"email": "dev-team@certrank.com"}
+                    ],
+                    "subject": "🚨 Critical CI Failure: ${{ steps.context.outputs.workflow_name }}"
+                  }
+                ],
+                "from": {"email": "ci@certrank.com", "name": "CertRank CI"},
+                "content": [
+                  {
+                    "type": "text/html",
+                    "value": "<h2>Critical CI Failure</h2><p><strong>Workflow:</strong> ${{ steps.context.outputs.workflow_name }}</p><p><strong>Repository:</strong> ${{ github.repository }}</p><p><strong>Triggered by:</strong> ${{ github.actor }}</p><p><strong>Run:</strong> <a href=\"${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\">View Details</a></p><p>Please investigate and resolve this issue promptly as it affects critical system functionality.</p>"
+                  }
+                ]
+              }'
+          fi
+
+      - name: Create GitHub issue on repeated failures
+        if: steps.context.outputs.status == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // Check for repeated failures in the last 24 hours
+            const { data: runs } = await github.rest.actions.listWorkflowRuns({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: '${{ steps.context.outputs.workflow_name }}'.toLowerCase().replace(/\s+/g, '-') + '.yml',
+              status: 'failure',
+              per_page: 5
+            });
+            
+            const oneDayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
+            const recentFailures = runs.workflow_runs.filter(run => 
+              new Date(run.created_at) > oneDayAgo
+            );
+            
+            if (recentFailures.length >= 3) {
+              // Create issue for repeated failures
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `🚨 Repeated CI Failures: ${{ steps.context.outputs.workflow_name }}`,
+                body: `## Repeated CI Failures Detected
+                
+                The workflow **${{ steps.context.outputs.workflow_name }}** has failed ${recentFailures.length} times in the last 24 hours.
+                
+                ### Recent Failures:
+                ${recentFailures.map(run => `- [Run #${run.run_number}](${run.html_url}) - ${new Date(run.created_at).toISOString()}`).join('\n')}
+                
+                ### Investigation Required
+                - [ ] Check workflow logs for patterns
+                - [ ] Verify infrastructure dependencies
+                - [ ] Review recent code changes
+                - [ ] Update monitoring and alerting if needed
+                
+                **Priority:** High  
+                **Auto-created by:** CI Notification System
+                `,
+                labels: ['ci', 'bug', 'high-priority'],
+                assignees: ['${{ github.actor }}']
+              });
+            }

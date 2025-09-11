@@ -1,0 +1,70 @@
+{
+  "shards": [
+    {
+      "file": "/data/certifications/a.json",
+      "letters": "a",
+      "count": 9,
+      "size_bytes": 7246
+    },
+    {
+      "file": "/data/certifications/c.json",
+      "letters": "c",
+      "count": 20,
+      "size_bytes": 15974
+    },
+    {
+      "file": "/data/certifications/e.json",
+      "letters": "e",
+      "count": 2,
+      "size_bytes": 1488
+    },
+    {
+      "file": "/data/certifications/f.json",
+      "letters": "f",
+      "count": 3,
+      "size_bytes": 2371
+    },
+    {
+      "file": "/data/certifications/g.json",
+      "letters": "g",
+      "count": 3,
+      "size_bytes": 2404
+    },
+    {
+      "file": "/data/certifications/h.json",
+      "letters": "h",
+      "count": 1,
+      "size_bytes": 785
+    },
+    {
+      "file": "/data/certifications/j.json",
+      "letters": "j",
+      "count": 1,
+      "size_bytes": 774
+    },
+    {
+      "file": "/data/certifications/m.json",
+      "letters": "m",
+      "count": 4,
+      "size_bytes": 3214
+    },
+    {
+      "file": "/data/certifications/n.json",
+      "letters": "n",
+      "count": 5,
+      "size_bytes": 3960
+    },
+    {
+      "file": "/data/certifications/o.json",
+      "letters": "o",
+      "count": 2,
+      "size_bytes": 1484
+    },
+    {
+      "file": "/data/certifications/p.json",
+      "letters": "p",
+      "count": 2,
+      "size_bytes": 1685
+    }
+  ]
+}

@@ -1,0 +1,4157 @@
+[
+  {
+    "id": 690,
+    "slug": "agile-scrum-master-certification-1",
+    "name": "Agile Scrum Master Certification",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 447,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 652,
+    "job_postings": 2687,
+    "salary": {
+      "min": 78314,
+      "max": 167816,
+      "avg": 111877
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Kanban",
+      "Budget Management",
+      "Communication",
+      "Agile",
+      "PMP",
+      "Team Leadership",
+      "Risk Management",
+      "Quality Management"
+    ],
+    "description": "Professional certification in agile scrum master certification offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 7,
+    "created_at": "2025-09-11T18:32:31.483515",
+    "updated_at": "2025-09-11T18:32:31.483516"
+  },
+  {
+    "id": 674,
+    "slug": "kanban-development-professional",
+    "name": "Kanban Development Professional",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 158,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 723,
+    "job_postings": 772,
+    "salary": {
+      "min": 67039,
+      "max": 143657,
+      "avg": 95771
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Communication",
+      "Scrum",
+      "Kanban",
+      "Stakeholder Management",
+      "PMP",
+      "Quality Management",
+      "Risk Management",
+      "Agile",
+      "Budget Management"
+    ],
+    "description": "Professional certification in kanban development professional offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 11,
+    "created_at": "2025-09-11T18:32:31.482876",
+    "updated_at": "2025-09-11T18:32:31.482878"
+  },
+  {
+    "id": 742,
+    "slug": "agile-product-owner-certification-4",
+    "name": "Agile Product Owner Certification",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 305,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 782,
+    "job_postings": 529,
+    "salary": {
+      "min": 73961,
+      "max": 158488,
+      "avg": 105659
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Agile",
+      "Communication",
+      "Scrum",
+      "Team Leadership",
+      "Stakeholder Management",
+      "Budget Management",
+      "Risk Management"
+    ],
+    "description": "Professional certification in agile product owner certification offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 18,
+    "created_at": "2025-09-11T18:32:31.485604",
+    "updated_at": "2025-09-11T18:32:31.485605"
+  },
+  {
+    "id": 721,
+    "slug": "agile-project-manager-certification-1",
+    "name": "Agile Project Manager Certification",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 129,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 796,
+    "job_postings": 26,
+    "salary": {
+      "min": 66681,
+      "max": 142889,
+      "avg": 95259
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Agile",
+      "PMP",
+      "Risk Management",
+      "Stakeholder Management",
+      "Communication",
+      "Scrum",
+      "Kanban"
+    ],
+    "description": "Professional certification in agile project manager certification offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 31,
+    "created_at": "2025-09-11T18:32:31.484762",
+    "updated_at": "2025-09-11T18:32:31.484764"
+  },
+  {
+    "id": 731,
+    "slug": "prince2-project-development-certificate",
+    "name": "PRINCE2 Project Development Certificate",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 346,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 718,
+    "job_postings": 714,
+    "salary": {
+      "min": 68139,
+      "max": 146013,
+      "avg": 97342
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Communication",
+      "Scrum",
+      "Quality Management",
+      "Risk Management",
+      "Team Leadership",
+      "PMP",
+      "Agile",
+      "Budget Management",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in prince2 project development certificate offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 40,
+    "created_at": "2025-09-11T18:32:31.485163",
+    "updated_at": "2025-09-11T18:32:31.485164"
+  },
+  {
+    "id": 724,
+    "slug": "atlassian-project-development-certificate",
+    "name": "Atlassian Project Development Certificate",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 118,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 752,
+    "job_postings": 83,
+    "salary": {
+      "min": 77138,
+      "max": 165296,
+      "avg": 110197
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Budget Management",
+      "Communication",
+      "Quality Management",
+      "Scrum",
+      "PMP",
+      "Team Leadership",
+      "Agile",
+      "Risk Management"
+    ],
+    "description": "Professional certification in atlassian project development certificate offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 42,
+    "created_at": "2025-09-11T18:32:31.484880",
+    "updated_at": "2025-09-11T18:32:31.484881"
+  },
+  {
+    "id": 749,
+    "slug": "scrumorg-project-administration-certificate-4",
+    "name": "Scrum.org Project Administration Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 242,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 733,
+    "job_postings": 540,
+    "salary": {
+      "min": 75330,
+      "max": 161422,
+      "avg": 107615
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Agile",
+      "Kanban",
+      "Communication",
+      "Quality Management",
+      "Stakeholder Management",
+      "Scrum",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in scrum.org project administration certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 45,
+    "created_at": "2025-09-11T18:32:31.485885",
+    "updated_at": "2025-09-11T18:32:31.485886"
+  },
+  {
+    "id": 734,
+    "slug": "kanban-architecture-advanced",
+    "name": "Kanban Architecture Advanced",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 229,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 630,
+    "job_postings": 791,
+    "salary": {
+      "min": 68993,
+      "max": 147842,
+      "avg": 98561
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Quality Management",
+      "Risk Management",
+      "Scrum",
+      "Communication",
+      "Kanban",
+      "Team Leadership",
+      "Budget Management",
+      "Agile",
+      "PMP"
+    ],
+    "description": "Professional certification in kanban architecture advanced offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 51,
+    "created_at": "2025-09-11T18:32:31.485285",
+    "updated_at": "2025-09-11T18:32:31.485287"
+  },
+  {
+    "id": 719,
+    "slug": "certified-program-management-practitioner-3",
+    "name": "Certified Program Management Practitioner",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 107,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 768,
+    "job_postings": 31,
+    "salary": {
+      "min": 70638,
+      "max": 151368,
+      "avg": 100912
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Kanban",
+      "Communication",
+      "Risk Management",
+      "Team Leadership",
+      "Agile",
+      "PMP",
+      "Quality Management",
+      "Budget Management"
+    ],
+    "description": "Professional certification in certified program management practitioner offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 58,
+    "created_at": "2025-09-11T18:32:31.484683",
+    "updated_at": "2025-09-11T18:32:31.484684"
+  },
+  {
+    "id": 682,
+    "slug": "certified-agile-management-specialist",
+    "name": "Certified Agile Management Specialist",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 177,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 778,
+    "job_postings": 36,
+    "salary": {
+      "min": 61559,
+      "max": 131912,
+      "avg": 87941
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Agile",
+      "Kanban",
+      "Scrum",
+      "Stakeholder Management",
+      "Communication",
+      "Risk Management",
+      "Budget Management",
+      "Team Leadership",
+      "PMP",
+      "Quality Management"
+    ],
+    "description": "Professional certification in certified agile management specialist offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 76,
+    "created_at": "2025-09-11T18:32:31.483197",
+    "updated_at": "2025-09-11T18:32:31.483198"
+  },
+  {
+    "id": 752,
+    "slug": "kanban-administration-master",
+    "name": "Kanban Administration Master",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 283,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 632,
+    "job_postings": 665,
+    "salary": {
+      "min": 64377,
+      "max": 137952,
+      "avg": 91968
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Risk Management",
+      "Kanban",
+      "Agile",
+      "Quality Management",
+      "PMP",
+      "Stakeholder Management",
+      "Scrum"
+    ],
+    "description": "Professional certification in kanban administration master offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 100,
+    "created_at": "2025-09-11T18:32:31.486007",
+    "updated_at": "2025-09-11T18:32:31.486008"
+  },
+  {
+    "id": 693,
+    "slug": "agile-product-owner-certification-1",
+    "name": "Agile Product Owner Certification",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 508,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 752,
+    "job_postings": 366,
+    "salary": {
+      "min": 79867,
+      "max": 171145,
+      "avg": 114096
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Communication",
+      "Budget Management",
+      "Stakeholder Management",
+      "Kanban",
+      "PMP",
+      "Risk Management",
+      "Agile"
+    ],
+    "description": "Professional certification in agile product owner certification offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 118,
+    "created_at": "2025-09-11T18:32:31.483636",
+    "updated_at": "2025-09-11T18:32:31.483638"
+  },
+  {
+    "id": 667,
+    "slug": "scrum-project-strategy-certificate",
+    "name": "Scrum Project Strategy Certificate",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 190,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 734,
+    "job_postings": 156,
+    "salary": {
+      "min": 76434,
+      "max": 163788,
+      "avg": 109192
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Team Leadership",
+      "PMP",
+      "Risk Management",
+      "Kanban",
+      "Stakeholder Management",
+      "Scrum",
+      "Budget Management",
+      "Quality Management"
+    ],
+    "description": "Professional certification in scrum project strategy certificate offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 138,
+    "created_at": "2025-09-11T18:32:31.482591",
+    "updated_at": "2025-09-11T18:32:31.482592"
+  },
+  {
+    "id": 685,
+    "slug": "scrum-project-architecture-certificate-1",
+    "name": "Scrum Project Architecture Certificate",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 209,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 764,
+    "job_postings": 7,
+    "salary": {
+      "min": 73425,
+      "max": 157339,
+      "avg": 104893
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "PMP",
+      "Communication",
+      "Stakeholder Management",
+      "Scrum",
+      "Kanban",
+      "Quality Management"
+    ],
+    "description": "Professional certification in scrum project architecture certificate offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 166,
+    "created_at": "2025-09-11T18:32:31.483317",
+    "updated_at": "2025-09-11T18:32:31.483318"
+  },
+  {
+    "id": 729,
+    "slug": "kanban-security-senior",
+    "name": "Kanban Security Senior",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 114,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 764,
+    "job_postings": 195,
+    "salary": {
+      "min": 63134,
+      "max": 135289,
+      "avg": 90192
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Scrum",
+      "Communication",
+      "Budget Management",
+      "Stakeholder Management",
+      "Team Leadership",
+      "Risk Management"
+    ],
+    "description": "Professional certification in kanban security senior offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 194,
+    "created_at": "2025-09-11T18:32:31.485081",
+    "updated_at": "2025-09-11T18:32:31.485082"
+  },
+  {
+    "id": 679,
+    "slug": "agile-lead-associate",
+    "name": "Agile Lead Associate",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 127,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 705,
+    "job_postings": 80,
+    "salary": {
+      "min": 59827,
+      "max": 128201,
+      "avg": 85467
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Management",
+      "Budget Management",
+      "Scrum",
+      "Communication"
+    ],
+    "description": "Professional certification in agile lead associate offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 210,
+    "created_at": "2025-09-11T18:32:31.483076",
+    "updated_at": "2025-09-11T18:32:31.483077"
+  },
+  {
+    "id": 665,
+    "slug": "agile-program-manager-certification",
+    "name": "Agile Program Manager Certification",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 206,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 777,
+    "job_postings": 48,
+    "salary": {
+      "min": 60010,
+      "max": 128594,
+      "avg": 85729
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Budget Management",
+      "Quality Management",
+      "Agile",
+      "Risk Management"
+    ],
+    "description": "Professional certification in agile program manager certification offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 213,
+    "created_at": "2025-09-11T18:32:31.482507",
+    "updated_at": "2025-09-11T18:32:31.482508"
+  },
+  {
+    "id": 673,
+    "slug": "pmi-project-administration-certificate",
+    "name": "PMI Project Administration Certificate",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 420,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 729,
+    "job_postings": 116,
+    "salary": {
+      "min": 64909,
+      "max": 139091,
+      "avg": 92727
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Budget Management",
+      "Quality Management",
+      "PMP",
+      "Risk Management",
+      "Communication",
+      "Agile",
+      "Kanban",
+      "Scrum"
+    ],
+    "description": "Professional certification in pmi project administration certificate offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 224,
+    "created_at": "2025-09-11T18:32:31.482835",
+    "updated_at": "2025-09-11T18:32:31.482836"
+  },
+  {
+    "id": 714,
+    "slug": "itil-manager-senior",
+    "name": "ITIL Manager Senior",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 150,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 785,
+    "job_postings": 15,
+    "salary": {
+      "min": 61002,
+      "max": 130718,
+      "avg": 87145
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "PMP",
+      "Risk Management",
+      "Team Leadership",
+      "Agile",
+      "Budget Management"
+    ],
+    "description": "Professional certification in itil manager senior offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 231,
+    "created_at": "2025-09-11T18:32:31.484483",
+    "updated_at": "2025-09-11T18:32:31.484485"
+  },
+  {
+    "id": 726,
+    "slug": "scrum-coach-lead",
+    "name": "Scrum Coach Lead",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 151,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 666,
+    "job_postings": 641,
+    "salary": {
+      "min": 72853,
+      "max": 156113,
+      "avg": 104075
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Quality Management",
+      "Agile",
+      "PMP",
+      "Risk Management",
+      "Communication",
+      "Budget Management",
+      "Scrum",
+      "Kanban",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in scrum coach lead offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 273,
+    "created_at": "2025-09-11T18:32:31.484959",
+    "updated_at": "2025-09-11T18:32:31.484960"
+  },
+  {
+    "id": 712,
+    "slug": "agile-scrum-master-certification-2",
+    "name": "Agile Scrum Master Certification",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 374,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 653,
+    "job_postings": 159,
+    "salary": {
+      "min": 71048,
+      "max": 152246,
+      "avg": 101497
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Quality Management",
+      "Agile",
+      "Kanban",
+      "Communication",
+      "Risk Management",
+      "Budget Management",
+      "Team Leadership",
+      "PMP",
+      "Scrum"
+    ],
+    "description": "Professional certification in agile scrum master certification offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 280,
+    "created_at": "2025-09-11T18:32:31.484405",
+    "updated_at": "2025-09-11T18:32:31.484406"
+  },
+  {
+    "id": 689,
+    "slug": "pmi-project-strategy-certificate",
+    "name": "PMI Project Strategy Certificate",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 555,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 651,
+    "job_postings": 150,
+    "salary": {
+      "min": 68118,
+      "max": 145968,
+      "avg": 97312
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Communication",
+      "Team Leadership",
+      "Risk Management",
+      "Budget Management",
+      "PMP",
+      "Scrum",
+      "Kanban",
+      "Quality Management"
+    ],
+    "description": "Professional certification in pmi project strategy certificate offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 326,
+    "created_at": "2025-09-11T18:32:31.483474",
+    "updated_at": "2025-09-11T18:32:31.483475"
+  },
+  {
+    "id": 747,
+    "slug": "devops-owner-associate",
+    "name": "DevOps Owner Associate",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 267,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 570,
+    "job_postings": 152,
+    "salary": {
+      "min": 79142,
+      "max": 169591,
+      "avg": 113060
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Communication",
+      "Team Leadership",
+      "PMP",
+      "Stakeholder Management",
+      "Budget Management",
+      "Scrum",
+      "Kanban",
+      "Risk Management"
+    ],
+    "description": "Professional certification in devops owner associate offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 353,
+    "created_at": "2025-09-11T18:32:31.485802",
+    "updated_at": "2025-09-11T18:32:31.485804"
+  },
+  {
+    "id": 709,
+    "slug": "certified-program-management-practitioner-2",
+    "name": "Certified Program Management Practitioner",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 277,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 460,
+    "job_postings": 507,
+    "salary": {
+      "min": 59739,
+      "max": 128012,
+      "avg": 85341
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "PMP",
+      "Kanban",
+      "Scrum",
+      "Risk Management",
+      "Communication",
+      "Agile",
+      "Stakeholder Management",
+      "Quality Management",
+      "Budget Management",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in certified program management practitioner offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 361,
+    "created_at": "2025-09-11T18:32:31.484281",
+    "updated_at": "2025-09-11T18:32:31.484282"
+  },
+  {
+    "id": 730,
+    "slug": "certified-program-management-analyst-1",
+    "name": "Certified Program Management Analyst",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 174,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 467,
+    "job_postings": 104,
+    "salary": {
+      "min": 67202,
+      "max": 144004,
+      "avg": 96003
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Budget Management",
+      "Kanban",
+      "Stakeholder Management",
+      "Agile",
+      "Risk Management",
+      "Scrum",
+      "PMP",
+      "Quality Management",
+      "Communication",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in certified program management analyst offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 372,
+    "created_at": "2025-09-11T18:32:31.485121",
+    "updated_at": "2025-09-11T18:32:31.485123"
+  },
+  {
+    "id": 664,
+    "slug": "scrum-engineering-master",
+    "name": "Scrum Engineering Master",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 249,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 585,
+    "job_postings": 21,
+    "salary": {
+      "min": 75790,
+      "max": 162408,
+      "avg": 108272
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Scrum",
+      "Budget Management",
+      "Kanban",
+      "Communication",
+      "Agile",
+      "Team Leadership",
+      "Risk Management",
+      "Quality Management",
+      "PMP"
+    ],
+    "description": "Professional certification in scrum engineering master offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 374,
+    "created_at": "2025-09-11T18:32:31.482468",
+    "updated_at": "2025-09-11T18:32:31.482470"
+  },
+  {
+    "id": 691,
+    "slug": "certified-program-management-administrator",
+    "name": "Certified Program Management Administrator",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 254,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 664,
+    "job_postings": 15,
+    "salary": {
+      "min": 73638,
+      "max": 157795,
+      "avg": 105197
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Communication",
+      "Agile",
+      "Risk Management",
+      "PMP",
+      "Budget Management",
+      "Stakeholder Management",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in certified program management administrator offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 390,
+    "created_at": "2025-09-11T18:32:31.483555",
+    "updated_at": "2025-09-11T18:32:31.483556"
+  },
+  {
+    "id": 704,
+    "slug": "scrumorg-project-administration-certificate-2",
+    "name": "Scrum.org Project Administration Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 235,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 422,
+    "job_postings": 379,
+    "salary": {
+      "min": 77115,
+      "max": 165247,
+      "avg": 110165
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Stakeholder Management",
+      "Budget Management",
+      "Risk Management",
+      "Kanban",
+      "Communication",
+      "Agile",
+      "PMP",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in scrum.org project administration certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "ranking": 403,
+    "created_at": "2025-09-11T18:32:31.484074",
+    "updated_at": "2025-09-11T18:32:31.484076"
+  },
+  {
+    "id": 675,
+    "slug": "certified-project-management-specialist",
+    "name": "Certified Project Management Specialist",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 148,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 578,
+    "job_postings": 38,
+    "salary": {
+      "min": 70395,
+      "max": 150847,
+      "avg": 100565
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Scrum",
+      "Team Leadership",
+      "Kanban",
+      "Communication",
+      "Budget Management",
+      "Risk Management",
+      "PMP",
+      "Stakeholder Management",
+      "Agile",
+      "Quality Management"
+    ],
+    "description": "Professional certification in certified project management specialist offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 416,
+    "created_at": "2025-09-11T18:32:31.482919",
+    "updated_at": "2025-09-11T18:32:31.482920"
+  },
+  {
+    "id": 687,
+    "slug": "certified-program-management-practitioner-1",
+    "name": "Certified Program Management Practitioner",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 156,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 507,
+    "job_postings": 7,
+    "salary": {
+      "min": 66825,
+      "max": 143196,
+      "avg": 95464
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Quality Management",
+      "Risk Management",
+      "Kanban",
+      "Team Leadership",
+      "PMP"
+    ],
+    "description": "Professional certification in certified program management practitioner offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 422,
+    "created_at": "2025-09-11T18:32:31.483396",
+    "updated_at": "2025-09-11T18:32:31.483397"
+  },
+  {
+    "id": 678,
+    "slug": "prince2-coach-master",
+    "name": "PRINCE2 Coach Master",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 159,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 417,
+    "job_postings": 8,
+    "salary": {
+      "min": 59543,
+      "max": 127593,
+      "avg": 85062
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Communication",
+      "Stakeholder Management",
+      "Kanban",
+      "PMP",
+      "Risk Management"
+    ],
+    "description": "Professional certification in prince2 coach master offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 457,
+    "created_at": "2025-09-11T18:32:31.483038",
+    "updated_at": "2025-09-11T18:32:31.483039"
+  },
+  {
+    "id": 736,
+    "slug": "agile-coach-professional",
+    "name": "Agile Coach Professional",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 167,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 479,
+    "job_postings": 181,
+    "salary": {
+      "min": 80385,
+      "max": 172255,
+      "avg": 114836
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Management",
+      "Risk Management",
+      "Team Leadership",
+      "Kanban",
+      "Budget Management",
+      "Scrum",
+      "Communication",
+      "Stakeholder Management",
+      "PMP",
+      "Agile"
+    ],
+    "description": "Professional certification in agile coach professional offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 469,
+    "created_at": "2025-09-11T18:32:31.485366",
+    "updated_at": "2025-09-11T18:32:31.485367"
+  },
+  {
+    "id": 681,
+    "slug": "pmp-administration-foundational",
+    "name": "PMP Administration Foundational",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "3 weeks",
+    "cost": 213,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 586,
+    "job_postings": 151,
+    "salary": {
+      "min": 70700,
+      "max": 151502,
+      "avg": 101001
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Budget Management",
+      "Quality Management",
+      "Kanban",
+      "Communication",
+      "Stakeholder Management",
+      "Agile",
+      "Risk Management",
+      "PMP"
+    ],
+    "description": "Professional certification in pmp administration foundational offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 488,
+    "created_at": "2025-09-11T18:32:31.483157",
+    "updated_at": "2025-09-11T18:32:31.483158"
+  },
+  {
+    "id": 699,
+    "slug": "scrum-project-strategy-certificate-2",
+    "name": "Scrum Project Strategy Certificate",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "3 weeks",
+    "cost": 179,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 559,
+    "job_postings": 174,
+    "salary": {
+      "min": 64408,
+      "max": 138018,
+      "avg": 92012
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "PMP",
+      "Communication",
+      "Team Leadership",
+      "Kanban",
+      "Risk Management"
+    ],
+    "description": "Professional certification in scrum project strategy certificate offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 493,
+    "created_at": "2025-09-11T18:32:31.483875",
+    "updated_at": "2025-09-11T18:32:31.483876"
+  },
+  {
+    "id": 751,
+    "slug": "atlassian-project-security-certificate",
+    "name": "Atlassian Project Security Certificate",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 133,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 449,
+    "job_postings": 505,
+    "salary": {
+      "min": 72489,
+      "max": 155333,
+      "avg": 103555
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Kanban",
+      "Risk Management",
+      "PMP",
+      "Budget Management",
+      "Team Leadership",
+      "Agile"
+    ],
+    "description": "Professional certification in atlassian project security certificate offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 499,
+    "created_at": "2025-09-11T18:32:31.485966",
+    "updated_at": "2025-09-11T18:32:31.485967"
+  },
+  {
+    "id": 694,
+    "slug": "agile-project-manager-certification",
+    "name": "Agile Project Manager Certification",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 109,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 419,
+    "job_postings": 62,
+    "salary": {
+      "min": 62374,
+      "max": 133660,
+      "avg": 89107
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Budget Management",
+      "Communication",
+      "Kanban",
+      "Quality Management",
+      "PMP",
+      "Stakeholder Management",
+      "Agile",
+      "Scrum"
+    ],
+    "description": "Professional certification in agile project manager certification offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 505,
+    "created_at": "2025-09-11T18:32:31.483675",
+    "updated_at": "2025-09-11T18:32:31.483676"
+  },
+  {
+    "id": 755,
+    "slug": "devops-coach-expert-1",
+    "name": "DevOps Coach Expert",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 363,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 221,
+    "job_postings": 2425,
+    "salary": {
+      "min": 64792,
+      "max": 138841,
+      "avg": 92560
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "PMP",
+      "Scrum",
+      "Stakeholder Management",
+      "Agile"
+    ],
+    "description": "Professional certification in devops coach expert offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 535,
+    "created_at": "2025-09-11T18:32:31.486127",
+    "updated_at": "2025-09-11T18:32:31.486128"
+  },
+  {
+    "id": 744,
+    "slug": "devops-coach-master",
+    "name": "DevOps Coach Master",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 403,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 641,
+    "job_postings": 22,
+    "salary": {
+      "min": 62813,
+      "max": 134600,
+      "avg": 89733
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Agile",
+      "Team Leadership",
+      "Budget Management",
+      "Kanban",
+      "Communication",
+      "PMP",
+      "Scrum",
+      "Risk Management"
+    ],
+    "description": "Professional certification in devops coach master offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 540,
+    "created_at": "2025-09-11T18:32:31.485683",
+    "updated_at": "2025-09-11T18:32:31.485684"
+  },
+  {
+    "id": 662,
+    "slug": "pmp-architecture-advanced",
+    "name": "PMP Architecture Advanced",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 269,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 385,
+    "job_postings": 335,
+    "salary": {
+      "min": 79402,
+      "max": 170148,
+      "avg": 113432
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Management",
+      "PMP",
+      "Stakeholder Management",
+      "Team Leadership",
+      "Risk Management",
+      "Budget Management"
+    ],
+    "description": "Professional certification in pmp architecture advanced offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 566,
+    "created_at": "2025-09-11T18:32:31.482385",
+    "updated_at": "2025-09-11T18:32:31.482386"
+  },
+  {
+    "id": 683,
+    "slug": "itil-master-professional",
+    "name": "ITIL Master Professional",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 340,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 578,
+    "job_postings": 6,
+    "salary": {
+      "min": 77883,
+      "max": 166892,
+      "avg": 111261
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Kanban",
+      "Risk Management",
+      "Communication"
+    ],
+    "description": "Professional certification in itil master professional offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 578,
+    "created_at": "2025-09-11T18:32:31.483236",
+    "updated_at": "2025-09-11T18:32:31.483237"
+  },
+  {
+    "id": 716,
+    "slug": "scrumorg-project-administration-certificate-3",
+    "name": "Scrum.org Project Administration Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 189,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 380,
+    "job_postings": 161,
+    "salary": {
+      "min": 70292,
+      "max": 150627,
+      "avg": 100418
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Management",
+      "Communication",
+      "Team Leadership",
+      "Agile",
+      "Risk Management",
+      "Kanban",
+      "Budget Management",
+      "Stakeholder Management",
+      "PMP"
+    ],
+    "description": "Professional certification in scrum.org project administration certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 581,
+    "created_at": "2025-09-11T18:32:31.484564",
+    "updated_at": "2025-09-11T18:32:31.484565"
+  },
+  {
+    "id": 672,
+    "slug": "prince2-development-foundational",
+    "name": "PRINCE2 Development Foundational",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 216,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 313,
+    "job_postings": 606,
+    "salary": {
+      "min": 79512,
+      "max": 170384,
+      "avg": 113589
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Budget Management",
+      "Risk Management",
+      "Team Leadership",
+      "Quality Management",
+      "Stakeholder Management",
+      "Scrum",
+      "PMP"
+    ],
+    "description": "Professional certification in prince2 development foundational offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "German",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 597,
+    "created_at": "2025-09-11T18:32:31.482793",
+    "updated_at": "2025-09-11T18:32:31.482794"
+  },
+  {
+    "id": 741,
+    "slug": "prince2-manager-expert",
+    "name": "PRINCE2 Manager Expert",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 540,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 548,
+    "job_postings": 89,
+    "salary": {
+      "min": 60923,
+      "max": 130550,
+      "avg": 87033
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Communication",
+      "Kanban",
+      "Risk Management",
+      "Scrum",
+      "Stakeholder Management",
+      "Team Leadership",
+      "PMP",
+      "Budget Management",
+      "Quality Management",
+      "Agile"
+    ],
+    "description": "Professional certification in prince2 manager expert offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 604,
+    "created_at": "2025-09-11T18:32:31.485564",
+    "updated_at": "2025-09-11T18:32:31.485565"
+  },
+  {
+    "id": 669,
+    "slug": "certified-program-management-practitioner",
+    "name": "Certified Program Management Practitioner",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 161,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 355,
+    "job_postings": 50,
+    "salary": {
+      "min": 61981,
+      "max": 132817,
+      "avg": 88545
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Kanban",
+      "Stakeholder Management",
+      "Agile",
+      "Communication",
+      "Risk Management",
+      "Scrum",
+      "Quality Management",
+      "Budget Management",
+      "PMP"
+    ],
+    "description": "Professional certification in certified program management practitioner offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "German",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 617,
+    "created_at": "2025-09-11T18:32:31.482672",
+    "updated_at": "2025-09-11T18:32:31.482673"
+  },
+  {
+    "id": 732,
+    "slug": "agile-product-owner-certification-3",
+    "name": "Agile Product Owner Certification",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 200,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 473,
+    "job_postings": 18,
+    "salary": {
+      "min": 61223,
+      "max": 131194,
+      "avg": 87462
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Budget Management",
+      "Team Leadership",
+      "Quality Management",
+      "Kanban",
+      "Scrum",
+      "PMP",
+      "Communication",
+      "Stakeholder Management",
+      "Agile",
+      "Risk Management"
+    ],
+    "description": "Professional certification in agile product owner certification offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 618,
+    "created_at": "2025-09-11T18:32:31.485203",
+    "updated_at": "2025-09-11T18:32:31.485204"
+  },
+  {
+    "id": 663,
+    "slug": "scrum-project-architecture-certificate",
+    "name": "Scrum Project Architecture Certificate",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 346,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 571,
+    "job_postings": 69,
+    "salary": {
+      "min": 72287,
+      "max": 154902,
+      "avg": 103268
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Agile",
+      "Scrum",
+      "Quality Management",
+      "Communication"
+    ],
+    "description": "Professional certification in scrum project architecture certificate offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 625,
+    "created_at": "2025-09-11T18:32:31.482427",
+    "updated_at": "2025-09-11T18:32:31.482429"
+  },
+  {
+    "id": 756,
+    "slug": "agile-product-owner-certification-5",
+    "name": "Agile Product Owner Certification",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 221,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 570,
+    "job_postings": 35,
+    "salary": {
+      "min": 63468,
+      "max": 136004,
+      "avg": 90669
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Kanban",
+      "Agile",
+      "Scrum",
+      "Team Leadership",
+      "Risk Management",
+      "PMP",
+      "Stakeholder Management",
+      "Budget Management"
+    ],
+    "description": "Professional certification in agile product owner certification offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 633,
+    "created_at": "2025-09-11T18:32:31.486166",
+    "updated_at": "2025-09-11T18:32:31.486168"
+  },
+  {
+    "id": 670,
+    "slug": "pmp-strategy-lead",
+    "name": "PMP Strategy Lead",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 159,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 397,
+    "job_postings": 15,
+    "salary": {
+      "min": 79152,
+      "max": 169611,
+      "avg": 113074
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "PMP",
+      "Stakeholder Management",
+      "Team Leadership",
+      "Agile",
+      "Communication",
+      "Risk Management",
+      "Scrum"
+    ],
+    "description": "Professional certification in pmp strategy lead offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "German"
+    ],
+    "ranking": 635,
+    "created_at": "2025-09-11T18:32:31.482711",
+    "updated_at": "2025-09-11T18:32:31.482713"
+  },
+  {
+    "id": 748,
+    "slug": "six-sigma-lead-senior",
+    "name": "Six Sigma Lead Senior",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 222,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 407,
+    "job_postings": 117,
+    "salary": {
+      "min": 71111,
+      "max": 152382,
+      "avg": 101588
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Risk Management",
+      "Team Leadership",
+      "PMP",
+      "Stakeholder Management",
+      "Kanban"
+    ],
+    "description": "Professional certification in six sigma lead senior offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 647,
+    "created_at": "2025-09-11T18:32:31.485843",
+    "updated_at": "2025-09-11T18:32:31.485844"
+  },
+  {
+    "id": 743,
+    "slug": "agile-program-manager-certification-4",
+    "name": "Agile Program Manager Certification",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "5 weeks",
+    "cost": 416,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 588,
+    "job_postings": 21,
+    "salary": {
+      "min": 69542,
+      "max": 149020,
+      "avg": 99346
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Agile",
+      "Budget Management",
+      "Kanban",
+      "Communication",
+      "Quality Management"
+    ],
+    "description": "Professional certification in agile program manager certification offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 652,
+    "created_at": "2025-09-11T18:32:31.485644",
+    "updated_at": "2025-09-11T18:32:31.485645"
+  },
+  {
+    "id": 680,
+    "slug": "kanban-security-master",
+    "name": "Kanban Security Master",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 229,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 371,
+    "job_postings": 31,
+    "salary": {
+      "min": 72416,
+      "max": 155177,
+      "avg": 103451
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "PMP",
+      "Scrum",
+      "Kanban",
+      "Stakeholder Management",
+      "Team Leadership",
+      "Risk Management",
+      "Communication",
+      "Quality Management",
+      "Agile",
+      "Budget Management"
+    ],
+    "description": "Professional certification in kanban security master offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 675,
+    "created_at": "2025-09-11T18:32:31.483116",
+    "updated_at": "2025-09-11T18:32:31.483117"
+  },
+  {
+    "id": 671,
+    "slug": "scrumorg-project-strategy-certificate",
+    "name": "Scrum.org Project Strategy Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 180,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 344,
+    "job_postings": 38,
+    "salary": {
+      "min": 69202,
+      "max": 148290,
+      "avg": 98860
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Scrum",
+      "Agile",
+      "Team Leadership",
+      "Communication",
+      "Budget Management",
+      "Stakeholder Management",
+      "Quality Management",
+      "Risk Management",
+      "Kanban"
+    ],
+    "description": "Professional certification in scrum.org project strategy certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 678,
+    "created_at": "2025-09-11T18:32:31.482752",
+    "updated_at": "2025-09-11T18:32:31.482753"
+  },
+  {
+    "id": 745,
+    "slug": "devops-coach-expert",
+    "name": "DevOps Coach Expert",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 401,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 579,
+    "job_postings": 10,
+    "salary": {
+      "min": 60079,
+      "max": 128741,
+      "avg": 85827
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Scrum",
+      "Budget Management",
+      "Kanban",
+      "Quality Management",
+      "Team Leadership",
+      "Communication",
+      "Agile"
+    ],
+    "description": "Professional certification in devops coach expert offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 689,
+    "created_at": "2025-09-11T18:32:31.485722",
+    "updated_at": "2025-09-11T18:32:31.485723"
+  },
+  {
+    "id": 697,
+    "slug": "lean-administration-master",
+    "name": "Lean Administration Master",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 134,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 370,
+    "job_postings": 138,
+    "salary": {
+      "min": 78238,
+      "max": 167654,
+      "avg": 111769
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Agile",
+      "PMP",
+      "Risk Management",
+      "Stakeholder Management",
+      "Kanban"
+    ],
+    "description": "Professional certification in lean administration master offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 696,
+    "created_at": "2025-09-11T18:32:31.483797",
+    "updated_at": "2025-09-11T18:32:31.483798"
+  },
+  {
+    "id": 666,
+    "slug": "prince2-development-master",
+    "name": "PRINCE2 Development Master",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 262,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 370,
+    "job_postings": 10,
+    "salary": {
+      "min": 73535,
+      "max": 157576,
+      "avg": 105051
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Risk Management",
+      "Budget Management",
+      "Scrum",
+      "Communication",
+      "Kanban",
+      "PMP",
+      "Stakeholder Management",
+      "Team Leadership",
+      "Agile"
+    ],
+    "description": "Professional certification in prince2 development master offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 710,
+    "created_at": "2025-09-11T18:32:31.482550",
+    "updated_at": "2025-09-11T18:32:31.482551"
+  },
+  {
+    "id": 750,
+    "slug": "certified-portfolio-management-administrator",
+    "name": "Certified Portfolio Management Administrator",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 212,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 204,
+    "job_postings": 619,
+    "salary": {
+      "min": 79991,
+      "max": 171410,
+      "avg": 114273
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Scrum",
+      "Agile",
+      "Quality Management",
+      "Risk Management",
+      "PMP",
+      "Communication",
+      "Stakeholder Management",
+      "Kanban",
+      "Team Leadership",
+      "Budget Management"
+    ],
+    "description": "Professional certification in certified portfolio management administrator offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 725,
+    "created_at": "2025-09-11T18:32:31.485926",
+    "updated_at": "2025-09-11T18:32:31.485928"
+  },
+  {
+    "id": 710,
+    "slug": "six-sigma-manager-advanced",
+    "name": "Six Sigma Manager Advanced",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 344,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 526,
+    "job_postings": 88,
+    "salary": {
+      "min": 79159,
+      "max": 169628,
+      "avg": 113085
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Agile",
+      "Risk Management",
+      "Stakeholder Management",
+      "PMP",
+      "Scrum",
+      "Team Leadership",
+      "Communication",
+      "Quality Management",
+      "Kanban",
+      "Budget Management"
+    ],
+    "description": "Professional certification in six sigma manager advanced offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 734,
+    "created_at": "2025-09-11T18:32:31.484322",
+    "updated_at": "2025-09-11T18:32:31.484323"
+  },
+  {
+    "id": 661,
+    "slug": "scrum-master-advanced",
+    "name": "Scrum Master Advanced",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 331,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 482,
+    "job_postings": 40,
+    "salary": {
+      "min": 71089,
+      "max": 152334,
+      "avg": 101556
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Quality Management",
+      "Stakeholder Management",
+      "Kanban",
+      "Agile"
+    ],
+    "description": "Professional certification in scrum master advanced offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 750,
+    "created_at": "2025-09-11T18:32:31.482345",
+    "updated_at": "2025-09-11T18:32:31.482346"
+  },
+  {
+    "id": 686,
+    "slug": "scrumorg-project-architecture-certificate",
+    "name": "Scrum.org Project Architecture Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 275,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 315,
+    "job_postings": 23,
+    "salary": {
+      "min": 76610,
+      "max": 164164,
+      "avg": 109443
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Communication",
+      "PMP",
+      "Budget Management",
+      "Scrum",
+      "Quality Management",
+      "Risk Management"
+    ],
+    "description": "Professional certification in scrum.org project architecture certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 768,
+    "created_at": "2025-09-11T18:32:31.483356",
+    "updated_at": "2025-09-11T18:32:31.483357"
+  },
+  {
+    "id": 715,
+    "slug": "pmi-project-engineering-certificate",
+    "name": "PMI Project Engineering Certificate",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 313,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 501,
+    "job_postings": 19,
+    "salary": {
+      "min": 77628,
+      "max": 166347,
+      "avg": 110898
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Team Leadership",
+      "PMP",
+      "Stakeholder Management",
+      "Agile",
+      "Risk Management",
+      "Quality Management",
+      "Scrum",
+      "Budget Management",
+      "Communication"
+    ],
+    "description": "Professional certification in pmi project engineering certificate offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 774,
+    "created_at": "2025-09-11T18:32:31.484523",
+    "updated_at": "2025-09-11T18:32:31.484525"
+  },
+  {
+    "id": 706,
+    "slug": "certified-agile-management-practitioner",
+    "name": "Certified Agile Management Practitioner",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 206,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 382,
+    "job_postings": 184,
+    "salary": {
+      "min": 79001,
+      "max": 169289,
+      "avg": 112859
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Communication",
+      "Budget Management",
+      "Kanban",
+      "Scrum",
+      "Team Leadership",
+      "PMP",
+      "Risk Management",
+      "Quality Management",
+      "Agile"
+    ],
+    "description": "Professional certification in certified agile management practitioner offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 803,
+    "created_at": "2025-09-11T18:32:31.484157",
+    "updated_at": "2025-09-11T18:32:31.484158"
+  },
+  {
+    "id": 746,
+    "slug": "certified-project-management-administrator",
+    "name": "Certified Project Management Administrator",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 203,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 335,
+    "job_postings": 6,
+    "salary": {
+      "min": 78922,
+      "max": 169120,
+      "avg": 112746
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Kanban",
+      "Quality Management",
+      "Risk Management",
+      "Budget Management",
+      "PMP",
+      "Scrum",
+      "Communication",
+      "Agile",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in certified project management administrator offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 807,
+    "created_at": "2025-09-11T18:32:31.485763",
+    "updated_at": "2025-09-11T18:32:31.485764"
+  },
+  {
+    "id": 740,
+    "slug": "lean-analyst-foundational",
+    "name": "Lean Analyst Foundational",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 166,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 313,
+    "job_postings": 34,
+    "salary": {
+      "min": 62935,
+      "max": 134862,
+      "avg": 89908
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Communication",
+      "Scrum",
+      "Stakeholder Management",
+      "Risk Management",
+      "Quality Management",
+      "Team Leadership",
+      "Kanban"
+    ],
+    "description": "Professional certification in lean analyst foundational offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 808,
+    "created_at": "2025-09-11T18:32:31.485523",
+    "updated_at": "2025-09-11T18:32:31.485525"
+  },
+  {
+    "id": 739,
+    "slug": "certified-agile-management-specialist-1",
+    "name": "Certified Agile Management Specialist",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 363,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 247,
+    "job_postings": 145,
+    "salary": {
+      "min": 75576,
+      "max": 161949,
+      "avg": 107966
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Management",
+      "Communication",
+      "Risk Management",
+      "Budget Management"
+    ],
+    "description": "Professional certification in certified agile management specialist offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 835,
+    "created_at": "2025-09-11T18:32:31.485484",
+    "updated_at": "2025-09-11T18:32:31.485485"
+  },
+  {
+    "id": 692,
+    "slug": "six-sigma-coach-lead",
+    "name": "Six Sigma Coach Lead",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 122,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 293,
+    "job_postings": 121,
+    "salary": {
+      "min": 66617,
+      "max": 142752,
+      "avg": 95168
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Team Leadership",
+      "Stakeholder Management",
+      "PMP",
+      "Quality Management",
+      "Budget Management",
+      "Agile",
+      "Risk Management",
+      "Kanban"
+    ],
+    "description": "Professional certification in six sigma coach lead offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 843,
+    "created_at": "2025-09-11T18:32:31.483597",
+    "updated_at": "2025-09-11T18:32:31.483598"
+  },
+  {
+    "id": 707,
+    "slug": "kanban-management-advanced",
+    "name": "Kanban Management Advanced",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 192,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 342,
+    "job_postings": 17,
+    "salary": {
+      "min": 71743,
+      "max": 153735,
+      "avg": 102490
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Communication",
+      "Team Leadership",
+      "Kanban",
+      "Stakeholder Management",
+      "Scrum",
+      "Quality Management",
+      "Risk Management"
+    ],
+    "description": "Professional certification in kanban management advanced offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 895,
+    "created_at": "2025-09-11T18:32:31.484197",
+    "updated_at": "2025-09-11T18:32:31.484198"
+  },
+  {
+    "id": 728,
+    "slug": "agile-program-manager-certification-2",
+    "name": "Agile Program Manager Certification",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 191,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 249,
+    "job_postings": 38,
+    "salary": {
+      "min": 67702,
+      "max": 145077,
+      "avg": 96718
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Risk Management",
+      "Quality Management",
+      "Communication",
+      "Team Leadership",
+      "Kanban",
+      "Agile"
+    ],
+    "description": "Professional certification in agile program manager certification offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 939,
+    "created_at": "2025-09-11T18:32:31.485042",
+    "updated_at": "2025-09-11T18:32:31.485044"
+  },
+  {
+    "id": 713,
+    "slug": "certified-program-management-analyst",
+    "name": "Certified Program Management Analyst",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 268,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 172,
+    "job_postings": 61,
+    "salary": {
+      "min": 72450,
+      "max": 155251,
+      "avg": 103501
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Management",
+      "Budget Management",
+      "Scrum",
+      "Team Leadership",
+      "Agile",
+      "Risk Management",
+      "Kanban"
+    ],
+    "description": "Professional certification in certified program management analyst offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 948,
+    "created_at": "2025-09-11T18:32:31.484445",
+    "updated_at": "2025-09-11T18:32:31.484446"
+  },
+  {
+    "id": 738,
+    "slug": "lean-architecture-expert",
+    "name": "Lean Architecture Expert",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 298,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 311,
+    "job_postings": 111,
+    "salary": {
+      "min": 71044,
+      "max": 152237,
+      "avg": 101491
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Team Leadership",
+      "Kanban",
+      "Budget Management"
+    ],
+    "description": "Professional certification in lean architecture expert offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 961,
+    "created_at": "2025-09-11T18:32:31.485445",
+    "updated_at": "2025-09-11T18:32:31.485447"
+  },
+  {
+    "id": 705,
+    "slug": "lean-analyst-senior",
+    "name": "Lean Analyst Senior",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 116,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 161,
+    "job_postings": 41,
+    "salary": {
+      "min": 66108,
+      "max": 141661,
+      "avg": 94441
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Budget Management",
+      "Quality Management",
+      "PMP",
+      "Agile",
+      "Risk Management",
+      "Scrum",
+      "Stakeholder Management",
+      "Communication",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in lean analyst senior offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 965,
+    "created_at": "2025-09-11T18:32:31.484116",
+    "updated_at": "2025-09-11T18:32:31.484117"
+  },
+  {
+    "id": 727,
+    "slug": "agile-scrum-master-certification-3",
+    "name": "Agile Scrum Master Certification",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 483,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 291,
+    "job_postings": 800,
+    "salary": {
+      "min": 60525,
+      "max": 129697,
+      "avg": 86464
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Kanban",
+      "Budget Management",
+      "Quality Management",
+      "Agile",
+      "Risk Management",
+      "PMP",
+      "Team Leadership",
+      "Scrum"
+    ],
+    "description": "Professional certification in agile scrum master certification offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 968,
+    "created_at": "2025-09-11T18:32:31.485003",
+    "updated_at": "2025-09-11T18:32:31.485005"
+  },
+  {
+    "id": 695,
+    "slug": "scrumorg-project-administration-certificate",
+    "name": "Scrum.org Project Administration Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 181,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 292,
+    "job_postings": 40,
+    "salary": {
+      "min": 77151,
+      "max": 165323,
+      "avg": 110215
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Communication",
+      "PMP",
+      "Kanban",
+      "Stakeholder Management",
+      "Agile",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in scrum.org project administration certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 986,
+    "created_at": "2025-09-11T18:32:31.483717",
+    "updated_at": "2025-09-11T18:32:31.483718"
+  },
+  {
+    "id": 696,
+    "slug": "six-sigma-analyst-associate",
+    "name": "Six Sigma Analyst Associate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 166,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 227,
+    "job_postings": 412,
+    "salary": {
+      "min": 65975,
+      "max": 141376,
+      "avg": 94250
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Scrum",
+      "Quality Management",
+      "Communication",
+      "Kanban",
+      "Stakeholder Management",
+      "Budget Management"
+    ],
+    "description": "Professional certification in six sigma analyst associate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 987,
+    "created_at": "2025-09-11T18:32:31.483757",
+    "updated_at": "2025-09-11T18:32:31.483758"
+  },
+  {
+    "id": 700,
+    "slug": "six-sigma-owner-lead",
+    "name": "Six Sigma Owner Lead",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 315,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 234,
+    "job_postings": 33,
+    "salary": {
+      "min": 73007,
+      "max": 156444,
+      "avg": 104296
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Quality Management",
+      "Communication",
+      "PMP",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in six sigma owner lead offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 995,
+    "created_at": "2025-09-11T18:32:31.483913",
+    "updated_at": "2025-09-11T18:32:31.483914"
+  },
+  {
+    "id": 722,
+    "slug": "pmp-strategy-lead-1",
+    "name": "PMP Strategy Lead",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 326,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 234,
+    "job_postings": 153,
+    "salary": {
+      "min": 64450,
+      "max": 138107,
+      "avg": 92071
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "PMP",
+      "Kanban",
+      "Communication",
+      "Stakeholder Management",
+      "Budget Management",
+      "Agile",
+      "Scrum",
+      "Quality Management",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in pmp strategy lead offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 1004,
+    "created_at": "2025-09-11T18:32:31.484802",
+    "updated_at": "2025-09-11T18:32:31.484804"
+  },
+  {
+    "id": 723,
+    "slug": "pmp-development-lead",
+    "name": "PMP Development Lead",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 270,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 271,
+    "job_postings": 24,
+    "salary": {
+      "min": 75242,
+      "max": 161233,
+      "avg": 107488
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Communication",
+      "Kanban",
+      "Quality Management",
+      "Agile"
+    ],
+    "description": "Professional certification in pmp development lead offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 1026,
+    "created_at": "2025-09-11T18:32:31.484841",
+    "updated_at": "2025-09-11T18:32:31.484843"
+  },
+  {
+    "id": 725,
+    "slug": "pmi-project-management-certificate",
+    "name": "PMI Project Management Certificate",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 335,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 232,
+    "job_postings": 18,
+    "salary": {
+      "min": 74452,
+      "max": 159542,
+      "avg": 106361
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Quality Management",
+      "Budget Management",
+      "Stakeholder Management",
+      "Risk Management",
+      "Scrum"
+    ],
+    "description": "Professional certification in pmi project management certificate offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 1064,
+    "created_at": "2025-09-11T18:32:31.484920",
+    "updated_at": "2025-09-11T18:32:31.484922"
+  },
+  {
+    "id": 717,
+    "slug": "prince2-project-engineering-certificate",
+    "name": "PRINCE2 Project Engineering Certificate",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 403,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 264,
+    "job_postings": 34,
+    "salary": {
+      "min": 70922,
+      "max": 151977,
+      "avg": 101318
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Risk Management",
+      "Quality Management",
+      "Agile",
+      "Scrum"
+    ],
+    "description": "Professional certification in prince2 project engineering certificate offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 1065,
+    "created_at": "2025-09-11T18:32:31.484603",
+    "updated_at": "2025-09-11T18:32:31.484604"
+  },
+  {
+    "id": 718,
+    "slug": "scrumorg-project-engineering-certificate",
+    "name": "Scrum.org Project Engineering Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 160,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 180,
+    "job_postings": 50,
+    "salary": {
+      "min": 60704,
+      "max": 130080,
+      "avg": 86720
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Budget Management",
+      "Stakeholder Management",
+      "Quality Management",
+      "PMP",
+      "Agile"
+    ],
+    "description": "Professional certification in scrum.org project engineering certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 1069,
+    "created_at": "2025-09-11T18:32:31.484642",
+    "updated_at": "2025-09-11T18:32:31.484643"
+  },
+  {
+    "id": 668,
+    "slug": "lean-security-lead",
+    "name": "Lean Security Lead",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 202,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 38,
+    "job_postings": 688,
+    "salary": {
+      "min": 76180,
+      "max": 163242,
+      "avg": 108828
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Communication",
+      "Risk Management",
+      "Stakeholder Management",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in lean security lead offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1088,
+    "created_at": "2025-09-11T18:32:31.482629",
+    "updated_at": "2025-09-11T18:32:31.482631"
+  },
+  {
+    "id": 684,
+    "slug": "agile-program-manager-certification-1",
+    "name": "Agile Program Manager Certification",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 389,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 225,
+    "job_postings": 19,
+    "salary": {
+      "min": 72637,
+      "max": 155651,
+      "avg": 103767
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Agile",
+      "Kanban",
+      "Scrum",
+      "Stakeholder Management",
+      "Communication"
+    ],
+    "description": "Professional certification in agile program manager certification offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 1098,
+    "created_at": "2025-09-11T18:32:31.483277",
+    "updated_at": "2025-09-11T18:32:31.483278"
+  },
+  {
+    "id": 753,
+    "slug": "scrum-management-lead",
+    "name": "Scrum Management Lead",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 158,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 127,
+    "job_postings": 11,
+    "salary": {
+      "min": 74407,
+      "max": 159444,
+      "avg": 106296
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Management",
+      "Risk Management",
+      "Scrum",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in scrum management lead offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1162,
+    "created_at": "2025-09-11T18:32:31.486049",
+    "updated_at": "2025-09-11T18:32:31.486050"
+  },
+  {
+    "id": 754,
+    "slug": "devops-manager-lead",
+    "name": "DevOps Manager Lead",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 166,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 167,
+    "job_postings": 474,
+    "salary": {
+      "min": 63796,
+      "max": 136707,
+      "avg": 91138
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Agile",
+      "Kanban",
+      "Communication",
+      "Quality Management",
+      "Budget Management",
+      "PMP",
+      "Scrum",
+      "Team Leadership",
+      "Risk Management",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in devops manager lead offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 1171,
+    "created_at": "2025-09-11T18:32:31.486089",
+    "updated_at": "2025-09-11T18:32:31.486090"
+  },
+  {
+    "id": 735,
+    "slug": "agile-program-manager-certification-3",
+    "name": "Agile Program Manager Certification",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 211,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 125,
+    "job_postings": 651,
+    "salary": {
+      "min": 79267,
+      "max": 169858,
+      "avg": 113239
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Kanban",
+      "Quality Management",
+      "Budget Management",
+      "Stakeholder Management",
+      "Team Leadership",
+      "Agile"
+    ],
+    "description": "Professional certification in agile program manager certification offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 1189,
+    "created_at": "2025-09-11T18:32:31.485326",
+    "updated_at": "2025-09-11T18:32:31.485327"
+  },
+  {
+    "id": 733,
+    "slug": "lean-analyst-expert",
+    "name": "Lean Analyst Expert",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 216,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 44,
+    "job_postings": 625,
+    "salary": {
+      "min": 65583,
+      "max": 140535,
+      "avg": 93690
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Kanban",
+      "Quality Management",
+      "PMP",
+      "Communication",
+      "Agile",
+      "Stakeholder Management",
+      "Team Leadership",
+      "Budget Management"
+    ],
+    "description": "Professional certification in lean analyst expert offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1192,
+    "created_at": "2025-09-11T18:32:31.485244",
+    "updated_at": "2025-09-11T18:32:31.485246"
+  },
+  {
+    "id": 703,
+    "slug": "scrum-coach-professional",
+    "name": "Scrum Coach Professional",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 489,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 222,
+    "job_postings": 181,
+    "salary": {
+      "min": 71797,
+      "max": 153851,
+      "avg": 102567
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Risk Management",
+      "Communication",
+      "Kanban",
+      "Agile",
+      "Budget Management",
+      "Stakeholder Management",
+      "PMP",
+      "Team Leadership",
+      "Scrum"
+    ],
+    "description": "Professional certification in scrum coach professional offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1196,
+    "created_at": "2025-09-11T18:32:31.484033",
+    "updated_at": "2025-09-11T18:32:31.484034"
+  },
+  {
+    "id": 677,
+    "slug": "scrum-project-strategy-certificate-1",
+    "name": "Scrum Project Strategy Certificate",
+    "issuer": "Scrum Alliance",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 219,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 159,
+    "job_postings": 44,
+    "salary": {
+      "min": 80289,
+      "max": 172048,
+      "avg": 114698
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Kanban",
+      "Stakeholder Management",
+      "Scrum",
+      "Quality Management",
+      "Risk Management",
+      "PMP",
+      "Team Leadership",
+      "Communication",
+      "Budget Management",
+      "Agile"
+    ],
+    "description": "Professional certification in scrum project strategy certificate offered by Scrum Alliance. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1198,
+    "created_at": "2025-09-11T18:32:31.482998",
+    "updated_at": "2025-09-11T18:32:31.482999"
+  },
+  {
+    "id": 720,
+    "slug": "scrumorg-project-analytics-certificate",
+    "name": "Scrum.org Project Analytics Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 150,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 194,
+    "job_postings": 59,
+    "salary": {
+      "min": 67882,
+      "max": 145462,
+      "avg": 96975
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Team Leadership",
+      "Scrum",
+      "Quality Management",
+      "Agile",
+      "Communication",
+      "PMP",
+      "Risk Management"
+    ],
+    "description": "Professional certification in scrum.org project analytics certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 1208,
+    "created_at": "2025-09-11T18:32:31.484723",
+    "updated_at": "2025-09-11T18:32:31.484724"
+  },
+  {
+    "id": 711,
+    "slug": "scrumorg-project-strategy-certificate-1",
+    "name": "Scrum.org Project Strategy Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 181,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 85,
+    "job_postings": 19,
+    "salary": {
+      "min": 76563,
+      "max": 164065,
+      "avg": 109377
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Agile",
+      "Communication",
+      "Budget Management",
+      "Stakeholder Management",
+      "Quality Management",
+      "Kanban",
+      "Risk Management"
+    ],
+    "description": "Professional certification in scrum.org project strategy certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 1220,
+    "created_at": "2025-09-11T18:32:31.484363",
+    "updated_at": "2025-09-11T18:32:31.484364"
+  },
+  {
+    "id": 702,
+    "slug": "atlassian-project-analytics-certificate",
+    "name": "Atlassian Project Analytics Certificate",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Specialty",
+    "duration": "4 weeks",
+    "cost": 175,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 120,
+    "job_postings": 26,
+    "salary": {
+      "min": 75827,
+      "max": 162488,
+      "avg": 108325
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Scrum",
+      "PMP",
+      "Agile",
+      "Stakeholder Management",
+      "Quality Management",
+      "Communication",
+      "Kanban",
+      "Team Leadership",
+      "Risk Management"
+    ],
+    "description": "Professional certification in atlassian project analytics certificate offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1237,
+    "created_at": "2025-09-11T18:32:31.483992",
+    "updated_at": "2025-09-11T18:32:31.483993"
+  },
+  {
+    "id": 708,
+    "slug": "agile-product-owner-certification-2",
+    "name": "Agile Product Owner Certification",
+    "issuer": "Atlassian",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 163,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 24,
+    "job_postings": 221,
+    "salary": {
+      "min": 60328,
+      "max": 129276,
+      "avg": 86184
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Kanban",
+      "Agile",
+      "Team Leadership",
+      "Quality Management",
+      "Budget Management",
+      "Risk Management",
+      "Stakeholder Management",
+      "Scrum"
+    ],
+    "description": "Professional certification in agile product owner certification offered by Atlassian. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1258,
+    "created_at": "2025-09-11T18:32:31.484238",
+    "updated_at": "2025-09-11T18:32:31.484240"
+  },
+  {
+    "id": 698,
+    "slug": "scrumorg-project-administration-certificate-1",
+    "name": "Scrum.org Project Administration Certificate",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 165,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 29,
+    "job_postings": 5,
+    "salary": {
+      "min": 79088,
+      "max": 169474,
+      "avg": 112983
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Kanban",
+      "Agile",
+      "PMP",
+      "Stakeholder Management",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in scrum.org project administration certificate offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1278,
+    "created_at": "2025-09-11T18:32:31.483836",
+    "updated_at": "2025-09-11T18:32:31.483837"
+  },
+  {
+    "id": 737,
+    "slug": "certified-portfolio-management-consultant",
+    "name": "Certified Portfolio Management Consultant",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 386,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 132,
+    "job_postings": 157,
+    "salary": {
+      "min": 73736,
+      "max": 158005,
+      "avg": 105337
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Risk Management",
+      "Communication",
+      "Stakeholder Management",
+      "PMP",
+      "Budget Management",
+      "Team Leadership",
+      "Quality Management",
+      "Scrum"
+    ],
+    "description": "Professional certification in certified portfolio management consultant offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 1290,
+    "created_at": "2025-09-11T18:32:31.485407",
+    "updated_at": "2025-09-11T18:32:31.485408"
+  },
+  {
+    "id": 688,
+    "slug": "agile-scrum-master-certification",
+    "name": "Agile Scrum Master Certification",
+    "issuer": "PRINCE2",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 375,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 70,
+    "job_postings": 42,
+    "salary": {
+      "min": 68141,
+      "max": 146017,
+      "avg": 97345
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "PMP",
+      "Quality Management",
+      "Kanban",
+      "Budget Management",
+      "Team Leadership"
+    ],
+    "description": "Professional certification in agile scrum master certification offered by PRINCE2. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 1336,
+    "created_at": "2025-09-11T18:32:31.483435",
+    "updated_at": "2025-09-11T18:32:31.483436"
+  },
+  {
+    "id": 676,
+    "slug": "agile-product-owner-certification",
+    "name": "Agile Product Owner Certification",
+    "issuer": "Scrum.org",
+    "domain": "project-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 217,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 16,
+    "job_postings": 122,
+    "salary": {
+      "min": 71566,
+      "max": 153356,
+      "avg": 102237
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Budget Management",
+      "Risk Management",
+      "Agile",
+      "Team Leadership",
+      "Stakeholder Management",
+      "Kanban"
+    ],
+    "description": "Professional certification in agile product owner certification offered by Scrum.org. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 1355,
+    "created_at": "2025-09-11T18:32:31.482957",
+    "updated_at": "2025-09-11T18:32:31.482959"
+  },
+  {
+    "id": 701,
+    "slug": "certified-agile-management-analyst",
+    "name": "Certified Agile Management Analyst",
+    "issuer": "PMI",
+    "domain": "project-management",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 556,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 55,
+    "job_postings": 18,
+    "salary": {
+      "min": 76398,
+      "max": 163711,
+      "avg": 109141
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Stakeholder Management",
+      "Quality Management",
+      "Communication",
+      "Team Leadership",
+      "Risk Management",
+      "PMP",
+      "Budget Management",
+      "Kanban",
+      "Scrum"
+    ],
+    "description": "Professional certification in certified agile management analyst offered by PMI. Validates expertise in Project Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 1379,
+    "created_at": "2025-09-11T18:32:31.483952",
+    "updated_at": "2025-09-11T18:32:31.483953"
+  }
+]

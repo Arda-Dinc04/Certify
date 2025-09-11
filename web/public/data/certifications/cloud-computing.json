@@ -1,0 +1,3593 @@
+[
+  {
+    "id": 282,
+    "slug": "ibm-cloud-strategy-foundational",
+    "name": "IBM Cloud Strategy Foundational",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 218,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 661,
+    "job_postings": 2364,
+    "salary": {
+      "min": 76905,
+      "max": 180954,
+      "avg": 117620
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Azure",
+      "Container Orchestration",
+      "Microservices",
+      "DevOps",
+      "Docker",
+      "Serverless",
+      "CloudFormation",
+      "Google Cloud",
+      "Terraform"
+    ],
+    "description": "Professional certification in ibm cloud strategy foundational offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 13,
+    "created_at": "2025-09-11T18:32:31.466496",
+    "updated_at": "2025-09-11T18:32:31.466497"
+  },
+  {
+    "id": 268,
+    "slug": "ibm-machine-learning-specialist",
+    "name": "IBM Machine Learning Specialist",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 142,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 756,
+    "job_postings": 172,
+    "salary": {
+      "min": 89759,
+      "max": 211199,
+      "avg": 137279
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Google Cloud",
+      "AWS",
+      "Container Orchestration",
+      "Microservices",
+      "CloudFormation",
+      "DevOps",
+      "Terraform",
+      "Azure",
+      "Serverless",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in ibm machine learning specialist offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 16,
+    "created_at": "2025-09-11T18:32:31.465897",
+    "updated_at": "2025-09-11T18:32:31.465898"
+  },
+  {
+    "id": 256,
+    "slug": "azure-development-certification",
+    "name": "Azure Development Certification",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 184,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 771,
+    "job_postings": 1511,
+    "salary": {
+      "min": 73876,
+      "max": 173828,
+      "avg": 112988
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "Azure",
+      "Terraform",
+      "Container Orchestration",
+      "Google Cloud"
+    ],
+    "description": "Professional certification in azure development certification offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 19,
+    "created_at": "2025-09-11T18:32:31.465406",
+    "updated_at": "2025-09-11T18:32:31.465408"
+  },
+  {
+    "id": 307,
+    "slug": "cloud-security-architect-professional",
+    "name": "Cloud Security Architect Professional",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 197,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 695,
+    "job_postings": 692,
+    "salary": {
+      "min": 87234,
+      "max": 205257,
+      "avg": 133417
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Azure",
+      "DevOps",
+      "Google Cloud",
+      "Container Orchestration",
+      "Serverless",
+      "Docker",
+      "Microservices",
+      "Terraform"
+    ],
+    "description": "Professional certification in cloud security architect professional offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 23,
+    "created_at": "2025-09-11T18:32:31.467620",
+    "updated_at": "2025-09-11T18:32:31.467622"
+  },
+  {
+    "id": 254,
+    "slug": "certified-cloud-software-practitioner",
+    "name": "Certified Cloud Software Practitioner",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 259,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 482,
+    "job_postings": 2484,
+    "salary": {
+      "min": 82196,
+      "max": 193403,
+      "avg": 125712
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "AWS",
+      "Container Orchestration",
+      "Serverless",
+      "CloudFormation",
+      "Kubernetes",
+      "DevOps",
+      "Docker",
+      "Google Cloud",
+      "Microservices"
+    ],
+    "description": "Professional certification in certified cloud software practitioner offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 37,
+    "created_at": "2025-09-11T18:32:31.465324",
+    "updated_at": "2025-09-11T18:32:31.465326"
+  },
+  {
+    "id": 304,
+    "slug": "google-computing-specialist",
+    "name": "Google Computing Specialist",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 227,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 746,
+    "job_postings": 199,
+    "salary": {
+      "min": 92536,
+      "max": 217733,
+      "avg": 141526
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Azure",
+      "DevOps",
+      "AWS",
+      "Docker",
+      "Google Cloud"
+    ],
+    "description": "Professional certification in google computing specialist offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 43,
+    "created_at": "2025-09-11T18:32:31.467481",
+    "updated_at": "2025-09-11T18:32:31.467483"
+  },
+  {
+    "id": 290,
+    "slug": "microsoft-cloud-management-advanced",
+    "name": "Microsoft Cloud Management Advanced",
+    "issuer": "Microsoft",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 125,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 787,
+    "job_postings": 164,
+    "salary": {
+      "min": 88702,
+      "max": 208710,
+      "avg": 135662
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Google Cloud",
+      "Terraform",
+      "DevOps",
+      "Docker",
+      "Serverless",
+      "AWS",
+      "CloudFormation",
+      "Microservices"
+    ],
+    "description": "Professional certification in microsoft cloud management advanced offered by Microsoft. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 57,
+    "created_at": "2025-09-11T18:32:31.466820",
+    "updated_at": "2025-09-11T18:32:31.466821"
+  },
+  {
+    "id": 295,
+    "slug": "google-cloud-analytics-senior",
+    "name": "Google Cloud Analytics Senior",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 141,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 731,
+    "job_postings": 34,
+    "salary": {
+      "min": 89164,
+      "max": 209799,
+      "avg": 136369
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "CloudFormation",
+      "Microservices",
+      "AWS",
+      "Terraform",
+      "Google Cloud",
+      "Serverless"
+    ],
+    "description": "Professional certification in google cloud analytics senior offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 90,
+    "created_at": "2025-09-11T18:32:31.467016",
+    "updated_at": "2025-09-11T18:32:31.467018"
+  },
+  {
+    "id": 267,
+    "slug": "certified-cloud-infrastructure-practitioner-1",
+    "name": "Certified Cloud Infrastructure Practitioner",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 208,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 636,
+    "job_postings": 152,
+    "salary": {
+      "min": 87805,
+      "max": 206600,
+      "avg": 134290
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "Kubernetes",
+      "Docker",
+      "Google Cloud",
+      "Container Orchestration",
+      "Microservices",
+      "AWS",
+      "CloudFormation",
+      "Terraform"
+    ],
+    "description": "Professional certification in certified cloud infrastructure practitioner offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 111,
+    "created_at": "2025-09-11T18:32:31.465857",
+    "updated_at": "2025-09-11T18:32:31.465858"
+  },
+  {
+    "id": 251,
+    "slug": "certified-cloud-platform-administrator",
+    "name": "Certified Cloud Platform Administrator",
+    "issuer": "Microsoft",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 132,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 576,
+    "job_postings": 397,
+    "salary": {
+      "min": 97466,
+      "max": 229332,
+      "avg": 149066
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "CloudFormation",
+      "Kubernetes",
+      "Terraform",
+      "Azure",
+      "Docker",
+      "Serverless",
+      "AWS"
+    ],
+    "description": "Professional certification in certified cloud platform administrator offered by Microsoft. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 125,
+    "created_at": "2025-09-11T18:32:31.465201",
+    "updated_at": "2025-09-11T18:32:31.465202"
+  },
+  {
+    "id": 272,
+    "slug": "google-storage-specialist-1",
+    "name": "Google Storage Specialist",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 238,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 767,
+    "job_postings": 23,
+    "salary": {
+      "min": 72658,
+      "max": 170961,
+      "avg": 111125
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "AWS",
+      "DevOps",
+      "Container Orchestration",
+      "Terraform",
+      "Serverless",
+      "Kubernetes",
+      "Microservices",
+      "Azure",
+      "Google Cloud"
+    ],
+    "description": "Professional certification in google storage specialist offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 129,
+    "created_at": "2025-09-11T18:32:31.466059",
+    "updated_at": "2025-09-11T18:32:31.466060"
+  },
+  {
+    "id": 322,
+    "slug": "aws-security-certification",
+    "name": "AWS Security Certification",
+    "issuer": "Microsoft",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 185,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 776,
+    "job_postings": 5,
+    "salary": {
+      "min": 77753,
+      "max": 182948,
+      "avg": 118916
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Serverless",
+      "DevOps",
+      "Google Cloud",
+      "Terraform",
+      "Docker",
+      "Azure",
+      "Container Orchestration",
+      "AWS"
+    ],
+    "description": "Professional certification in aws security certification offered by Microsoft. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 132,
+    "created_at": "2025-09-11T18:32:31.468260",
+    "updated_at": "2025-09-11T18:32:31.468262"
+  },
+  {
+    "id": 303,
+    "slug": "ibm-cloud-development-master",
+    "name": "IBM Cloud Development Master",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 269,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 745,
+    "job_postings": 445,
+    "salary": {
+      "min": 95585,
+      "max": 224907,
+      "avg": 146190
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "Microservices",
+      "Serverless",
+      "AWS",
+      "Docker",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in ibm cloud development master offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 133,
+    "created_at": "2025-09-11T18:32:31.467432",
+    "updated_at": "2025-09-11T18:32:31.467434"
+  },
+  {
+    "id": 289,
+    "slug": "certified-cloud-security-expert",
+    "name": "Certified Cloud Security Expert",
+    "issuer": "Microsoft",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 179,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 597,
+    "job_postings": 711,
+    "salary": {
+      "min": 94836,
+      "max": 223144,
+      "avg": 145043
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Terraform",
+      "Google Cloud",
+      "DevOps",
+      "Serverless"
+    ],
+    "description": "Professional certification in certified cloud security expert offered by Microsoft. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 143,
+    "created_at": "2025-09-11T18:32:31.466779",
+    "updated_at": "2025-09-11T18:32:31.466780"
+  },
+  {
+    "id": 305,
+    "slug": "cloud-solutions-architect-lead-1",
+    "name": "Cloud Solutions Architect Lead",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 222,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 633,
+    "job_postings": 54,
+    "salary": {
+      "min": 82327,
+      "max": 193712,
+      "avg": 125912
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Container Orchestration",
+      "Microservices",
+      "Azure",
+      "Serverless",
+      "Docker",
+      "Terraform",
+      "AWS",
+      "DevOps",
+      "Kubernetes",
+      "Google Cloud"
+    ],
+    "description": "Professional certification in cloud solutions architect lead offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 155,
+    "created_at": "2025-09-11T18:32:31.467527",
+    "updated_at": "2025-09-11T18:32:31.467528"
+  },
+  {
+    "id": 297,
+    "slug": "amazon-analytics-specialist-1",
+    "name": "Amazon Analytics Specialist",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 187,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 729,
+    "job_postings": 30,
+    "salary": {
+      "min": 82096,
+      "max": 193169,
+      "avg": 125559
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Container Orchestration",
+      "CloudFormation",
+      "AWS",
+      "Kubernetes",
+      "Serverless"
+    ],
+    "description": "Professional certification in amazon analytics specialist offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 176,
+    "created_at": "2025-09-11T18:32:31.467095",
+    "updated_at": "2025-09-11T18:32:31.467096"
+  },
+  {
+    "id": 242,
+    "slug": "cloud-cloud-architect-professional",
+    "name": "Cloud Cloud Architect Professional",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 165,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 573,
+    "job_postings": 36,
+    "salary": {
+      "min": 87540,
+      "max": 205978,
+      "avg": 133886
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Kubernetes",
+      "Azure",
+      "Container Orchestration",
+      "Microservices",
+      "Serverless",
+      "Terraform"
+    ],
+    "description": "Professional certification in cloud cloud architect professional offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 178,
+    "created_at": "2025-09-11T18:32:31.464832",
+    "updated_at": "2025-09-11T18:32:31.464833"
+  },
+  {
+    "id": 306,
+    "slug": "cloud-data-architect-advanced-1",
+    "name": "Cloud Data Architect Advanced",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 253,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 668,
+    "job_postings": 11,
+    "salary": {
+      "min": 86143,
+      "max": 202690,
+      "avg": 131748
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "DevOps",
+      "Kubernetes",
+      "Azure",
+      "CloudFormation",
+      "Terraform",
+      "Google Cloud"
+    ],
+    "description": "Professional certification in cloud data architect advanced offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 179,
+    "created_at": "2025-09-11T18:32:31.467569",
+    "updated_at": "2025-09-11T18:32:31.467570"
+  },
+  {
+    "id": 320,
+    "slug": "certified-cloud-infrastructure-expert",
+    "name": "Certified Cloud Infrastructure Expert",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 320,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 610,
+    "job_postings": 168,
+    "salary": {
+      "min": 86552,
+      "max": 203652,
+      "avg": 132374
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Azure",
+      "Microservices",
+      "Google Cloud",
+      "Serverless",
+      "Container Orchestration",
+      "Terraform"
+    ],
+    "description": "Professional certification in certified cloud infrastructure expert offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 208,
+    "created_at": "2025-09-11T18:32:31.468178",
+    "updated_at": "2025-09-11T18:32:31.468179"
+  },
+  {
+    "id": 296,
+    "slug": "certified-cloud-security-expert-1",
+    "name": "Certified Cloud Security Expert",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 346,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 635,
+    "job_postings": 589,
+    "salary": {
+      "min": 79082,
+      "max": 186076,
+      "avg": 120949
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Microservices",
+      "Container Orchestration",
+      "Kubernetes",
+      "Google Cloud",
+      "Serverless",
+      "DevOps",
+      "Terraform",
+      "Azure",
+      "AWS"
+    ],
+    "description": "Professional certification in certified cloud security expert offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 228,
+    "created_at": "2025-09-11T18:32:31.467056",
+    "updated_at": "2025-09-11T18:32:31.467057"
+  },
+  {
+    "id": 317,
+    "slug": "microsoft-cloud-management-lead",
+    "name": "Microsoft Cloud Management Lead",
+    "issuer": "Microsoft",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 195,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 689,
+    "job_postings": 518,
+    "salary": {
+      "min": 78707,
+      "max": 185193,
+      "avg": 120375
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Google Cloud",
+      "Terraform",
+      "Serverless",
+      "Docker",
+      "Microservices",
+      "Azure",
+      "CloudFormation",
+      "Kubernetes",
+      "DevOps",
+      "AWS"
+    ],
+    "description": "Professional certification in microsoft cloud management lead offered by Microsoft. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 244,
+    "created_at": "2025-09-11T18:32:31.468049",
+    "updated_at": "2025-09-11T18:32:31.468050"
+  },
+  {
+    "id": 285,
+    "slug": "multi-cloud-security-certification",
+    "name": "Multi-Cloud Security Certification",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 208,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 615,
+    "job_postings": 140,
+    "salary": {
+      "min": 72516,
+      "max": 170626,
+      "avg": 110907
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Container Orchestration",
+      "Kubernetes",
+      "Microservices",
+      "Docker",
+      "Google Cloud",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in multi-cloud security certification offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 264,
+    "created_at": "2025-09-11T18:32:31.466617",
+    "updated_at": "2025-09-11T18:32:31.466618"
+  },
+  {
+    "id": 271,
+    "slug": "aws-analytics-certification",
+    "name": "AWS Analytics Certification",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 471,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 655,
+    "job_postings": 153,
+    "salary": {
+      "min": 94635,
+      "max": 222672,
+      "avg": 144737
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Docker",
+      "DevOps",
+      "Container Orchestration",
+      "Kubernetes",
+      "Azure",
+      "Microservices",
+      "AWS",
+      "Google Cloud",
+      "Serverless",
+      "Terraform"
+    ],
+    "description": "Professional certification in aws analytics certification offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 278,
+    "created_at": "2025-09-11T18:32:31.466018",
+    "updated_at": "2025-09-11T18:32:31.466019"
+  },
+  {
+    "id": 276,
+    "slug": "multi-cloud-analytics-certification",
+    "name": "Multi-Cloud Analytics Certification",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 283,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 617,
+    "job_postings": 287,
+    "salary": {
+      "min": 74103,
+      "max": 174360,
+      "avg": 113334
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Google Cloud",
+      "Docker",
+      "Microservices",
+      "Container Orchestration"
+    ],
+    "description": "Professional certification in multi-cloud analytics certification offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 286,
+    "created_at": "2025-09-11T18:32:31.466224",
+    "updated_at": "2025-09-11T18:32:31.466226"
+  },
+  {
+    "id": 264,
+    "slug": "red-database-specialist",
+    "name": "Red Database Specialist",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 533,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 675,
+    "job_postings": 50,
+    "salary": {
+      "min": 87603,
+      "max": 206125,
+      "avg": 133981
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "AWS",
+      "Kubernetes",
+      "DevOps",
+      "Terraform",
+      "Microservices",
+      "Docker"
+    ],
+    "description": "Professional certification in red database specialist offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 298,
+    "created_at": "2025-09-11T18:32:31.465732",
+    "updated_at": "2025-09-11T18:32:31.465734"
+  },
+  {
+    "id": 275,
+    "slug": "cloud-solutions-architect-advanced",
+    "name": "Cloud Solutions Architect Advanced",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 229,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 585,
+    "job_postings": 753,
+    "salary": {
+      "min": 82014,
+      "max": 192976,
+      "avg": 125434
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "CloudFormation",
+      "Microservices",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in cloud solutions architect advanced offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 299,
+    "created_at": "2025-09-11T18:32:31.466183",
+    "updated_at": "2025-09-11T18:32:31.466184"
+  },
+  {
+    "id": 246,
+    "slug": "vmware-analytics-specialist",
+    "name": "VMware Analytics Specialist",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 271,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 605,
+    "job_postings": 67,
+    "salary": {
+      "min": 74579,
+      "max": 175481,
+      "avg": 114062
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Microservices",
+      "Google Cloud",
+      "Container Orchestration",
+      "Terraform"
+    ],
+    "description": "Professional certification in vmware analytics specialist offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 309,
+    "created_at": "2025-09-11T18:32:31.464993",
+    "updated_at": "2025-09-11T18:32:31.464994"
+  },
+  {
+    "id": 265,
+    "slug": "cloud-data-architect-professional",
+    "name": "Cloud Data Architect Professional",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 263,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 527,
+    "job_postings": 40,
+    "salary": {
+      "min": 91569,
+      "max": 215458,
+      "avg": 140047
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Google Cloud",
+      "CloudFormation",
+      "Microservices",
+      "Terraform"
+    ],
+    "description": "Professional certification in cloud data architect professional offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 311,
+    "created_at": "2025-09-11T18:32:31.465773",
+    "updated_at": "2025-09-11T18:32:31.465774"
+  },
+  {
+    "id": 324,
+    "slug": "ibm-machine-learning-specialist-2",
+    "name": "IBM Machine Learning Specialist",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 231,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 173,
+    "job_postings": 2842,
+    "salary": {
+      "min": 79888,
+      "max": 187973,
+      "avg": 122182
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Microservices",
+      "Container Orchestration",
+      "Azure",
+      "Serverless",
+      "Kubernetes",
+      "Docker",
+      "DevOps",
+      "Terraform"
+    ],
+    "description": "Professional certification in ibm machine learning specialist offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 320,
+    "created_at": "2025-09-11T18:32:31.468343",
+    "updated_at": "2025-09-11T18:32:31.468344"
+  },
+  {
+    "id": 287,
+    "slug": "google-cloud-administration-foundational",
+    "name": "Google Cloud Administration Foundational",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 240,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 536,
+    "job_postings": 61,
+    "salary": {
+      "min": 76872,
+      "max": 180877,
+      "avg": 117570
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "CloudFormation",
+      "Microservices",
+      "AWS",
+      "Terraform",
+      "Container Orchestration",
+      "Docker"
+    ],
+    "description": "Professional certification in google cloud administration foundational offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 323,
+    "created_at": "2025-09-11T18:32:31.466701",
+    "updated_at": "2025-09-11T18:32:31.466702"
+  },
+  {
+    "id": 241,
+    "slug": "microsoft-cloud-development-senior",
+    "name": "Microsoft Cloud Development Senior",
+    "issuer": "Microsoft",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 179,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 421,
+    "job_postings": 772,
+    "salary": {
+      "min": 81779,
+      "max": 192421,
+      "avg": 125074
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "AWS",
+      "Google Cloud",
+      "DevOps",
+      "Microservices",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in microsoft cloud development senior offered by Microsoft. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 324,
+    "created_at": "2025-09-11T18:32:31.464789",
+    "updated_at": "2025-09-11T18:32:31.464790"
+  },
+  {
+    "id": 284,
+    "slug": "red-cloud-security-professional",
+    "name": "Red Cloud Security Professional",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 320,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 642,
+    "job_postings": 228,
+    "salary": {
+      "min": 94306,
+      "max": 221897,
+      "avg": 144233
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "CloudFormation",
+      "DevOps",
+      "Kubernetes",
+      "Docker"
+    ],
+    "description": "Professional certification in red cloud security professional offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 355,
+    "created_at": "2025-09-11T18:32:31.466578",
+    "updated_at": "2025-09-11T18:32:31.466579"
+  },
+  {
+    "id": 253,
+    "slug": "azure-security-certification",
+    "name": "Azure Security Certification",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 141,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 387,
+    "job_postings": 664,
+    "salary": {
+      "min": 94779,
+      "max": 223009,
+      "avg": 144956
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Google Cloud",
+      "Microservices",
+      "DevOps",
+      "Terraform",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in azure security certification offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 380,
+    "created_at": "2025-09-11T18:32:31.465282",
+    "updated_at": "2025-09-11T18:32:31.465283"
+  },
+  {
+    "id": 292,
+    "slug": "cloud-security-architect-senior",
+    "name": "Cloud Security Architect Senior",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 440,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 720,
+    "job_postings": 49,
+    "salary": {
+      "min": 81954,
+      "max": 192833,
+      "avg": 125341
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "AWS",
+      "Microservices",
+      "DevOps",
+      "Container Orchestration",
+      "Serverless",
+      "Docker",
+      "Azure",
+      "Kubernetes",
+      "Google Cloud",
+      "Terraform"
+    ],
+    "description": "Professional certification in cloud security architect senior offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 399,
+    "created_at": "2025-09-11T18:32:31.466899",
+    "updated_at": "2025-09-11T18:32:31.466900"
+  },
+  {
+    "id": 318,
+    "slug": "google-cloud-security-certification",
+    "name": "Google Cloud Security Certification",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 151,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 524,
+    "job_postings": 55,
+    "salary": {
+      "min": 88637,
+      "max": 208559,
+      "avg": 135563
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Microservices",
+      "DevOps",
+      "CloudFormation",
+      "Azure",
+      "Serverless",
+      "Kubernetes",
+      "Google Cloud",
+      "Terraform",
+      "AWS",
+      "Container Orchestration"
+    ],
+    "description": "Professional certification in google cloud security certification offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 430,
+    "created_at": "2025-09-11T18:32:31.468091",
+    "updated_at": "2025-09-11T18:32:31.468093"
+  },
+  {
+    "id": 293,
+    "slug": "cloud-security-architect-senior-1",
+    "name": "Cloud Security Architect Senior",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 272,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 465,
+    "job_postings": 38,
+    "salary": {
+      "min": 76635,
+      "max": 180318,
+      "avg": 117206
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Google Cloud",
+      "Serverless",
+      "Container Orchestration",
+      "CloudFormation",
+      "Microservices",
+      "Azure"
+    ],
+    "description": "Professional certification in cloud security architect senior offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 450,
+    "created_at": "2025-09-11T18:32:31.466938",
+    "updated_at": "2025-09-11T18:32:31.466940"
+  },
+  {
+    "id": 298,
+    "slug": "cloud-cloud-architect-expert-1",
+    "name": "Cloud Cloud Architect Expert",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 121,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 485,
+    "job_postings": 37,
+    "salary": {
+      "min": 96167,
+      "max": 226276,
+      "avg": 147079
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "DevOps",
+      "Azure",
+      "Kubernetes",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in cloud cloud architect expert offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 452,
+    "created_at": "2025-09-11T18:32:31.467135",
+    "updated_at": "2025-09-11T18:32:31.467136"
+  },
+  {
+    "id": 315,
+    "slug": "amazon-cloud-development-professional",
+    "name": "Amazon Cloud Development Professional",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 138,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 471,
+    "job_postings": 41,
+    "salary": {
+      "min": 92415,
+      "max": 217447,
+      "avg": 141340
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Serverless",
+      "Container Orchestration",
+      "Kubernetes",
+      "Google Cloud",
+      "Docker",
+      "CloudFormation",
+      "DevOps"
+    ],
+    "description": "Professional certification in amazon cloud development professional offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English"
+    ],
+    "ranking": 474,
+    "created_at": "2025-09-11T18:32:31.467963",
+    "updated_at": "2025-09-11T18:32:31.467965"
+  },
+  {
+    "id": 280,
+    "slug": "amazon-database-specialist",
+    "name": "Amazon Database Specialist",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 207,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 518,
+    "job_postings": 13,
+    "salary": {
+      "min": 81287,
+      "max": 191263,
+      "avg": 124321
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Container Orchestration",
+      "Azure",
+      "Google Cloud",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "description": "Professional certification in amazon database specialist offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 475,
+    "created_at": "2025-09-11T18:32:31.466384",
+    "updated_at": "2025-09-11T18:32:31.466410"
+  },
+  {
+    "id": 245,
+    "slug": "cloud-data-architect-advanced",
+    "name": "Cloud Data Architect Advanced",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 150,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 502,
+    "job_postings": 151,
+    "salary": {
+      "min": 83558,
+      "max": 196608,
+      "avg": 127795
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "DevOps",
+      "Docker",
+      "Terraform",
+      "Kubernetes",
+      "Serverless",
+      "AWS"
+    ],
+    "description": "Professional certification in cloud data architect advanced offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 478,
+    "created_at": "2025-09-11T18:32:31.464954",
+    "updated_at": "2025-09-11T18:32:31.464955"
+  },
+  {
+    "id": 299,
+    "slug": "certified-cloud-devops-specialist",
+    "name": "Certified Cloud DevOps Specialist",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 134,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 317,
+    "job_postings": 323,
+    "salary": {
+      "min": 84261,
+      "max": 198262,
+      "avg": 128870
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Google Cloud",
+      "CloudFormation",
+      "AWS",
+      "Docker",
+      "Serverless",
+      "Microservices",
+      "Azure",
+      "Container Orchestration"
+    ],
+    "description": "Professional certification in certified cloud devops specialist offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 527,
+    "created_at": "2025-09-11T18:32:31.467174",
+    "updated_at": "2025-09-11T18:32:31.467175"
+  },
+  {
+    "id": 321,
+    "slug": "kubernetes-storage-specialist-1",
+    "name": "Kubernetes Storage Specialist",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 478,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 677,
+    "job_postings": 12,
+    "salary": {
+      "min": 80286,
+      "max": 188908,
+      "avg": 122790
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Azure",
+      "DevOps",
+      "Microservices",
+      "Serverless",
+      "Terraform",
+      "Container Orchestration",
+      "Kubernetes",
+      "CloudFormation",
+      "AWS"
+    ],
+    "description": "Professional certification in kubernetes storage specialist offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 530,
+    "created_at": "2025-09-11T18:32:31.468219",
+    "updated_at": "2025-09-11T18:32:31.468220"
+  },
+  {
+    "id": 261,
+    "slug": "vmware-database-specialist",
+    "name": "VMware Database Specialist",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 291,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 422,
+    "job_postings": 18,
+    "salary": {
+      "min": 95636,
+      "max": 225026,
+      "avg": 146267
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "AWS",
+      "DevOps",
+      "Container Orchestration",
+      "Terraform",
+      "Microservices",
+      "Azure",
+      "CloudFormation",
+      "Docker",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in vmware database specialist offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 532,
+    "created_at": "2025-09-11T18:32:31.465609",
+    "updated_at": "2025-09-11T18:32:31.465611"
+  },
+  {
+    "id": 288,
+    "slug": "certified-cloud-platform-administrator-1",
+    "name": "Certified Cloud Platform Administrator",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 149,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 324,
+    "job_postings": 43,
+    "salary": {
+      "min": 94207,
+      "max": 221665,
+      "avg": 144082
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "AWS",
+      "Docker",
+      "Microservices",
+      "DevOps"
+    ],
+    "description": "Professional certification in certified cloud platform administrator offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 579,
+    "created_at": "2025-09-11T18:32:31.466741",
+    "updated_at": "2025-09-11T18:32:31.466742"
+  },
+  {
+    "id": 252,
+    "slug": "google-storage-specialist",
+    "name": "Google Storage Specialist",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 222,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 347,
+    "job_postings": 190,
+    "salary": {
+      "min": 81976,
+      "max": 192885,
+      "avg": 125375
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Terraform",
+      "Azure",
+      "CloudFormation",
+      "DevOps",
+      "Kubernetes",
+      "Docker",
+      "Google Cloud",
+      "Serverless"
+    ],
+    "description": "Professional certification in google storage specialist offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 595,
+    "created_at": "2025-09-11T18:32:31.465241",
+    "updated_at": "2025-09-11T18:32:31.465242"
+  },
+  {
+    "id": 314,
+    "slug": "certified-cloud-software-consultant",
+    "name": "Certified Cloud Software Consultant",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 305,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 435,
+    "job_postings": 21,
+    "salary": {
+      "min": 78430,
+      "max": 184542,
+      "avg": 119952
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Azure",
+      "Docker",
+      "Microservices",
+      "Kubernetes",
+      "Container Orchestration",
+      "CloudFormation",
+      "DevOps",
+      "Terraform",
+      "AWS",
+      "Google Cloud"
+    ],
+    "description": "Professional certification in certified cloud software consultant offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 611,
+    "created_at": "2025-09-11T18:32:31.467921",
+    "updated_at": "2025-09-11T18:32:31.467922"
+  },
+  {
+    "id": 294,
+    "slug": "azure-strategy-certification",
+    "name": "Azure Strategy Certification",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 228,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 469,
+    "job_postings": 325,
+    "salary": {
+      "min": 91879,
+      "max": 216188,
+      "avg": 140522
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "AWS",
+      "Azure",
+      "Container Orchestration",
+      "Terraform",
+      "Serverless",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in azure strategy certification offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 612,
+    "created_at": "2025-09-11T18:32:31.466977",
+    "updated_at": "2025-09-11T18:32:31.466978"
+  },
+  {
+    "id": 249,
+    "slug": "certified-cloud-architecture-administrator",
+    "name": "Certified Cloud Architecture Administrator",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 167,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 305,
+    "job_postings": 194,
+    "salary": {
+      "min": 91101,
+      "max": 214356,
+      "avg": 139331
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Google Cloud",
+      "Container Orchestration",
+      "Serverless"
+    ],
+    "description": "Professional certification in certified cloud architecture administrator offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 720,
+    "created_at": "2025-09-11T18:32:31.465117",
+    "updated_at": "2025-09-11T18:32:31.465119"
+  },
+  {
+    "id": 243,
+    "slug": "google-cloud-administration-certification",
+    "name": "Google Cloud Administration Certification",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 321,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 353,
+    "job_postings": 1107,
+    "salary": {
+      "min": 72277,
+      "max": 170064,
+      "avg": 110541
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "DevOps",
+      "Azure",
+      "Kubernetes",
+      "Serverless",
+      "Docker"
+    ],
+    "description": "Professional certification in google cloud administration certification offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 722,
+    "created_at": "2025-09-11T18:32:31.464874",
+    "updated_at": "2025-09-11T18:32:31.464875"
+  },
+  {
+    "id": 274,
+    "slug": "hybrid-cloud-security-certification",
+    "name": "Hybrid Cloud Security Certification",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 155,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 332,
+    "job_postings": 11,
+    "salary": {
+      "min": 89503,
+      "max": 210597,
+      "avg": 136888
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Google Cloud",
+      "Microservices",
+      "Azure",
+      "Serverless"
+    ],
+    "description": "Professional certification in hybrid cloud security certification offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 737,
+    "created_at": "2025-09-11T18:32:31.466139",
+    "updated_at": "2025-09-11T18:32:31.466141"
+  },
+  {
+    "id": 259,
+    "slug": "microsoft-cloud-management-senior",
+    "name": "Microsoft Cloud Management Senior",
+    "issuer": "Microsoft",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 148,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 374,
+    "job_postings": 43,
+    "salary": {
+      "min": 89415,
+      "max": 210388,
+      "avg": 136752
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Container Orchestration",
+      "Serverless",
+      "Microservices",
+      "Docker",
+      "AWS"
+    ],
+    "description": "Professional certification in microsoft cloud management senior offered by Microsoft. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English"
+    ],
+    "ranking": 821,
+    "created_at": "2025-09-11T18:32:31.465528",
+    "updated_at": "2025-09-11T18:32:31.465530"
+  },
+  {
+    "id": 310,
+    "slug": "hybrid-cloud-management-certification",
+    "name": "Hybrid Cloud Management Certification",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 432,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 237,
+    "job_postings": 790,
+    "salary": {
+      "min": 74170,
+      "max": 174519,
+      "avg": 113437
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Kubernetes",
+      "Azure",
+      "Microservices",
+      "Serverless",
+      "Docker",
+      "Terraform",
+      "Container Orchestration",
+      "CloudFormation",
+      "DevOps",
+      "AWS"
+    ],
+    "description": "Professional certification in hybrid cloud management certification offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 830,
+    "created_at": "2025-09-11T18:32:31.467747",
+    "updated_at": "2025-09-11T18:32:31.467748"
+  },
+  {
+    "id": 278,
+    "slug": "certified-cloud-infrastructure-administrator",
+    "name": "Certified Cloud Infrastructure Administrator",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 409,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 481,
+    "job_postings": 121,
+    "salary": {
+      "min": 74097,
+      "max": 174347,
+      "avg": 113325
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "DevOps",
+      "Google Cloud",
+      "Microservices",
+      "AWS",
+      "Container Orchestration",
+      "Azure"
+    ],
+    "description": "Professional certification in certified cloud infrastructure administrator offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 832,
+    "created_at": "2025-09-11T18:32:31.466304",
+    "updated_at": "2025-09-11T18:32:31.466305"
+  },
+  {
+    "id": 263,
+    "slug": "aws-strategy-certification",
+    "name": "AWS Strategy Certification",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 440,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 482,
+    "job_postings": 44,
+    "salary": {
+      "min": 76635,
+      "max": 180319,
+      "avg": 117207
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CloudFormation",
+      "Microservices"
+    ],
+    "description": "Professional certification in aws strategy certification offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 836,
+    "created_at": "2025-09-11T18:32:31.465693",
+    "updated_at": "2025-09-11T18:32:31.465694"
+  },
+  {
+    "id": 319,
+    "slug": "cloud-cloud-architect-master",
+    "name": "Cloud Cloud Architect Master",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 116,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 380,
+    "job_postings": 32,
+    "salary": {
+      "min": 82255,
+      "max": 193542,
+      "avg": 125802
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Serverless",
+      "CloudFormation",
+      "Microservices",
+      "AWS",
+      "Container Orchestration",
+      "Azure",
+      "Docker",
+      "DevOps",
+      "Terraform"
+    ],
+    "description": "Professional certification in cloud cloud architect master offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 850,
+    "created_at": "2025-09-11T18:32:31.468137",
+    "updated_at": "2025-09-11T18:32:31.468138"
+  },
+  {
+    "id": 273,
+    "slug": "amazon-analytics-specialist",
+    "name": "Amazon Analytics Specialist",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 172,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 366,
+    "job_postings": 86,
+    "salary": {
+      "min": 77566,
+      "max": 182510,
+      "avg": 118631
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Google Cloud",
+      "Kubernetes",
+      "CloudFormation",
+      "Serverless",
+      "Terraform",
+      "Microservices",
+      "Container Orchestration",
+      "Azure",
+      "Docker",
+      "DevOps"
+    ],
+    "description": "Professional certification in amazon analytics specialist offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 859,
+    "created_at": "2025-09-11T18:32:31.466099",
+    "updated_at": "2025-09-11T18:32:31.466100"
+  },
+  {
+    "id": 309,
+    "slug": "google-cloud-strategy-certification",
+    "name": "Google Cloud Strategy Certification",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 410,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 273,
+    "job_postings": 275,
+    "salary": {
+      "min": 93934,
+      "max": 221022,
+      "avg": 143664
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Docker",
+      "Serverless",
+      "CloudFormation",
+      "Kubernetes",
+      "Terraform",
+      "Azure",
+      "Microservices",
+      "Google Cloud"
+    ],
+    "description": "Professional certification in google cloud strategy certification offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 860,
+    "created_at": "2025-09-11T18:32:31.467704",
+    "updated_at": "2025-09-11T18:32:31.467705"
+  },
+  {
+    "id": 302,
+    "slug": "microsoft-database-specialist",
+    "name": "Microsoft Database Specialist",
+    "issuer": "Microsoft",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 120,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 151,
+    "job_postings": 40,
+    "salary": {
+      "min": 90383,
+      "max": 212666,
+      "avg": 138233
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Google Cloud",
+      "CloudFormation",
+      "Azure",
+      "Serverless",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in microsoft database specialist offered by Microsoft. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 891,
+    "created_at": "2025-09-11T18:32:31.467377",
+    "updated_at": "2025-09-11T18:32:31.467383"
+  },
+  {
+    "id": 281,
+    "slug": "certified-cloud-devops-consultant",
+    "name": "Certified Cloud DevOps Consultant",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 130,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 360,
+    "job_postings": 210,
+    "salary": {
+      "min": 90457,
+      "max": 212841,
+      "avg": 138346
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CloudFormation",
+      "Container Orchestration",
+      "Google Cloud",
+      "Microservices"
+    ],
+    "description": "Professional certification in certified cloud devops consultant offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 896,
+    "created_at": "2025-09-11T18:32:31.466455",
+    "updated_at": "2025-09-11T18:32:31.466456"
+  },
+  {
+    "id": 262,
+    "slug": "cloud-data-architect-lead",
+    "name": "Cloud Data Architect Lead",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 476,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 355,
+    "job_postings": 397,
+    "salary": {
+      "min": 95187,
+      "max": 223971,
+      "avg": 145581
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Azure",
+      "DevOps",
+      "Docker",
+      "Serverless",
+      "CloudFormation",
+      "Kubernetes",
+      "Google Cloud",
+      "AWS"
+    ],
+    "description": "Professional certification in cloud data architect lead offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 901,
+    "created_at": "2025-09-11T18:32:31.465652",
+    "updated_at": "2025-09-11T18:32:31.465653"
+  },
+  {
+    "id": 291,
+    "slug": "certified-cloud-software-specialist",
+    "name": "Certified Cloud Software Specialist",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 246,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 214,
+    "job_postings": 94,
+    "salary": {
+      "min": 76716,
+      "max": 180510,
+      "avg": 117331
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Microservices",
+      "Terraform",
+      "Google Cloud",
+      "DevOps",
+      "Container Orchestration"
+    ],
+    "description": "Professional certification in certified cloud software specialist offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 909,
+    "created_at": "2025-09-11T18:32:31.466859",
+    "updated_at": "2025-09-11T18:32:31.466860"
+  },
+  {
+    "id": 248,
+    "slug": "kubernetes-cloud-administration-associate",
+    "name": "Kubernetes Cloud Administration Associate",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 423,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 222,
+    "job_postings": 740,
+    "salary": {
+      "min": 96007,
+      "max": 225899,
+      "avg": 146834
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Container Orchestration",
+      "DevOps",
+      "Serverless",
+      "Azure",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in kubernetes cloud administration associate offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 914,
+    "created_at": "2025-09-11T18:32:31.465076",
+    "updated_at": "2025-09-11T18:32:31.465078"
+  },
+  {
+    "id": 258,
+    "slug": "azure-architecture-certification",
+    "name": "Azure Architecture Certification",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 236,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 331,
+    "job_postings": 97,
+    "salary": {
+      "min": 85623,
+      "max": 201466,
+      "avg": 130953
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Azure",
+      "Microservices",
+      "DevOps",
+      "Container Orchestration",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in azure architecture certification offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 915,
+    "created_at": "2025-09-11T18:32:31.465489",
+    "updated_at": "2025-09-11T18:32:31.465490"
+  },
+  {
+    "id": 270,
+    "slug": "cloud-cloud-architect-expert",
+    "name": "Cloud Cloud Architect Expert",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 152,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 364,
+    "job_postings": 131,
+    "salary": {
+      "min": 90123,
+      "max": 212054,
+      "avg": 137835
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Google Cloud",
+      "Serverless",
+      "AWS",
+      "Kubernetes",
+      "Microservices",
+      "Docker",
+      "Container Orchestration",
+      "DevOps",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in cloud cloud architect expert offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 918,
+    "created_at": "2025-09-11T18:32:31.465977",
+    "updated_at": "2025-09-11T18:32:31.465979"
+  },
+  {
+    "id": 313,
+    "slug": "vmware-cloud-administration-foundational",
+    "name": "VMware Cloud Administration Foundational",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 238,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 302,
+    "job_postings": 193,
+    "salary": {
+      "min": 75382,
+      "max": 177371,
+      "avg": 115291
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Terraform",
+      "Docker",
+      "CloudFormation",
+      "Container Orchestration"
+    ],
+    "description": "Professional certification in vmware cloud administration foundational offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 963,
+    "created_at": "2025-09-11T18:32:31.467878",
+    "updated_at": "2025-09-11T18:32:31.467879"
+  },
+  {
+    "id": 277,
+    "slug": "red-networking-specialist-1",
+    "name": "Red Networking Specialist",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 388,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 289,
+    "job_postings": 12,
+    "salary": {
+      "min": 88467,
+      "max": 208159,
+      "avg": 135303
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "DevOps",
+      "Serverless",
+      "CloudFormation",
+      "AWS",
+      "Google Cloud",
+      "Docker",
+      "Azure"
+    ],
+    "description": "Professional certification in red networking specialist offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 970,
+    "created_at": "2025-09-11T18:32:31.466264",
+    "updated_at": "2025-09-11T18:32:31.466265"
+  },
+  {
+    "id": 250,
+    "slug": "certified-cloud-software-expert",
+    "name": "Certified Cloud Software Expert",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 244,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 220,
+    "job_postings": 648,
+    "salary": {
+      "min": 78703,
+      "max": 185185,
+      "avg": 120370
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Serverless",
+      "Container Orchestration",
+      "Terraform",
+      "Google Cloud",
+      "AWS",
+      "Azure"
+    ],
+    "description": "Professional certification in certified cloud software expert offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 976,
+    "created_at": "2025-09-11T18:32:31.465157",
+    "updated_at": "2025-09-11T18:32:31.465158"
+  },
+  {
+    "id": 260,
+    "slug": "hybrid-cloud-development-certification",
+    "name": "Hybrid Cloud Development Certification",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 245,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 332,
+    "job_postings": 9,
+    "salary": {
+      "min": 75365,
+      "max": 177330,
+      "avg": 115265
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Container Orchestration",
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Azure",
+      "DevOps",
+      "AWS",
+      "Serverless",
+      "Google Cloud"
+    ],
+    "description": "Professional certification in hybrid cloud development certification offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 977,
+    "created_at": "2025-09-11T18:32:31.465569",
+    "updated_at": "2025-09-11T18:32:31.465571"
+  },
+  {
+    "id": 244,
+    "slug": "kubernetes-storage-specialist",
+    "name": "Kubernetes Storage Specialist",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 392,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 97,
+    "job_postings": 514,
+    "salary": {
+      "min": 88797,
+      "max": 208935,
+      "avg": 135808
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Azure",
+      "Microservices"
+    ],
+    "description": "Professional certification in kubernetes storage specialist offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 992,
+    "created_at": "2025-09-11T18:32:31.464913",
+    "updated_at": "2025-09-11T18:32:31.464914"
+  },
+  {
+    "id": 286,
+    "slug": "multi-cloud-architecture-certification",
+    "name": "Multi-Cloud Architecture Certification",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 345,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 334,
+    "job_postings": 77,
+    "salary": {
+      "min": 85854,
+      "max": 202009,
+      "avg": 131306
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "CloudFormation",
+      "Docker",
+      "DevOps",
+      "Kubernetes",
+      "Azure",
+      "Terraform",
+      "Google Cloud"
+    ],
+    "description": "Professional certification in multi-cloud architecture certification offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 1009,
+    "created_at": "2025-09-11T18:32:31.466658",
+    "updated_at": "2025-09-11T18:32:31.466660"
+  },
+  {
+    "id": 308,
+    "slug": "red-database-specialist-1",
+    "name": "Red Database Specialist",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 524,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 259,
+    "job_postings": 88,
+    "salary": {
+      "min": 75400,
+      "max": 177413,
+      "avg": 115318
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "DevOps",
+      "CloudFormation",
+      "Docker",
+      "Container Orchestration"
+    ],
+    "description": "Professional certification in red database specialist offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 1054,
+    "created_at": "2025-09-11T18:32:31.467662",
+    "updated_at": "2025-09-11T18:32:31.467663"
+  },
+  {
+    "id": 266,
+    "slug": "amazon-cloud-strategy-master",
+    "name": "Amazon Cloud Strategy Master",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "3 weeks",
+    "cost": 125,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 275,
+    "job_postings": 42,
+    "salary": {
+      "min": 84936,
+      "max": 199850,
+      "avg": 129902
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Docker",
+      "Azure",
+      "CloudFormation",
+      "Google Cloud",
+      "Container Orchestration",
+      "Serverless"
+    ],
+    "description": "Professional certification in amazon cloud strategy master offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1090,
+    "created_at": "2025-09-11T18:32:31.465812",
+    "updated_at": "2025-09-11T18:32:31.465814"
+  },
+  {
+    "id": 257,
+    "slug": "certified-cloud-infrastructure-practitioner",
+    "name": "Certified Cloud Infrastructure Practitioner",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 227,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 55,
+    "job_postings": 117,
+    "salary": {
+      "min": 94938,
+      "max": 223384,
+      "avg": 145200
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "CloudFormation",
+      "DevOps",
+      "Serverless",
+      "Docker",
+      "Google Cloud",
+      "Kubernetes",
+      "Microservices"
+    ],
+    "description": "Professional certification in certified cloud infrastructure practitioner offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1109,
+    "created_at": "2025-09-11T18:32:31.465449",
+    "updated_at": "2025-09-11T18:32:31.465450"
+  },
+  {
+    "id": 323,
+    "slug": "azure-architecture-certification-1",
+    "name": "Azure Architecture Certification",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 506,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 264,
+    "job_postings": 9,
+    "salary": {
+      "min": 87518,
+      "max": 205925,
+      "avg": 133851
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Container Orchestration",
+      "Google Cloud",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Azure",
+      "Serverless"
+    ],
+    "description": "Professional certification in azure architecture certification offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 1113,
+    "created_at": "2025-09-11T18:32:31.468302",
+    "updated_at": "2025-09-11T18:32:31.468303"
+  },
+  {
+    "id": 269,
+    "slug": "cloud-solutions-architect-lead",
+    "name": "Cloud Solutions Architect Lead",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 190,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 193,
+    "job_postings": 404,
+    "salary": {
+      "min": 89253,
+      "max": 210009,
+      "avg": 136505
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "CloudFormation",
+      "Microservices",
+      "AWS",
+      "Azure",
+      "Serverless",
+      "Kubernetes"
+    ],
+    "description": "Professional certification in cloud solutions architect lead offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1124,
+    "created_at": "2025-09-11T18:32:31.465936",
+    "updated_at": "2025-09-11T18:32:31.465938"
+  },
+  {
+    "id": 255,
+    "slug": "red-networking-specialist",
+    "name": "Red Networking Specialist",
+    "issuer": "Red Hat",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "4 weeks",
+    "cost": 444,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 19,
+    "job_postings": 303,
+    "salary": {
+      "min": 74311,
+      "max": 174850,
+      "avg": 113653
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "Serverless",
+      "Container Orchestration",
+      "Azure",
+      "AWS"
+    ],
+    "description": "Professional certification in red networking specialist offered by Red Hat. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1163,
+    "created_at": "2025-09-11T18:32:31.465364",
+    "updated_at": "2025-09-11T18:32:31.465366"
+  },
+  {
+    "id": 279,
+    "slug": "multi-cloud-management-certification",
+    "name": "Multi-Cloud Management Certification",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 177,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 149,
+    "job_postings": 48,
+    "salary": {
+      "min": 77202,
+      "max": 181653,
+      "avg": 118074
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Azure",
+      "DevOps",
+      "Serverless",
+      "Google Cloud",
+      "Terraform",
+      "Kubernetes",
+      "Microservices",
+      "Docker",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in multi-cloud management certification offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "ranking": 1186,
+    "created_at": "2025-09-11T18:32:31.466345",
+    "updated_at": "2025-09-11T18:32:31.466347"
+  },
+  {
+    "id": 283,
+    "slug": "multi-cloud-analytics-certification-1",
+    "name": "Multi-Cloud Analytics Certification",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "cloud-computing",
+    "level": "Foundational",
+    "duration": "4 weeks",
+    "cost": 155,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 158,
+    "job_postings": 116,
+    "salary": {
+      "min": 80599,
+      "max": 189644,
+      "avg": 123269
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Kubernetes",
+      "Microservices",
+      "Google Cloud",
+      "DevOps",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in multi-cloud analytics certification offered by Amazon Web Services (AWS). Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1213,
+    "created_at": "2025-09-11T18:32:31.466538",
+    "updated_at": "2025-09-11T18:32:31.466540"
+  },
+  {
+    "id": 312,
+    "slug": "kubernetes-cloud-analytics-lead",
+    "name": "Kubernetes Cloud Analytics Lead",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 386,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 194,
+    "job_postings": 178,
+    "salary": {
+      "min": 95116,
+      "max": 223804,
+      "avg": 145472
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "AWS",
+      "Microservices",
+      "Terraform",
+      "Kubernetes",
+      "DevOps",
+      "Serverless"
+    ],
+    "description": "Professional certification in kubernetes cloud analytics lead offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 1239,
+    "created_at": "2025-09-11T18:32:31.467835",
+    "updated_at": "2025-09-11T18:32:31.467836"
+  },
+  {
+    "id": 311,
+    "slug": "hybrid-cloud-security-certification-1",
+    "name": "Hybrid Cloud Security Certification",
+    "issuer": "Microsoft",
+    "domain": "cloud-computing",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 150,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 142,
+    "job_postings": 196,
+    "salary": {
+      "min": 79041,
+      "max": 185980,
+      "avg": 120887
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Google Cloud",
+      "CloudFormation",
+      "Azure",
+      "Serverless",
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "DevOps",
+      "Microservices"
+    ],
+    "description": "Professional certification in hybrid cloud security certification offered by Microsoft. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1264,
+    "created_at": "2025-09-11T18:32:31.467789",
+    "updated_at": "2025-09-11T18:32:31.467791"
+  },
+  {
+    "id": 316,
+    "slug": "kubernetes-machine-learning-specialist",
+    "name": "Kubernetes Machine Learning Specialist",
+    "issuer": "Kubernetes",
+    "domain": "cloud-computing",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 275,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 141,
+    "job_postings": 18,
+    "salary": {
+      "min": 90864,
+      "max": 213799,
+      "avg": 138969
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Terraform",
+      "AWS",
+      "Azure",
+      "Container Orchestration",
+      "Google Cloud",
+      "DevOps",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in kubernetes machine learning specialist offered by Kubernetes. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 1295,
+    "created_at": "2025-09-11T18:32:31.468005",
+    "updated_at": "2025-09-11T18:32:31.468006"
+  },
+  {
+    "id": 301,
+    "slug": "ibm-machine-learning-specialist-1",
+    "name": "IBM Machine Learning Specialist",
+    "issuer": "IBM",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 232,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 103,
+    "job_postings": 35,
+    "salary": {
+      "min": 79774,
+      "max": 187705,
+      "avg": 122008
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Kubernetes",
+      "Azure",
+      "DevOps",
+      "Docker",
+      "Microservices",
+      "Container Orchestration"
+    ],
+    "description": "Professional certification in ibm machine learning specialist offered by IBM. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1322,
+    "created_at": "2025-09-11T18:32:31.467253",
+    "updated_at": "2025-09-11T18:32:31.467254"
+  },
+  {
+    "id": 247,
+    "slug": "hybrid-cloud-engineering-certification",
+    "name": "Hybrid Cloud Engineering Certification",
+    "issuer": "Google Cloud",
+    "domain": "cloud-computing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 178,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 95,
+    "job_postings": 24,
+    "salary": {
+      "min": 95635,
+      "max": 225024,
+      "avg": 146265
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CloudFormation",
+      "Terraform",
+      "DevOps",
+      "Azure",
+      "Serverless"
+    ],
+    "description": "Professional certification in hybrid cloud engineering certification offered by Google Cloud. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1325,
+    "created_at": "2025-09-11T18:32:31.465035",
+    "updated_at": "2025-09-11T18:32:31.465036"
+  },
+  {
+    "id": 300,
+    "slug": "cloud-data-architect-master",
+    "name": "Cloud Data Architect Master",
+    "issuer": "VMware",
+    "domain": "cloud-computing",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 330,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 19,
+    "job_postings": 439,
+    "salary": {
+      "min": 89888,
+      "max": 211503,
+      "avg": 137476
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Google Cloud",
+      "Azure",
+      "Serverless",
+      "Microservices",
+      "CloudFormation"
+    ],
+    "description": "Professional certification in cloud data architect master offered by VMware. Validates expertise in Cloud Computing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 1330,
+    "created_at": "2025-09-11T18:32:31.467213",
+    "updated_at": "2025-09-11T18:32:31.467215"
+  }
+]
