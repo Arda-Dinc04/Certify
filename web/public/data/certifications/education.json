@@ -1,0 +1,513 @@
+[
+  {
+    "id": 1360,
+    "slug": "certified-e-learning-practitioner",
+    "name": "Certified E-Learning Practitioner",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 369,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 779,
+    "job_postings": 423,
+    "salary": {
+      "min": 42352,
+      "max": 84705,
+      "avg": 58235
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Instructional Design",
+      "Assessment",
+      "Curriculum Development",
+      "Training Delivery",
+      "Learning Management Systems",
+      "Adult Learning",
+      "E-Learning",
+      "Educational Technology"
+    ],
+    "description": "Professional certification in certified e-learning practitioner offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 35,
+    "created_at": "2025-09-11T18:32:31.511979",
+    "updated_at": "2025-09-11T18:32:31.511980"
+  },
+  {
+    "id": 1366,
+    "slug": "instructional-design-architecture-certification",
+    "name": "Instructional Design Architecture Certification",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 233,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 716,
+    "job_postings": 15,
+    "salary": {
+      "min": 43967,
+      "max": 87934,
+      "avg": 60455
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Educational Technology",
+      "Learning Management Systems",
+      "Assessment",
+      "Training Delivery",
+      "Curriculum Development",
+      "Adult Learning"
+    ],
+    "description": "Professional certification in instructional design architecture certification offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 72,
+    "created_at": "2025-09-11T18:32:31.512279",
+    "updated_at": "2025-09-11T18:32:31.512280"
+  },
+  {
+    "id": 1364,
+    "slug": "atd-education-strategy-senior",
+    "name": "ATD Education Strategy Senior",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 233,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 605,
+    "job_postings": 16,
+    "salary": {
+      "min": 41882,
+      "max": 83764,
+      "avg": 57588
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Instructional Design",
+      "Assessment",
+      "Learning Management Systems",
+      "Training Delivery",
+      "E-Learning",
+      "Educational Technology",
+      "Adult Learning",
+      "Curriculum Development"
+    ],
+    "description": "Professional certification in atd education strategy senior offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 192,
+    "created_at": "2025-09-11T18:32:31.512145",
+    "updated_at": "2025-09-11T18:32:31.512146"
+  },
+  {
+    "id": 1357,
+    "slug": "e-learning-architecture-certification",
+    "name": "E-Learning Architecture Certification",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 213,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 617,
+    "job_postings": 34,
+    "salary": {
+      "min": 38225,
+      "max": 76451,
+      "avg": 52560
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Educational Technology",
+      "Assessment",
+      "Training Delivery",
+      "Learning Management Systems",
+      "Instructional Design"
+    ],
+    "description": "Professional certification in e-learning architecture certification offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 238,
+    "created_at": "2025-09-11T18:32:31.511851",
+    "updated_at": "2025-09-11T18:32:31.511852"
+  },
+  {
+    "id": 1367,
+    "slug": "certified-e-learning-professional",
+    "name": "Certified E-Learning Professional",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 242,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 464,
+    "job_postings": 567,
+    "salary": {
+      "min": 34682,
+      "max": 69364,
+      "avg": 47688
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Educational Technology",
+      "Instructional Design",
+      "Learning Management Systems",
+      "Training Delivery"
+    ],
+    "description": "Professional certification in certified e-learning professional offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 502,
+    "created_at": "2025-09-11T18:32:31.512328",
+    "updated_at": "2025-09-11T18:32:31.512330"
+  },
+  {
+    "id": 1362,
+    "slug": "adult-learning-security-certification",
+    "name": "Adult Learning Security Certification",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 220,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 366,
+    "job_postings": 86,
+    "salary": {
+      "min": 37750,
+      "max": 75500,
+      "avg": 51906
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Curriculum Development",
+      "E-Learning",
+      "Training Delivery",
+      "Instructional Design",
+      "Assessment",
+      "Educational Technology",
+      "Adult Learning",
+      "Learning Management Systems"
+    ],
+    "description": "Professional certification in adult learning security certification offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 603,
+    "created_at": "2025-09-11T18:32:31.512063",
+    "updated_at": "2025-09-11T18:32:31.512064"
+  },
+  {
+    "id": 1368,
+    "slug": "licensed-teacher-lead",
+    "name": "Licensed Teacher Lead",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 229,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 547,
+    "job_postings": 60,
+    "salary": {
+      "min": 40859,
+      "max": 81718,
+      "avg": 56181
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Educational Technology",
+      "E-Learning",
+      "Adult Learning",
+      "Training Delivery",
+      "Assessment",
+      "Curriculum Development"
+    ],
+    "description": "Professional certification in licensed teacher lead offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 650,
+    "created_at": "2025-09-11T18:32:31.512373",
+    "updated_at": "2025-09-11T18:32:31.512374"
+  },
+  {
+    "id": 1359,
+    "slug": "adult-learning-strategy-certification",
+    "name": "Adult Learning Strategy Certification",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 276,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 345,
+    "job_postings": 146,
+    "salary": {
+      "min": 42837,
+      "max": 85674,
+      "avg": 58901
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Training Delivery",
+      "Assessment",
+      "Adult Learning",
+      "E-Learning",
+      "Educational Technology",
+      "Instructional Design",
+      "Learning Management Systems",
+      "Curriculum Development"
+    ],
+    "description": "Professional certification in adult learning strategy certification offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 680,
+    "created_at": "2025-09-11T18:32:31.511936",
+    "updated_at": "2025-09-11T18:32:31.511938"
+  },
+  {
+    "id": 1365,
+    "slug": "licensed-teacher-senior",
+    "name": "Licensed Teacher Senior",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 222,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 323,
+    "job_postings": 140,
+    "salary": {
+      "min": 34939,
+      "max": 69879,
+      "avg": 48042
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Assessment",
+      "Training Delivery",
+      "Educational Technology",
+      "Instructional Design",
+      "E-Learning"
+    ],
+    "description": "Professional certification in licensed teacher senior offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 865,
+    "created_at": "2025-09-11T18:32:31.512207",
+    "updated_at": "2025-09-11T18:32:31.512210"
+  },
+  {
+    "id": 1363,
+    "slug": "atd-education-management-foundational",
+    "name": "ATD Education Management Foundational",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 236,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 87,
+    "job_postings": 1733,
+    "salary": {
+      "min": 38775,
+      "max": 77550,
+      "avg": 53315
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Learning Management Systems",
+      "E-Learning",
+      "Training Delivery",
+      "Educational Technology"
+    ],
+    "description": "Professional certification in atd education management foundational offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 967,
+    "created_at": "2025-09-11T18:32:31.512105",
+    "updated_at": "2025-09-11T18:32:31.512106"
+  },
+  {
+    "id": 1358,
+    "slug": "gamification-security-certificate",
+    "name": "Gamification Security Certificate",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 325,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 117,
+    "job_postings": 188,
+    "salary": {
+      "min": 44283,
+      "max": 88566,
+      "avg": 60889
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Learning Management Systems",
+      "E-Learning",
+      "Adult Learning",
+      "Instructional Design",
+      "Assessment",
+      "Training Delivery",
+      "Curriculum Development",
+      "Educational Technology"
+    ],
+    "description": "Professional certification in gamification security certificate offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1059,
+    "created_at": "2025-09-11T18:32:31.511894",
+    "updated_at": "2025-09-11T18:32:31.511895"
+  },
+  {
+    "id": 1361,
+    "slug": "instructional-design-analytics-certification",
+    "name": "Instructional Design Analytics Certification",
+    "issuer": "ATD",
+    "domain": "education",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 405,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 30,
+    "job_postings": 741,
+    "salary": {
+      "min": 40774,
+      "max": 81548,
+      "avg": 56064
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Curriculum Development",
+      "Learning Management Systems",
+      "Assessment",
+      "Training Delivery",
+      "Adult Learning",
+      "E-Learning"
+    ],
+    "description": "Professional certification in instructional design analytics certification offered by ATD. Validates expertise in Education and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1311,
+    "created_at": "2025-09-11T18:32:31.512021",
+    "updated_at": "2025-09-11T18:32:31.512022"
+  }
+]

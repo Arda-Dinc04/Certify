@@ -1,0 +1,1026 @@
+[
+  {
+    "id": 1278,
+    "slug": "certified-materials-analyst",
+    "name": "Certified Materials Analyst",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 685,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 714,
+    "job_postings": 11,
+    "salary": {
+      "min": 66674,
+      "max": 133348,
+      "avg": 90486
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Manufacturing Processes",
+      "CAD Design",
+      "Product Development",
+      "Project Management",
+      "Materials Science",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "FEA Analysis"
+    ],
+    "description": "Professional certification in certified materials analyst offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 200,
+    "created_at": "2025-09-11T18:32:31.508181",
+    "updated_at": "2025-09-11T18:32:31.508182"
+  },
+  {
+    "id": 1261,
+    "slug": "solidworks-strategy-certificate",
+    "name": "SolidWorks Strategy Certificate",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 646,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 789,
+    "job_postings": 275,
+    "salary": {
+      "min": 61865,
+      "max": 123730,
+      "avg": 83960
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "CAD Design",
+      "Materials Science",
+      "Manufacturing Processes",
+      "Product Development",
+      "FEA Analysis"
+    ],
+    "description": "Professional certification in solidworks strategy certificate offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 236,
+    "created_at": "2025-09-11T18:32:31.507457",
+    "updated_at": "2025-09-11T18:32:31.507458"
+  },
+  {
+    "id": 1283,
+    "slug": "asme-mechanical-administration-master",
+    "name": "ASME Mechanical Administration Master",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 425,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 659,
+    "job_postings": 702,
+    "salary": {
+      "min": 78515,
+      "max": 157030,
+      "avg": 106556
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Materials Science",
+      "CAD Design",
+      "Fluid Mechanics",
+      "FEA Analysis",
+      "Product Development",
+      "Manufacturing Processes",
+      "Project Management",
+      "Thermodynamics"
+    ],
+    "description": "Professional certification in asme mechanical administration master offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 239,
+    "created_at": "2025-09-11T18:32:31.508399",
+    "updated_at": "2025-09-11T18:32:31.508401"
+  },
+  {
+    "id": 1282,
+    "slug": "asme-mechanical-administration-professional",
+    "name": "ASME Mechanical Administration Professional",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 475,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 746,
+    "job_postings": 144,
+    "salary": {
+      "min": 74710,
+      "max": 149421,
+      "avg": 101393
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Materials Science",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "FEA Analysis"
+    ],
+    "description": "Professional certification in asme mechanical administration professional offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 262,
+    "created_at": "2025-09-11T18:32:31.508355",
+    "updated_at": "2025-09-11T18:32:31.508356"
+  },
+  {
+    "id": 1264,
+    "slug": "professional-designer-foundational",
+    "name": "Professional Designer Foundational",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 662,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 701,
+    "job_postings": 547,
+    "salary": {
+      "min": 69828,
+      "max": 139657,
+      "avg": 94767
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "FEA Analysis",
+      "Product Development",
+      "Materials Science",
+      "CAD Design",
+      "Manufacturing Processes",
+      "Thermodynamics",
+      "Project Management",
+      "Fluid Mechanics"
+    ],
+    "description": "Professional certification in professional designer foundational offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 332,
+    "created_at": "2025-09-11T18:32:31.507581",
+    "updated_at": "2025-09-11T18:32:31.507582"
+  },
+  {
+    "id": 1266,
+    "slug": "asme-mechanical-administration-senior",
+    "name": "ASME Mechanical Administration Senior",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 357,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 459,
+    "job_postings": 34,
+    "salary": {
+      "min": 70172,
+      "max": 140344,
+      "avg": 95233
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "FEA Analysis",
+      "Materials Science",
+      "Product Development",
+      "Manufacturing Processes",
+      "Fluid Mechanics"
+    ],
+    "description": "Professional certification in asme mechanical administration senior offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 509,
+    "created_at": "2025-09-11T18:32:31.507670",
+    "updated_at": "2025-09-11T18:32:31.507671"
+  },
+  {
+    "id": 1271,
+    "slug": "certified-fluid-systems-practitioner",
+    "name": "Certified Fluid Systems Practitioner",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 585,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 184,
+    "job_postings": 2741,
+    "salary": {
+      "min": 75938,
+      "max": 151876,
+      "avg": 103059
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Materials Science",
+      "Fluid Mechanics",
+      "CAD Design",
+      "Manufacturing Processes",
+      "FEA Analysis"
+    ],
+    "description": "Professional certification in certified fluid systems practitioner offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English"
+    ],
+    "ranking": 512,
+    "created_at": "2025-09-11T18:32:31.507885",
+    "updated_at": "2025-09-11T18:32:31.507886"
+  },
+  {
+    "id": 1276,
+    "slug": "asme-mechanical-administration-associate",
+    "name": "ASME Mechanical Administration Associate",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 391,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 660,
+    "job_postings": 6,
+    "salary": {
+      "min": 66617,
+      "max": 133235,
+      "avg": 90409
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "CAD Design",
+      "Project Management",
+      "FEA Analysis",
+      "Fluid Mechanics"
+    ],
+    "description": "Professional certification in asme mechanical administration associate offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 546,
+    "created_at": "2025-09-11T18:32:31.508098",
+    "updated_at": "2025-09-11T18:32:31.508099"
+  },
+  {
+    "id": 1262,
+    "slug": "asme-mechanical-management-associate",
+    "name": "ASME Mechanical Management Associate",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 409,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 479,
+    "job_postings": 153,
+    "salary": {
+      "min": 62472,
+      "max": 124944,
+      "avg": 84783
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Thermodynamics",
+      "Product Development",
+      "Fluid Mechanics",
+      "Project Management",
+      "Materials Science",
+      "Manufacturing Processes"
+    ],
+    "description": "Professional certification in asme mechanical management associate offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 634,
+    "created_at": "2025-09-11T18:32:31.507498",
+    "updated_at": "2025-09-11T18:32:31.507499"
+  },
+  {
+    "id": 1280,
+    "slug": "plm-management-certification",
+    "name": "PLM Management Certification",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 388,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 592,
+    "job_postings": 30,
+    "salary": {
+      "min": 72272,
+      "max": 144544,
+      "avg": 98083
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Thermodynamics",
+      "Project Management",
+      "FEA Analysis",
+      "Materials Science",
+      "Manufacturing Processes",
+      "Product Development"
+    ],
+    "description": "Professional certification in plm management certification offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 655,
+    "created_at": "2025-09-11T18:32:31.508268",
+    "updated_at": "2025-09-11T18:32:31.508269"
+  },
+  {
+    "id": 1270,
+    "slug": "asme-mechanical-management-professional",
+    "name": "ASME Mechanical Management Professional",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 531,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 553,
+    "job_postings": 10,
+    "salary": {
+      "min": 63343,
+      "max": 126687,
+      "avg": 85966
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Thermodynamics",
+      "Manufacturing Processes",
+      "CAD Design",
+      "Project Management",
+      "Fluid Mechanics",
+      "Materials Science",
+      "Product Development",
+      "FEA Analysis"
+    ],
+    "description": "Professional certification in asme mechanical management professional offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 683,
+    "created_at": "2025-09-11T18:32:31.507842",
+    "updated_at": "2025-09-11T18:32:31.507843"
+  },
+  {
+    "id": 1284,
+    "slug": "solidworks-strategy-certificate-1",
+    "name": "SolidWorks Strategy Certificate",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 415,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 282,
+    "job_postings": 261,
+    "salary": {
+      "min": 79188,
+      "max": 158377,
+      "avg": 107470
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Materials Science",
+      "Product Development",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "CAD Design",
+      "FEA Analysis",
+      "Project Management",
+      "Manufacturing Processes"
+    ],
+    "description": "Professional certification in solidworks strategy certificate offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 770,
+    "created_at": "2025-09-11T18:32:31.508441",
+    "updated_at": "2025-09-11T18:32:31.508443"
+  },
+  {
+    "id": 1281,
+    "slug": "manufacturing-architecture-certification-1",
+    "name": "Manufacturing Architecture Certification",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 563,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 383,
+    "job_postings": 173,
+    "salary": {
+      "min": 77713,
+      "max": 155426,
+      "avg": 105468
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Project Management",
+      "FEA Analysis",
+      "Product Development",
+      "Thermodynamics",
+      "Manufacturing Processes",
+      "Fluid Mechanics",
+      "Materials Science",
+      "CAD Design"
+    ],
+    "description": "Professional certification in manufacturing architecture certification offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 771,
+    "created_at": "2025-09-11T18:32:31.508311",
+    "updated_at": "2025-09-11T18:32:31.508312"
+  },
+  {
+    "id": 1268,
+    "slug": "certified-materials-consultant",
+    "name": "Certified Materials Consultant",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 522,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 480,
+    "job_postings": 56,
+    "salary": {
+      "min": 73362,
+      "max": 146724,
+      "avg": 99563
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Manufacturing Processes",
+      "Project Management",
+      "Materials Science",
+      "Thermodynamics",
+      "CAD Design",
+      "Fluid Mechanics",
+      "FEA Analysis"
+    ],
+    "description": "Professional certification in certified materials consultant offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 844,
+    "created_at": "2025-09-11T18:32:31.507756",
+    "updated_at": "2025-09-11T18:32:31.507758"
+  },
+  {
+    "id": 1267,
+    "slug": "cad-management-certification",
+    "name": "CAD Management Certification",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 692,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 414,
+    "job_postings": 660,
+    "salary": {
+      "min": 78653,
+      "max": 157306,
+      "avg": 106743
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Project Management",
+      "FEA Analysis",
+      "Materials Science",
+      "Product Development",
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "CAD Design",
+      "Manufacturing Processes"
+    ],
+    "description": "Professional certification in cad management certification offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "French"
+    ],
+    "ranking": 853,
+    "created_at": "2025-09-11T18:32:31.507715",
+    "updated_at": "2025-09-11T18:32:31.507716"
+  },
+  {
+    "id": 1265,
+    "slug": "professional-designer-professional",
+    "name": "Professional Designer Professional",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 430,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 448,
+    "job_postings": 77,
+    "salary": {
+      "min": 67705,
+      "max": 135410,
+      "avg": 91885
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Materials Science",
+      "FEA Analysis",
+      "Thermodynamics",
+      "Manufacturing Processes",
+      "Project Management",
+      "Fluid Mechanics",
+      "Product Development",
+      "CAD Design"
+    ],
+    "description": "Professional certification in professional designer professional offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 925,
+    "created_at": "2025-09-11T18:32:31.507623",
+    "updated_at": "2025-09-11T18:32:31.507624"
+  },
+  {
+    "id": 1274,
+    "slug": "asme-mechanical-analytics-professional",
+    "name": "ASME Mechanical Analytics Professional",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 480,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 304,
+    "job_postings": 133,
+    "salary": {
+      "min": 72774,
+      "max": 145548,
+      "avg": 98765
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Materials Science",
+      "Thermodynamics",
+      "Product Development",
+      "CAD Design",
+      "Manufacturing Processes",
+      "Project Management",
+      "FEA Analysis",
+      "Fluid Mechanics"
+    ],
+    "description": "Professional certification in asme mechanical analytics professional offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 944,
+    "created_at": "2025-09-11T18:32:31.508012",
+    "updated_at": "2025-09-11T18:32:31.508013"
+  },
+  {
+    "id": 1275,
+    "slug": "professional-analyst-foundational",
+    "name": "Professional Analyst Foundational",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 584,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 165,
+    "job_postings": 717,
+    "salary": {
+      "min": 65216,
+      "max": 130433,
+      "avg": 88508
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Manufacturing Processes",
+      "Product Development",
+      "Project Management",
+      "FEA Analysis",
+      "Thermodynamics"
+    ],
+    "description": "Professional certification in professional analyst foundational offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 994,
+    "created_at": "2025-09-11T18:32:31.508052",
+    "updated_at": "2025-09-11T18:32:31.508053"
+  },
+  {
+    "id": 1263,
+    "slug": "solidworks-analytics-certificate",
+    "name": "SolidWorks Analytics Certificate",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 659,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 322,
+    "job_postings": 10,
+    "salary": {
+      "min": 76913,
+      "max": 153826,
+      "avg": 104382
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Product Development",
+      "Fluid Mechanics",
+      "Manufacturing Processes",
+      "Project Management"
+    ],
+    "description": "Professional certification in solidworks analytics certificate offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1080,
+    "created_at": "2025-09-11T18:32:31.507539",
+    "updated_at": "2025-09-11T18:32:31.507541"
+  },
+  {
+    "id": 1277,
+    "slug": "asme-mechanical-engineering-senior",
+    "name": "ASME Mechanical Engineering Senior",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Specialty",
+    "duration": "2 weeks",
+    "cost": 480,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 186,
+    "job_postings": 37,
+    "salary": {
+      "min": 77750,
+      "max": 155501,
+      "avg": 105519
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Project Management",
+      "Product Development",
+      "Manufacturing Processes",
+      "FEA Analysis"
+    ],
+    "description": "Professional certification in asme mechanical engineering senior offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1175,
+    "created_at": "2025-09-11T18:32:31.508138",
+    "updated_at": "2025-09-11T18:32:31.508140"
+  },
+  {
+    "id": 1273,
+    "slug": "catia-management-certificate",
+    "name": "CATIA Management Certificate",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 385,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 153,
+    "job_postings": 153,
+    "salary": {
+      "min": 76353,
+      "max": 152706,
+      "avg": 103622
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Materials Science",
+      "Project Management",
+      "Product Development",
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "description": "Professional certification in catia management certificate offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 1203,
+    "created_at": "2025-09-11T18:32:31.507971",
+    "updated_at": "2025-09-11T18:32:31.507972"
+  },
+  {
+    "id": 1279,
+    "slug": "ansys-administration-certificate",
+    "name": "ANSYS Administration Certificate",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 630,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 120,
+    "job_postings": 6,
+    "salary": {
+      "min": 73587,
+      "max": 147175,
+      "avg": 99868
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "FEA Analysis",
+      "Materials Science",
+      "Fluid Mechanics",
+      "Project Management",
+      "Product Development",
+      "Thermodynamics",
+      "CAD Design",
+      "Manufacturing Processes"
+    ],
+    "description": "Professional certification in ansys administration certificate offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1265,
+    "created_at": "2025-09-11T18:32:31.508225",
+    "updated_at": "2025-09-11T18:32:31.508226"
+  },
+  {
+    "id": 1272,
+    "slug": "cfd-security-certification",
+    "name": "CFD Security Certification",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 553,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 57,
+    "job_postings": 183,
+    "salary": {
+      "min": 70707,
+      "max": 141415,
+      "avg": 95960
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Materials Science",
+      "Project Management",
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Manufacturing Processes",
+      "FEA Analysis",
+      "CAD Design",
+      "Product Development"
+    ],
+    "description": "Professional certification in cfd security certification offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 1282,
+    "created_at": "2025-09-11T18:32:31.507929",
+    "updated_at": "2025-09-11T18:32:31.507930"
+  },
+  {
+    "id": 1269,
+    "slug": "professional-analyst-master",
+    "name": "Professional Analyst Master",
+    "issuer": "ASME",
+    "domain": "mechanical-engineering",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 624,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 137,
+    "job_postings": 194,
+    "salary": {
+      "min": 75089,
+      "max": 150179,
+      "avg": 101907
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Project Management",
+      "CAD Design",
+      "Materials Science",
+      "FEA Analysis",
+      "Thermodynamics"
+    ],
+    "description": "Professional certification in professional analyst master offered by ASME. Validates expertise in Mechanical Engineering and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 1326,
+    "created_at": "2025-09-11T18:32:31.507801",
+    "updated_at": "2025-09-11T18:32:31.507802"
+  }
+]

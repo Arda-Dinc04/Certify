@@ -1,0 +1,269 @@
+{
+  "total_certifications": 40,
+  "domain_distribution": {
+    "CS/IT": 16,
+    "Engineering / Business": 2,
+    "Healthcare": 10,
+    "Finance": 12
+  },
+  "overall_coverage": {
+    "exam_fee_usd": {
+      "total": 40,
+      "non_null": 40,
+      "coverage_pct": 100.0
+    },
+    "recommended_hours_min": {
+      "total": 40,
+      "non_null": 40,
+      "coverage_pct": 100.0
+    },
+    "recommended_hours_max": {
+      "total": 40,
+      "non_null": 40,
+      "coverage_pct": 100.0
+    },
+    "validity_years": {
+      "total": 40,
+      "non_null": 29,
+      "coverage_pct": 72.5
+    },
+    "delivery": {
+      "total": 40,
+      "non_null": 40,
+      "coverage_pct": 100.0
+    },
+    "format": {
+      "total": 40,
+      "non_null": 40,
+      "coverage_pct": 100.0
+    },
+    "regions": {
+      "total": 40,
+      "non_null": 40,
+      "coverage_pct": 100.0
+    },
+    "level": {
+      "total": 40,
+      "non_null": 40,
+      "coverage_pct": 100.0
+    },
+    "license_authority": {
+      "total": 40,
+      "non_null": 7,
+      "coverage_pct": 17.5
+    },
+    "prerequisites": {
+      "total": 40,
+      "non_null": 10,
+      "coverage_pct": 25.0
+    },
+    "ce_credits": {
+      "total": 40,
+      "non_null": 8,
+      "coverage_pct": 20.0
+    }
+  },
+  "domain_coverage": {
+    "CS/IT": {
+      "total_certs": 16,
+      "fields": {
+        "exam_fee_usd": {
+          "non_null": 16,
+          "coverage_pct": 100.0
+        },
+        "recommended_hours_min": {
+          "non_null": 16,
+          "coverage_pct": 100.0
+        },
+        "recommended_hours_max": {
+          "non_null": 16,
+          "coverage_pct": 100.0
+        },
+        "validity_years": {
+          "non_null": 16,
+          "coverage_pct": 100.0
+        },
+        "delivery": {
+          "non_null": 16,
+          "coverage_pct": 100.0
+        },
+        "format": {
+          "non_null": 16,
+          "coverage_pct": 100.0
+        },
+        "regions": {
+          "non_null": 16,
+          "coverage_pct": 100.0
+        },
+        "level": {
+          "non_null": 16,
+          "coverage_pct": 100.0
+        },
+        "license_authority": {
+          "non_null": 0,
+          "coverage_pct": 0.0
+        },
+        "prerequisites": {
+          "non_null": 0,
+          "coverage_pct": 0.0
+        },
+        "ce_credits": {
+          "non_null": 0,
+          "coverage_pct": 0.0
+        }
+      }
+    },
+    "Engineering / Business": {
+      "total_certs": 2,
+      "fields": {
+        "exam_fee_usd": {
+          "non_null": 2,
+          "coverage_pct": 100.0
+        },
+        "recommended_hours_min": {
+          "non_null": 2,
+          "coverage_pct": 100.0
+        },
+        "recommended_hours_max": {
+          "non_null": 2,
+          "coverage_pct": 100.0
+        },
+        "validity_years": {
+          "non_null": 2,
+          "coverage_pct": 100.0
+        },
+        "delivery": {
+          "non_null": 2,
+          "coverage_pct": 100.0
+        },
+        "format": {
+          "non_null": 2,
+          "coverage_pct": 100.0
+        },
+        "regions": {
+          "non_null": 2,
+          "coverage_pct": 100.0
+        },
+        "level": {
+          "non_null": 2,
+          "coverage_pct": 100.0
+        },
+        "license_authority": {
+          "non_null": 0,
+          "coverage_pct": 0.0
+        },
+        "prerequisites": {
+          "non_null": 0,
+          "coverage_pct": 0.0
+        },
+        "ce_credits": {
+          "non_null": 0,
+          "coverage_pct": 0.0
+        }
+      }
+    },
+    "Healthcare": {
+      "total_certs": 10,
+      "fields": {
+        "exam_fee_usd": {
+          "non_null": 10,
+          "coverage_pct": 100.0
+        },
+        "recommended_hours_min": {
+          "non_null": 10,
+          "coverage_pct": 100.0
+        },
+        "recommended_hours_max": {
+          "non_null": 10,
+          "coverage_pct": 100.0
+        },
+        "validity_years": {
+          "non_null": 7,
+          "coverage_pct": 70.0
+        },
+        "delivery": {
+          "non_null": 10,
+          "coverage_pct": 100.0
+        },
+        "format": {
+          "non_null": 10,
+          "coverage_pct": 100.0
+        },
+        "regions": {
+          "non_null": 10,
+          "coverage_pct": 100.0
+        },
+        "level": {
+          "non_null": 10,
+          "coverage_pct": 100.0
+        },
+        "license_authority": {
+          "non_null": 7,
+          "coverage_pct": 70.0
+        },
+        "prerequisites": {
+          "non_null": 10,
+          "coverage_pct": 100.0
+        },
+        "ce_credits": {
+          "non_null": 8,
+          "coverage_pct": 80.0
+        }
+      }
+    },
+    "Finance": {
+      "total_certs": 12,
+      "fields": {
+        "exam_fee_usd": {
+          "non_null": 12,
+          "coverage_pct": 100.0
+        },
+        "recommended_hours_min": {
+          "non_null": 12,
+          "coverage_pct": 100.0
+        },
+        "recommended_hours_max": {
+          "non_null": 12,
+          "coverage_pct": 100.0
+        },
+        "validity_years": {
+          "non_null": 4,
+          "coverage_pct": 33.3
+        },
+        "delivery": {
+          "non_null": 12,
+          "coverage_pct": 100.0
+        },
+        "format": {
+          "non_null": 12,
+          "coverage_pct": 100.0
+        },
+        "regions": {
+          "non_null": 12,
+          "coverage_pct": 100.0
+        },
+        "level": {
+          "non_null": 12,
+          "coverage_pct": 100.0
+        },
+        "license_authority": {
+          "non_null": 0,
+          "coverage_pct": 0.0
+        },
+        "prerequisites": {
+          "non_null": 0,
+          "coverage_pct": 0.0
+        },
+        "ce_credits": {
+          "non_null": 0,
+          "coverage_pct": 0.0
+        }
+      }
+    }
+  },
+  "source_type_distribution": {
+    "official": 18,
+    "heuristic": 17,
+    "estimate": 5
+  }
+}

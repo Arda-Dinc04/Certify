@@ -1,0 +1,239 @@
+[
+  {
+    "slug": "aws-certified-cloud-practitioner",
+    "name": "AWS Certified Cloud Practitioner",
+    "domain": "cs-it",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Foundational",
+    "exam_fee_usd": 100,
+    "price_source": "official",
+    "recommended_hours_min": 20,
+    "recommended_hours_max": 40,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "aws-certified-solutions-architect-associate",
+    "name": "AWS Certified Solutions Architect – Associate",
+    "domain": "cs-it",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Associate",
+    "exam_fee_usd": 150,
+    "price_source": "official",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 80,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "aws-certified-developer-associate",
+    "name": "AWS Certified Developer – Associate",
+    "domain": "cs-it",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Associate",
+    "exam_fee_usd": 150,
+    "price_source": "official",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 80,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "aws-certified-sysops-administrator-associate",
+    "name": "AWS Certified SysOps Administrator – Associate",
+    "domain": "cs-it",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Associate",
+    "exam_fee_usd": 150,
+    "price_source": "official",
+    "recommended_hours_min": 50,
+    "recommended_hours_max": 90,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "aws-certified-solutions-architect-professional",
+    "name": "AWS Certified Solutions Architect – Professional",
+    "domain": "cs-it",
+    "issuer": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com/certification/",
+    "level": "Professional",
+    "exam_fee_usd": 300,
+    "price_source": "official",
+    "recommended_hours_min": 80,
+    "recommended_hours_max": 120,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://aws.amazon.com/certification/",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "arrt-american-registry-of-radiologic-technologists-arrt",
+    "name": "ARRT (American Registry of Radiologic Technologists)",
+    "domain": "healthcare",
+    "issuer": "ARRT",
+    "url": "https://www.arrt.org/",
+    "level": "Foundational",
+    "exam_fee_usd": 200,
+    "price_source": "heuristic",
+    "recommended_hours_min": 1800,
+    "recommended_hours_max": 2400,
+    "hours_source": "heuristic",
+    "validity_years": 2,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782315Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.arrt.org/",
+        "checked_at": "2025-09-11T17:29:51.782315Z"
+      }
+    ],
+    "license_authority": "State licensing boards",
+    "prerequisites": "ARRT-approved education program",
+    "ce_credits": 24
+  },
+  {
+    "slug": "aws-d1-1-structural-welding-code-american-welding-society",
+    "name": "AWS D1.1 Structural Welding Code",
+    "domain": "skilled-trades",
+    "issuer": "American Welding Society",
+    "url": "https://www.aws.org/",
+    "level": "Professional",
+    "exam_fee_usd": 350,
+    "price_source": "estimate",
+    "recommended_hours_min": 200,
+    "recommended_hours_max": 400,
+    "hours_source": "heuristic",
+    "validity_years": 3,
+    "delivery": "practical test",
+    "format": "hands-on welding",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.aws.org/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  },
+  {
+    "slug": "ase-a1-engine-repair-ase",
+    "name": "ASE A1 Engine Repair",
+    "domain": "skilled-trades",
+    "issuer": "ASE",
+    "url": "https://www.ase.com/",
+    "level": "Professional",
+    "exam_fee_usd": 61,
+    "price_source": "official",
+    "recommended_hours_min": 2,
+    "recommended_hours_max": 4,
+    "hours_source": "heuristic",
+    "validity_years": 5,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://www.ase.com/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  },
+  {
+    "slug": "ase-master-automotive-technician-ase",
+    "name": "ASE Master Automotive Technician",
+    "domain": "skilled-trades",
+    "issuer": "ASE",
+    "url": "https://www.ase.com/",
+    "level": "Expert",
+    "exam_fee_usd": 500,
+    "price_source": "estimate",
+    "recommended_hours_min": 16,
+    "recommended_hours_max": 32,
+    "hours_source": "heuristic",
+    "validity_years": 5,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.ase.com/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  }
+]

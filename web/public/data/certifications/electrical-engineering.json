@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1286,
+    "slug": "control-management-certification",
+    "name": "Control Management Certification",
+    "issuer": "IEEE",
+    "domain": "electrical-engineering",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 365,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 714,
+    "job_postings": 1102,
+    "salary": {
+      "min": 68122,
+      "max": 136244,
+      "avg": 95371
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Circuit Design",
+      "Electrical Safety",
+      "Power Systems",
+      "Electronics",
+      "PLC Programming",
+      "Embedded Systems",
+      "Control Systems",
+      "Signal Processing"
+    ],
+    "description": "Professional certification in control management certification offered by IEEE. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 32,
+    "created_at": "2025-09-11T18:32:31.508536",
+    "updated_at": "2025-09-11T18:32:31.508537"
+  },
+  {
+    "id": 1295,
+    "slug": "neca-electrical-management-associate",
+    "name": "NECA Electrical Management Associate",
+    "issuer": "NECA",
+    "domain": "electrical-engineering",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 225,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 736,
+    "job_postings": 132,
+    "salary": {
+      "min": 67204,
+      "max": 134409,
+      "avg": 94086
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Control Systems",
+      "Signal Processing",
+      "Embedded Systems",
+      "Electronics"
+    ],
+    "description": "Professional certification in neca electrical management associate offered by NECA. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 63,
+    "created_at": "2025-09-11T18:32:31.508930",
+    "updated_at": "2025-09-11T18:32:31.508931"
+  },
+  {
+    "id": 1294,
+    "slug": "certified-electronics-consultant",
+    "name": "Certified Electronics Consultant",
+    "issuer": "NECA",
+    "domain": "electrical-engineering",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 284,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 582,
+    "job_postings": 629,
+    "salary": {
+      "min": 69520,
+      "max": 139041,
+      "avg": 97329
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Embedded Systems",
+      "PLC Programming",
+      "Electronics",
+      "Control Systems",
+      "Power Systems",
+      "Circuit Design",
+      "Electrical Safety",
+      "Signal Processing"
+    ],
+    "description": "Professional certification in certified electronics consultant offered by NECA. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 253,
+    "created_at": "2025-09-11T18:32:31.508890",
+    "updated_at": "2025-09-11T18:32:31.508891"
+  },
+  {
+    "id": 1287,
+    "slug": "ieee-electrical-management-senior",
+    "name": "IEEE Electrical Management Senior",
+    "issuer": "IEEE",
+    "domain": "electrical-engineering",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 376,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 741,
+    "job_postings": 13,
+    "salary": {
+      "min": 71613,
+      "max": 143226,
+      "avg": 100258
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "PLC Programming",
+      "Electronics",
+      "Electrical Safety",
+      "Embedded Systems",
+      "Signal Processing",
+      "Power Systems",
+      "Circuit Design",
+      "Control Systems"
+    ],
+    "description": "Professional certification in ieee electrical management senior offered by IEEE. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 417,
+    "created_at": "2025-09-11T18:32:31.508583",
+    "updated_at": "2025-09-11T18:32:31.508585"
+  },
+  {
+    "id": 1288,
+    "slug": "control-architecture-certification",
+    "name": "Control Architecture Certification",
+    "issuer": "IEEE",
+    "domain": "electrical-engineering",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 272,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 432,
+    "job_postings": 28,
+    "salary": {
+      "min": 69722,
+      "max": 139445,
+      "avg": 97611
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Embedded Systems",
+      "PLC Programming",
+      "Electrical Safety",
+      "Signal Processing"
+    ],
+    "description": "Professional certification in control architecture certification offered by IEEE. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 641,
+    "created_at": "2025-09-11T18:32:31.508631",
+    "updated_at": "2025-09-11T18:32:31.508633"
+  },
+  {
+    "id": 1296,
+    "slug": "professional-engineer-advanced",
+    "name": "Professional Engineer Advanced",
+    "issuer": "IEEE",
+    "domain": "electrical-engineering",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 387,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 540,
+    "job_postings": 144,
+    "salary": {
+      "min": 74409,
+      "max": 148818,
+      "avg": 104173
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Electrical Safety",
+      "Power Systems",
+      "PLC Programming",
+      "Control Systems"
+    ],
+    "description": "Professional certification in professional engineer advanced offered by IEEE. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 698,
+    "created_at": "2025-09-11T18:32:31.508969",
+    "updated_at": "2025-09-11T18:32:31.508970"
+  },
+  {
+    "id": 1290,
+    "slug": "certified-communications-professional",
+    "name": "Certified Communications Professional",
+    "issuer": "IEEE",
+    "domain": "electrical-engineering",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 223,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 427,
+    "job_postings": 183,
+    "salary": {
+      "min": 77028,
+      "max": 154057,
+      "avg": 107840
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "PLC Programming",
+      "Control Systems",
+      "Electronics",
+      "Circuit Design",
+      "Embedded Systems",
+      "Electrical Safety"
+    ],
+    "description": "Professional certification in certified communications professional offered by IEEE. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 742,
+    "created_at": "2025-09-11T18:32:31.508720",
+    "updated_at": "2025-09-11T18:32:31.508721"
+  },
+  {
+    "id": 1285,
+    "slug": "professional-manager-expert",
+    "name": "Professional Manager Expert",
+    "issuer": "IEEE",
+    "domain": "electrical-engineering",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 302,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 270,
+    "job_postings": 760,
+    "salary": {
+      "min": 83584,
+      "max": 167169,
+      "avg": 117018
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Embedded Systems",
+      "Signal Processing",
+      "Electrical Safety",
+      "Power Systems",
+      "Circuit Design",
+      "Control Systems"
+    ],
+    "description": "Professional certification in professional manager expert offered by IEEE. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 775,
+    "created_at": "2025-09-11T18:32:31.508491",
+    "updated_at": "2025-09-11T18:32:31.508493"
+  },
+  {
+    "id": 1292,
+    "slug": "altium-architecture-certificate",
+    "name": "Altium Architecture Certificate",
+    "issuer": "IEEE",
+    "domain": "electrical-engineering",
+    "level": "Specialty",
+    "duration": "2 weeks",
+    "cost": 288,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 371,
+    "job_postings": 46,
+    "salary": {
+      "min": 63796,
+      "max": 127592,
+      "avg": 89314
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Electronics",
+      "Control Systems",
+      "Signal Processing",
+      "Electrical Safety",
+      "PLC Programming",
+      "Power Systems",
+      "Embedded Systems",
+      "Circuit Design"
+    ],
+    "description": "Professional certification in altium architecture certificate offered by IEEE. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 908,
+    "created_at": "2025-09-11T18:32:31.508807",
+    "updated_at": "2025-09-11T18:32:31.508808"
+  },
+  {
+    "id": 1291,
+    "slug": "certified-communications-expert",
+    "name": "Certified Communications Expert",
+    "issuer": "IEEE",
+    "domain": "electrical-engineering",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 345,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 193,
+    "job_postings": 743,
+    "salary": {
+      "min": 82855,
+      "max": 165711,
+      "avg": 115998
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Electronics",
+      "Circuit Design",
+      "Embedded Systems",
+      "Power Systems",
+      "PLC Programming",
+      "Control Systems",
+      "Electrical Safety"
+    ],
+    "description": "Professional certification in certified communications expert offered by IEEE. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 988,
+    "created_at": "2025-09-11T18:32:31.508764",
+    "updated_at": "2025-09-11T18:32:31.508765"
+  },
+  {
+    "id": 1293,
+    "slug": "kicad-engineering-certificate",
+    "name": "KiCad Engineering Certificate",
+    "issuer": "NECA",
+    "domain": "electrical-engineering",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 382,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 203,
+    "job_postings": 576,
+    "salary": {
+      "min": 66130,
+      "max": 132260,
+      "avg": 92582
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Control Systems",
+      "Power Systems",
+      "Signal Processing",
+      "Embedded Systems",
+      "Electronics",
+      "PLC Programming"
+    ],
+    "description": "Professional certification in kicad engineering certificate offered by NECA. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1050,
+    "created_at": "2025-09-11T18:32:31.508850",
+    "updated_at": "2025-09-11T18:32:31.508851"
+  },
+  {
+    "id": 1289,
+    "slug": "kicad-management-certificate",
+    "name": "KiCad Management Certificate",
+    "issuer": "IEEE",
+    "domain": "electrical-engineering",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 264,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 94,
+    "job_postings": 28,
+    "salary": {
+      "min": 84632,
+      "max": 169265,
+      "avg": 118485
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Embedded Systems",
+      "Control Systems",
+      "Circuit Design",
+      "Signal Processing",
+      "Electronics",
+      "PLC Programming"
+    ],
+    "description": "Professional certification in kicad management certificate offered by IEEE. Validates expertise in Electrical Engineering and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1308,
+    "created_at": "2025-09-11T18:32:31.508675",
+    "updated_at": "2025-09-11T18:32:31.508677"
+  }
+]

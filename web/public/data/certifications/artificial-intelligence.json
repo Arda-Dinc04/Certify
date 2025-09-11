@@ -1,0 +1,2598 @@
+[
+  {
+    "id": 448,
+    "slug": "machine-learning-computer-vision-certification-1",
+    "name": "Machine Learning Computer Vision Certification",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 752,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 798,
+    "job_postings": 2636,
+    "salary": {
+      "min": 114724,
+      "max": 286812,
+      "avg": 183559
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Computer Vision",
+      "Machine Learning",
+      "TensorFlow",
+      "NLP",
+      "AI Ethics",
+      "Statistics",
+      "Neural Networks",
+      "Deep Learning"
+    ],
+    "description": "Professional certification in machine learning computer vision certification offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 3,
+    "created_at": "2025-09-11T18:32:31.473588",
+    "updated_at": "2025-09-11T18:32:31.473589"
+  },
+  {
+    "id": 441,
+    "slug": "deep-learning-recommendation-systems-professional",
+    "name": "Deep Learning Recommendation Systems Professional",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 243,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 723,
+    "job_postings": 1794,
+    "salary": {
+      "min": 100515,
+      "max": 251287,
+      "avg": 160824
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "TensorFlow",
+      "NLP",
+      "Data Science",
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Computer Vision",
+      "Neural Networks",
+      "Deep Learning",
+      "Statistics"
+    ],
+    "description": "Professional certification in deep learning recommendation systems professional offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "German"
+    ],
+    "ranking": 6,
+    "created_at": "2025-09-11T18:32:31.473300",
+    "updated_at": "2025-09-11T18:32:31.473301"
+  },
+  {
+    "id": 409,
+    "slug": "ibm-ai-architecture-lead",
+    "name": "IBM AI Architecture Lead",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 258,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 521,
+    "job_postings": 2968,
+    "salary": {
+      "min": 93197,
+      "max": 232994,
+      "avg": 149116
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Data Science",
+      "TensorFlow",
+      "Python",
+      "PyTorch",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "description": "Professional certification in ibm ai architecture lead offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 25,
+    "created_at": "2025-09-11T18:32:31.471881",
+    "updated_at": "2025-09-11T18:32:31.471882"
+  },
+  {
+    "id": 405,
+    "slug": "google-ai-management-expert",
+    "name": "Google AI Management Expert",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 266,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 790,
+    "job_postings": 30,
+    "salary": {
+      "min": 112112,
+      "max": 280281,
+      "avg": 179379
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Neural Networks",
+      "Computer Vision",
+      "Deep Learning",
+      "NLP",
+      "TensorFlow",
+      "Statistics",
+      "PyTorch"
+    ],
+    "description": "Professional certification in google ai management expert offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 49,
+    "created_at": "2025-09-11T18:32:31.471708",
+    "updated_at": "2025-09-11T18:32:31.471709"
+  },
+  {
+    "id": 415,
+    "slug": "deep-learning-computer-vision-foundational",
+    "name": "Deep Learning Computer Vision Foundational",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 197,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 779,
+    "job_postings": 145,
+    "salary": {
+      "min": 93685,
+      "max": 234213,
+      "avg": 149896
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Neural Networks",
+      "PyTorch",
+      "Statistics",
+      "NLP",
+      "Machine Learning",
+      "AI Ethics",
+      "Python"
+    ],
+    "description": "Professional certification in deep learning computer vision foundational offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English"
+    ],
+    "ranking": 92,
+    "created_at": "2025-09-11T18:32:31.472131",
+    "updated_at": "2025-09-11T18:32:31.472132"
+  },
+  {
+    "id": 404,
+    "slug": "machine-learning-machine-learning-certification-1",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 154,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 614,
+    "job_postings": 272,
+    "salary": {
+      "min": 112628,
+      "max": 281571,
+      "avg": 180205
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "TensorFlow",
+      "AI Ethics",
+      "NLP",
+      "Deep Learning"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 124,
+    "created_at": "2025-09-11T18:32:31.471666",
+    "updated_at": "2025-09-11T18:32:31.471667"
+  },
+  {
+    "id": 420,
+    "slug": "machine-learning-machine-learning-certification-4",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 487,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 737,
+    "job_postings": 627,
+    "salary": {
+      "min": 89878,
+      "max": 224695,
+      "avg": 143804
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Deep Learning",
+      "NLP",
+      "Data Science",
+      "PyTorch",
+      "TensorFlow",
+      "Machine Learning",
+      "Neural Networks",
+      "Statistics"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 135,
+    "created_at": "2025-09-11T18:32:31.472437",
+    "updated_at": "2025-09-11T18:32:31.472438"
+  },
+  {
+    "id": 444,
+    "slug": "deep-learning-nlp-master",
+    "name": "Deep Learning NLP Master",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 781,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 748,
+    "job_postings": 186,
+    "salary": {
+      "min": 107991,
+      "max": 269977,
+      "avg": 172785
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Statistics",
+      "Neural Networks",
+      "Deep Learning",
+      "PyTorch",
+      "TensorFlow",
+      "Machine Learning",
+      "Computer Vision"
+    ],
+    "description": "Professional certification in deep learning nlp master offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 146,
+    "created_at": "2025-09-11T18:32:31.473421",
+    "updated_at": "2025-09-11T18:32:31.473423"
+  },
+  {
+    "id": 402,
+    "slug": "deep-learning-computer-vision-associate",
+    "name": "Deep Learning Computer Vision Associate",
+    "issuer": "NVIDIA",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 456,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 768,
+    "job_postings": 64,
+    "salary": {
+      "min": 85027,
+      "max": 212569,
+      "avg": 136044
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "NLP",
+      "Deep Learning",
+      "AI Ethics",
+      "Computer Vision",
+      "Data Science",
+      "PyTorch",
+      "Python",
+      "Statistics",
+      "Machine Learning",
+      "Neural Networks"
+    ],
+    "description": "Professional certification in deep learning computer vision associate offered by NVIDIA. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 177,
+    "created_at": "2025-09-11T18:32:31.471580",
+    "updated_at": "2025-09-11T18:32:31.471582"
+  },
+  {
+    "id": 429,
+    "slug": "azure-ml-engineering-certificate",
+    "name": "Azure ML Engineering Certificate",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 663,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 722,
+    "job_postings": 29,
+    "salary": {
+      "min": 114292,
+      "max": 285730,
+      "avg": 182867
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "AI Ethics",
+      "Computer Vision",
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "Statistics",
+      "Machine Learning",
+      "Neural Networks"
+    ],
+    "description": "Professional certification in azure ml engineering certificate offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 223,
+    "created_at": "2025-09-11T18:32:31.472801",
+    "updated_at": "2025-09-11T18:32:31.472803"
+  },
+  {
+    "id": 403,
+    "slug": "deep-learning-recommendation-systems-expert",
+    "name": "Deep Learning Recommendation Systems Expert",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 233,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 751,
+    "job_postings": 46,
+    "salary": {
+      "min": 89019,
+      "max": 222548,
+      "avg": 142430
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Computer Vision",
+      "Neural Networks",
+      "TensorFlow",
+      "AI Ethics",
+      "Machine Learning",
+      "Data Science",
+      "Statistics",
+      "PyTorch"
+    ],
+    "description": "Professional certification in deep learning recommendation systems expert offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 233,
+    "created_at": "2025-09-11T18:32:31.471624",
+    "updated_at": "2025-09-11T18:32:31.471625"
+  },
+  {
+    "id": 436,
+    "slug": "certified-data-scientist-professional",
+    "name": "Certified Data Scientist Professional",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 170,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 582,
+    "job_postings": 36,
+    "salary": {
+      "min": 96574,
+      "max": 241436,
+      "avg": 154519
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Statistics",
+      "Computer Vision",
+      "Data Science",
+      "Deep Learning"
+    ],
+    "description": "Professional certification in certified data scientist professional offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 234,
+    "created_at": "2025-09-11T18:32:31.473092",
+    "updated_at": "2025-09-11T18:32:31.473093"
+  },
+  {
+    "id": 433,
+    "slug": "machine-learning-machine-learning-certification-8",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 258,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 615,
+    "job_postings": 122,
+    "salary": {
+      "min": 95885,
+      "max": 239713,
+      "avg": 153416
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "PyTorch",
+      "Deep Learning",
+      "Statistics",
+      "AI Ethics",
+      "Data Science",
+      "Python",
+      "TensorFlow",
+      "Neural Networks"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 261,
+    "created_at": "2025-09-11T18:32:31.472967",
+    "updated_at": "2025-09-11T18:32:31.472968"
+  },
+  {
+    "id": 416,
+    "slug": "azure-ml-management-certificate",
+    "name": "Azure ML Management Certificate",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 143,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 615,
+    "job_postings": 13,
+    "salary": {
+      "min": 96052,
+      "max": 240131,
+      "avg": 153684
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "NLP",
+      "PyTorch",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "description": "Professional certification in azure ml management certificate offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 263,
+    "created_at": "2025-09-11T18:32:31.472171",
+    "updated_at": "2025-09-11T18:32:31.472172"
+  },
+  {
+    "id": 447,
+    "slug": "machine-learning-machine-learning-certification-10",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Specialty",
+    "duration": "2 weeks",
+    "cost": 257,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 779,
+    "job_postings": 118,
+    "salary": {
+      "min": 96427,
+      "max": 241067,
+      "avg": 154283
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Python",
+      "NLP",
+      "Data Science",
+      "Machine Learning",
+      "Neural Networks",
+      "TensorFlow"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 267,
+    "created_at": "2025-09-11T18:32:31.473548",
+    "updated_at": "2025-09-11T18:32:31.473549"
+  },
+  {
+    "id": 428,
+    "slug": "certified-ml-engineer-practitioner",
+    "name": "Certified ML Engineer Practitioner",
+    "issuer": "NVIDIA",
+    "domain": "artificial-intelligence",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 664,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 691,
+    "job_postings": 209,
+    "salary": {
+      "min": 109188,
+      "max": 272971,
+      "avg": 174701
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Machine Learning",
+      "Neural Networks",
+      "NLP",
+      "Deep Learning",
+      "Python",
+      "Data Science",
+      "Computer Vision",
+      "Statistics",
+      "PyTorch"
+    ],
+    "description": "Professional certification in certified ml engineer practitioner offered by NVIDIA. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 296,
+    "created_at": "2025-09-11T18:32:31.472761",
+    "updated_at": "2025-09-11T18:32:31.472762"
+  },
+  {
+    "id": 446,
+    "slug": "machine-learning-machine-learning-certification-9",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 269,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 595,
+    "job_postings": 332,
+    "salary": {
+      "min": 113290,
+      "max": 283225,
+      "avg": 181264
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Neural Networks",
+      "Computer Vision",
+      "Deep Learning",
+      "Python"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 302,
+    "created_at": "2025-09-11T18:32:31.473507",
+    "updated_at": "2025-09-11T18:32:31.473508"
+  },
+  {
+    "id": 438,
+    "slug": "certified-ai-researcher-analyst",
+    "name": "Certified AI Researcher Analyst",
+    "issuer": "NVIDIA",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 407,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 682,
+    "job_postings": 597,
+    "salary": {
+      "min": 101718,
+      "max": 254295,
+      "avg": 162748
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Statistics",
+      "PyTorch",
+      "NLP",
+      "Computer Vision",
+      "Deep Learning",
+      "Machine Learning",
+      "Python"
+    ],
+    "description": "Professional certification in certified ai researcher analyst offered by NVIDIA. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 329,
+    "created_at": "2025-09-11T18:32:31.473176",
+    "updated_at": "2025-09-11T18:32:31.473178"
+  },
+  {
+    "id": 406,
+    "slug": "certified-data-scientist-practitioner",
+    "name": "Certified Data Scientist Practitioner",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 789,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 673,
+    "job_postings": 19,
+    "salary": {
+      "min": 106539,
+      "max": 266347,
+      "avg": 170462
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "AI Ethics",
+      "Neural Networks",
+      "Deep Learning",
+      "Python",
+      "Computer Vision",
+      "NLP"
+    ],
+    "description": "Professional certification in certified data scientist practitioner offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 331,
+    "created_at": "2025-09-11T18:32:31.471752",
+    "updated_at": "2025-09-11T18:32:31.471753"
+  },
+  {
+    "id": 431,
+    "slug": "deep-learning-automation-lead",
+    "name": "Deep Learning Automation Lead",
+    "issuer": "NVIDIA",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 651,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 624,
+    "job_postings": 37,
+    "salary": {
+      "min": 101824,
+      "max": 254562,
+      "avg": 162919
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Deep Learning",
+      "TensorFlow",
+      "Neural Networks",
+      "NLP",
+      "PyTorch",
+      "Computer Vision",
+      "Python",
+      "Data Science",
+      "AI Ethics",
+      "Statistics"
+    ],
+    "description": "Professional certification in deep learning automation lead offered by NVIDIA. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 341,
+    "created_at": "2025-09-11T18:32:31.472885",
+    "updated_at": "2025-09-11T18:32:31.472886"
+  },
+  {
+    "id": 413,
+    "slug": "databricks-ai-strategy-senior",
+    "name": "Databricks AI Strategy Senior",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 586,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 707,
+    "job_postings": 704,
+    "salary": {
+      "min": 98708,
+      "max": 246771,
+      "avg": 157933
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Data Science",
+      "Computer Vision",
+      "NLP",
+      "TensorFlow",
+      "Statistics",
+      "Deep Learning"
+    ],
+    "description": "Professional certification in databricks ai strategy senior offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 367,
+    "created_at": "2025-09-11T18:32:31.472048",
+    "updated_at": "2025-09-11T18:32:31.472050"
+  },
+  {
+    "id": 407,
+    "slug": "certified-data-scientist-specialist",
+    "name": "Certified Data Scientist Specialist",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 971,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 666,
+    "job_postings": 645,
+    "salary": {
+      "min": 106930,
+      "max": 267326,
+      "avg": 171089
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Deep Learning",
+      "Data Science",
+      "Neural Networks",
+      "Machine Learning",
+      "TensorFlow",
+      "NLP",
+      "Statistics",
+      "Python",
+      "Computer Vision"
+    ],
+    "description": "Professional certification in certified data scientist specialist offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 379,
+    "created_at": "2025-09-11T18:32:31.471794",
+    "updated_at": "2025-09-11T18:32:31.471795"
+  },
+  {
+    "id": 410,
+    "slug": "nvidia-ai-administration-expert",
+    "name": "NVIDIA AI Administration Expert",
+    "issuer": "NVIDIA",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 619,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 698,
+    "job_postings": 113,
+    "salary": {
+      "min": 85025,
+      "max": 212564,
+      "avg": 136041
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Statistics",
+      "Neural Networks",
+      "Data Science",
+      "AI Ethics",
+      "TensorFlow",
+      "Computer Vision",
+      "Python"
+    ],
+    "description": "Professional certification in nvidia ai administration expert offered by NVIDIA. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 392,
+    "created_at": "2025-09-11T18:32:31.471922",
+    "updated_at": "2025-09-11T18:32:31.471923"
+  },
+  {
+    "id": 443,
+    "slug": "certified-data-scientist-professional-1",
+    "name": "Certified Data Scientist Professional",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 214,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 520,
+    "job_postings": 7,
+    "salary": {
+      "min": 94797,
+      "max": 236994,
+      "avg": 151676
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "AI Ethics",
+      "NLP",
+      "Machine Learning",
+      "Computer Vision",
+      "Statistics",
+      "Deep Learning",
+      "Data Science",
+      "TensorFlow",
+      "Neural Networks"
+    ],
+    "description": "Professional certification in certified data scientist professional offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 395,
+    "created_at": "2025-09-11T18:32:31.473382",
+    "updated_at": "2025-09-11T18:32:31.473383"
+  },
+  {
+    "id": 399,
+    "slug": "deep-learning-robotics-lead",
+    "name": "Deep Learning Robotics Lead",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 166,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 426,
+    "job_postings": 687,
+    "salary": {
+      "min": 98668,
+      "max": 246671,
+      "avg": 157869
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Neural Networks",
+      "Python",
+      "Machine Learning",
+      "Data Science",
+      "Statistics",
+      "NLP",
+      "AI Ethics",
+      "PyTorch",
+      "Deep Learning"
+    ],
+    "description": "Professional certification in deep learning robotics lead offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 413,
+    "created_at": "2025-09-11T18:32:31.471433",
+    "updated_at": "2025-09-11T18:32:31.471436"
+  },
+  {
+    "id": 427,
+    "slug": "deep-learning-recommendation-systems-advanced",
+    "name": "Deep Learning Recommendation Systems Advanced",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 146,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 641,
+    "job_postings": 78,
+    "salary": {
+      "min": 108494,
+      "max": 271237,
+      "avg": 173591
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Data Science",
+      "NLP",
+      "PyTorch",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "description": "Professional certification in deep learning recommendation systems advanced offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 447,
+    "created_at": "2025-09-11T18:32:31.472720",
+    "updated_at": "2025-09-11T18:32:31.472721"
+  },
+  {
+    "id": 452,
+    "slug": "certified-ml-engineer-administrator",
+    "name": "Certified ML Engineer Administrator",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 639,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 592,
+    "job_postings": 41,
+    "salary": {
+      "min": 109987,
+      "max": 274969,
+      "avg": 175980
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "NLP",
+      "Neural Networks",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "description": "Professional certification in certified ml engineer administrator offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 448,
+    "created_at": "2025-09-11T18:32:31.473752",
+    "updated_at": "2025-09-11T18:32:31.473753"
+  },
+  {
+    "id": 455,
+    "slug": "google-ai-management-certificate",
+    "name": "Google AI Management Certificate",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 850,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 642,
+    "job_postings": 283,
+    "salary": {
+      "min": 112408,
+      "max": 281020,
+      "avg": 179853
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "PyTorch",
+      "AI Ethics",
+      "Python",
+      "TensorFlow",
+      "Neural Networks"
+    ],
+    "description": "Professional certification in google ai management certificate offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 449,
+    "created_at": "2025-09-11T18:32:31.473875",
+    "updated_at": "2025-09-11T18:32:31.473876"
+  },
+  {
+    "id": 425,
+    "slug": "machine-learning-machine-learning-certification-7",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 645,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 700,
+    "job_postings": 150,
+    "salary": {
+      "min": 100538,
+      "max": 251347,
+      "avg": 160862
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Neural Networks",
+      "Computer Vision",
+      "PyTorch",
+      "Machine Learning",
+      "NLP",
+      "Statistics",
+      "AI Ethics",
+      "Data Science",
+      "Python"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 484,
+    "created_at": "2025-09-11T18:32:31.472639",
+    "updated_at": "2025-09-11T18:32:31.472640"
+  },
+  {
+    "id": 440,
+    "slug": "machine-learning-computer-vision-certification",
+    "name": "Machine Learning Computer Vision Certification",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 162,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 529,
+    "job_postings": 409,
+    "salary": {
+      "min": 101733,
+      "max": 254333,
+      "avg": 162773
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Deep Learning",
+      "Data Science",
+      "PyTorch",
+      "Python",
+      "AI Ethics",
+      "Machine Learning",
+      "Computer Vision",
+      "NLP"
+    ],
+    "description": "Professional certification in machine learning computer vision certification offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 490,
+    "created_at": "2025-09-11T18:32:31.473257",
+    "updated_at": "2025-09-11T18:32:31.473258"
+  },
+  {
+    "id": 414,
+    "slug": "ibm-ai-engineering-professional",
+    "name": "IBM AI Engineering Professional",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 220,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 413,
+    "job_postings": 83,
+    "salary": {
+      "min": 93593,
+      "max": 233984,
+      "avg": 149750
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "NLP",
+      "Computer Vision",
+      "Python",
+      "PyTorch",
+      "Neural Networks",
+      "Data Science",
+      "Deep Learning",
+      "AI Ethics"
+    ],
+    "description": "Professional certification in ibm ai engineering professional offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 494,
+    "created_at": "2025-09-11T18:32:31.472090",
+    "updated_at": "2025-09-11T18:32:31.472091"
+  },
+  {
+    "id": 408,
+    "slug": "deep-learning-robotics-professional",
+    "name": "Deep Learning Robotics Professional",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 207,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 52,
+    "job_postings": 2290,
+    "salary": {
+      "min": 97282,
+      "max": 243205,
+      "avg": 155651
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "AI Ethics",
+      "PyTorch",
+      "Data Science",
+      "Machine Learning",
+      "Neural Networks"
+    ],
+    "description": "Professional certification in deep learning robotics professional offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 501,
+    "created_at": "2025-09-11T18:32:31.471837",
+    "updated_at": "2025-09-11T18:32:31.471839"
+  },
+  {
+    "id": 419,
+    "slug": "datarobot-ai-development-foundational",
+    "name": "DataRobot AI Development Foundational",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "5 weeks",
+    "cost": 730,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 754,
+    "job_postings": 83,
+    "salary": {
+      "min": 112423,
+      "max": 281059,
+      "avg": 179877
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Statistics",
+      "TensorFlow",
+      "Deep Learning",
+      "Python",
+      "Neural Networks",
+      "Machine Learning"
+    ],
+    "description": "Professional certification in datarobot ai development foundational offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 522,
+    "created_at": "2025-09-11T18:32:31.472393",
+    "updated_at": "2025-09-11T18:32:31.472394"
+  },
+  {
+    "id": 442,
+    "slug": "azure-ml-architecture-certificate",
+    "name": "Azure ML Architecture Certificate",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 743,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 731,
+    "job_postings": 13,
+    "salary": {
+      "min": 88958,
+      "max": 222396,
+      "avg": 142333
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Deep Learning",
+      "AI Ethics",
+      "Machine Learning",
+      "Statistics",
+      "TensorFlow",
+      "Neural Networks",
+      "Computer Vision",
+      "Data Science",
+      "PyTorch"
+    ],
+    "description": "Professional certification in azure ml architecture certificate offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 544,
+    "created_at": "2025-09-11T18:32:31.473341",
+    "updated_at": "2025-09-11T18:32:31.473342"
+  },
+  {
+    "id": 397,
+    "slug": "certified-data-scientist-expert",
+    "name": "Certified Data Scientist Expert",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 921,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 728,
+    "job_postings": 197,
+    "salary": {
+      "min": 112678,
+      "max": 281696,
+      "avg": 180286
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Statistics",
+      "AI Ethics",
+      "Computer Vision",
+      "Neural Networks",
+      "Data Science",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "description": "Professional certification in certified data scientist expert offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 548,
+    "created_at": "2025-09-11T18:32:31.471335",
+    "updated_at": "2025-09-11T18:32:31.471336"
+  },
+  {
+    "id": 421,
+    "slug": "machine-learning-machine-learning-certification-5",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 265,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 542,
+    "job_postings": 24,
+    "salary": {
+      "min": 113498,
+      "max": 283746,
+      "avg": 181597
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Data Science",
+      "NLP",
+      "TensorFlow",
+      "Computer Vision",
+      "Machine Learning",
+      "AI Ethics",
+      "Neural Networks",
+      "Statistics"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 600,
+    "created_at": "2025-09-11T18:32:31.472477",
+    "updated_at": "2025-09-11T18:32:31.472478"
+  },
+  {
+    "id": 451,
+    "slug": "deep-learning-automation-master",
+    "name": "Deep Learning Automation Master",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 152,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 455,
+    "job_postings": 99,
+    "salary": {
+      "min": 108348,
+      "max": 270871,
+      "avg": 173357
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "AI Ethics",
+      "Neural Networks",
+      "PyTorch"
+    ],
+    "description": "Professional certification in deep learning automation master offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 676,
+    "created_at": "2025-09-11T18:32:31.473710",
+    "updated_at": "2025-09-11T18:32:31.473711"
+  },
+  {
+    "id": 423,
+    "slug": "google-ai-architecture-professional",
+    "name": "Google AI Architecture Professional",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 179,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 370,
+    "job_postings": 68,
+    "salary": {
+      "min": 112728,
+      "max": 281820,
+      "avg": 180365
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Data Science",
+      "Deep Learning",
+      "Neural Networks",
+      "Statistics",
+      "NLP"
+    ],
+    "description": "Professional certification in google ai architecture professional offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 714,
+    "created_at": "2025-09-11T18:32:31.472557",
+    "updated_at": "2025-09-11T18:32:31.472558"
+  },
+  {
+    "id": 456,
+    "slug": "certified-data-scientist-administrator",
+    "name": "Certified Data Scientist Administrator",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 595,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 353,
+    "job_postings": 44,
+    "salary": {
+      "min": 93139,
+      "max": 232848,
+      "avg": 149023
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Python",
+      "Computer Vision",
+      "Statistics",
+      "Neural Networks",
+      "Data Science",
+      "PyTorch",
+      "NLP",
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "description": "Professional certification in certified data scientist administrator offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 727,
+    "created_at": "2025-09-11T18:32:31.473917",
+    "updated_at": "2025-09-11T18:32:31.473918"
+  },
+  {
+    "id": 426,
+    "slug": "ibm-ai-engineering-foundational",
+    "name": "IBM AI Engineering Foundational",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 158,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 315,
+    "job_postings": 31,
+    "salary": {
+      "min": 101087,
+      "max": 252718,
+      "avg": 161739
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "NLP",
+      "Data Science",
+      "Deep Learning",
+      "Statistics",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "description": "Professional certification in ibm ai engineering foundational offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 736,
+    "created_at": "2025-09-11T18:32:31.472679",
+    "updated_at": "2025-09-11T18:32:31.472680"
+  },
+  {
+    "id": 434,
+    "slug": "deep-learning-nlp-associate",
+    "name": "Deep Learning NLP Associate",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 691,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 98,
+    "job_postings": 1979,
+    "salary": {
+      "min": 110036,
+      "max": 275091,
+      "avg": 176058
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Deep Learning",
+      "AI Ethics",
+      "Data Science",
+      "Python",
+      "Computer Vision",
+      "NLP"
+    ],
+    "description": "Professional certification in deep learning nlp associate offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 784,
+    "created_at": "2025-09-11T18:32:31.473008",
+    "updated_at": "2025-09-11T18:32:31.473010"
+  },
+  {
+    "id": 432,
+    "slug": "datarobot-ai-analytics-foundational",
+    "name": "DataRobot AI Analytics Foundational",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 1102,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 628,
+    "job_postings": 62,
+    "salary": {
+      "min": 105334,
+      "max": 263336,
+      "avg": 168535
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "NLP",
+      "AI Ethics",
+      "Python",
+      "Statistics",
+      "Neural Networks",
+      "TensorFlow"
+    ],
+    "description": "Professional certification in datarobot ai analytics foundational offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 789,
+    "created_at": "2025-09-11T18:32:31.472925",
+    "updated_at": "2025-09-11T18:32:31.472926"
+  },
+  {
+    "id": 454,
+    "slug": "google-ai-administration-certificate-1",
+    "name": "Google AI Administration Certificate",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 590,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 424,
+    "job_postings": 586,
+    "salary": {
+      "min": 99054,
+      "max": 247636,
+      "avg": 158487
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "AI Ethics",
+      "NLP",
+      "Python",
+      "TensorFlow",
+      "Machine Learning",
+      "Data Science",
+      "Neural Networks"
+    ],
+    "description": "Professional certification in google ai administration certificate offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 796,
+    "created_at": "2025-09-11T18:32:31.473835",
+    "updated_at": "2025-09-11T18:32:31.473836"
+  },
+  {
+    "id": 401,
+    "slug": "machine-learning-machine-learning-certification",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 246,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 215,
+    "job_postings": 750,
+    "salary": {
+      "min": 94777,
+      "max": 236944,
+      "avg": 151644
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "TensorFlow",
+      "Data Science",
+      "Computer Vision",
+      "Python",
+      "AI Ethics",
+      "NLP",
+      "Neural Networks",
+      "PyTorch"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 825,
+    "created_at": "2025-09-11T18:32:31.471533",
+    "updated_at": "2025-09-11T18:32:31.471535"
+  },
+  {
+    "id": 422,
+    "slug": "machine-learning-machine-learning-certification-6",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 274,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 256,
+    "job_postings": 436,
+    "salary": {
+      "min": 91688,
+      "max": 229221,
+      "avg": 146701
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "AI Ethics",
+      "NLP",
+      "Machine Learning",
+      "Neural Networks"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 838,
+    "created_at": "2025-09-11T18:32:31.472516",
+    "updated_at": "2025-09-11T18:32:31.472517"
+  },
+  {
+    "id": 400,
+    "slug": "aws-sagemaker-development-certificate",
+    "name": "AWS SageMaker Development Certificate",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 567,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 295,
+    "job_postings": 35,
+    "salary": {
+      "min": 106103,
+      "max": 265259,
+      "avg": 169766
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "AI Ethics",
+      "Data Science",
+      "PyTorch",
+      "Neural Networks",
+      "Computer Vision",
+      "TensorFlow"
+    ],
+    "description": "Professional certification in aws sagemaker development certificate offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 874,
+    "created_at": "2025-09-11T18:32:31.471484",
+    "updated_at": "2025-09-11T18:32:31.471485"
+  },
+  {
+    "id": 435,
+    "slug": "tensorflow-administration-certificate",
+    "name": "TensorFlow Administration Certificate",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 813,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 345,
+    "job_postings": 81,
+    "salary": {
+      "min": 95500,
+      "max": 238750,
+      "avg": 152800
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Data Science",
+      "Computer Vision",
+      "Deep Learning",
+      "TensorFlow",
+      "Statistics",
+      "AI Ethics"
+    ],
+    "description": "Professional certification in tensorflow administration certificate offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 897,
+    "created_at": "2025-09-11T18:32:31.473051",
+    "updated_at": "2025-09-11T18:32:31.473052"
+  },
+  {
+    "id": 450,
+    "slug": "aws-sagemaker-security-certificate",
+    "name": "AWS SageMaker Security Certificate",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 234,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 383,
+    "job_postings": 23,
+    "salary": {
+      "min": 90919,
+      "max": 227297,
+      "avg": 145470
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Statistics",
+      "PyTorch",
+      "AI Ethics",
+      "Data Science",
+      "Python",
+      "Machine Learning",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "description": "Professional certification in aws sagemaker security certificate offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 920,
+    "created_at": "2025-09-11T18:32:31.473670",
+    "updated_at": "2025-09-11T18:32:31.473672"
+  },
+  {
+    "id": 398,
+    "slug": "google-ai-security-senior",
+    "name": "Google AI Security Senior",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 156,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 242,
+    "job_postings": 16,
+    "salary": {
+      "min": 106990,
+      "max": 267476,
+      "avg": 171184
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "NLP",
+      "Python",
+      "PyTorch"
+    ],
+    "description": "Professional certification in google ai security senior offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 932,
+    "created_at": "2025-09-11T18:32:31.471375",
+    "updated_at": "2025-09-11T18:32:31.471376"
+  },
+  {
+    "id": 453,
+    "slug": "deep-learning-computer-vision-associate-1",
+    "name": "Deep Learning Computer Vision Associate",
+    "issuer": "NVIDIA",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 380,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 171,
+    "job_postings": 90,
+    "salary": {
+      "min": 96362,
+      "max": 240905,
+      "avg": 154179
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "AI Ethics",
+      "TensorFlow",
+      "Computer Vision",
+      "Statistics",
+      "NLP",
+      "Neural Networks",
+      "PyTorch",
+      "Deep Learning",
+      "Data Science"
+    ],
+    "description": "Professional certification in deep learning computer vision associate offered by NVIDIA. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 1074,
+    "created_at": "2025-09-11T18:32:31.473794",
+    "updated_at": "2025-09-11T18:32:31.473795"
+  },
+  {
+    "id": 418,
+    "slug": "machine-learning-machine-learning-certification-3",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 749,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 301,
+    "job_postings": 254,
+    "salary": {
+      "min": 110725,
+      "max": 276813,
+      "avg": 177160
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Statistics",
+      "Neural Networks",
+      "Python",
+      "AI Ethics",
+      "Data Science",
+      "Computer Vision",
+      "Machine Learning"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1086,
+    "created_at": "2025-09-11T18:32:31.472262",
+    "updated_at": "2025-09-11T18:32:31.472263"
+  },
+  {
+    "id": 437,
+    "slug": "machine-learning-deep-learning-certification-1",
+    "name": "Machine Learning Deep Learning Certification",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 545,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 376,
+    "job_postings": 110,
+    "salary": {
+      "min": 106705,
+      "max": 266762,
+      "avg": 170728
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "Statistics",
+      "TensorFlow",
+      "Deep Learning",
+      "Neural Networks",
+      "PyTorch"
+    ],
+    "description": "Professional certification in machine learning deep learning certification offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1092,
+    "created_at": "2025-09-11T18:32:31.473133",
+    "updated_at": "2025-09-11T18:32:31.473135"
+  },
+  {
+    "id": 445,
+    "slug": "azure-ml-security-certificate",
+    "name": "Azure ML Security Certificate",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 579,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 160,
+    "job_postings": 267,
+    "salary": {
+      "min": 109816,
+      "max": 274540,
+      "avg": 175706
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Neural Networks",
+      "Computer Vision",
+      "Statistics",
+      "NLP",
+      "Python"
+    ],
+    "description": "Professional certification in azure ml security certificate offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1099,
+    "created_at": "2025-09-11T18:32:31.473462",
+    "updated_at": "2025-09-11T18:32:31.473463"
+  },
+  {
+    "id": 424,
+    "slug": "google-ai-development-certificate",
+    "name": "Google AI Development Certificate",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 175,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 189,
+    "job_postings": 71,
+    "salary": {
+      "min": 93607,
+      "max": 234017,
+      "avg": 149771
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "Statistics",
+      "Neural Networks",
+      "Python",
+      "AI Ethics",
+      "Computer Vision"
+    ],
+    "description": "Professional certification in google ai development certificate offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1121,
+    "created_at": "2025-09-11T18:32:31.472598",
+    "updated_at": "2025-09-11T18:32:31.472599"
+  },
+  {
+    "id": 439,
+    "slug": "google-ai-strategy-associate",
+    "name": "Google AI Strategy Associate",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 184,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 119,
+    "job_postings": 772,
+    "salary": {
+      "min": 112703,
+      "max": 281758,
+      "avg": 180325
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Machine Learning",
+      "AI Ethics",
+      "Statistics",
+      "Deep Learning",
+      "NLP",
+      "TensorFlow",
+      "Neural Networks",
+      "Computer Vision",
+      "PyTorch",
+      "Python"
+    ],
+    "description": "Professional certification in google ai strategy associate offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1126,
+    "created_at": "2025-09-11T18:32:31.473217",
+    "updated_at": "2025-09-11T18:32:31.473218"
+  },
+  {
+    "id": 449,
+    "slug": "google-ai-strategy-master",
+    "name": "Google AI Strategy Master",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 235,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 107,
+    "job_postings": 91,
+    "salary": {
+      "min": 94377,
+      "max": 235944,
+      "avg": 151004
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Statistics",
+      "Deep Learning",
+      "Data Science",
+      "Machine Learning",
+      "TensorFlow",
+      "NLP",
+      "Computer Vision",
+      "Neural Networks",
+      "Python",
+      "PyTorch"
+    ],
+    "description": "Professional certification in google ai strategy master offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1166,
+    "created_at": "2025-09-11T18:32:31.473628",
+    "updated_at": "2025-09-11T18:32:31.473630"
+  },
+  {
+    "id": 417,
+    "slug": "google-ai-administration-certificate",
+    "name": "Google AI Administration Certificate",
+    "issuer": "IBM",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 220,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 51,
+    "job_postings": 650,
+    "salary": {
+      "min": 90756,
+      "max": 226890,
+      "avg": 145210
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "NLP",
+      "PyTorch",
+      "AI Ethics",
+      "TensorFlow",
+      "Python"
+    ],
+    "description": "Professional certification in google ai administration certificate offered by IBM. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 1180,
+    "created_at": "2025-09-11T18:32:31.472215",
+    "updated_at": "2025-09-11T18:32:31.472216"
+  },
+  {
+    "id": 411,
+    "slug": "machine-learning-machine-learning-certification-2",
+    "name": "Machine Learning Machine Learning Certification",
+    "issuer": "Databricks",
+    "domain": "artificial-intelligence",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 688,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 289,
+    "job_postings": 42,
+    "salary": {
+      "min": 94761,
+      "max": 236903,
+      "avg": 151618
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI Ethics",
+      "Python"
+    ],
+    "description": "Professional certification in machine learning machine learning certification offered by Databricks. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 1204,
+    "created_at": "2025-09-11T18:32:31.471963",
+    "updated_at": "2025-09-11T18:32:31.471964"
+  },
+  {
+    "id": 412,
+    "slug": "certified-nlp-specialist-practitioner",
+    "name": "Certified NLP Specialist Practitioner",
+    "issuer": "DataRobot",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 614,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 288,
+    "job_postings": 25,
+    "salary": {
+      "min": 93887,
+      "max": 234717,
+      "avg": 150219
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "AI Ethics",
+      "Computer Vision",
+      "Neural Networks",
+      "Python",
+      "Data Science",
+      "Statistics",
+      "TensorFlow",
+      "NLP",
+      "Machine Learning"
+    ],
+    "description": "Professional certification in certified nlp specialist practitioner offered by DataRobot. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1251,
+    "created_at": "2025-09-11T18:32:31.472004",
+    "updated_at": "2025-09-11T18:32:31.472005"
+  },
+  {
+    "id": 430,
+    "slug": "machine-learning-deep-learning-certification",
+    "name": "Machine Learning Deep Learning Certification",
+    "issuer": "Google Cloud",
+    "domain": "artificial-intelligence",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 167,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 54,
+    "job_postings": 497,
+    "salary": {
+      "min": 93939,
+      "max": 234848,
+      "avg": 150302
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Data Science",
+      "Neural Networks",
+      "AI Ethics",
+      "Statistics",
+      "Computer Vision",
+      "Deep Learning",
+      "NLP",
+      "Python"
+    ],
+    "description": "Professional certification in machine learning deep learning certification offered by Google Cloud. Validates expertise in Artificial Intelligence and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 1275,
+    "created_at": "2025-09-11T18:32:31.472844",
+    "updated_at": "2025-09-11T18:32:31.472845"
+  }
+]

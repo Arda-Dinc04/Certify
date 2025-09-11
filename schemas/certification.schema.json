@@ -1,0 +1,110 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "certification.schema.json",
+  "title": "Certification",
+  "type": "object",
+  "required": [
+    "slug",
+    "name", 
+    "domain",
+    "issuer",
+    "url",
+    "last_checked_utc"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "domain": {
+      "type": "string",
+      "enum": ["CS/IT", "Engineering / Business", "Healthcare", "Finance", "Manufacturing"]
+    },
+    "issuer": {
+      "type": "string",
+      "minLength": 1
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "level": {
+      "type": "string",
+      "enum": ["Foundational", "Associate", "Professional", "Expert", "Specialty"]
+    },
+    "exam_fee_usd": {
+      "type": ["number", "null"],
+      "minimum": 0
+    },
+    "price_source": {
+      "type": "string",
+      "enum": ["official", "estimate", "heuristic"]
+    },
+    "recommended_hours_min": {
+      "type": ["number", "null"],
+      "minimum": 0
+    },
+    "recommended_hours_max": {
+      "type": ["number", "null"],
+      "minimum": 0
+    },
+    "hours_source": {
+      "type": "string",
+      "enum": ["official", "estimate", "heuristic"]
+    },
+    "validity_years": {
+      "type": ["number", "null"],
+      "minimum": 0
+    },
+    "delivery": {
+      "type": "string"
+    },
+    "format": {
+      "type": "string"
+    },
+    "regions": {
+      "type": "string"
+    },
+    "last_checked_utc": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["field", "type", "checked_at"],
+        "properties": {
+          "field": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["official", "estimate", "heuristic", "scraped"]
+          },
+          "url": {
+            "type": ["string", "null"]
+          },
+          "checked_at": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      }
+    },
+    "license_authority": {
+      "type": ["string", "null"]
+    },
+    "prerequisites": {
+      "type": ["string", "null"]
+    },
+    "ce_credits": {
+      "type": ["number", "null"],
+      "minimum": 0
+    }
+  }
+}

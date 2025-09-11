@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "aws-certified-cloud-practitioner",
+    "t": "aws certified cloud practitioner amazon web services aws cs it foundational multiple choice online proctored or test center amazon web services aws",
+    "name": "AWS Certified Cloud Practitioner",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "CS/IT",
+    "level": "Foundational"
+  },
+  {
+    "slug": "aws-certified-solutions-architect-associate",
+    "t": "aws certified solutions architect – associate amazon web services aws cs it associate multiple choice online proctored or test center amazon web services aws",
+    "name": "AWS Certified Solutions Architect – Associate",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "CS/IT",
+    "level": "Associate"
+  },
+  {
+    "slug": "aws-certified-developer-associate",
+    "t": "aws certified developer – associate amazon web services aws cs it associate multiple choice online proctored or test center amazon web services aws",
+    "name": "AWS Certified Developer – Associate",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "CS/IT",
+    "level": "Associate"
+  },
+  {
+    "slug": "aws-certified-sysops-administrator-associate",
+    "t": "aws certified sysops administrator – associate amazon web services aws cs it associate multiple choice online proctored or test center amazon web services aws",
+    "name": "AWS Certified SysOps Administrator – Associate",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "CS/IT",
+    "level": "Associate"
+  },
+  {
+    "slug": "aws-certified-solutions-architect-professional",
+    "t": "aws certified solutions architect – professional amazon web services aws cs it professional multiple choice online proctored or test center amazon web services aws",
+    "name": "AWS Certified Solutions Architect – Professional",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "CS/IT",
+    "level": "Professional"
+  },
+  {
+    "slug": "comptia-security",
+    "t": "comptia security+ comptia cs it associate multiple choice test center comptia computing technology industry association",
+    "name": "CompTIA Security+",
+    "issuer": "CompTIA",
+    "domain": "CS/IT",
+    "level": "Associate"
+  },
+  {
+    "slug": "comptia-network",
+    "t": "comptia network+ comptia cs it associate multiple choice test center comptia computing technology industry association",
+    "name": "CompTIA Network+",
+    "issuer": "CompTIA",
+    "domain": "CS/IT",
+    "level": "Associate"
+  },
+  {
+    "slug": "comptia-a",
+    "t": "comptia a+ comptia cs it associate multiple choice test center comptia computing technology industry association",
+    "name": "CompTIA A+",
+    "issuer": "CompTIA",
+    "domain": "CS/IT",
+    "level": "Associate"
+  },
+  {
+    "slug": "certified-associate-in-project-management-capm",
+    "t": "certified associate in project management capm project management institute pmi engineering business associate multiple choice test center or online",
+    "name": "Certified Associate in Project Management (CAPM)",
+    "issuer": "Project Management Institute (PMI)",
+    "domain": "Engineering / Business",
+    "level": "Associate"
+  },
+  {
+    "slug": "cisco-certified-network-associate-ccna",
+    "t": "cisco certified network associate ccna cisco cs it associate multiple choice and lab test center cisco networking ccna ccnp",
+    "name": "Cisco Certified Network Associate (CCNA)",
+    "issuer": "Cisco",
+    "domain": "CS/IT",
+    "level": "Associate"
+  },
+  {
+    "slug": "cisco-certified-network-professional-ccnp",
+    "t": "cisco certified network professional ccnp cisco cs it professional multiple choice and lab test center cisco networking ccna ccnp",
+    "name": "Cisco Certified Network Professional (CCNP)",
+    "issuer": "Cisco",
+    "domain": "CS/IT",
+    "level": "Professional"
+  },
+  {
+    "slug": "google-cloud-digital-leader",
+    "t": "google cloud digital leader google cloud cs it foundational multiple choice online proctored or test center google cloud platform gcp",
+    "name": "Google Cloud Digital Leader",
+    "issuer": "Google Cloud",
+    "domain": "CS/IT",
+    "level": "Foundational"
+  },
+  {
+    "slug": "google-cloud-professional-cloud-architect",
+    "t": "google cloud professional cloud architect google cloud cs it professional multiple choice online proctored or test center google cloud platform gcp",
+    "name": "Google Cloud Professional Cloud Architect",
+    "issuer": "Google Cloud",
+    "domain": "CS/IT",
+    "level": "Professional"
+  },
+  {
+    "slug": "google-cloud-professional-data-engineer",
+    "t": "google cloud professional data engineer google cloud cs it professional multiple choice online proctored or test center google cloud platform gcp",
+    "name": "Google Cloud Professional Data Engineer",
+    "issuer": "Google Cloud",
+    "domain": "CS/IT",
+    "level": "Professional"
+  },
+  {
+    "slug": "microsoft-azure-fundamentals",
+    "t": "microsoft azure fundamentals microsoft cs it foundational multiple choice online proctored or test center microsoft azure",
+    "name": "Microsoft Azure Fundamentals",
+    "issuer": "Microsoft",
+    "domain": "CS/IT",
+    "level": "Foundational"
+  },
+  {
+    "slug": "microsoft-azure-administrator-associate",
+    "t": "microsoft azure administrator associate microsoft cs it associate multiple choice online proctored or test center microsoft azure",
+    "name": "Microsoft Azure Administrator Associate",
+    "issuer": "Microsoft",
+    "domain": "CS/IT",
+    "level": "Associate"
+  },
+  {
+    "slug": "microsoft-azure-solutions-architect-expert",
+    "t": "microsoft azure solutions architect expert microsoft cs it expert multiple choice online proctored or test center microsoft azure",
+    "name": "Microsoft Azure Solutions Architect Expert",
+    "issuer": "Microsoft",
+    "domain": "CS/IT",
+    "level": "Expert"
+  },
+  {
+    "slug": "project-management-professional-pmp",
+    "t": "project management professional pmp project management institute pmi engineering business professional multiple choice test center or online project management professional pmp",
+    "name": "Project Management Professional (PMP)",
+    "issuer": "Project Management Institute (PMI)",
+    "domain": "Engineering / Business",
+    "level": "Professional"
+  }
+]

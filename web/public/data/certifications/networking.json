@@ -1,0 +1,2557 @@
+[
+  {
+    "id": 566,
+    "slug": "certified-security-specialist",
+    "name": "Certified Security Specialist",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 429,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 756,
+    "job_postings": 1606,
+    "salary": {
+      "min": 67237,
+      "max": 144819,
+      "avg": 98270
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Firewalls",
+      "Routing",
+      "Network Security",
+      "Wireless",
+      "CISCO",
+      "BGP",
+      "OSPF",
+      "Network Monitoring",
+      "TCP/IP",
+      "Switching"
+    ],
+    "description": "Professional certification in certified security specialist offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 4,
+    "created_at": "2025-09-11T18:32:31.478422",
+    "updated_at": "2025-09-11T18:32:31.478424"
+  },
+  {
+    "id": 606,
+    "slug": "certified-switching-consultant",
+    "name": "Certified Switching Consultant",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 267,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 744,
+    "job_postings": 35,
+    "salary": {
+      "min": 74334,
+      "max": 160104,
+      "avg": 108642
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "CISCO",
+      "Network Security",
+      "TCP/IP",
+      "Wireless",
+      "OSPF",
+      "Network Monitoring",
+      "Switching",
+      "Routing",
+      "VPN"
+    ],
+    "description": "Professional certification in certified switching consultant offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 47,
+    "created_at": "2025-09-11T18:32:31.480101",
+    "updated_at": "2025-09-11T18:32:31.480103"
+  },
+  {
+    "id": 612,
+    "slug": "aruba-analytics-certification-1",
+    "name": "Aruba Analytics Certification",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 479,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 529,
+    "job_postings": 1666,
+    "salary": {
+      "min": 56900,
+      "max": 122554,
+      "avg": 83162
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Routing",
+      "Network Security",
+      "Switching",
+      "OSPF",
+      "CISCO"
+    ],
+    "description": "Professional certification in aruba analytics certification offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 81,
+    "created_at": "2025-09-11T18:32:31.480342",
+    "updated_at": "2025-09-11T18:32:31.480343"
+  },
+  {
+    "id": 601,
+    "slug": "check-ospf-specialist",
+    "name": "Check OSPF Specialist",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 498,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 786,
+    "job_postings": 348,
+    "salary": {
+      "min": 57916,
+      "max": 124743,
+      "avg": 84647
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Wireless",
+      "TCP/IP",
+      "Switching",
+      "VPN",
+      "OSPF",
+      "CISCO",
+      "Network Security",
+      "BGP",
+      "Network Monitoring"
+    ],
+    "description": "Professional certification in check ospf specialist offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 119,
+    "created_at": "2025-09-11T18:32:31.479896",
+    "updated_at": "2025-09-11T18:32:31.479897"
+  },
+  {
+    "id": 572,
+    "slug": "cisco-engineering-certification",
+    "name": "CISCO Engineering Certification",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 367,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 748,
+    "job_postings": 326,
+    "salary": {
+      "min": 73482,
+      "max": 158269,
+      "avg": 107397
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "CISCO",
+      "Switching",
+      "VPN",
+      "Network Security"
+    ],
+    "description": "Professional certification in cisco engineering certification offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 205,
+    "created_at": "2025-09-11T18:32:31.478659",
+    "updated_at": "2025-09-11T18:32:31.478660"
+  },
+  {
+    "id": 600,
+    "slug": "certified-security-practitioner-2",
+    "name": "Certified Security Practitioner",
+    "issuer": "Palo Alto Networks",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 479,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 771,
+    "job_postings": 318,
+    "salary": {
+      "min": 64866,
+      "max": 139712,
+      "avg": 94805
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Network Monitoring",
+      "Firewalls",
+      "Routing",
+      "VPN",
+      "TCP/IP",
+      "CISCO",
+      "Wireless",
+      "BGP",
+      "Network Security",
+      "Switching"
+    ],
+    "description": "Professional certification in certified security practitioner offered by Palo Alto Networks. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 207,
+    "created_at": "2025-09-11T18:32:31.479849",
+    "updated_at": "2025-09-11T18:32:31.479852"
+  },
+  {
+    "id": 596,
+    "slug": "comptia-wifi-specialist",
+    "name": "CompTIA WiFi Specialist",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 478,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 700,
+    "job_postings": 33,
+    "salary": {
+      "min": 57437,
+      "max": 123711,
+      "avg": 83947
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "TCP/IP",
+      "Firewalls",
+      "Network Security",
+      "Routing"
+    ],
+    "description": "Professional certification in comptia wifi specialist offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 226,
+    "created_at": "2025-09-11T18:32:31.479614",
+    "updated_at": "2025-09-11T18:32:31.479615"
+  },
+  {
+    "id": 573,
+    "slug": "certified-routing-consultant-1",
+    "name": "Certified Routing Consultant",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 317,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 608,
+    "job_postings": 780,
+    "salary": {
+      "min": 57596,
+      "max": 124053,
+      "avg": 84179
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "CISCO",
+      "BGP",
+      "Firewalls",
+      "TCP/IP",
+      "Wireless"
+    ],
+    "description": "Professional certification in certified routing consultant offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 229,
+    "created_at": "2025-09-11T18:32:31.478698",
+    "updated_at": "2025-09-11T18:32:31.478699"
+  },
+  {
+    "id": 591,
+    "slug": "certified-wireless-specialist",
+    "name": "Certified Wireless Specialist",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 276,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 629,
+    "job_postings": 95,
+    "salary": {
+      "min": 73366,
+      "max": 158020,
+      "avg": 107227
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "VPN",
+      "Firewalls",
+      "Network Monitoring",
+      "BGP",
+      "Network Security",
+      "CISCO",
+      "Wireless",
+      "Routing",
+      "OSPF",
+      "Switching"
+    ],
+    "description": "Professional certification in certified wireless specialist offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 235,
+    "created_at": "2025-09-11T18:32:31.479420",
+    "updated_at": "2025-09-11T18:32:31.479421"
+  },
+  {
+    "id": 575,
+    "slug": "comptia-network-analytics-associate",
+    "name": "CompTIA Network Analytics Associate",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 458,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 533,
+    "job_postings": 704,
+    "salary": {
+      "min": 66374,
+      "max": 142960,
+      "avg": 97008
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "OSPF",
+      "VPN",
+      "CISCO",
+      "Network Security"
+    ],
+    "description": "Professional certification in comptia network analytics associate offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 240,
+    "created_at": "2025-09-11T18:32:31.478776",
+    "updated_at": "2025-09-11T18:32:31.478777"
+  },
+  {
+    "id": 553,
+    "slug": "cisco-network-administration-foundational",
+    "name": "Cisco Network Administration Foundational",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 261,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 668,
+    "job_postings": 32,
+    "salary": {
+      "min": 65500,
+      "max": 141078,
+      "avg": 95731
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "CISCO",
+      "BGP",
+      "Network Monitoring",
+      "VPN",
+      "TCP/IP",
+      "Network Security"
+    ],
+    "description": "Professional certification in cisco network administration foundational offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 284,
+    "created_at": "2025-09-11T18:32:31.477896",
+    "updated_at": "2025-09-11T18:32:31.477897"
+  },
+  {
+    "id": 569,
+    "slug": "aruba-analytics-certification",
+    "name": "Aruba Analytics Certification",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 334,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 720,
+    "job_postings": 30,
+    "salary": {
+      "min": 62436,
+      "max": 134478,
+      "avg": 91253
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Switching",
+      "Network Security",
+      "TCP/IP",
+      "Routing",
+      "Network Monitoring",
+      "VPN",
+      "CISCO",
+      "BGP"
+    ],
+    "description": "Professional certification in aruba analytics certification offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 294,
+    "created_at": "2025-09-11T18:32:31.478541",
+    "updated_at": "2025-09-11T18:32:31.478542"
+  },
+  {
+    "id": 592,
+    "slug": "cisco-engineering-certification-2",
+    "name": "CISCO Engineering Certification",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 436,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 664,
+    "job_postings": 43,
+    "salary": {
+      "min": 63074,
+      "max": 135852,
+      "avg": 92185
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Wireless",
+      "Routing",
+      "Firewalls",
+      "Network Security",
+      "TCP/IP",
+      "OSPF"
+    ],
+    "description": "Professional certification in cisco engineering certification offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 349,
+    "created_at": "2025-09-11T18:32:31.479459",
+    "updated_at": "2025-09-11T18:32:31.479460"
+  },
+  {
+    "id": 610,
+    "slug": "certified-security-consultant",
+    "name": "Certified Security Consultant",
+    "issuer": "Palo Alto Networks",
+    "domain": "networking",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 449,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 621,
+    "job_postings": 340,
+    "salary": {
+      "min": 57773,
+      "max": 124435,
+      "avg": 84438
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Firewalls",
+      "VPN",
+      "Switching",
+      "Network Monitoring",
+      "Network Security",
+      "Wireless",
+      "CISCO",
+      "BGP"
+    ],
+    "description": "Professional certification in certified security consultant offered by Palo Alto Networks. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 388,
+    "created_at": "2025-09-11T18:32:31.480263",
+    "updated_at": "2025-09-11T18:32:31.480264"
+  },
+  {
+    "id": 586,
+    "slug": "certified-routing-practitioner",
+    "name": "Certified Routing Practitioner",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 500,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 511,
+    "job_postings": 553,
+    "salary": {
+      "min": 73935,
+      "max": 159245,
+      "avg": 108059
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Network Security",
+      "CISCO",
+      "Firewalls",
+      "Routing",
+      "BGP",
+      "TCP/IP",
+      "VPN",
+      "Wireless"
+    ],
+    "description": "Professional certification in certified routing practitioner offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 391,
+    "created_at": "2025-09-11T18:32:31.479219",
+    "updated_at": "2025-09-11T18:32:31.479220"
+  },
+  {
+    "id": 584,
+    "slug": "check-tcpip-specialist-1",
+    "name": "Check TCP/IP Specialist",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 361,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 607,
+    "job_postings": 157,
+    "salary": {
+      "min": 66172,
+      "max": 142525,
+      "avg": 96713
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Switching",
+      "OSPF",
+      "Firewalls",
+      "CISCO",
+      "Routing",
+      "Network Monitoring",
+      "Wireless",
+      "BGP",
+      "VPN"
+    ],
+    "description": "Professional certification in check tcp/ip specialist offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ],
+    "ranking": 406,
+    "created_at": "2025-09-11T18:32:31.479139",
+    "updated_at": "2025-09-11T18:32:31.479140"
+  },
+  {
+    "id": 558,
+    "slug": "comptia-network-engineering-associate",
+    "name": "CompTIA Network Engineering Associate",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 396,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 598,
+    "job_postings": 53,
+    "salary": {
+      "min": 62368,
+      "max": 134332,
+      "avg": 91154
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "CISCO",
+      "TCP/IP",
+      "Network Monitoring",
+      "Network Security",
+      "BGP",
+      "Switching",
+      "OSPF",
+      "Firewalls",
+      "VPN",
+      "Wireless"
+    ],
+    "description": "Professional certification in comptia network engineering associate offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 451,
+    "created_at": "2025-09-11T18:32:31.478097",
+    "updated_at": "2025-09-11T18:32:31.478098"
+  },
+  {
+    "id": 608,
+    "slug": "juniper-engineering-certification",
+    "name": "Juniper Engineering Certification",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 411,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 569,
+    "job_postings": 28,
+    "salary": {
+      "min": 56392,
+      "max": 121461,
+      "avg": 82420
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Firewalls",
+      "TCP/IP",
+      "Network Monitoring",
+      "Wireless",
+      "Switching",
+      "OSPF",
+      "VPN",
+      "CISCO",
+      "Network Security",
+      "Routing"
+    ],
+    "description": "Professional certification in juniper engineering certification offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 497,
+    "created_at": "2025-09-11T18:32:31.480181",
+    "updated_at": "2025-09-11T18:32:31.480182"
+  },
+  {
+    "id": 559,
+    "slug": "comptia-network-administration-senior",
+    "name": "CompTIA Network Administration Senior",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 304,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 429,
+    "job_postings": 752,
+    "salary": {
+      "min": 71352,
+      "max": 153681,
+      "avg": 104284
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "BGP",
+      "Wireless",
+      "CISCO",
+      "Firewalls",
+      "TCP/IP",
+      "Network Security",
+      "VPN"
+    ],
+    "description": "Professional certification in comptia network administration senior offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 515,
+    "created_at": "2025-09-11T18:32:31.478138",
+    "updated_at": "2025-09-11T18:32:31.478139"
+  },
+  {
+    "id": 571,
+    "slug": "cisco-network-strategy-advanced",
+    "name": "Cisco Network Strategy Advanced",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 464,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 533,
+    "job_postings": 32,
+    "salary": {
+      "min": 61709,
+      "max": 132913,
+      "avg": 90191
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Network Monitoring",
+      "BGP",
+      "VPN",
+      "CISCO"
+    ],
+    "description": "Professional certification in cisco network strategy advanced offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 519,
+    "created_at": "2025-09-11T18:32:31.478619",
+    "updated_at": "2025-09-11T18:32:31.478620"
+  },
+  {
+    "id": 605,
+    "slug": "cisco-wifi-specialist",
+    "name": "Cisco WiFi Specialist",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 273,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 501,
+    "job_postings": 9,
+    "salary": {
+      "min": 72368,
+      "max": 155870,
+      "avg": 105769
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Firewalls",
+      "Wireless",
+      "Network Security",
+      "TCP/IP"
+    ],
+    "description": "Professional certification in cisco wifi specialist offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 567,
+    "created_at": "2025-09-11T18:32:31.480061",
+    "updated_at": "2025-09-11T18:32:31.480062"
+  },
+  {
+    "id": 567,
+    "slug": "check-bgp-specialist",
+    "name": "Check BGP Specialist",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 454,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 611,
+    "job_postings": 16,
+    "salary": {
+      "min": 58888,
+      "max": 126837,
+      "avg": 86068
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "CISCO",
+      "Network Security",
+      "BGP",
+      "Firewalls"
+    ],
+    "description": "Professional certification in check bgp specialist offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 593,
+    "created_at": "2025-09-11T18:32:31.478460",
+    "updated_at": "2025-09-11T18:32:31.478461"
+  },
+  {
+    "id": 598,
+    "slug": "cisco-network-development-senior",
+    "name": "Cisco Network Development Senior",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 346,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 484,
+    "job_postings": 10,
+    "salary": {
+      "min": 65812,
+      "max": 141750,
+      "avg": 96188
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Wireless",
+      "OSPF",
+      "Firewalls",
+      "Network Security",
+      "BGP",
+      "CISCO",
+      "VPN",
+      "Network Monitoring"
+    ],
+    "description": "Professional certification in cisco network development senior offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 646,
+    "created_at": "2025-09-11T18:32:31.479695",
+    "updated_at": "2025-09-11T18:32:31.479696"
+  },
+  {
+    "id": 556,
+    "slug": "fortinet-management-certification",
+    "name": "Fortinet Management Certification",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 300,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 388,
+    "job_postings": 147,
+    "salary": {
+      "min": 64862,
+      "max": 139704,
+      "avg": 94799
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "BGP",
+      "VPN",
+      "CISCO",
+      "Network Monitoring",
+      "Network Security",
+      "Routing",
+      "TCP/IP",
+      "Firewalls",
+      "OSPF"
+    ],
+    "description": "Professional certification in fortinet management certification offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 705,
+    "created_at": "2025-09-11T18:32:31.478014",
+    "updated_at": "2025-09-11T18:32:31.478015"
+  },
+  {
+    "id": 565,
+    "slug": "comptia-sdn-specialist",
+    "name": "CompTIA SDN Specialist",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 305,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 447,
+    "job_postings": 26,
+    "salary": {
+      "min": 67564,
+      "max": 145523,
+      "avg": 98748
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Firewalls",
+      "TCP/IP",
+      "OSPF",
+      "Network Monitoring",
+      "CISCO",
+      "Wireless",
+      "BGP",
+      "Routing",
+      "VPN",
+      "Switching"
+    ],
+    "description": "Professional certification in comptia sdn specialist offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 716,
+    "created_at": "2025-09-11T18:32:31.478381",
+    "updated_at": "2025-09-11T18:32:31.478382"
+  },
+  {
+    "id": 555,
+    "slug": "certified-switching-practitioner",
+    "name": "Certified Switching Practitioner",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 402,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 372,
+    "job_postings": 8,
+    "salary": {
+      "min": 72239,
+      "max": 155592,
+      "avg": 105580
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Switching",
+      "VPN",
+      "Firewalls",
+      "Routing",
+      "OSPF"
+    ],
+    "description": "Professional certification in certified switching practitioner offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 748,
+    "created_at": "2025-09-11T18:32:31.477974",
+    "updated_at": "2025-09-11T18:32:31.477975"
+  },
+  {
+    "id": 602,
+    "slug": "aruba-engineering-certification",
+    "name": "Aruba Engineering Certification",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 394,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 188,
+    "job_postings": 912,
+    "salary": {
+      "min": 61489,
+      "max": 132438,
+      "avg": 89869
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "VPN",
+      "BGP",
+      "Network Security",
+      "CISCO",
+      "Switching",
+      "OSPF",
+      "Network Monitoring",
+      "TCP/IP"
+    ],
+    "description": "Professional certification in aruba engineering certification offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 758,
+    "created_at": "2025-09-11T18:32:31.479939",
+    "updated_at": "2025-09-11T18:32:31.479940"
+  },
+  {
+    "id": 599,
+    "slug": "network-engineer-advanced-1",
+    "name": "Network Engineer Advanced",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 276,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 495,
+    "job_postings": 124,
+    "salary": {
+      "min": 74546,
+      "max": 160561,
+      "avg": 108952
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Routing",
+      "OSPF",
+      "BGP",
+      "Network Monitoring",
+      "TCP/IP",
+      "VPN",
+      "Firewalls"
+    ],
+    "description": "Professional certification in network engineer advanced offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 776,
+    "created_at": "2025-09-11T18:32:31.479758",
+    "updated_at": "2025-09-11T18:32:31.479761"
+  },
+  {
+    "id": 578,
+    "slug": "check-bgp-specialist-1",
+    "name": "Check BGP Specialist",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 517,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 410,
+    "job_postings": 43,
+    "salary": {
+      "min": 70396,
+      "max": 151623,
+      "avg": 102887
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "OSPF",
+      "Wireless",
+      "Network Security",
+      "Switching",
+      "Network Monitoring",
+      "Routing",
+      "Firewalls",
+      "CISCO"
+    ],
+    "description": "Professional certification in check bgp specialist offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 791,
+    "created_at": "2025-09-11T18:32:31.478895",
+    "updated_at": "2025-09-11T18:32:31.478896"
+  },
+  {
+    "id": 580,
+    "slug": "network-administrator-professional",
+    "name": "Network Administrator Professional",
+    "issuer": "Palo Alto Networks",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 469,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 480,
+    "job_postings": 499,
+    "salary": {
+      "min": 70813,
+      "max": 152521,
+      "avg": 103497
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Switching",
+      "Wireless",
+      "Firewalls",
+      "Network Security",
+      "Routing",
+      "OSPF",
+      "CISCO",
+      "Network Monitoring"
+    ],
+    "description": "Professional certification in network administrator professional offered by Palo Alto Networks. Validates expertise in Networking and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 795,
+    "created_at": "2025-09-11T18:32:31.478976",
+    "updated_at": "2025-09-11T18:32:31.478977"
+  },
+  {
+    "id": 582,
+    "slug": "check-tcpip-specialist",
+    "name": "Check TCP/IP Specialist",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 433,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 535,
+    "job_postings": 74,
+    "salary": {
+      "min": 62276,
+      "max": 134133,
+      "avg": 91019
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Network Security",
+      "Network Monitoring",
+      "VPN",
+      "OSPF",
+      "Routing"
+    ],
+    "description": "Professional certification in check tcp/ip specialist offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 797,
+    "created_at": "2025-09-11T18:32:31.479058",
+    "updated_at": "2025-09-11T18:32:31.479059"
+  },
+  {
+    "id": 576,
+    "slug": "juniper-architecture-certification",
+    "name": "Juniper Architecture Certification",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 332,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 353,
+    "job_postings": 12,
+    "salary": {
+      "min": 65140,
+      "max": 140302,
+      "avg": 95205
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Wireless",
+      "Firewalls",
+      "Network Security",
+      "VPN"
+    ],
+    "description": "Professional certification in juniper architecture certification offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 806,
+    "created_at": "2025-09-11T18:32:31.478818",
+    "updated_at": "2025-09-11T18:32:31.478819"
+  },
+  {
+    "id": 577,
+    "slug": "comptia-mpls-specialist",
+    "name": "CompTIA MPLS Specialist",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 277,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 418,
+    "job_postings": 411,
+    "salary": {
+      "min": 55738,
+      "max": 120051,
+      "avg": 81463
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Firewalls",
+      "CISCO",
+      "TCP/IP",
+      "Routing",
+      "Network Monitoring",
+      "Wireless",
+      "VPN",
+      "OSPF"
+    ],
+    "description": "Professional certification in comptia mpls specialist offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 814,
+    "created_at": "2025-09-11T18:32:31.478856",
+    "updated_at": "2025-09-11T18:32:31.478858"
+  },
+  {
+    "id": 560,
+    "slug": "certified-routing-consultant",
+    "name": "Certified Routing Consultant",
+    "issuer": "Palo Alto Networks",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 493,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 246,
+    "job_postings": 199,
+    "salary": {
+      "min": 57082,
+      "max": 122947,
+      "avg": 83428
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Network Security",
+      "Network Monitoring",
+      "VPN",
+      "OSPF",
+      "Switching",
+      "TCP/IP",
+      "Wireless",
+      "BGP"
+    ],
+    "description": "Professional certification in certified routing consultant offered by Palo Alto Networks. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 842,
+    "created_at": "2025-09-11T18:32:31.478178",
+    "updated_at": "2025-09-11T18:32:31.478179"
+  },
+  {
+    "id": 583,
+    "slug": "network-engineer-advanced",
+    "name": "Network Engineer Advanced",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 483,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 250,
+    "job_postings": 710,
+    "salary": {
+      "min": 61238,
+      "max": 131897,
+      "avg": 89501
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Firewalls",
+      "OSPF",
+      "Routing",
+      "Switching"
+    ],
+    "description": "Professional certification in network engineer advanced offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 848,
+    "created_at": "2025-09-11T18:32:31.479096",
+    "updated_at": "2025-09-11T18:32:31.479098"
+  },
+  {
+    "id": 589,
+    "slug": "network-analyst-foundational",
+    "name": "Network Analyst Foundational",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 392,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 446,
+    "job_postings": 19,
+    "salary": {
+      "min": 61104,
+      "max": 131608,
+      "avg": 89305
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Wireless",
+      "Network Security",
+      "VPN",
+      "Network Monitoring"
+    ],
+    "description": "Professional certification in network analyst foundational offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 877,
+    "created_at": "2025-09-11T18:32:31.479338",
+    "updated_at": "2025-09-11T18:32:31.479340"
+  },
+  {
+    "id": 593,
+    "slug": "certified-routing-professional",
+    "name": "Certified Routing Professional",
+    "issuer": "Palo Alto Networks",
+    "domain": "networking",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 580,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 442,
+    "job_postings": 9,
+    "salary": {
+      "min": 57625,
+      "max": 124116,
+      "avg": 84221
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "BGP",
+      "VPN",
+      "Switching",
+      "Network Security"
+    ],
+    "description": "Professional certification in certified routing professional offered by Palo Alto Networks. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 884,
+    "created_at": "2025-09-11T18:32:31.479497",
+    "updated_at": "2025-09-11T18:32:31.479499"
+  },
+  {
+    "id": 603,
+    "slug": "palo-alto-administration-certification",
+    "name": "Palo Alto Administration Certification",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 408,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 377,
+    "job_postings": 11,
+    "salary": {
+      "min": 69337,
+      "max": 149342,
+      "avg": 101339
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Routing",
+      "VPN",
+      "Wireless",
+      "Firewalls",
+      "CISCO",
+      "BGP"
+    ],
+    "description": "Professional certification in palo alto administration certification offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 898,
+    "created_at": "2025-09-11T18:32:31.479981",
+    "updated_at": "2025-09-11T18:32:31.479982"
+  },
+  {
+    "id": 579,
+    "slug": "network-analyst-lead",
+    "name": "Network Analyst Lead",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 381,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 253,
+    "job_postings": 479,
+    "salary": {
+      "min": 68048,
+      "max": 146567,
+      "avg": 99456
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "VPN",
+      "BGP",
+      "Network Security",
+      "Wireless",
+      "Switching",
+      "OSPF",
+      "Routing",
+      "TCP/IP",
+      "Network Monitoring",
+      "CISCO"
+    ],
+    "description": "Professional certification in network analyst lead offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 902,
+    "created_at": "2025-09-11T18:32:31.478934",
+    "updated_at": "2025-09-11T18:32:31.478936"
+  },
+  {
+    "id": 564,
+    "slug": "aruba-architecture-certification",
+    "name": "Aruba Architecture Certification",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 335,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 240,
+    "job_postings": 153,
+    "salary": {
+      "min": 67773,
+      "max": 145973,
+      "avg": 99053
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Switching",
+      "OSPF",
+      "Firewalls",
+      "TCP/IP",
+      "Routing",
+      "Network Monitoring",
+      "Network Security",
+      "VPN",
+      "Wireless"
+    ],
+    "description": "Professional certification in aruba architecture certification offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "German"
+    ],
+    "ranking": 940,
+    "created_at": "2025-09-11T18:32:31.478340",
+    "updated_at": "2025-09-11T18:32:31.478341"
+  },
+  {
+    "id": 554,
+    "slug": "certified-switching-specialist",
+    "name": "Certified Switching Specialist",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 473,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 334,
+    "job_postings": 31,
+    "salary": {
+      "min": 72809,
+      "max": 156820,
+      "avg": 106414
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "CISCO",
+      "Network Security",
+      "BGP",
+      "VPN"
+    ],
+    "description": "Professional certification in certified switching specialist offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 950,
+    "created_at": "2025-09-11T18:32:31.477934",
+    "updated_at": "2025-09-11T18:32:31.477936"
+  },
+  {
+    "id": 557,
+    "slug": "network-administrator-lead",
+    "name": "Network Administrator Lead",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 270,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 84,
+    "job_postings": 1638,
+    "salary": {
+      "min": 65917,
+      "max": 141976,
+      "avg": 96341
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Network Monitoring",
+      "Firewalls",
+      "Network Security",
+      "BGP",
+      "Wireless",
+      "TCP/IP",
+      "Switching",
+      "CISCO"
+    ],
+    "description": "Professional certification in network administrator lead offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 952,
+    "created_at": "2025-09-11T18:32:31.478054",
+    "updated_at": "2025-09-11T18:32:31.478055"
+  },
+  {
+    "id": 607,
+    "slug": "network-architect-master",
+    "name": "Network Architect Master",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 374,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 232,
+    "job_postings": 621,
+    "salary": {
+      "min": 55264,
+      "max": 119030,
+      "avg": 80770
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "OSPF",
+      "Wireless",
+      "BGP",
+      "CISCO"
+    ],
+    "description": "Professional certification in network architect master offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1002,
+    "created_at": "2025-09-11T18:32:31.480140",
+    "updated_at": "2025-09-11T18:32:31.480141"
+  },
+  {
+    "id": 587,
+    "slug": "check-network-architecture-senior",
+    "name": "Check Network Architecture Senior",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 335,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 237,
+    "job_postings": 463,
+    "salary": {
+      "min": 55347,
+      "max": 119210,
+      "avg": 80893
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Network Monitoring",
+      "CISCO",
+      "TCP/IP",
+      "VPN",
+      "BGP",
+      "Switching",
+      "OSPF",
+      "Network Security",
+      "Firewalls"
+    ],
+    "description": "Professional certification in check network architecture senior offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1005,
+    "created_at": "2025-09-11T18:32:31.479259",
+    "updated_at": "2025-09-11T18:32:31.479260"
+  },
+  {
+    "id": 568,
+    "slug": "palo-network-administration-foundational",
+    "name": "Palo Network Administration Foundational",
+    "issuer": "Palo Alto Networks",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 443,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 293,
+    "job_postings": 72,
+    "salary": {
+      "min": 57635,
+      "max": 124137,
+      "avg": 84235
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Wireless",
+      "CISCO",
+      "Network Security",
+      "Network Monitoring",
+      "VPN"
+    ],
+    "description": "Professional certification in palo network administration foundational offered by Palo Alto Networks. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1022,
+    "created_at": "2025-09-11T18:32:31.478501",
+    "updated_at": "2025-09-11T18:32:31.478502"
+  },
+  {
+    "id": 597,
+    "slug": "comptia-network-strategy-foundational",
+    "name": "CompTIA Network Strategy Foundational",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 489,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 225,
+    "job_postings": 77,
+    "salary": {
+      "min": 68356,
+      "max": 147230,
+      "avg": 99906
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "CISCO",
+      "BGP",
+      "Network Security",
+      "Wireless",
+      "Routing",
+      "OSPF",
+      "VPN",
+      "TCP/IP"
+    ],
+    "description": "Professional certification in comptia network strategy foundational offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 1036,
+    "created_at": "2025-09-11T18:32:31.479655",
+    "updated_at": "2025-09-11T18:32:31.479656"
+  },
+  {
+    "id": 604,
+    "slug": "palo-sdn-specialist",
+    "name": "Palo SDN Specialist",
+    "issuer": "Palo Alto Networks",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 589,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 208,
+    "job_postings": 170,
+    "salary": {
+      "min": 56277,
+      "max": 121213,
+      "avg": 82252
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "TCP/IP",
+      "VPN",
+      "CISCO",
+      "Wireless"
+    ],
+    "description": "Professional certification in palo sdn specialist offered by Palo Alto Networks. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 1072,
+    "created_at": "2025-09-11T18:32:31.480021",
+    "updated_at": "2025-09-11T18:32:31.480023"
+  },
+  {
+    "id": 581,
+    "slug": "certified-infrastructure-professional",
+    "name": "Certified Infrastructure Professional",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 251,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 63,
+    "job_postings": 795,
+    "salary": {
+      "min": 62477,
+      "max": 134567,
+      "avg": 91313
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "OSPF",
+      "Network Security",
+      "CISCO",
+      "Switching",
+      "Firewalls",
+      "VPN",
+      "Network Monitoring",
+      "Wireless"
+    ],
+    "description": "Professional certification in certified infrastructure professional offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 1089,
+    "created_at": "2025-09-11T18:32:31.479017",
+    "updated_at": "2025-09-11T18:32:31.479019"
+  },
+  {
+    "id": 588,
+    "slug": "certified-routing-analyst-1",
+    "name": "Certified Routing Analyst",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 415,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 258,
+    "job_postings": 40,
+    "salary": {
+      "min": 67691,
+      "max": 145797,
+      "avg": 98934
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "CISCO",
+      "Network Monitoring",
+      "Firewalls",
+      "BGP",
+      "Network Security",
+      "OSPF",
+      "TCP/IP",
+      "VPN"
+    ],
+    "description": "Professional certification in certified routing analyst offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 1094,
+    "created_at": "2025-09-11T18:32:31.479298",
+    "updated_at": "2025-09-11T18:32:31.479299"
+  },
+  {
+    "id": 609,
+    "slug": "comptia-network-engineering-associate-1",
+    "name": "CompTIA Network Engineering Associate",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 463,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 133,
+    "job_postings": 156,
+    "salary": {
+      "min": 72627,
+      "max": 156429,
+      "avg": 106148
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Switching",
+      "Network Monitoring",
+      "OSPF",
+      "Firewalls",
+      "BGP",
+      "TCP/IP"
+    ],
+    "description": "Professional certification in comptia network engineering associate offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 1179,
+    "created_at": "2025-09-11T18:32:31.480222",
+    "updated_at": "2025-09-11T18:32:31.480224"
+  },
+  {
+    "id": 563,
+    "slug": "palo-network-development-senior",
+    "name": "Palo Network Development Senior",
+    "issuer": "Palo Alto Networks",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 410,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 188,
+    "job_postings": 41,
+    "salary": {
+      "min": 67553,
+      "max": 145499,
+      "avg": 98731
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "OSPF",
+      "VPN",
+      "Wireless",
+      "Routing",
+      "BGP",
+      "TCP/IP",
+      "Network Monitoring",
+      "Network Security",
+      "Switching"
+    ],
+    "description": "Professional certification in palo network development senior offered by Palo Alto Networks. Validates expertise in Networking and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1184,
+    "created_at": "2025-09-11T18:32:31.478299",
+    "updated_at": "2025-09-11T18:32:31.478300"
+  },
+  {
+    "id": 590,
+    "slug": "cisco-engineering-certification-1",
+    "name": "CISCO Engineering Certification",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 403,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 71,
+    "job_postings": 10,
+    "salary": {
+      "min": 67813,
+      "max": 146059,
+      "avg": 99111
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "BGP",
+      "Firewalls",
+      "TCP/IP",
+      "Network Monitoring",
+      "OSPF",
+      "Routing",
+      "CISCO",
+      "Switching"
+    ],
+    "description": "Professional certification in cisco engineering certification offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 1200,
+    "created_at": "2025-09-11T18:32:31.479379",
+    "updated_at": "2025-09-11T18:32:31.479380"
+  },
+  {
+    "id": 585,
+    "slug": "network-architect-foundational",
+    "name": "Network Architect Foundational",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 410,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 132,
+    "job_postings": 713,
+    "salary": {
+      "min": 55605,
+      "max": 119765,
+      "avg": 81269
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Network Security",
+      "CISCO",
+      "OSPF",
+      "VPN",
+      "Firewalls",
+      "TCP/IP",
+      "Network Monitoring",
+      "Switching"
+    ],
+    "description": "Professional certification in network architect foundational offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1241,
+    "created_at": "2025-09-11T18:32:31.479179",
+    "updated_at": "2025-09-11T18:32:31.479180"
+  },
+  {
+    "id": 561,
+    "slug": "juniper-security-certification",
+    "name": "Juniper Security Certification",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 456,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 72,
+    "job_postings": 618,
+    "salary": {
+      "min": 58155,
+      "max": 125259,
+      "avg": 84997
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "OSPF",
+      "CISCO",
+      "Wireless",
+      "Network Security",
+      "Network Monitoring",
+      "TCP/IP",
+      "VPN",
+      "Firewalls"
+    ],
+    "description": "Professional certification in juniper security certification offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1281,
+    "created_at": "2025-09-11T18:32:31.478218",
+    "updated_at": "2025-09-11T18:32:31.478219"
+  },
+  {
+    "id": 562,
+    "slug": "cisco-tcpip-specialist",
+    "name": "Cisco TCP/IP Specialist",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 445,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 80,
+    "job_postings": 78,
+    "salary": {
+      "min": 60555,
+      "max": 130426,
+      "avg": 88503
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Wireless",
+      "TCP/IP",
+      "BGP",
+      "CISCO",
+      "Firewalls",
+      "OSPF",
+      "Network Security",
+      "Switching"
+    ],
+    "description": "Professional certification in cisco tcp/ip specialist offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1285,
+    "created_at": "2025-09-11T18:32:31.478259",
+    "updated_at": "2025-09-11T18:32:31.478260"
+  },
+  {
+    "id": 594,
+    "slug": "palo-wifi-specialist",
+    "name": "Palo WiFi Specialist",
+    "issuer": "Palo Alto Networks",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 621,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 119,
+    "job_postings": 174,
+    "salary": {
+      "min": 62813,
+      "max": 135290,
+      "avg": 91803
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "OSPF",
+      "Network Monitoring",
+      "Routing",
+      "TCP/IP",
+      "VPN",
+      "Wireless",
+      "BGP"
+    ],
+    "description": "Professional certification in palo wifi specialist offered by Palo Alto Networks. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 1304,
+    "created_at": "2025-09-11T18:32:31.479537",
+    "updated_at": "2025-09-11T18:32:31.479538"
+  },
+  {
+    "id": 611,
+    "slug": "cisco-wifi-specialist-1",
+    "name": "Cisco WiFi Specialist",
+    "issuer": "Cisco",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 457,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 29,
+    "job_postings": 197,
+    "salary": {
+      "min": 71540,
+      "max": 154087,
+      "avg": 104559
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Firewalls",
+      "Network Security",
+      "Wireless",
+      "CISCO",
+      "Switching",
+      "BGP",
+      "Routing",
+      "VPN"
+    ],
+    "description": "Professional certification in cisco wifi specialist offered by Cisco. Validates expertise in Networking and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1316,
+    "created_at": "2025-09-11T18:32:31.480302",
+    "updated_at": "2025-09-11T18:32:31.480303"
+  },
+  {
+    "id": 570,
+    "slug": "certified-routing-analyst",
+    "name": "Certified Routing Analyst",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 556,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 25,
+    "job_postings": 169,
+    "salary": {
+      "min": 70656,
+      "max": 152183,
+      "avg": 103267
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Switching",
+      "VPN",
+      "Wireless",
+      "Network Monitoring",
+      "Firewalls",
+      "BGP",
+      "OSPF",
+      "Routing"
+    ],
+    "description": "Professional certification in certified routing analyst offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 1318,
+    "created_at": "2025-09-11T18:32:31.478580",
+    "updated_at": "2025-09-11T18:32:31.478581"
+  },
+  {
+    "id": 574,
+    "slug": "certified-routing-administrator",
+    "name": "Certified Routing Administrator",
+    "issuer": "Check Point",
+    "domain": "networking",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 393,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 124,
+    "job_postings": 52,
+    "salary": {
+      "min": 58024,
+      "max": 124975,
+      "avg": 84804
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Routing",
+      "Network Security",
+      "Firewalls",
+      "OSPF",
+      "Switching",
+      "VPN"
+    ],
+    "description": "Professional certification in certified routing administrator offered by Check Point. Validates expertise in Networking and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1332,
+    "created_at": "2025-09-11T18:32:31.478737",
+    "updated_at": "2025-09-11T18:32:31.478738"
+  },
+  {
+    "id": 595,
+    "slug": "comptia-network-security-senior",
+    "name": "CompTIA Network Security Senior",
+    "issuer": "CompTIA",
+    "domain": "networking",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 465,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 93,
+    "job_postings": 19,
+    "salary": {
+      "min": 70245,
+      "max": 151298,
+      "avg": 102666
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Network Security",
+      "CISCO",
+      "Firewalls",
+      "BGP",
+      "Switching",
+      "OSPF",
+      "Wireless",
+      "Network Monitoring"
+    ],
+    "description": "Professional certification in comptia network security senior offered by CompTIA. Validates expertise in Networking and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 1360,
+    "created_at": "2025-09-11T18:32:31.479577",
+    "updated_at": "2025-09-11T18:32:31.479578"
+  }
+]

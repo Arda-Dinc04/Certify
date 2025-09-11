@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "ea-enrolled-agent-irs",
+    "name": "EA (Enrolled Agent)",
+    "domain": "finance",
+    "issuer": "IRS",
+    "url": "https://www.irs.gov/tax-professionals/enrolled-agents",
+    "level": "Professional",
+    "exam_fee_usd": 181,
+    "price_source": "heuristic",
+    "recommended_hours_min": 120,
+    "recommended_hours_max": 200,
+    "hours_source": "heuristic",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "MCQ",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782373Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.irs.gov/tax-professionals/enrolled-agents",
+        "checked_at": "2025-09-11T17:29:51.782373Z"
+      }
+    ]
+  },
+  {
+    "slug": "epa-section-608-universal-epa",
+    "name": "EPA Section 608 Universal",
+    "domain": "skilled-trades",
+    "issuer": "EPA",
+    "url": "https://www.epa.gov/",
+    "level": "Professional",
+    "exam_fee_usd": 35,
+    "price_source": "heuristic",
+    "recommended_hours_min": 20,
+    "recommended_hours_max": 40,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "written exam",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.epa.gov/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  }
+]

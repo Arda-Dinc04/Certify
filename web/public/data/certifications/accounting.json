@@ -1,0 +1,1525 @@
+[
+  {
+    "id": 1027,
+    "slug": "sap-security-certificate",
+    "name": "SAP Security Certificate",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 618,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 783,
+    "job_postings": 2083,
+    "salary": {
+      "min": 49493,
+      "max": 138582,
+      "avg": 84139
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Tax Accounting",
+      "Cost Accounting",
+      "Financial Reporting",
+      "IFRS"
+    ],
+    "description": "Professional certification in sap security certificate offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "French",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 5,
+    "created_at": "2025-09-11T18:32:31.497465",
+    "updated_at": "2025-09-11T18:32:31.497466"
+  },
+  {
+    "id": 1011,
+    "slug": "tax-engineering-certification",
+    "name": "Tax Engineering Certification",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 444,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 766,
+    "job_postings": 379,
+    "salary": {
+      "min": 52233,
+      "max": 146252,
+      "avg": 88796
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Financial Accounting",
+      "Cost Accounting",
+      "Financial Reporting",
+      "GAAP",
+      "IFRS"
+    ],
+    "description": "Professional certification in tax engineering certification offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 44,
+    "created_at": "2025-09-11T18:32:31.496813",
+    "updated_at": "2025-09-11T18:32:31.496814"
+  },
+  {
+    "id": 1020,
+    "slug": "certified-management-accounting-analyst",
+    "name": "Certified Management Accounting Analyst",
+    "issuer": "COSO",
+    "domain": "accounting",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 661,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 779,
+    "job_postings": 139,
+    "salary": {
+      "min": 57462,
+      "max": 160894,
+      "avg": 97685
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Cost Accounting",
+      "Management Accounting",
+      "Auditing",
+      "Budgeting",
+      "Tax Accounting",
+      "GAAP",
+      "IFRS",
+      "Financial Accounting",
+      "Financial Reporting"
+    ],
+    "description": "Professional certification in certified management accounting analyst offered by COSO. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 232,
+    "created_at": "2025-09-11T18:32:31.497184",
+    "updated_at": "2025-09-11T18:32:31.497185"
+  },
+  {
+    "id": 1010,
+    "slug": "public-auditor-lead",
+    "name": "Public Auditor Lead",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 800,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 747,
+    "job_postings": 455,
+    "salary": {
+      "min": 42602,
+      "max": 119286,
+      "avg": 72423
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Auditing",
+      "Tax Accounting",
+      "Budgeting",
+      "IFRS",
+      "Financial Reporting",
+      "Cost Accounting",
+      "Management Accounting",
+      "Financial Accounting",
+      "GAAP"
+    ],
+    "description": "Professional certification in public auditor lead offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 242,
+    "created_at": "2025-09-11T18:32:31.496771",
+    "updated_at": "2025-09-11T18:32:31.496773"
+  },
+  {
+    "id": 1025,
+    "slug": "tax-analytics-certification",
+    "name": "Tax Analytics Certification",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 794,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 672,
+    "job_postings": 70,
+    "salary": {
+      "min": 46058,
+      "max": 128965,
+      "avg": 78300
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "IFRS",
+      "Management Accounting",
+      "GAAP",
+      "Auditing",
+      "Financial Accounting",
+      "Budgeting",
+      "Cost Accounting"
+    ],
+    "description": "Professional certification in tax analytics certification offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 306,
+    "created_at": "2025-09-11T18:32:31.497385",
+    "updated_at": "2025-09-11T18:32:31.497387"
+  },
+  {
+    "id": 1024,
+    "slug": "ima-cfe-expert",
+    "name": "IMA CFE Expert",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 606,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 644,
+    "job_postings": 133,
+    "salary": {
+      "min": 44965,
+      "max": 125902,
+      "avg": 76440
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Financial Accounting",
+      "Auditing",
+      "Financial Reporting",
+      "Management Accounting"
+    ],
+    "description": "Professional certification in ima cfe expert offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 404,
+    "created_at": "2025-09-11T18:32:31.497345",
+    "updated_at": "2025-09-11T18:32:31.497346"
+  },
+  {
+    "id": 1043,
+    "slug": "advisory-administration-certification-1",
+    "name": "Advisory Administration Certification",
+    "issuer": "COSO",
+    "domain": "accounting",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 678,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 606,
+    "job_postings": 343,
+    "salary": {
+      "min": 52418,
+      "max": 146770,
+      "avg": 89110
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Financial Accounting",
+      "IFRS",
+      "Financial Reporting",
+      "Auditing",
+      "Budgeting"
+    ],
+    "description": "Professional certification in advisory administration certification offered by COSO. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 435,
+    "created_at": "2025-09-11T18:32:31.498122",
+    "updated_at": "2025-09-11T18:32:31.498124"
+  },
+  {
+    "id": 1029,
+    "slug": "certified-public-accounting-specialist-1",
+    "name": "Certified Public Accounting Specialist",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 673,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 727,
+    "job_postings": 19,
+    "salary": {
+      "min": 49289,
+      "max": 138010,
+      "avg": 83792
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "IFRS",
+      "GAAP",
+      "Financial Accounting",
+      "Management Accounting",
+      "Cost Accounting",
+      "Auditing",
+      "Tax Accounting"
+    ],
+    "description": "Professional certification in certified public accounting specialist offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 508,
+    "created_at": "2025-09-11T18:32:31.497546",
+    "updated_at": "2025-09-11T18:32:31.497548"
+  },
+  {
+    "id": 1042,
+    "slug": "certified-forensic-administrator",
+    "name": "Certified Forensic Administrator",
+    "issuer": "COSO",
+    "domain": "accounting",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 448,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 563,
+    "job_postings": 91,
+    "salary": {
+      "min": 46467,
+      "max": 130108,
+      "avg": 78994
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Management Accounting",
+      "Tax Accounting",
+      "Auditing",
+      "IFRS",
+      "Financial Reporting",
+      "Budgeting",
+      "Financial Accounting"
+    ],
+    "description": "Professional certification in certified forensic administrator offered by COSO. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 608,
+    "created_at": "2025-09-11T18:32:31.498080",
+    "updated_at": "2025-09-11T18:32:31.498081"
+  },
+  {
+    "id": 1028,
+    "slug": "certified-audit-administrator",
+    "name": "Certified Audit Administrator",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 647,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 465,
+    "job_postings": 376,
+    "salary": {
+      "min": 46769,
+      "max": 130954,
+      "avg": 79508
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Tax Accounting",
+      "IFRS",
+      "Budgeting",
+      "Financial Reporting"
+    ],
+    "description": "Professional certification in certified audit administrator offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 629,
+    "created_at": "2025-09-11T18:32:31.497505",
+    "updated_at": "2025-09-11T18:32:31.497506"
+  },
+  {
+    "id": 1040,
+    "slug": "netsuite-strategy-certificate",
+    "name": "NetSuite Strategy Certificate",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 560,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 445,
+    "job_postings": 157,
+    "salary": {
+      "min": 43332,
+      "max": 121332,
+      "avg": 73665
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Cost Accounting",
+      "Budgeting",
+      "Tax Accounting",
+      "IFRS",
+      "Financial Reporting",
+      "Management Accounting",
+      "GAAP",
+      "Auditing",
+      "Financial Accounting"
+    ],
+    "description": "Professional certification in netsuite strategy certificate offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 692,
+    "created_at": "2025-09-11T18:32:31.497997",
+    "updated_at": "2025-09-11T18:32:31.497998"
+  },
+  {
+    "id": 1014,
+    "slug": "certified-public-accounting-specialist",
+    "name": "Certified Public Accounting Specialist",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 763,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 625,
+    "job_postings": 97,
+    "salary": {
+      "min": 51915,
+      "max": 145362,
+      "avg": 88255
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Cost Accounting",
+      "Budgeting",
+      "Auditing",
+      "Management Accounting"
+    ],
+    "description": "Professional certification in certified public accounting specialist offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 717,
+    "created_at": "2025-09-11T18:32:31.496936",
+    "updated_at": "2025-09-11T18:32:31.496937"
+  },
+  {
+    "id": 1012,
+    "slug": "certified-forensic-analyst",
+    "name": "Certified Forensic Analyst",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 673,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 357,
+    "job_postings": 273,
+    "salary": {
+      "min": 45363,
+      "max": 127017,
+      "avg": 77118
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Budgeting",
+      "Financial Accounting",
+      "Tax Accounting",
+      "GAAP",
+      "Financial Reporting",
+      "Cost Accounting",
+      "Management Accounting",
+      "IFRS",
+      "Auditing"
+    ],
+    "description": "Professional certification in certified forensic analyst offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 760,
+    "created_at": "2025-09-11T18:32:31.496855",
+    "updated_at": "2025-09-11T18:32:31.496856"
+  },
+  {
+    "id": 1023,
+    "slug": "quickbooks-security-certificate",
+    "name": "QuickBooks Security Certificate",
+    "issuer": "COSO",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 489,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 476,
+    "job_postings": 176,
+    "salary": {
+      "min": 47231,
+      "max": 132248,
+      "avg": 80293
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Budgeting",
+      "GAAP",
+      "Tax Accounting",
+      "Management Accounting"
+    ],
+    "description": "Professional certification in quickbooks security certificate offered by COSO. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 764,
+    "created_at": "2025-09-11T18:32:31.497305",
+    "updated_at": "2025-09-11T18:32:31.497307"
+  },
+  {
+    "id": 1039,
+    "slug": "certified-tax-professional",
+    "name": "Certified Tax Professional",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 794,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 567,
+    "job_postings": 171,
+    "salary": {
+      "min": 42768,
+      "max": 119751,
+      "avg": 72706
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Financial Accounting",
+      "Budgeting",
+      "Financial Reporting",
+      "GAAP",
+      "IFRS"
+    ],
+    "description": "Professional certification in certified tax professional offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 819,
+    "created_at": "2025-09-11T18:32:31.497957",
+    "updated_at": "2025-09-11T18:32:31.497958"
+  },
+  {
+    "id": 1031,
+    "slug": "assurance-development-certification",
+    "name": "Assurance Development Certification",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 744,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 478,
+    "job_postings": 618,
+    "salary": {
+      "min": 51047,
+      "max": 142934,
+      "avg": 86781
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Auditing",
+      "Financial Reporting",
+      "GAAP",
+      "Tax Accounting",
+      "Cost Accounting",
+      "IFRS",
+      "Financial Accounting",
+      "Management Accounting",
+      "Budgeting"
+    ],
+    "description": "Professional certification in assurance development certification offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 829,
+    "created_at": "2025-09-11T18:32:31.497631",
+    "updated_at": "2025-09-11T18:32:31.497633"
+  },
+  {
+    "id": 1030,
+    "slug": "public-auditor-foundational-1",
+    "name": "Public Auditor Foundational",
+    "issuer": "COSO",
+    "domain": "accounting",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 566,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 312,
+    "job_postings": 629,
+    "salary": {
+      "min": 57430,
+      "max": 160806,
+      "avg": 97632
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Auditing",
+      "IFRS",
+      "Budgeting",
+      "Tax Accounting",
+      "Financial Reporting",
+      "Management Accounting",
+      "Cost Accounting",
+      "Financial Accounting",
+      "GAAP"
+    ],
+    "description": "Professional certification in public auditor foundational offered by COSO. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 872,
+    "created_at": "2025-09-11T18:32:31.497589",
+    "updated_at": "2025-09-11T18:32:31.497590"
+  },
+  {
+    "id": 1041,
+    "slug": "coso-cma-master",
+    "name": "COSO CMA Master",
+    "issuer": "COSO",
+    "domain": "accounting",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 693,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 270,
+    "job_postings": 46,
+    "salary": {
+      "min": 49659,
+      "max": 139045,
+      "avg": 84420
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Cost Accounting",
+      "Budgeting",
+      "GAAP",
+      "Tax Accounting",
+      "Financial Reporting"
+    ],
+    "description": "Professional certification in coso cma master offered by COSO. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 934,
+    "created_at": "2025-09-11T18:32:31.498037",
+    "updated_at": "2025-09-11T18:32:31.498038"
+  },
+  {
+    "id": 1036,
+    "slug": "certified-forensic-specialist",
+    "name": "Certified Forensic Specialist",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "5 weeks",
+    "cost": 715,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 497,
+    "job_postings": 186,
+    "salary": {
+      "min": 53943,
+      "max": 151042,
+      "avg": 91704
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Cost Accounting",
+      "Financial Reporting",
+      "GAAP",
+      "Financial Accounting",
+      "Tax Accounting",
+      "Auditing",
+      "IFRS",
+      "Budgeting",
+      "Management Accounting"
+    ],
+    "description": "Professional certification in certified forensic specialist offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 956,
+    "created_at": "2025-09-11T18:32:31.497832",
+    "updated_at": "2025-09-11T18:32:31.497833"
+  },
+  {
+    "id": 1038,
+    "slug": "advisory-administration-certification",
+    "name": "Advisory Administration Certification",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 697,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 336,
+    "job_postings": 95,
+    "salary": {
+      "min": 49720,
+      "max": 139216,
+      "avg": 84524
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Budgeting",
+      "Financial Reporting",
+      "Management Accounting",
+      "Cost Accounting",
+      "IFRS",
+      "Tax Accounting",
+      "GAAP"
+    ],
+    "description": "Professional certification in advisory administration certification offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 993,
+    "created_at": "2025-09-11T18:32:31.497917",
+    "updated_at": "2025-09-11T18:32:31.497918"
+  },
+  {
+    "id": 1021,
+    "slug": "public-accountant-associate",
+    "name": "Public Accountant Associate",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 745,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 291,
+    "job_postings": 9,
+    "salary": {
+      "min": 45252,
+      "max": 126705,
+      "avg": 76928
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Cost Accounting",
+      "Financial Accounting",
+      "Budgeting",
+      "Tax Accounting",
+      "Financial Reporting",
+      "IFRS",
+      "Management Accounting",
+      "Auditing"
+    ],
+    "description": "Professional certification in public accountant associate offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1000,
+    "created_at": "2025-09-11T18:32:31.497224",
+    "updated_at": "2025-09-11T18:32:31.497225"
+  },
+  {
+    "id": 1034,
+    "slug": "coso-cma-associate",
+    "name": "COSO CMA Associate",
+    "issuer": "COSO",
+    "domain": "accounting",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 526,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 234,
+    "job_postings": 332,
+    "salary": {
+      "min": 51279,
+      "max": 143581,
+      "avg": 87174
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Auditing",
+      "Cost Accounting",
+      "Budgeting",
+      "IFRS"
+    ],
+    "description": "Professional certification in coso cma associate offered by COSO. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1019,
+    "created_at": "2025-09-11T18:32:31.497751",
+    "updated_at": "2025-09-11T18:32:31.497752"
+  },
+  {
+    "id": 1022,
+    "slug": "ima-cisa-lead",
+    "name": "IMA CISA Lead",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 457,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 317,
+    "job_postings": 72,
+    "salary": {
+      "min": 44159,
+      "max": 123646,
+      "avg": 75070
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Cost Accounting",
+      "GAAP",
+      "Auditing",
+      "IFRS",
+      "Management Accounting",
+      "Budgeting",
+      "Financial Accounting",
+      "Tax Accounting",
+      "Financial Reporting"
+    ],
+    "description": "Professional certification in ima cisa lead offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 1044,
+    "created_at": "2025-09-11T18:32:31.497265",
+    "updated_at": "2025-09-11T18:32:31.497266"
+  },
+  {
+    "id": 1032,
+    "slug": "tax-strategy-certification",
+    "name": "Tax Strategy Certification",
+    "issuer": "COSO",
+    "domain": "accounting",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 409,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 218,
+    "job_postings": 22,
+    "salary": {
+      "min": 56216,
+      "max": 157406,
+      "avg": 95568
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Financial Reporting",
+      "Management Accounting",
+      "Budgeting",
+      "Auditing"
+    ],
+    "description": "Professional certification in tax strategy certification offered by COSO. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1047,
+    "created_at": "2025-09-11T18:32:31.497671",
+    "updated_at": "2025-09-11T18:32:31.497672"
+  },
+  {
+    "id": 1033,
+    "slug": "sage-management-certificate",
+    "name": "Sage Management Certificate",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 643,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 351,
+    "job_postings": 27,
+    "salary": {
+      "min": 51794,
+      "max": 145025,
+      "avg": 88050
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Financial Accounting",
+      "Auditing",
+      "Financial Reporting",
+      "Budgeting",
+      "Tax Accounting",
+      "GAAP",
+      "IFRS",
+      "Cost Accounting",
+      "Management Accounting"
+    ],
+    "description": "Professional certification in sage management certificate offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 1073,
+    "created_at": "2025-09-11T18:32:31.497711",
+    "updated_at": "2025-09-11T18:32:31.497713"
+  },
+  {
+    "id": 1015,
+    "slug": "auditing-security-certification",
+    "name": "Auditing Security Certification",
+    "issuer": "COSO",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 669,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 202,
+    "job_postings": 48,
+    "salary": {
+      "min": 48086,
+      "max": 134641,
+      "avg": 81746
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Financial Accounting",
+      "Auditing",
+      "Cost Accounting",
+      "Budgeting",
+      "Tax Accounting",
+      "IFRS"
+    ],
+    "description": "Professional certification in auditing security certification offered by COSO. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1101,
+    "created_at": "2025-09-11T18:32:31.496980",
+    "updated_at": "2025-09-11T18:32:31.496981"
+  },
+  {
+    "id": 1019,
+    "slug": "assurance-management-certification",
+    "name": "Assurance Management Certification",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 882,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 203,
+    "job_postings": 22,
+    "salary": {
+      "min": 45589,
+      "max": 127651,
+      "avg": 77502
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Financial Reporting",
+      "Auditing",
+      "Budgeting",
+      "Financial Accounting",
+      "Management Accounting",
+      "GAAP",
+      "Cost Accounting",
+      "IFRS"
+    ],
+    "description": "Professional certification in assurance management certification offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "German",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 1153,
+    "created_at": "2025-09-11T18:32:31.497142",
+    "updated_at": "2025-09-11T18:32:31.497143"
+  },
+  {
+    "id": 1035,
+    "slug": "auditing-development-certification",
+    "name": "Auditing Development Certification",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 431,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 104,
+    "job_postings": 331,
+    "salary": {
+      "min": 56913,
+      "max": 159356,
+      "avg": 96752
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "GAAP",
+      "Budgeting",
+      "IFRS",
+      "Auditing",
+      "Tax Accounting",
+      "Financial Accounting",
+      "Management Accounting"
+    ],
+    "description": "Professional certification in auditing development certification offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1195,
+    "created_at": "2025-09-11T18:32:31.497791",
+    "updated_at": "2025-09-11T18:32:31.497793"
+  },
+  {
+    "id": 1016,
+    "slug": "public-auditor-senior",
+    "name": "Public Auditor Senior",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 500,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 263,
+    "job_postings": 21,
+    "salary": {
+      "min": 56102,
+      "max": 157086,
+      "avg": 95374
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Budgeting",
+      "Financial Accounting",
+      "Tax Accounting",
+      "Cost Accounting",
+      "Auditing",
+      "GAAP"
+    ],
+    "description": "Professional certification in public auditor senior offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1236,
+    "created_at": "2025-09-11T18:32:31.497020",
+    "updated_at": "2025-09-11T18:32:31.497021"
+  },
+  {
+    "id": 1018,
+    "slug": "public-accountant-master",
+    "name": "Public Accountant Master",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 771,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 290,
+    "job_postings": 185,
+    "salary": {
+      "min": 53851,
+      "max": 150784,
+      "avg": 91547
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Auditing",
+      "Tax Accounting",
+      "Budgeting",
+      "GAAP",
+      "IFRS"
+    ],
+    "description": "Professional certification in public accountant master offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1254,
+    "created_at": "2025-09-11T18:32:31.497100",
+    "updated_at": "2025-09-11T18:32:31.497101"
+  },
+  {
+    "id": 1013,
+    "slug": "certified-tax-consultant",
+    "name": "Certified Tax Consultant",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 705,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 279,
+    "job_postings": 33,
+    "salary": {
+      "min": 55104,
+      "max": 154291,
+      "avg": 93677
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Tax Accounting",
+      "Financial Reporting",
+      "IFRS",
+      "Cost Accounting",
+      "GAAP"
+    ],
+    "description": "Professional certification in certified tax consultant offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1273,
+    "created_at": "2025-09-11T18:32:31.496895",
+    "updated_at": "2025-09-11T18:32:31.496896"
+  },
+  {
+    "id": 1026,
+    "slug": "public-auditor-foundational",
+    "name": "Public Auditor Foundational",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Specialty",
+    "duration": "24 hours",
+    "cost": 653,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 266,
+    "job_postings": 42,
+    "salary": {
+      "min": 44963,
+      "max": 125898,
+      "avg": 76438
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "GAAP",
+      "IFRS",
+      "Budgeting",
+      "Tax Accounting",
+      "Cost Accounting",
+      "Management Accounting"
+    ],
+    "description": "Professional certification in public auditor foundational offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 1276,
+    "created_at": "2025-09-11T18:32:31.497426",
+    "updated_at": "2025-09-11T18:32:31.497427"
+  },
+  {
+    "id": 1017,
+    "slug": "quickbooks-architecture-certificate",
+    "name": "QuickBooks Architecture Certificate",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 706,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 160,
+    "job_postings": 131,
+    "salary": {
+      "min": 50471,
+      "max": 141320,
+      "avg": 85801
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Management Accounting",
+      "Budgeting",
+      "GAAP",
+      "Financial Reporting",
+      "Financial Accounting"
+    ],
+    "description": "Professional certification in quickbooks architecture certificate offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1313,
+    "created_at": "2025-09-11T18:32:31.497061",
+    "updated_at": "2025-09-11T18:32:31.497062"
+  },
+  {
+    "id": 1044,
+    "slug": "sap-administration-certificate",
+    "name": "SAP Administration Certificate",
+    "issuer": "IMA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 738,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 207,
+    "job_postings": 38,
+    "salary": {
+      "min": 56997,
+      "max": 159591,
+      "avg": 96894
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Financial Reporting",
+      "GAAP",
+      "Management Accounting",
+      "Cost Accounting",
+      "Auditing",
+      "Financial Accounting",
+      "Budgeting"
+    ],
+    "description": "Professional certification in sap administration certificate offered by IMA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1345,
+    "created_at": "2025-09-11T18:32:31.498164",
+    "updated_at": "2025-09-11T18:32:31.498165"
+  },
+  {
+    "id": 1037,
+    "slug": "tax-development-certification",
+    "name": "Tax Development Certification",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 970,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 73,
+    "job_postings": 275,
+    "salary": {
+      "min": 45050,
+      "max": 126141,
+      "avg": 76585
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Financial Accounting",
+      "Cost Accounting",
+      "Budgeting",
+      "Tax Accounting",
+      "GAAP",
+      "Financial Reporting"
+    ],
+    "description": "Professional certification in tax development certification offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1378,
+    "created_at": "2025-09-11T18:32:31.497874",
+    "updated_at": "2025-09-11T18:32:31.497876"
+  },
+  {
+    "id": 1009,
+    "slug": "quickbooks-strategy-certificate",
+    "name": "QuickBooks Strategy Certificate",
+    "issuer": "AICPA",
+    "domain": "accounting",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 957,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 27,
+    "job_postings": 31,
+    "salary": {
+      "min": 47307,
+      "max": 132461,
+      "avg": 80422
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Tax Accounting",
+      "Management Accounting",
+      "Budgeting",
+      "GAAP"
+    ],
+    "description": "Professional certification in quickbooks strategy certificate offered by AICPA. Validates expertise in Accounting and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 1380,
+    "created_at": "2025-09-11T18:32:31.496730",
+    "updated_at": "2025-09-11T18:32:31.496731"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "nclex-rn-ncsbn",
+    "name": "NCLEX-RN",
+    "domain": "healthcare",
+    "issuer": "NCSBN",
+    "url": "https://www.ncsbn.org/exams/nclex",
+    "level": "Foundational",
+    "exam_fee_usd": 200,
+    "price_source": "heuristic",
+    "recommended_hours_min": 120,
+    "recommended_hours_max": 200,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "adaptive MCQ",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782315Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.ncsbn.org/exams/nclex",
+        "checked_at": "2025-09-11T17:29:51.782315Z"
+      }
+    ],
+    "license_authority": "State Boards of Nursing",
+    "prerequisites": "State eligibility; nursing education",
+    "ce_credits": null
+  },
+  {
+    "slug": "nremt-p-national-registry-paramedic-nremt",
+    "name": "NREMT-P (National Registry Paramedic)",
+    "domain": "healthcare",
+    "issuer": "NREMT",
+    "url": "https://www.nremt.org/",
+    "level": "Professional",
+    "exam_fee_usd": 110,
+    "price_source": "heuristic",
+    "recommended_hours_min": 1000,
+    "recommended_hours_max": 1500,
+    "hours_source": "heuristic",
+    "validity_years": 2,
+    "delivery": "test center",
+    "format": "adaptive MCQ + practical",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782315Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.nremt.org/",
+        "checked_at": "2025-09-11T17:29:51.782315Z"
+      }
+    ],
+    "license_authority": "State EMS authorities",
+    "prerequisites": "Paramedic training program completion",
+    "ce_credits": 40
+  },
+  {
+    "slug": "nccer-electrical-level-1-nccer",
+    "name": "NCCER Electrical Level 1",
+    "domain": "skilled-trades",
+    "issuer": "NCCER",
+    "url": "https://www.nccer.org/",
+    "level": "Foundational",
+    "exam_fee_usd": 65,
+    "price_source": "estimate",
+    "recommended_hours_min": 75,
+    "recommended_hours_max": 150,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "written and performance",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.nccer.org/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  },
+  {
+    "slug": "nccer-electrical-level-2-nccer",
+    "name": "NCCER Electrical Level 2",
+    "domain": "skilled-trades",
+    "issuer": "NCCER",
+    "url": "https://www.nccer.org/",
+    "level": "Associate",
+    "exam_fee_usd": 65,
+    "price_source": "estimate",
+    "recommended_hours_min": 100,
+    "recommended_hours_max": 200,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "written and performance",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "estimate",
+        "url": "https://www.nccer.org/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  },
+  {
+    "slug": "nate-ice-certification-nate",
+    "name": "NATE ICE Certification",
+    "domain": "skilled-trades",
+    "issuer": "NATE",
+    "url": "https://www.natex.org/",
+    "level": "Professional",
+    "exam_fee_usd": 75,
+    "price_source": "heuristic",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 80,
+    "hours_source": "heuristic",
+    "validity_years": 2,
+    "delivery": "test center",
+    "format": "written exam",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.natex.org/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  }
+]

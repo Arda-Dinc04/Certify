@@ -1,0 +1,127 @@
+name: Update Data Pipeline
+on:
+  schedule:
+    # Run nightly at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Validate existing data
+        run: |
+          echo "🔍 Validating data integrity..."
+          python scripts/validate.py
+          python scripts/referential_check.py
+
+      - name: Shard certifications data
+        run: |
+          echo "📦 Sharding certifications..."
+          python scripts/shard_certifications.py
+
+      - name: Generate search index
+        run: |
+          echo "🔍 Building search index..."
+          python scripts/generate_search_index.py
+
+      - name: Generate enhanced company recommendations
+        env:
+          USE_ADZUNA: ${{ secrets.USE_ADZUNA || 'false' }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: |
+          echo "🤝 Generating enhanced company recommendations..."
+          python scripts/enhanced_company_recommendations.py
+
+      - name: Generate build manifest
+        run: |
+          echo "📋 Generating build manifest..."
+          python scripts/generate_manifest.py
+
+      - name: Final validation
+        run: |
+          echo "✅ Final validation..."
+          python scripts/validate.py
+          python scripts/referential_check.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add web/public/data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Update data pipeline - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "✅ Data pipeline updated successfully"
+          fi
+
+      - name: Generate summary report
+        if: always()
+        run: |
+          echo "## 🚀 CertRank Data Pipeline Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Build Time:** $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "**Status:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f "web/public/data/manifest.json" ]; then
+            echo "### 📊 Data Statistics" >> $GITHUB_STEP_SUMMARY
+            python3 -c "
+          import json
+          with open('web/public/data/manifest.json', 'r') as f:
+              manifest = json.load(f)
+          print(f\"- **Total Files:** {manifest['stats']['total_files']}\")
+          print(f\"- **Total Size:** {manifest['stats']['total_size'] / 1024:.1f}KB\")
+          print(f\"- **Certifications:** {manifest['stats']['certifications_count']}\")
+          print(f\"- **Domains:** {len(manifest['stats']['domains'])}\")
+          print(f\"- **Build ID:** {manifest['build_id']}\")
+          " >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🔗 Quick Links" >> $GITHUB_STEP_SUMMARY
+          echo "- [View Data Files](../../tree/main/web/public/data)" >> $GITHUB_STEP_SUMMARY
+          echo "- [Workflow Logs](../../actions/runs/${{ github.run_id }})" >> $GITHUB_STEP_SUMMARY
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "❌ Data pipeline failed at $(date -u '+%Y-%m-%d %H:%M UTC')"
+          echo "Check the workflow logs for details"
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "## ❌ Pipeline Failed" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "The data pipeline encountered an error. Please check the workflow logs above for details." >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Next Steps:**" >> $GITHUB_STEP_SUMMARY
+          echo "1. Review the failed step in the workflow logs" >> $GITHUB_STEP_SUMMARY
+          echo "2. Check data file integrity and format" >> $GITHUB_STEP_SUMMARY
+          echo "3. Verify all required dependencies are installed" >> $GITHUB_STEP_SUMMARY
+          echo "4. Re-run the workflow once issues are resolved" >> $GITHUB_STEP_SUMMARY
+
+      - name: Notify on success
+        if: success()
+        run: |
+          echo "✅ Data pipeline completed successfully at $(date -u '+%Y-%m-%d %H:%M UTC')"
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "## ✅ Pipeline Success" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "All data has been successfully updated and validated. The latest data is now available on the website." >> $GITHUB_STEP_SUMMARY

@@ -1,0 +1,516 @@
+[
+  {
+    "id": 1192,
+    "slug": "registered-coordinator-associate",
+    "name": "Registered Coordinator Associate",
+    "issuer": "ARRT",
+    "domain": "medical-technology",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 227,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 756,
+    "job_postings": 177,
+    "salary": {
+      "min": 61434,
+      "max": 134037,
+      "avg": 89358
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Equipment Maintenance",
+      "Diagnostic Testing",
+      "Safety Protocols",
+      "Quality Control",
+      "Medical Equipment",
+      "Medical Imaging",
+      "Laboratory Testing",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in registered coordinator associate offered by ARRT. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 26,
+    "created_at": "2025-09-11T18:32:31.504154",
+    "updated_at": "2025-09-11T18:32:31.504156"
+  },
+  {
+    "id": 1196,
+    "slug": "cardiac-administration-certificate",
+    "name": "Cardiac Administration Certificate",
+    "issuer": "ARRT",
+    "domain": "medical-technology",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 214,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 517,
+    "job_postings": 485,
+    "salary": {
+      "min": 47260,
+      "max": 103113,
+      "avg": 68742
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Diagnostic Testing",
+      "Medical Imaging",
+      "Laboratory Testing",
+      "Safety Protocols",
+      "Medical Equipment",
+      "Regulatory Compliance",
+      "Quality Control",
+      "Equipment Maintenance"
+    ],
+    "description": "Professional certification in cardiac administration certificate offered by ARRT. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 251,
+    "created_at": "2025-09-11T18:32:31.504318",
+    "updated_at": "2025-09-11T18:32:31.504319"
+  },
+  {
+    "id": 1189,
+    "slug": "surgical-analytics-certificate",
+    "name": "Surgical Analytics Certificate",
+    "issuer": "ARDMS",
+    "domain": "medical-technology",
+    "level": "Specialty",
+    "duration": "2 weeks",
+    "cost": 599,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 523,
+    "job_postings": 262,
+    "salary": {
+      "min": 57365,
+      "max": 125161,
+      "avg": 83440
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Medical Equipment",
+      "Quality Control",
+      "Diagnostic Testing",
+      "Equipment Maintenance",
+      "Laboratory Testing",
+      "Safety Protocols",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in surgical analytics certificate offered by ARDMS. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "French"
+    ],
+    "ranking": 433,
+    "created_at": "2025-09-11T18:32:31.504032",
+    "updated_at": "2025-09-11T18:32:31.504033"
+  },
+  {
+    "id": 1191,
+    "slug": "arrt-medical-management-master",
+    "name": "ARRT Medical Management Master",
+    "issuer": "ARRT",
+    "domain": "medical-technology",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 234,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 598,
+    "job_postings": 28,
+    "salary": {
+      "min": 53862,
+      "max": 117518,
+      "avg": 78345
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Quality Control",
+      "Regulatory Compliance",
+      "Equipment Maintenance",
+      "Laboratory Testing",
+      "Safety Protocols",
+      "Medical Equipment",
+      "Medical Imaging",
+      "Diagnostic Testing"
+    ],
+    "description": "Professional certification in arrt medical management master offered by ARRT. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 477,
+    "created_at": "2025-09-11T18:32:31.504114",
+    "updated_at": "2025-09-11T18:32:31.504115"
+  },
+  {
+    "id": 1200,
+    "slug": "certified-cardiovascular-practitioner",
+    "name": "Certified Cardiovascular Practitioner",
+    "issuer": "ARDMS",
+    "domain": "medical-technology",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 691,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 714,
+    "job_postings": 23,
+    "salary": {
+      "min": 51127,
+      "max": 111551,
+      "avg": 74367
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Laboratory Testing",
+      "Medical Imaging",
+      "Safety Protocols",
+      "Quality Control",
+      "Equipment Maintenance",
+      "Diagnostic Testing",
+      "Medical Equipment"
+    ],
+    "description": "Professional certification in certified cardiovascular practitioner offered by ARDMS. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 521,
+    "created_at": "2025-09-11T18:32:31.504485",
+    "updated_at": "2025-09-11T18:32:31.504486"
+  },
+  {
+    "id": 1199,
+    "slug": "arrt-medical-architecture-master",
+    "name": "ARRT Medical Architecture Master",
+    "issuer": "ARRT",
+    "domain": "medical-technology",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 226,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 356,
+    "job_postings": 22,
+    "salary": {
+      "min": 51048,
+      "max": 111377,
+      "avg": 74251
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Medical Equipment",
+      "Laboratory Testing",
+      "Regulatory Compliance",
+      "Safety Protocols",
+      "Diagnostic Testing",
+      "Medical Imaging",
+      "Quality Control",
+      "Equipment Maintenance"
+    ],
+    "description": "Professional certification in arrt medical architecture master offered by ARRT. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 596,
+    "created_at": "2025-09-11T18:32:31.504440",
+    "updated_at": "2025-09-11T18:32:31.504441"
+  },
+  {
+    "id": 1195,
+    "slug": "imaging-development-certificate",
+    "name": "Imaging Development Certificate",
+    "issuer": "ARRT",
+    "domain": "medical-technology",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 261,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 436,
+    "job_postings": 374,
+    "salary": {
+      "min": 56998,
+      "max": 124359,
+      "avg": 82906
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Control",
+      "Safety Protocols",
+      "Equipment Maintenance",
+      "Medical Equipment",
+      "Regulatory Compliance",
+      "Diagnostic Testing",
+      "Medical Imaging"
+    ],
+    "description": "Professional certification in imaging development certificate offered by ARRT. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 627,
+    "created_at": "2025-09-11T18:32:31.504277",
+    "updated_at": "2025-09-11T18:32:31.504279"
+  },
+  {
+    "id": 1194,
+    "slug": "surgical-administration-certification",
+    "name": "Surgical Administration Certification",
+    "issuer": "ARDMS",
+    "domain": "medical-technology",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 674,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 665,
+    "job_postings": 122,
+    "salary": {
+      "min": 52014,
+      "max": 113485,
+      "avg": 75657
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Equipment Maintenance",
+      "Diagnostic Testing",
+      "Medical Equipment",
+      "Safety Protocols",
+      "Laboratory Testing",
+      "Medical Imaging",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in surgical administration certification offered by ARDMS. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 681,
+    "created_at": "2025-09-11T18:32:31.504237",
+    "updated_at": "2025-09-11T18:32:31.504238"
+  },
+  {
+    "id": 1190,
+    "slug": "ardms-medical-engineering-senior",
+    "name": "ARDMS Medical Engineering Senior",
+    "issuer": "ARDMS",
+    "domain": "medical-technology",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 423,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 392,
+    "job_postings": 37,
+    "salary": {
+      "min": 48934,
+      "max": 106765,
+      "avg": 71177
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Quality Control",
+      "Regulatory Compliance",
+      "Equipment Maintenance",
+      "Safety Protocols",
+      "Medical Imaging",
+      "Medical Equipment",
+      "Laboratory Testing"
+    ],
+    "description": "Professional certification in ardms medical engineering senior offered by ARDMS. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 887,
+    "created_at": "2025-09-11T18:32:31.504074",
+    "updated_at": "2025-09-11T18:32:31.504075"
+  },
+  {
+    "id": 1198,
+    "slug": "registered-specialist-associate",
+    "name": "Registered Specialist Associate",
+    "issuer": "ARDMS",
+    "domain": "medical-technology",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 452,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 265,
+    "job_postings": 49,
+    "salary": {
+      "min": 53019,
+      "max": 115677,
+      "avg": 77118
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Medical Equipment",
+      "Diagnostic Testing",
+      "Quality Control",
+      "Equipment Maintenance"
+    ],
+    "description": "Professional certification in registered specialist associate offered by ARDMS. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1020,
+    "created_at": "2025-09-11T18:32:31.504399",
+    "updated_at": "2025-09-11T18:32:31.504400"
+  },
+  {
+    "id": 1197,
+    "slug": "diagnostic-development-certification",
+    "name": "Diagnostic Development Certification",
+    "issuer": "ARDMS",
+    "domain": "medical-technology",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 379,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 370,
+    "job_postings": 38,
+    "salary": {
+      "min": 59726,
+      "max": 130311,
+      "avg": 86874
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Laboratory Testing",
+      "Safety Protocols",
+      "Medical Imaging",
+      "Medical Equipment"
+    ],
+    "description": "Professional certification in diagnostic development certification offered by ARDMS. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 1034,
+    "created_at": "2025-09-11T18:32:31.504360",
+    "updated_at": "2025-09-11T18:32:31.504361"
+  },
+  {
+    "id": 1193,
+    "slug": "certified-medical-laboratory-professional",
+    "name": "Certified Medical Laboratory Professional",
+    "issuer": "ARRT",
+    "domain": "medical-technology",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 238,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 200,
+    "job_postings": 315,
+    "salary": {
+      "min": 57397,
+      "max": 125231,
+      "avg": 83487
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Diagnostic Testing",
+      "Laboratory Testing",
+      "Equipment Maintenance",
+      "Medical Equipment",
+      "Safety Protocols",
+      "Quality Control"
+    ],
+    "description": "Professional certification in certified medical laboratory professional offered by ARRT. Validates expertise in Medical Technology and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 1211,
+    "created_at": "2025-09-11T18:32:31.504196",
+    "updated_at": "2025-09-11T18:32:31.504197"
+  }
+]

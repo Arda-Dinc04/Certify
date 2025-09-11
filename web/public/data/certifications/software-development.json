@@ -1,0 +1,4085 @@
+[
+  {
+    "id": 539,
+    "slug": "angular-analytics-certificate",
+    "name": "Angular Analytics Certificate",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 169,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 625,
+    "job_postings": 2699,
+    "salary": {
+      "min": 70866,
+      "max": 170079,
+      "avg": 108661
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Database Design",
+      "DevOps",
+      "Node.js",
+      "Mobile Development",
+      "JavaScript",
+      "Git",
+      "REST APIs",
+      "Python"
+    ],
+    "description": "Professional certification in angular analytics certificate offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 1,
+    "created_at": "2025-09-11T18:32:31.477325",
+    "updated_at": "2025-09-11T18:32:31.477327"
+  },
+  {
+    "id": 517,
+    "slug": "django-analytics-certificate",
+    "name": "Django Analytics Certificate",
+    "issuer": "Adobe",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 393,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 722,
+    "job_postings": 710,
+    "salary": {
+      "min": 76647,
+      "max": 183953,
+      "avg": 117526
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "JavaScript",
+      "Testing",
+      "Python",
+      "Node.js",
+      "Mobile Development",
+      "Java",
+      "DevOps",
+      "REST APIs"
+    ],
+    "description": "Professional certification in django analytics certificate offered by Adobe. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 20,
+    "created_at": "2025-09-11T18:32:31.476438",
+    "updated_at": "2025-09-11T18:32:31.476439"
+  },
+  {
+    "id": 484,
+    "slug": "full-stack-react-developer",
+    "name": "Full Stack React Developer",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 205,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 773,
+    "job_postings": 187,
+    "salary": {
+      "min": 73673,
+      "max": 176815,
+      "avg": 112965
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Testing",
+      "Python",
+      "Git",
+      "JavaScript",
+      "DevOps",
+      "Mobile Development",
+      "React"
+    ],
+    "description": "Professional certification in full stack react developer offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 34,
+    "created_at": "2025-09-11T18:32:31.475110",
+    "updated_at": "2025-09-11T18:32:31.475111"
+  },
+  {
+    "id": 510,
+    "slug": "jetbrains-java-developer-foundational",
+    "name": "JetBrains Java Developer Foundational",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 353,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 728,
+    "job_postings": 191,
+    "salary": {
+      "min": 78038,
+      "max": 187292,
+      "avg": 119659
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Agile",
+      "Testing",
+      "Mobile Development",
+      "Git",
+      "DevOps",
+      "Database Design",
+      "Python",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "description": "Professional certification in jetbrains java developer foundational offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 48,
+    "created_at": "2025-09-11T18:32:31.476153",
+    "updated_at": "2025-09-11T18:32:31.476155"
+  },
+  {
+    "id": 461,
+    "slug": "certified-mobile-expert",
+    "name": "Certified Mobile Expert",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 377,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 661,
+    "job_postings": 628,
+    "salary": {
+      "min": 83636,
+      "max": 200727,
+      "avg": 128242
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "REST APIs",
+      "Database Design",
+      "DevOps",
+      "Git",
+      "Agile",
+      "Mobile Development",
+      "Node.js",
+      "React"
+    ],
+    "description": "Professional certification in certified mobile expert offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 69,
+    "created_at": "2025-09-11T18:32:31.474128",
+    "updated_at": "2025-09-11T18:32:31.474130"
+  },
+  {
+    "id": 536,
+    "slug": "ios-api-development-certification-1",
+    "name": "iOS API Development Certification",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Specialty",
+    "duration": "24 hours",
+    "cost": 114,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 601,
+    "job_postings": 691,
+    "salary": {
+      "min": 79565,
+      "max": 190958,
+      "avg": 122000
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "REST APIs",
+      "Agile",
+      "Mobile Development",
+      "DevOps"
+    ],
+    "description": "Professional certification in ios api development certification offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 83,
+    "created_at": "2025-09-11T18:32:31.477194",
+    "updated_at": "2025-09-11T18:32:31.477196"
+  },
+  {
+    "id": 480,
+    "slug": "react-architecture-certificate",
+    "name": "React Architecture Certificate",
+    "issuer": "MongoDB",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 272,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 763,
+    "job_postings": 343,
+    "salary": {
+      "min": 69431,
+      "max": 166634,
+      "avg": 106461
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Python",
+      "Git",
+      "DevOps",
+      "Node.js",
+      "Java",
+      "React",
+      "REST APIs"
+    ],
+    "description": "Professional certification in react architecture certificate offered by MongoDB. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 86,
+    "created_at": "2025-09-11T18:32:31.474953",
+    "updated_at": "2025-09-11T18:32:31.474954"
+  },
+  {
+    "id": 538,
+    "slug": "android-database-development-certification-1",
+    "name": "Android Database Development Certification",
+    "issuer": "Docker",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 240,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 769,
+    "job_postings": 113,
+    "salary": {
+      "min": 73324,
+      "max": 175979,
+      "avg": 112431
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "REST APIs",
+      "Python",
+      "Git",
+      "Testing",
+      "Database Design",
+      "Mobile Development",
+      "DevOps"
+    ],
+    "description": "Professional certification in android database development certification offered by Docker. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 94,
+    "created_at": "2025-09-11T18:32:31.477277",
+    "updated_at": "2025-09-11T18:32:31.477279"
+  },
+  {
+    "id": 516,
+    "slug": "web-database-development-certification",
+    "name": "Web Database Development Certification",
+    "issuer": "Elastic",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 466,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 750,
+    "job_postings": 267,
+    "salary": {
+      "min": 85709,
+      "max": 205703,
+      "avg": 131421
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "REST APIs",
+      "Testing",
+      "Python",
+      "Database Design",
+      "Mobile Development",
+      "JavaScript",
+      "Git",
+      "Agile",
+      "React"
+    ],
+    "description": "Professional certification in web database development certification offered by Elastic. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 96,
+    "created_at": "2025-09-11T18:32:31.476397",
+    "updated_at": "2025-09-11T18:32:31.476398"
+  },
+  {
+    "id": 551,
+    "slug": "express-analytics-certificate-1",
+    "name": "Express Analytics Certificate",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 117,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 783,
+    "job_postings": 457,
+    "salary": {
+      "min": 83784,
+      "max": 201083,
+      "avg": 128469
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Node.js",
+      "Mobile Development",
+      "Testing",
+      "Agile",
+      "Java"
+    ],
+    "description": "Professional certification in express analytics certificate offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 113,
+    "created_at": "2025-09-11T18:32:31.477808",
+    "updated_at": "2025-09-11T18:32:31.477810"
+  },
+  {
+    "id": 537,
+    "slug": "react-analytics-certificate",
+    "name": "React Analytics Certificate",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 233,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 725,
+    "job_postings": 997,
+    "salary": {
+      "min": 85592,
+      "max": 205423,
+      "avg": 131242
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "React",
+      "Database Design",
+      "Mobile Development",
+      "Testing",
+      "DevOps",
+      "Python",
+      "Agile",
+      "Java",
+      "REST APIs"
+    ],
+    "description": "Professional certification in react analytics certificate offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 131,
+    "created_at": "2025-09-11T18:32:31.477235",
+    "updated_at": "2025-09-11T18:32:31.477237"
+  },
+  {
+    "id": 490,
+    "slug": "enterprise-database-development-certification",
+    "name": "Enterprise Database Development Certification",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 402,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 717,
+    "job_postings": 115,
+    "salary": {
+      "min": 84014,
+      "max": 201633,
+      "avg": 128821
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Database Design",
+      "DevOps",
+      "Agile",
+      "REST APIs"
+    ],
+    "description": "Professional certification in enterprise database development certification offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 136,
+    "created_at": "2025-09-11T18:32:31.475354",
+    "updated_at": "2025-09-11T18:32:31.475355"
+  },
+  {
+    "id": 493,
+    "slug": "net-api-development-certification-1",
+    "name": ".NET API Development Certification",
+    "issuer": "Adobe",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 286,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 671,
+    "job_postings": 28,
+    "salary": {
+      "min": 69956,
+      "max": 167896,
+      "avg": 107266
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Git",
+      "React",
+      "Agile",
+      "Testing",
+      "JavaScript",
+      "Java",
+      "Node.js"
+    ],
+    "description": "Professional certification in .net api development certification offered by Adobe. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 141,
+    "created_at": "2025-09-11T18:32:31.475472",
+    "updated_at": "2025-09-11T18:32:31.475474"
+  },
+  {
+    "id": 511,
+    "slug": "full-stack-angular-developer-2",
+    "name": "Full Stack Angular Developer",
+    "issuer": "GitHub",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 267,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 702,
+    "job_postings": 535,
+    "salary": {
+      "min": 82012,
+      "max": 196829,
+      "avg": 125752
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Database Design",
+      "DevOps",
+      "Node.js",
+      "Python",
+      "Java",
+      "Testing"
+    ],
+    "description": "Professional certification in full stack angular developer offered by GitHub. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 142,
+    "created_at": "2025-09-11T18:32:31.476193",
+    "updated_at": "2025-09-11T18:32:31.476194"
+  },
+  {
+    "id": 503,
+    "slug": "full-stack-nodejs-developer-2",
+    "name": "Full Stack Node.js Developer",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 189,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 603,
+    "job_postings": 424,
+    "salary": {
+      "min": 67898,
+      "max": 162956,
+      "avg": 104111
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Git",
+      "DevOps",
+      "Python",
+      "Java",
+      "Testing",
+      "JavaScript",
+      "Mobile Development",
+      "Node.js"
+    ],
+    "description": "Professional certification in full stack node.js developer offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 145,
+    "created_at": "2025-09-11T18:32:31.475875",
+    "updated_at": "2025-09-11T18:32:31.475876"
+  },
+  {
+    "id": 547,
+    "slug": "spring-development-certificate",
+    "name": "Spring Development Certificate",
+    "issuer": "Scrum.org",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 239,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 644,
+    "job_postings": 5,
+    "salary": {
+      "min": 83807,
+      "max": 201138,
+      "avg": 128505
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Testing",
+      "Git",
+      "REST APIs",
+      "Mobile Development",
+      "Database Design"
+    ],
+    "description": "Professional certification in spring development certificate offered by Scrum.org. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 171,
+    "created_at": "2025-09-11T18:32:31.477649",
+    "updated_at": "2025-09-11T18:32:31.477650"
+  },
+  {
+    "id": 534,
+    "slug": "spring-engineering-certificate",
+    "name": "Spring Engineering Certificate",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 312,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 723,
+    "job_postings": 601,
+    "salary": {
+      "min": 74503,
+      "max": 178807,
+      "avg": 114238
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Database Design",
+      "Git",
+      "REST APIs",
+      "JavaScript",
+      "Testing",
+      "DevOps"
+    ],
+    "description": "Professional certification in spring engineering certificate offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 172,
+    "created_at": "2025-09-11T18:32:31.477116",
+    "updated_at": "2025-09-11T18:32:31.477118"
+  },
+  {
+    "id": 472,
+    "slug": "github-kotlin-developer-lead",
+    "name": "GitHub Kotlin Developer Lead",
+    "issuer": "GitHub",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 209,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 429,
+    "job_postings": 1797,
+    "salary": {
+      "min": 69400,
+      "max": 166560,
+      "avg": 106413
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Java",
+      "Node.js",
+      "React",
+      "Python"
+    ],
+    "description": "Professional certification in github kotlin developer lead offered by GitHub. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 181,
+    "created_at": "2025-09-11T18:32:31.474576",
+    "updated_at": "2025-09-11T18:32:31.474577"
+  },
+  {
+    "id": 548,
+    "slug": "android-api-development-certification-1",
+    "name": "Android API Development Certification",
+    "issuer": "Adobe",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 332,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 706,
+    "job_postings": 25,
+    "salary": {
+      "min": 77109,
+      "max": 185061,
+      "avg": 118233
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "DevOps",
+      "Agile",
+      "Java",
+      "React",
+      "Testing"
+    ],
+    "description": "Professional certification in android api development certification offered by Adobe. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 188,
+    "created_at": "2025-09-11T18:32:31.477689",
+    "updated_at": "2025-09-11T18:32:31.477690"
+  },
+  {
+    "id": 520,
+    "slug": "certified-backend-analyst",
+    "name": "Certified Backend Analyst",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 405,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 772,
+    "job_postings": 559,
+    "salary": {
+      "min": 70738,
+      "max": 169771,
+      "avg": 108465
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "DevOps",
+      "Database Design",
+      "Mobile Development",
+      "React"
+    ],
+    "description": "Professional certification in certified backend analyst offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 189,
+    "created_at": "2025-09-11T18:32:31.476562",
+    "updated_at": "2025-09-11T18:32:31.476563"
+  },
+  {
+    "id": 502,
+    "slug": "express-analytics-certificate",
+    "name": "Express Analytics Certificate",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 165,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 584,
+    "job_postings": 44,
+    "salary": {
+      "min": 81462,
+      "max": 195509,
+      "avg": 124909
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Database Design",
+      "Git",
+      "React",
+      "JavaScript"
+    ],
+    "description": "Professional certification in express analytics certificate offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 196,
+    "created_at": "2025-09-11T18:32:31.475834",
+    "updated_at": "2025-09-11T18:32:31.475836"
+  },
+  {
+    "id": 514,
+    "slug": "certified-full-stack-specialist-1",
+    "name": "Certified Full Stack Specialist",
+    "issuer": "MongoDB",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 377,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 692,
+    "job_postings": 223,
+    "salary": {
+      "min": 70736,
+      "max": 169768,
+      "avg": 108462
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "React",
+      "DevOps",
+      "Node.js",
+      "Git",
+      "Java"
+    ],
+    "description": "Professional certification in certified full stack specialist offered by MongoDB. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 217,
+    "created_at": "2025-09-11T18:32:31.476314",
+    "updated_at": "2025-09-11T18:32:31.476315"
+  },
+  {
+    "id": 460,
+    "slug": "full-stack-django-developer-1",
+    "name": "Full Stack Django Developer",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 177,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 688,
+    "job_postings": 98,
+    "salary": {
+      "min": 75976,
+      "max": 182343,
+      "avg": 116496
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Mobile Development",
+      "Database Design",
+      "DevOps",
+      "Python",
+      "Node.js",
+      "React"
+    ],
+    "description": "Professional certification in full stack django developer offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 219,
+    "created_at": "2025-09-11T18:32:31.474088",
+    "updated_at": "2025-09-11T18:32:31.474089"
+  },
+  {
+    "id": 533,
+    "slug": "certified-full-stack-practitioner-2",
+    "name": "Certified Full Stack Practitioner",
+    "issuer": "Unity",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 483,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 607,
+    "job_postings": 200,
+    "salary": {
+      "min": 66920,
+      "max": 160610,
+      "avg": 102612
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "DevOps",
+      "REST APIs",
+      "React",
+      "Git",
+      "Agile",
+      "Testing",
+      "Python",
+      "Database Design",
+      "Mobile Development"
+    ],
+    "description": "Professional certification in certified full stack practitioner offered by Unity. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 246,
+    "created_at": "2025-09-11T18:32:31.477077",
+    "updated_at": "2025-09-11T18:32:31.477078"
+  },
+  {
+    "id": 474,
+    "slug": "android-web-development-certification",
+    "name": "Android Web Development Certification",
+    "issuer": "Scrum.org",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 173,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 550,
+    "job_postings": 45,
+    "salary": {
+      "min": 65746,
+      "max": 157790,
+      "avg": 100810
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Agile",
+      "React",
+      "Git",
+      "REST APIs",
+      "Mobile Development",
+      "Python",
+      "JavaScript",
+      "DevOps"
+    ],
+    "description": "Professional certification in android web development certification offered by Scrum.org. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 254,
+    "created_at": "2025-09-11T18:32:31.474658",
+    "updated_at": "2025-09-11T18:32:31.474659"
+  },
+  {
+    "id": 498,
+    "slug": "full-stack-nodejs-developer-1",
+    "name": "Full Stack Node.js Developer",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 212,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 744,
+    "job_postings": 54,
+    "salary": {
+      "min": 74025,
+      "max": 177661,
+      "avg": 113506
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Python",
+      "Node.js",
+      "REST APIs",
+      "Java",
+      "Mobile Development",
+      "React",
+      "Database Design",
+      "Git",
+      "DevOps",
+      "Testing"
+    ],
+    "description": "Professional certification in full stack node.js developer offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 265,
+    "created_at": "2025-09-11T18:32:31.475676",
+    "updated_at": "2025-09-11T18:32:31.475678"
+  },
+  {
+    "id": 529,
+    "slug": "android-database-development-certification",
+    "name": "Android Database Development Certification",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 353,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 722,
+    "job_postings": 171,
+    "salary": {
+      "min": 78383,
+      "max": 188120,
+      "avg": 120188
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "JavaScript",
+      "Java",
+      "Testing",
+      "React",
+      "Database Design"
+    ],
+    "description": "Professional certification in android database development certification offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 268,
+    "created_at": "2025-09-11T18:32:31.476917",
+    "updated_at": "2025-09-11T18:32:31.476918"
+  },
+  {
+    "id": 491,
+    "slug": "full-stack-angular-developer",
+    "name": "Full Stack Angular Developer",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 398,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 617,
+    "job_postings": 113,
+    "salary": {
+      "min": 66741,
+      "max": 160180,
+      "avg": 102337
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Node.js",
+      "Python",
+      "React",
+      "Java"
+    ],
+    "description": "Professional certification in full stack angular developer offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 269,
+    "created_at": "2025-09-11T18:32:31.475392",
+    "updated_at": "2025-09-11T18:32:31.475393"
+  },
+  {
+    "id": 459,
+    "slug": "full-stack-spring-developer",
+    "name": "Full Stack Spring Developer",
+    "issuer": "MongoDB",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 265,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 783,
+    "job_postings": 163,
+    "salary": {
+      "min": 81159,
+      "max": 194783,
+      "avg": 124445
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "Agile",
+      "Database Design",
+      "Node.js",
+      "JavaScript",
+      "Java",
+      "Git",
+      "Python",
+      "Mobile Development"
+    ],
+    "description": "Professional certification in full stack spring developer offered by MongoDB. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 274,
+    "created_at": "2025-09-11T18:32:31.474049",
+    "updated_at": "2025-09-11T18:32:31.474050"
+  },
+  {
+    "id": 504,
+    "slug": "full-stack-angular-developer-1",
+    "name": "Full Stack Angular Developer",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 416,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 568,
+    "job_postings": 646,
+    "salary": {
+      "min": 68194,
+      "max": 163666,
+      "avg": 104564
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "Testing",
+      "REST APIs",
+      "DevOps",
+      "Git"
+    ],
+    "description": "Professional certification in full stack angular developer offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 282,
+    "created_at": "2025-09-11T18:32:31.475913",
+    "updated_at": "2025-09-11T18:32:31.475914"
+  },
+  {
+    "id": 526,
+    "slug": "certified-devops-administrator",
+    "name": "Certified DevOps Administrator",
+    "issuer": "Scrum.org",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 206,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 541,
+    "job_postings": 95,
+    "salary": {
+      "min": 65434,
+      "max": 157041,
+      "avg": 100332
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Node.js",
+      "Git",
+      "Database Design",
+      "Mobile Development",
+      "Java",
+      "Testing",
+      "Python",
+      "Agile"
+    ],
+    "description": "Professional certification in certified devops administrator offered by Scrum.org. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 335,
+    "created_at": "2025-09-11T18:32:31.476799",
+    "updated_at": "2025-09-11T18:32:31.476800"
+  },
+  {
+    "id": 488,
+    "slug": "microsoft-kotlin-developer-expert",
+    "name": "Microsoft Kotlin Developer Expert",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 155,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 529,
+    "job_postings": 32,
+    "salary": {
+      "min": 70627,
+      "max": 169504,
+      "avg": 108294
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "DevOps",
+      "React",
+      "Mobile Development",
+      "REST APIs",
+      "JavaScript",
+      "Agile"
+    ],
+    "description": "Professional certification in microsoft kotlin developer expert offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "French"
+    ],
+    "ranking": 345,
+    "created_at": "2025-09-11T18:32:31.475272",
+    "updated_at": "2025-09-11T18:32:31.475273"
+  },
+  {
+    "id": 550,
+    "slug": "django-strategy-certificate",
+    "name": "Django Strategy Certificate",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 154,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 681,
+    "job_postings": 32,
+    "salary": {
+      "min": 66983,
+      "max": 160759,
+      "avg": 102707
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Testing",
+      "React",
+      "REST APIs",
+      "Python",
+      "DevOps",
+      "Node.js",
+      "Git"
+    ],
+    "description": "Professional certification in django strategy certificate offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 387,
+    "created_at": "2025-09-11T18:32:31.477769",
+    "updated_at": "2025-09-11T18:32:31.477770"
+  },
+  {
+    "id": 509,
+    "slug": "microsoft-kotlin-developer-foundational",
+    "name": "Microsoft Kotlin Developer Foundational",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 200,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 356,
+    "job_postings": 1469,
+    "salary": {
+      "min": 67401,
+      "max": 161763,
+      "avg": 103349
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "React",
+      "DevOps",
+      "Python",
+      "Agile"
+    ],
+    "description": "Professional certification in microsoft kotlin developer foundational offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 397,
+    "created_at": "2025-09-11T18:32:31.476113",
+    "updated_at": "2025-09-11T18:32:31.476115"
+  },
+  {
+    "id": 497,
+    "slug": "kubernetes-python-developer-professional",
+    "name": "Kubernetes Python Developer Professional",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 497,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 512,
+    "job_postings": 122,
+    "salary": {
+      "min": 78170,
+      "max": 187608,
+      "avg": 119861
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "REST APIs",
+      "React",
+      "Node.js",
+      "Database Design",
+      "Testing",
+      "JavaScript",
+      "DevOps"
+    ],
+    "description": "Professional certification in kubernetes python developer professional offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 419,
+    "created_at": "2025-09-11T18:32:31.475634",
+    "updated_at": "2025-09-11T18:32:31.475635"
+  },
+  {
+    "id": 518,
+    "slug": "certified-qa-professional",
+    "name": "Certified QA Professional",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 196,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 535,
+    "job_postings": 42,
+    "salary": {
+      "min": 75288,
+      "max": 180692,
+      "avg": 115442
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "Git",
+      "Database Design",
+      "Mobile Development",
+      "Node.js",
+      "Java"
+    ],
+    "description": "Professional certification in certified qa professional offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 432,
+    "created_at": "2025-09-11T18:32:31.476482",
+    "updated_at": "2025-09-11T18:32:31.476483"
+  },
+  {
+    "id": 544,
+    "slug": "net-api-development-certification-2",
+    "name": ".NET API Development Certification",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 177,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 668,
+    "job_postings": 48,
+    "salary": {
+      "min": 65297,
+      "max": 156713,
+      "avg": 100122
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "JavaScript",
+      "Database Design",
+      "Node.js",
+      "DevOps",
+      "REST APIs"
+    ],
+    "description": "Professional certification in .net api development certification offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 436,
+    "created_at": "2025-09-11T18:32:31.477528",
+    "updated_at": "2025-09-11T18:32:31.477529"
+  },
+  {
+    "id": 471,
+    "slug": "certified-mobile-consultant",
+    "name": "Certified Mobile Consultant",
+    "issuer": "Unity",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 528,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 591,
+    "job_postings": 159,
+    "salary": {
+      "min": 73961,
+      "max": 177507,
+      "avg": 113407
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Database Design",
+      "Node.js",
+      "REST APIs",
+      "Python"
+    ],
+    "description": "Professional certification in certified mobile consultant offered by Unity. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 445,
+    "created_at": "2025-09-11T18:32:31.474537",
+    "updated_at": "2025-09-11T18:32:31.474538"
+  },
+  {
+    "id": 475,
+    "slug": "certified-full-stack-practitioner",
+    "name": "Certified Full Stack Practitioner",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 391,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 591,
+    "job_postings": 136,
+    "salary": {
+      "min": 85650,
+      "max": 205560,
+      "avg": 131330
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Java",
+      "Git",
+      "Database Design",
+      "React",
+      "Node.js",
+      "Python",
+      "JavaScript",
+      "REST APIs"
+    ],
+    "description": "Professional certification in certified full stack practitioner offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 461,
+    "created_at": "2025-09-11T18:32:31.474698",
+    "updated_at": "2025-09-11T18:32:31.474699"
+  },
+  {
+    "id": 476,
+    "slug": "atlassian-kotlin-developer-expert",
+    "name": "Atlassian Kotlin Developer Expert",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 109,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 401,
+    "job_postings": 23,
+    "salary": {
+      "min": 78036,
+      "max": 187286,
+      "avg": 119655
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "Git",
+      "DevOps",
+      "JavaScript",
+      "Mobile Development",
+      "Testing"
+    ],
+    "description": "Professional certification in atlassian kotlin developer expert offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 489,
+    "created_at": "2025-09-11T18:32:31.474738",
+    "updated_at": "2025-09-11T18:32:31.474739"
+  },
+  {
+    "id": 546,
+    "slug": "net-database-development-certification",
+    "name": ".NET Database Development Certification",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 488,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 534,
+    "job_postings": 11,
+    "salary": {
+      "min": 80855,
+      "max": 194053,
+      "avg": 123978
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "Database Design",
+      "Agile",
+      "Testing"
+    ],
+    "description": "Professional certification in .net database development certification offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 496,
+    "created_at": "2025-09-11T18:32:31.477608",
+    "updated_at": "2025-09-11T18:32:31.477609"
+  },
+  {
+    "id": 508,
+    "slug": "enterprise-database-development-certification-1",
+    "name": "Enterprise Database Development Certification",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 380,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 510,
+    "job_postings": 34,
+    "salary": {
+      "min": 74633,
+      "max": 179120,
+      "avg": 114438
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Agile",
+      "Git",
+      "Mobile Development",
+      "React",
+      "DevOps"
+    ],
+    "description": "Professional certification in enterprise database development certification offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 543,
+    "created_at": "2025-09-11T18:32:31.476073",
+    "updated_at": "2025-09-11T18:32:31.476075"
+  },
+  {
+    "id": 507,
+    "slug": "certified-qa-consultant",
+    "name": "Certified QA Consultant",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 307,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 469,
+    "job_postings": 158,
+    "salary": {
+      "min": 69353,
+      "max": 166447,
+      "avg": 106341
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "JavaScript",
+      "Testing",
+      "Java",
+      "Mobile Development",
+      "REST APIs",
+      "Agile",
+      "Git"
+    ],
+    "description": "Professional certification in certified qa consultant offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 556,
+    "created_at": "2025-09-11T18:32:31.476032",
+    "updated_at": "2025-09-11T18:32:31.476033"
+  },
+  {
+    "id": 482,
+    "slug": "net-mobile-development-certification",
+    "name": ".NET Mobile Development Certification",
+    "issuer": "Adobe",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 406,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 613,
+    "job_postings": 128,
+    "salary": {
+      "min": 70105,
+      "max": 168252,
+      "avg": 107494
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Database Design",
+      "JavaScript",
+      "Mobile Development",
+      "Python",
+      "Testing",
+      "Java",
+      "DevOps",
+      "REST APIs"
+    ],
+    "description": "Professional certification in .net mobile development certification offered by Adobe. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 580,
+    "created_at": "2025-09-11T18:32:31.475033",
+    "updated_at": "2025-09-11T18:32:31.475034"
+  },
+  {
+    "id": 494,
+    "slug": "full-stack-vue-developer",
+    "name": "Full Stack Vue Developer",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 400,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 609,
+    "job_postings": 5,
+    "salary": {
+      "min": 74783,
+      "max": 179481,
+      "avg": 114668
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Testing",
+      "DevOps",
+      "Database Design",
+      "Java",
+      "Node.js",
+      "JavaScript",
+      "Mobile Development",
+      "Agile",
+      "React"
+    ],
+    "description": "Professional certification in full stack vue developer offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 613,
+    "created_at": "2025-09-11T18:32:31.475512",
+    "updated_at": "2025-09-11T18:32:31.475514"
+  },
+  {
+    "id": 463,
+    "slug": "spring-management-certificate",
+    "name": "Spring Management Certificate",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 373,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 534,
+    "job_postings": 197,
+    "salary": {
+      "min": 79478,
+      "max": 190748,
+      "avg": 121866
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Python",
+      "React",
+      "DevOps",
+      "Java",
+      "Git",
+      "Agile",
+      "Node.js"
+    ],
+    "description": "Professional certification in spring management certificate offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 626,
+    "created_at": "2025-09-11T18:32:31.474210",
+    "updated_at": "2025-09-11T18:32:31.474211"
+  },
+  {
+    "id": 501,
+    "slug": "express-security-certificate",
+    "name": "Express Security Certificate",
+    "issuer": "Scrum.org",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 171,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 535,
+    "job_postings": 97,
+    "salary": {
+      "min": 85451,
+      "max": 205082,
+      "avg": 131024
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "React",
+      "Java",
+      "JavaScript",
+      "Mobile Development",
+      "Node.js",
+      "REST APIs",
+      "Git"
+    ],
+    "description": "Professional certification in express security certificate offered by Scrum.org. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 631,
+    "created_at": "2025-09-11T18:32:31.475796",
+    "updated_at": "2025-09-11T18:32:31.475797"
+  },
+  {
+    "id": 477,
+    "slug": "certified-full-stack-specialist",
+    "name": "Certified Full Stack Specialist",
+    "issuer": "Adobe",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 323,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 494,
+    "job_postings": 36,
+    "salary": {
+      "min": 78004,
+      "max": 187210,
+      "avg": 119606
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "JavaScript",
+      "Database Design",
+      "Testing",
+      "Agile"
+    ],
+    "description": "Professional certification in certified full stack specialist offered by Adobe. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 665,
+    "created_at": "2025-09-11T18:32:31.474832",
+    "updated_at": "2025-09-11T18:32:31.474834"
+  },
+  {
+    "id": 513,
+    "slug": "android-api-development-certification",
+    "name": "Android API Development Certification",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 226,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 433,
+    "job_postings": 574,
+    "salary": {
+      "min": 65292,
+      "max": 156702,
+      "avg": 100115
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Git",
+      "React",
+      "Agile",
+      "REST APIs",
+      "Database Design",
+      "Testing"
+    ],
+    "description": "Professional certification in android api development certification offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 686,
+    "created_at": "2025-09-11T18:32:31.476273",
+    "updated_at": "2025-09-11T18:32:31.476275"
+  },
+  {
+    "id": 492,
+    "slug": "certified-mobile-consultant-1",
+    "name": "Certified Mobile Consultant",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 406,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 373,
+    "job_postings": 730,
+    "salary": {
+      "min": 71562,
+      "max": 171750,
+      "avg": 109729
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Python",
+      "Testing",
+      "Agile",
+      "DevOps",
+      "Node.js",
+      "Database Design",
+      "React",
+      "REST APIs"
+    ],
+    "description": "Professional certification in certified mobile consultant offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 724,
+    "created_at": "2025-09-11T18:32:31.475431",
+    "updated_at": "2025-09-11T18:32:31.475432"
+  },
+  {
+    "id": 485,
+    "slug": "android-mobile-development-certification",
+    "name": "Android Mobile Development Certification",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "4 weeks",
+    "cost": 140,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 341,
+    "job_postings": 48,
+    "salary": {
+      "min": 67757,
+      "max": 162616,
+      "avg": 103894
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Python",
+      "Testing",
+      "React",
+      "Mobile Development",
+      "JavaScript"
+    ],
+    "description": "Professional certification in android mobile development certification offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 766,
+    "created_at": "2025-09-11T18:32:31.475149",
+    "updated_at": "2025-09-11T18:32:31.475151"
+  },
+  {
+    "id": 523,
+    "slug": "full-stack-vue-developer-2",
+    "name": "Full Stack Vue Developer",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 175,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 261,
+    "job_postings": 466,
+    "salary": {
+      "min": 69423,
+      "max": 166617,
+      "avg": 106449
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Agile",
+      "REST APIs",
+      "React",
+      "Mobile Development",
+      "Testing",
+      "Node.js",
+      "DevOps",
+      "Database Design"
+    ],
+    "description": "Professional certification in full stack vue developer offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 772,
+    "created_at": "2025-09-11T18:32:31.476680",
+    "updated_at": "2025-09-11T18:32:31.476681"
+  },
+  {
+    "id": 481,
+    "slug": "certified-full-stack-expert",
+    "name": "Certified Full Stack Expert",
+    "issuer": "Elastic",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 355,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 304,
+    "job_postings": 701,
+    "salary": {
+      "min": 81489,
+      "max": 195575,
+      "avg": 124951
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "JavaScript",
+      "Java",
+      "Database Design",
+      "Testing",
+      "Agile",
+      "Git"
+    ],
+    "description": "Professional certification in certified full stack expert offered by Elastic. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 805,
+    "created_at": "2025-09-11T18:32:31.474992",
+    "updated_at": "2025-09-11T18:32:31.474994"
+  },
+  {
+    "id": 499,
+    "slug": "certified-qa-analyst",
+    "name": "Certified QA Analyst",
+    "issuer": "GitHub",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 146,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 387,
+    "job_postings": 161,
+    "salary": {
+      "min": 76213,
+      "max": 182912,
+      "avg": 116860
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Agile",
+      "Java",
+      "Node.js",
+      "Testing",
+      "Mobile Development",
+      "Git"
+    ],
+    "description": "Professional certification in certified qa analyst offered by GitHub. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 827,
+    "created_at": "2025-09-11T18:32:31.475716",
+    "updated_at": "2025-09-11T18:32:31.475717"
+  },
+  {
+    "id": 540,
+    "slug": "react-strategy-certificate",
+    "name": "React Strategy Certificate",
+    "issuer": "Elastic",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 379,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 440,
+    "job_postings": 71,
+    "salary": {
+      "min": 84071,
+      "max": 201770,
+      "avg": 128909
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "DevOps",
+      "Database Design",
+      "Agile",
+      "React",
+      "Git",
+      "JavaScript",
+      "Python",
+      "REST APIs",
+      "Mobile Development",
+      "Node.js"
+    ],
+    "description": "Professional certification in react strategy certificate offered by Elastic. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 831,
+    "created_at": "2025-09-11T18:32:31.477366",
+    "updated_at": "2025-09-11T18:32:31.477368"
+  },
+  {
+    "id": 521,
+    "slug": "certified-mobile-consultant-2",
+    "name": "Certified Mobile Consultant",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 163,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 400,
+    "job_postings": 38,
+    "salary": {
+      "min": 69751,
+      "max": 167402,
+      "avg": 106951
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Database Design",
+      "Git",
+      "Node.js",
+      "Agile"
+    ],
+    "description": "Professional certification in certified mobile consultant offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 867,
+    "created_at": "2025-09-11T18:32:31.476601",
+    "updated_at": "2025-09-11T18:32:31.476602"
+  },
+  {
+    "id": 486,
+    "slug": "full-stack-spring-developer-1",
+    "name": "Full Stack Spring Developer",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 422,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 298,
+    "job_postings": 411,
+    "salary": {
+      "min": 77100,
+      "max": 185040,
+      "avg": 118220
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Java",
+      "Git",
+      "Database Design",
+      "DevOps",
+      "Testing",
+      "Agile"
+    ],
+    "description": "Professional certification in full stack spring developer offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 868,
+    "created_at": "2025-09-11T18:32:31.475188",
+    "updated_at": "2025-09-11T18:32:31.475190"
+  },
+  {
+    "id": 519,
+    "slug": "express-administration-certificate",
+    "name": "Express Administration Certificate",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 158,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 247,
+    "job_postings": 44,
+    "salary": {
+      "min": 65853,
+      "max": 158047,
+      "avg": 100974
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "REST APIs",
+      "JavaScript",
+      "Python",
+      "Testing"
+    ],
+    "description": "Professional certification in express administration certificate offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 870,
+    "created_at": "2025-09-11T18:32:31.476522",
+    "updated_at": "2025-09-11T18:32:31.476523"
+  },
+  {
+    "id": 457,
+    "slug": "full-stack-django-developer",
+    "name": "Full Stack Django Developer",
+    "issuer": "GitHub",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 173,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 231,
+    "job_postings": 32,
+    "salary": {
+      "min": 73950,
+      "max": 177481,
+      "avg": 113391
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "React",
+      "Testing",
+      "Mobile Development",
+      "Node.js",
+      "Git",
+      "JavaScript",
+      "Agile",
+      "REST APIs",
+      "Java",
+      "Python"
+    ],
+    "description": "Professional certification in full stack django developer offered by GitHub. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 875,
+    "created_at": "2025-09-11T18:32:31.473967",
+    "updated_at": "2025-09-11T18:32:31.473969"
+  },
+  {
+    "id": 487,
+    "slug": "kubernetes-java-developer-professional",
+    "name": "Kubernetes Java Developer Professional",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 271,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 364,
+    "job_postings": 403,
+    "salary": {
+      "min": 69986,
+      "max": 167967,
+      "avg": 107312
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Mobile Development",
+      "Java",
+      "Testing",
+      "Python",
+      "React",
+      "Database Design",
+      "Agile"
+    ],
+    "description": "Professional certification in kubernetes java developer professional offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 883,
+    "created_at": "2025-09-11T18:32:31.475232",
+    "updated_at": "2025-09-11T18:32:31.475233"
+  },
+  {
+    "id": 468,
+    "slug": "certified-full-stack-consultant",
+    "name": "Certified Full Stack Consultant",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 414,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 300,
+    "job_postings": 303,
+    "salary": {
+      "min": 73841,
+      "max": 177218,
+      "avg": 113223
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Node.js",
+      "Testing",
+      "React",
+      "DevOps",
+      "Database Design"
+    ],
+    "description": "Professional certification in certified full stack consultant offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 893,
+    "created_at": "2025-09-11T18:32:31.474415",
+    "updated_at": "2025-09-11T18:32:31.474416"
+  },
+  {
+    "id": 542,
+    "slug": "mongodb-go-developer-senior",
+    "name": "MongoDB Go Developer Senior",
+    "issuer": "MongoDB",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 487,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 204,
+    "job_postings": 920,
+    "salary": {
+      "min": 76625,
+      "max": 183900,
+      "avg": 117491
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Mobile Development",
+      "React",
+      "Agile",
+      "Python",
+      "REST APIs",
+      "Database Design"
+    ],
+    "description": "Professional certification in mongodb go developer senior offered by MongoDB. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 924,
+    "created_at": "2025-09-11T18:32:31.477449",
+    "updated_at": "2025-09-11T18:32:31.477450"
+  },
+  {
+    "id": 500,
+    "slug": "certified-backend-practitioner",
+    "name": "Certified Backend Practitioner",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 114,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 343,
+    "job_postings": 132,
+    "salary": {
+      "min": 66940,
+      "max": 160658,
+      "avg": 102642
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Git",
+      "Python",
+      "Node.js",
+      "Testing"
+    ],
+    "description": "Professional certification in certified backend practitioner offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 945,
+    "created_at": "2025-09-11T18:32:31.475755",
+    "updated_at": "2025-09-11T18:32:31.475756"
+  },
+  {
+    "id": 515,
+    "slug": "certified-full-stack-practitioner-1",
+    "name": "Certified Full Stack Practitioner",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 335,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 286,
+    "job_postings": 509,
+    "salary": {
+      "min": 64300,
+      "max": 154320,
+      "avg": 98593
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Java",
+      "React",
+      "Git",
+      "Agile",
+      "Testing",
+      "DevOps",
+      "REST APIs"
+    ],
+    "description": "Professional certification in certified full stack practitioner offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 955,
+    "created_at": "2025-09-11T18:32:31.476354",
+    "updated_at": "2025-09-11T18:32:31.476355"
+  },
+  {
+    "id": 466,
+    "slug": "adobe-c-developer-master",
+    "name": "Adobe C# Developer Master",
+    "issuer": "Adobe",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 254,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 346,
+    "job_postings": 253,
+    "salary": {
+      "min": 66714,
+      "max": 160115,
+      "avg": 102295
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "REST APIs",
+      "Git",
+      "Database Design"
+    ],
+    "description": "Professional certification in adobe c# developer master offered by Adobe. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 958,
+    "created_at": "2025-09-11T18:32:31.474335",
+    "updated_at": "2025-09-11T18:32:31.474336"
+  },
+  {
+    "id": 528,
+    "slug": "angular-strategy-certificate",
+    "name": "Angular Strategy Certificate",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 219,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 116,
+    "job_postings": 126,
+    "salary": {
+      "min": 80617,
+      "max": 193481,
+      "avg": 123613
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Database Design",
+      "Mobile Development",
+      "Python",
+      "DevOps",
+      "JavaScript"
+    ],
+    "description": "Professional certification in angular strategy certificate offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 991,
+    "created_at": "2025-09-11T18:32:31.476877",
+    "updated_at": "2025-09-11T18:32:31.476878"
+  },
+  {
+    "id": 478,
+    "slug": "elastic-python-developer-associate",
+    "name": "Elastic Python Developer Associate",
+    "issuer": "Elastic",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 523,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 214,
+    "job_postings": 50,
+    "salary": {
+      "min": 72768,
+      "max": 174645,
+      "avg": 111578
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Java",
+      "Agile",
+      "REST APIs",
+      "Testing",
+      "Python",
+      "Mobile Development",
+      "DevOps"
+    ],
+    "description": "Professional certification in elastic python developer associate offered by Elastic. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1006,
+    "created_at": "2025-09-11T18:32:31.474873",
+    "updated_at": "2025-09-11T18:32:31.474874"
+  },
+  {
+    "id": 532,
+    "slug": "full-stack-django-developer-2",
+    "name": "Full Stack Django Developer",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 201,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 330,
+    "job_postings": 195,
+    "salary": {
+      "min": 72576,
+      "max": 174183,
+      "avg": 111284
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "DevOps",
+      "Git",
+      "Java",
+      "Node.js",
+      "Python",
+      "JavaScript",
+      "Agile",
+      "REST APIs",
+      "Mobile Development",
+      "React"
+    ],
+    "description": "Professional certification in full stack django developer offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1013,
+    "created_at": "2025-09-11T18:32:31.477035",
+    "updated_at": "2025-09-11T18:32:31.477037"
+  },
+  {
+    "id": 545,
+    "slug": "certified-frontend-expert",
+    "name": "Certified Frontend Expert",
+    "issuer": "Scrum.org",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 256,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 256,
+    "job_postings": 690,
+    "salary": {
+      "min": 70597,
+      "max": 169434,
+      "avg": 108249
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Node.js",
+      "DevOps",
+      "React",
+      "JavaScript",
+      "Testing",
+      "Database Design",
+      "Agile",
+      "Java"
+    ],
+    "description": "Professional certification in certified frontend expert offered by Scrum.org. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1014,
+    "created_at": "2025-09-11T18:32:31.477568",
+    "updated_at": "2025-09-11T18:32:31.477569"
+  },
+  {
+    "id": 489,
+    "slug": "full-stack-nodejs-developer",
+    "name": "Full Stack Node.js Developer",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 130,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 76,
+    "job_postings": 503,
+    "salary": {
+      "min": 79567,
+      "max": 190961,
+      "avg": 122003
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "React",
+      "Database Design",
+      "Testing"
+    ],
+    "description": "Professional certification in full stack node.js developer offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1041,
+    "created_at": "2025-09-11T18:32:31.475313",
+    "updated_at": "2025-09-11T18:32:31.475314"
+  },
+  {
+    "id": 495,
+    "slug": "microsoft-python-developer-lead",
+    "name": "Microsoft Python Developer Lead",
+    "issuer": "Microsoft",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 206,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 113,
+    "job_postings": 41,
+    "salary": {
+      "min": 74606,
+      "max": 179056,
+      "avg": 114396
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "REST APIs",
+      "Java",
+      "DevOps",
+      "Agile",
+      "JavaScript",
+      "Python",
+      "Database Design"
+    ],
+    "description": "Professional certification in microsoft python developer lead offered by Microsoft. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1066,
+    "created_at": "2025-09-11T18:32:31.475553",
+    "updated_at": "2025-09-11T18:32:31.475554"
+  },
+  {
+    "id": 464,
+    "slug": "net-api-development-certification",
+    "name": ".NET API Development Certification",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 452,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 345,
+    "job_postings": 47,
+    "salary": {
+      "min": 74993,
+      "max": 179984,
+      "avg": 114990
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Java",
+      "Agile",
+      "Python",
+      "Testing",
+      "React",
+      "Git",
+      "REST APIs"
+    ],
+    "description": "Professional certification in .net api development certification offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1068,
+    "created_at": "2025-09-11T18:32:31.474253",
+    "updated_at": "2025-09-11T18:32:31.474254"
+  },
+  {
+    "id": 496,
+    "slug": "angular-engineering-certificate",
+    "name": "Angular Engineering Certificate",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 116,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 103,
+    "job_postings": 146,
+    "salary": {
+      "min": 78349,
+      "max": 188039,
+      "avg": 120136
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Agile",
+      "Database Design",
+      "Git",
+      "React",
+      "Python",
+      "Testing"
+    ],
+    "description": "Professional certification in angular engineering certificate offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1076,
+    "created_at": "2025-09-11T18:32:31.475593",
+    "updated_at": "2025-09-11T18:32:31.475594"
+  },
+  {
+    "id": 512,
+    "slug": "full-stack-spring-developer-2",
+    "name": "Full Stack Spring Developer",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 508,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 329,
+    "job_postings": 26,
+    "salary": {
+      "min": 82622,
+      "max": 198293,
+      "avg": 126687
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "Java",
+      "Database Design",
+      "JavaScript",
+      "React",
+      "Python",
+      "Mobile Development"
+    ],
+    "description": "Professional certification in full stack spring developer offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 1102,
+    "created_at": "2025-09-11T18:32:31.476233",
+    "updated_at": "2025-09-11T18:32:31.476234"
+  },
+  {
+    "id": 473,
+    "slug": "web-mobile-development-certification",
+    "name": "Web Mobile Development Certification",
+    "issuer": "Docker",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 243,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 285,
+    "job_postings": 76,
+    "salary": {
+      "min": 83481,
+      "max": 200355,
+      "avg": 128004
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "DevOps",
+      "Database Design",
+      "REST APIs",
+      "Testing",
+      "React",
+      "Git",
+      "Agile",
+      "Mobile Development"
+    ],
+    "description": "Professional certification in web mobile development certification offered by Docker. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1107,
+    "created_at": "2025-09-11T18:32:31.474617",
+    "updated_at": "2025-09-11T18:32:31.474618"
+  },
+  {
+    "id": 505,
+    "slug": "full-stack-vue-developer-1",
+    "name": "Full Stack Vue Developer",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 275,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 53,
+    "job_postings": 110,
+    "salary": {
+      "min": 69242,
+      "max": 166182,
+      "avg": 106171
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Testing",
+      "Node.js",
+      "Git",
+      "Java",
+      "Mobile Development",
+      "Python",
+      "React",
+      "REST APIs",
+      "Database Design"
+    ],
+    "description": "Professional certification in full stack vue developer offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 1110,
+    "created_at": "2025-09-11T18:32:31.475952",
+    "updated_at": "2025-09-11T18:32:31.475953"
+  },
+  {
+    "id": 549,
+    "slug": "net-database-development-certification-1",
+    "name": ".NET Database Development Certification",
+    "issuer": "Docker",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 244,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 128,
+    "job_postings": 13,
+    "salary": {
+      "min": 67812,
+      "max": 162749,
+      "avg": 103978
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Java",
+      "DevOps",
+      "Python",
+      "Testing",
+      "Mobile Development",
+      "JavaScript"
+    ],
+    "description": "Professional certification in .net database development certification offered by Docker. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 1115,
+    "created_at": "2025-09-11T18:32:31.477729",
+    "updated_at": "2025-09-11T18:32:31.477731"
+  },
+  {
+    "id": 458,
+    "slug": "django-security-certificate",
+    "name": "Django Security Certificate",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 166,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 206,
+    "job_postings": 38,
+    "salary": {
+      "min": 71228,
+      "max": 170947,
+      "avg": 109216
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Git",
+      "Mobile Development",
+      "React",
+      "Database Design"
+    ],
+    "description": "Professional certification in django security certificate offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 1128,
+    "created_at": "2025-09-11T18:32:31.474008",
+    "updated_at": "2025-09-11T18:32:31.474010"
+  },
+  {
+    "id": 531,
+    "slug": "web-database-development-certification-2",
+    "name": "Web Database Development Certification",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 430,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 283,
+    "job_postings": 18,
+    "salary": {
+      "min": 64587,
+      "max": 155009,
+      "avg": 99033
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "DevOps",
+      "JavaScript",
+      "Node.js",
+      "Mobile Development",
+      "Agile",
+      "Java",
+      "Testing"
+    ],
+    "description": "Professional certification in web database development certification offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1141,
+    "created_at": "2025-09-11T18:32:31.476995",
+    "updated_at": "2025-09-11T18:32:31.476997"
+  },
+  {
+    "id": 524,
+    "slug": "certified-full-stack-analyst",
+    "name": "Certified Full Stack Analyst",
+    "issuer": "Docker",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 370,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 151,
+    "job_postings": 564,
+    "salary": {
+      "min": 80134,
+      "max": 192322,
+      "avg": 122872
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Database Design",
+      "Python",
+      "React",
+      "Node.js",
+      "Testing",
+      "Mobile Development",
+      "Agile",
+      "REST APIs"
+    ],
+    "description": "Professional certification in certified full stack analyst offered by Docker. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1144,
+    "created_at": "2025-09-11T18:32:31.476719",
+    "updated_at": "2025-09-11T18:32:31.476720"
+  },
+  {
+    "id": 543,
+    "slug": "full-stack-nodejs-developer-3",
+    "name": "Full Stack Node.js Developer",
+    "issuer": "Unity",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 334,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 284,
+    "job_postings": 19,
+    "salary": {
+      "min": 63942,
+      "max": 153463,
+      "avg": 98045
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Mobile Development",
+      "JavaScript",
+      "Git",
+      "Node.js",
+      "Agile",
+      "DevOps",
+      "Testing"
+    ],
+    "description": "Professional certification in full stack node.js developer offered by Unity. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 1155,
+    "created_at": "2025-09-11T18:32:31.477488",
+    "updated_at": "2025-09-11T18:32:31.477490"
+  },
+  {
+    "id": 467,
+    "slug": "react-engineering-certificate",
+    "name": "React Engineering Certificate",
+    "issuer": "Docker",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 249,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 167,
+    "job_postings": 223,
+    "salary": {
+      "min": 64701,
+      "max": 155283,
+      "avg": 99208
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "REST APIs",
+      "Testing",
+      "Git",
+      "Python",
+      "Node.js",
+      "JavaScript",
+      "Agile",
+      "Database Design"
+    ],
+    "description": "Professional certification in react engineering certificate offered by Docker. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 1169,
+    "created_at": "2025-09-11T18:32:31.474375",
+    "updated_at": "2025-09-11T18:32:31.474376"
+  },
+  {
+    "id": 479,
+    "slug": "express-strategy-certificate",
+    "name": "Express Strategy Certificate",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 371,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 217,
+    "job_postings": 50,
+    "salary": {
+      "min": 71136,
+      "max": 170728,
+      "avg": 109076
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Git",
+      "React",
+      "Testing",
+      "Database Design",
+      "Java",
+      "Python",
+      "DevOps",
+      "Node.js"
+    ],
+    "description": "Professional certification in express strategy certificate offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1206,
+    "created_at": "2025-09-11T18:32:31.474913",
+    "updated_at": "2025-09-11T18:32:31.474914"
+  },
+  {
+    "id": 535,
+    "slug": "cloud-mobile-development-certification",
+    "name": "Cloud Mobile Development Certification",
+    "issuer": "Unity",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 301,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 129,
+    "job_postings": 220,
+    "salary": {
+      "min": 76394,
+      "max": 183346,
+      "avg": 117138
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Agile",
+      "JavaScript",
+      "Testing",
+      "Git"
+    ],
+    "description": "Professional certification in cloud mobile development certification offered by Unity. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "French"
+    ],
+    "ranking": 1218,
+    "created_at": "2025-09-11T18:32:31.477155",
+    "updated_at": "2025-09-11T18:32:31.477156"
+  },
+  {
+    "id": 465,
+    "slug": "cloud-api-development-certification",
+    "name": "Cloud API Development Certification",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 423,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 208,
+    "job_postings": 48,
+    "salary": {
+      "min": 77265,
+      "max": 185437,
+      "avg": 118474
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Database Design",
+      "Git",
+      "Agile",
+      "React",
+      "Testing",
+      "JavaScript"
+    ],
+    "description": "Professional certification in cloud api development certification offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1219,
+    "created_at": "2025-09-11T18:32:31.474293",
+    "updated_at": "2025-09-11T18:32:31.474294"
+  },
+  {
+    "id": 462,
+    "slug": "django-management-certificate",
+    "name": "Django Management Certificate",
+    "issuer": "Scrum.org",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 242,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 97,
+    "job_postings": 313,
+    "salary": {
+      "min": 74180,
+      "max": 178033,
+      "avg": 113743
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Git",
+      "Node.js",
+      "DevOps",
+      "React",
+      "REST APIs",
+      "Mobile Development",
+      "Testing",
+      "Agile",
+      "Database Design"
+    ],
+    "description": "Professional certification in django management certificate offered by Scrum.org. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 1226,
+    "created_at": "2025-09-11T18:32:31.474169",
+    "updated_at": "2025-09-11T18:32:31.474170"
+  },
+  {
+    "id": 552,
+    "slug": "full-stack-django-developer-3",
+    "name": "Full Stack Django Developer",
+    "issuer": "Unity",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "4 weeks",
+    "cost": 450,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 146,
+    "job_postings": 113,
+    "salary": {
+      "min": 79882,
+      "max": 191718,
+      "avg": 122487
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "REST APIs",
+      "Java",
+      "Python",
+      "Git",
+      "Database Design",
+      "Agile",
+      "DevOps",
+      "JavaScript",
+      "Mobile Development"
+    ],
+    "description": "Professional certification in full stack django developer offered by Unity. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1229,
+    "created_at": "2025-09-11T18:32:31.477848",
+    "updated_at": "2025-09-11T18:32:31.477849"
+  },
+  {
+    "id": 530,
+    "slug": "full-stack-react-developer-1",
+    "name": "Full Stack React Developer",
+    "issuer": "Kubernetes",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 275,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 92,
+    "job_postings": 171,
+    "salary": {
+      "min": 75297,
+      "max": 180714,
+      "avg": 115456
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "Testing",
+      "Agile",
+      "Database Design",
+      "Java",
+      "React",
+      "Node.js",
+      "JavaScript",
+      "REST APIs",
+      "Git"
+    ],
+    "description": "Professional certification in full stack react developer offered by Kubernetes. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1242,
+    "created_at": "2025-09-11T18:32:31.476956",
+    "updated_at": "2025-09-11T18:32:31.476957"
+  },
+  {
+    "id": 470,
+    "slug": "cloud-database-development-certification",
+    "name": "Cloud Database Development Certification",
+    "issuer": "GitHub",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 206,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 102,
+    "job_postings": 262,
+    "salary": {
+      "min": 76088,
+      "max": 182613,
+      "avg": 116669
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "DevOps",
+      "Testing",
+      "Python",
+      "Git",
+      "Java",
+      "JavaScript",
+      "REST APIs",
+      "Database Design",
+      "React"
+    ],
+    "description": "Professional certification in cloud database development certification offered by GitHub. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1256,
+    "created_at": "2025-09-11T18:32:31.474495",
+    "updated_at": "2025-09-11T18:32:31.474497"
+  },
+  {
+    "id": 522,
+    "slug": "web-database-development-certification-1",
+    "name": "Web Database Development Certification",
+    "issuer": "Atlassian",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 146,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 31,
+    "job_postings": 586,
+    "salary": {
+      "min": 77034,
+      "max": 184883,
+      "avg": 118120
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Java",
+      "DevOps",
+      "JavaScript",
+      "Mobile Development",
+      "REST APIs"
+    ],
+    "description": "Professional certification in web database development certification offered by Atlassian. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1297,
+    "created_at": "2025-09-11T18:32:31.476640",
+    "updated_at": "2025-09-11T18:32:31.476642"
+  },
+  {
+    "id": 527,
+    "slug": "jetbrains-rust-developer-master",
+    "name": "JetBrains Rust Developer Master",
+    "issuer": "JetBrains",
+    "domain": "software-development",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 286,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 26,
+    "job_postings": 46,
+    "salary": {
+      "min": 72968,
+      "max": 175124,
+      "avg": 111884
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Node.js",
+      "Testing",
+      "JavaScript",
+      "React",
+      "Agile",
+      "Java",
+      "Database Design",
+      "Git"
+    ],
+    "description": "Professional certification in jetbrains rust developer master offered by JetBrains. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1317,
+    "created_at": "2025-09-11T18:32:31.476839",
+    "updated_at": "2025-09-11T18:32:31.476840"
+  },
+  {
+    "id": 506,
+    "slug": "ios-api-development-certification",
+    "name": "iOS API Development Certification",
+    "issuer": "Docker",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "3 weeks",
+    "cost": 263,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 20,
+    "job_postings": 46,
+    "salary": {
+      "min": 73301,
+      "max": 175922,
+      "avg": 112394
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Testing",
+      "DevOps",
+      "React",
+      "Database Design",
+      "Node.js",
+      "Agile",
+      "Mobile Development"
+    ],
+    "description": "Professional certification in ios api development certification offered by Docker. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1321,
+    "created_at": "2025-09-11T18:32:31.475992",
+    "updated_at": "2025-09-11T18:32:31.475993"
+  },
+  {
+    "id": 469,
+    "slug": "certified-full-stack-professional",
+    "name": "Certified Full Stack Professional",
+    "issuer": "Adobe",
+    "domain": "software-development",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 396,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 80,
+    "job_postings": 478,
+    "salary": {
+      "min": 75377,
+      "max": 180906,
+      "avg": 115578
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Node.js",
+      "Mobile Development",
+      "React",
+      "Java"
+    ],
+    "description": "Professional certification in certified full stack professional offered by Adobe. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1333,
+    "created_at": "2025-09-11T18:32:31.474454",
+    "updated_at": "2025-09-11T18:32:31.474456"
+  },
+  {
+    "id": 525,
+    "slug": "elastic-java-developer-foundational",
+    "name": "Elastic Java Developer Foundational",
+    "issuer": "Elastic",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 389,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 23,
+    "job_postings": 116,
+    "salary": {
+      "min": 67748,
+      "max": 162595,
+      "avg": 103880
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Git",
+      "Testing",
+      "REST APIs",
+      "Node.js",
+      "Mobile Development",
+      "React",
+      "DevOps"
+    ],
+    "description": "Professional certification in elastic java developer foundational offered by Elastic. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1338,
+    "created_at": "2025-09-11T18:32:31.476759",
+    "updated_at": "2025-09-11T18:32:31.476760"
+  },
+  {
+    "id": 541,
+    "slug": "certified-frontend-practitioner-1",
+    "name": "Certified Frontend Practitioner",
+    "issuer": "Adobe",
+    "domain": "software-development",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 326,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 41,
+    "job_postings": 104,
+    "salary": {
+      "min": 81227,
+      "max": 194945,
+      "avg": 124548
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "React",
+      "DevOps",
+      "Node.js",
+      "REST APIs",
+      "Python",
+      "JavaScript",
+      "Mobile Development",
+      "Git",
+      "Database Design"
+    ],
+    "description": "Professional certification in certified frontend practitioner offered by Adobe. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1363,
+    "created_at": "2025-09-11T18:32:31.477409",
+    "updated_at": "2025-09-11T18:32:31.477410"
+  },
+  {
+    "id": 483,
+    "slug": "certified-frontend-practitioner",
+    "name": "Certified Frontend Practitioner",
+    "issuer": "Elastic",
+    "domain": "software-development",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 425,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 20,
+    "job_postings": 79,
+    "salary": {
+      "min": 81751,
+      "max": 196202,
+      "avg": 125351
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "React",
+      "Database Design",
+      "Agile",
+      "JavaScript"
+    ],
+    "description": "Professional certification in certified frontend practitioner offered by Elastic. Validates expertise in Software Development and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1376,
+    "created_at": "2025-09-11T18:32:31.475071",
+    "updated_at": "2025-09-11T18:32:31.475072"
+  }
+]

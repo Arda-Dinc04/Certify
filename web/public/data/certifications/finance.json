@@ -1,0 +1,2023 @@
+[
+  {
+    "id": 984,
+    "slug": "finra-management-certificate-1",
+    "name": "FINRA Management Certificate",
+    "issuer": "FINRA",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 377,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 731,
+    "job_postings": 240,
+    "salary": {
+      "min": 63586,
+      "max": 181675,
+      "avg": 109005
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Investment Management",
+      "Portfolio Management",
+      "Risk Assessment",
+      "Derivatives",
+      "Financial Analysis",
+      "Fixed Income"
+    ],
+    "description": "Professional certification in finra management certificate offered by FINRA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 65,
+    "created_at": "2025-09-11T18:32:31.495582",
+    "updated_at": "2025-09-11T18:32:31.495583"
+  },
+  {
+    "id": 996,
+    "slug": "chartered-credit-advanced",
+    "name": "Chartered Credit Advanced",
+    "issuer": "FINRA",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 271,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 797,
+    "job_postings": 61,
+    "salary": {
+      "min": 62999,
+      "max": 179998,
+      "avg": 107999
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Financial Modeling",
+      "Fixed Income",
+      "Risk Assessment",
+      "Investment Management",
+      "Financial Analysis",
+      "Derivatives"
+    ],
+    "description": "Professional certification in chartered credit advanced offered by FINRA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 107,
+    "created_at": "2025-09-11T18:32:31.496065",
+    "updated_at": "2025-09-11T18:32:31.496071"
+  },
+  {
+    "id": 981,
+    "slug": "chartered-financial-lead",
+    "name": "Chartered Financial Lead",
+    "issuer": "IMA",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 710,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 724,
+    "job_postings": 96,
+    "salary": {
+      "min": 71439,
+      "max": 204111,
+      "avg": 122466
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Financial Analysis",
+      "Financial Modeling",
+      "Risk Assessment",
+      "Equity Analysis"
+    ],
+    "description": "Professional certification in chartered financial lead offered by IMA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 149,
+    "created_at": "2025-09-11T18:32:31.495398",
+    "updated_at": "2025-09-11T18:32:31.495399"
+  },
+  {
+    "id": 963,
+    "slug": "finra-planning-certificate",
+    "name": "FINRA Planning Certificate",
+    "issuer": "FINRA",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 346,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 697,
+    "job_postings": 6,
+    "salary": {
+      "min": 68672,
+      "max": 196208,
+      "avg": 117725
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Portfolio Management",
+      "Derivatives",
+      "Equity Analysis",
+      "Financial Modeling",
+      "Investment Management",
+      "Risk Assessment",
+      "Financial Analysis"
+    ],
+    "description": "Professional certification in finra planning certificate offered by FINRA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 150,
+    "created_at": "2025-09-11T18:32:31.494682",
+    "updated_at": "2025-09-11T18:32:31.494683"
+  },
+  {
+    "id": 962,
+    "slug": "certified-consultant-administrator",
+    "name": "Certified Consultant Administrator",
+    "issuer": "ACAMS",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 432,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 769,
+    "job_postings": 42,
+    "salary": {
+      "min": 67128,
+      "max": 191795,
+      "avg": 115077
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Portfolio Management",
+      "Financial Modeling",
+      "Fixed Income",
+      "Risk Assessment",
+      "Financial Analysis",
+      "Derivatives",
+      "Equity Analysis",
+      "Investment Management"
+    ],
+    "description": "Professional certification in certified consultant administrator offered by ACAMS. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 152,
+    "created_at": "2025-09-11T18:32:31.494641",
+    "updated_at": "2025-09-11T18:32:31.494642"
+  },
+  {
+    "id": 976,
+    "slug": "finra-management-certificate",
+    "name": "FINRA Management Certificate",
+    "issuer": "FINRA",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 400,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 724,
+    "job_postings": 110,
+    "salary": {
+      "min": 72838,
+      "max": 208109,
+      "avg": 124865
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Financial Modeling",
+      "Portfolio Management",
+      "Investment Management",
+      "Risk Assessment",
+      "Equity Analysis",
+      "Derivatives"
+    ],
+    "description": "Professional certification in finra management certificate offered by FINRA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 221,
+    "created_at": "2025-09-11T18:32:31.495202",
+    "updated_at": "2025-09-11T18:32:31.495203"
+  },
+  {
+    "id": 997,
+    "slug": "financial-engineering-diploma",
+    "name": "Financial Engineering Diploma",
+    "issuer": "CAIA Association",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 734,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 658,
+    "job_postings": 36,
+    "salary": {
+      "min": 77514,
+      "max": 221471,
+      "avg": 132882
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Derivatives",
+      "Portfolio Management",
+      "Equity Analysis",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in financial engineering diploma offered by CAIA Association. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 305,
+    "created_at": "2025-09-11T18:32:31.496110",
+    "updated_at": "2025-09-11T18:32:31.496112"
+  },
+  {
+    "id": 999,
+    "slug": "wealth-risk-advanced",
+    "name": "Wealth Risk Advanced",
+    "issuer": "Oracle",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 418,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 613,
+    "job_postings": 188,
+    "salary": {
+      "min": 71146,
+      "max": 203275,
+      "avg": 121965
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Financial Analysis",
+      "Portfolio Management",
+      "Investment Management",
+      "Derivatives"
+    ],
+    "description": "Professional certification in wealth risk advanced offered by Oracle. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 313,
+    "created_at": "2025-09-11T18:32:31.496189",
+    "updated_at": "2025-09-11T18:32:31.496190"
+  },
+  {
+    "id": 1000,
+    "slug": "frm-planning-certificate",
+    "name": "FRM Planning Certificate",
+    "issuer": "FRM",
+    "domain": "finance",
+    "level": "Foundational",
+    "duration": "4 weeks",
+    "cost": 801,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 655,
+    "job_postings": 150,
+    "salary": {
+      "min": 60343,
+      "max": 172409,
+      "avg": 103445
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Financial Modeling",
+      "Investment Management",
+      "Portfolio Management",
+      "Fixed Income",
+      "Derivatives",
+      "Equity Analysis",
+      "Financial Analysis",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in frm planning certificate offered by FRM. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 317,
+    "created_at": "2025-09-11T18:32:31.496231",
+    "updated_at": "2025-09-11T18:32:31.496232"
+  },
+  {
+    "id": 987,
+    "slug": "certified-advisor-practitioner",
+    "name": "Certified Advisor Practitioner",
+    "issuer": "FRM",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 961,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 775,
+    "job_postings": 502,
+    "salary": {
+      "min": 73434,
+      "max": 209812,
+      "avg": 125887
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Portfolio Management",
+      "Investment Management",
+      "Derivatives",
+      "Equity Analysis",
+      "Risk Assessment",
+      "Financial Modeling",
+      "Financial Analysis",
+      "Fixed Income"
+    ],
+    "description": "Professional certification in certified advisor practitioner offered by FRM. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 351,
+    "created_at": "2025-09-11T18:32:31.495702",
+    "updated_at": "2025-09-11T18:32:31.495703"
+  },
+  {
+    "id": 967,
+    "slug": "treasury-risk-advanced",
+    "name": "Treasury Risk Advanced",
+    "issuer": "CAIA Association",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 639,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 753,
+    "job_postings": 418,
+    "salary": {
+      "min": 60259,
+      "max": 172168,
+      "avg": 103301
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Fixed Income",
+      "Investment Management",
+      "Financial Analysis",
+      "Derivatives",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in treasury risk advanced offered by CAIA Association. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 358,
+    "created_at": "2025-09-11T18:32:31.494844",
+    "updated_at": "2025-09-11T18:32:31.494845"
+  },
+  {
+    "id": 971,
+    "slug": "financial-management-certificate",
+    "name": "Financial Management Certificate",
+    "issuer": "FRM",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 822,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 669,
+    "job_postings": 712,
+    "salary": {
+      "min": 69573,
+      "max": 198781,
+      "avg": 119268
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Investment Management",
+      "Fixed Income",
+      "Financial Modeling",
+      "Risk Assessment",
+      "Derivatives",
+      "Portfolio Management",
+      "Equity Analysis"
+    ],
+    "description": "Professional certification in financial management certificate offered by FRM. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 370,
+    "created_at": "2025-09-11T18:32:31.495002",
+    "updated_at": "2025-09-11T18:32:31.495003"
+  },
+  {
+    "id": 977,
+    "slug": "ima-management-certificate",
+    "name": "IMA Management Certificate",
+    "issuer": "IMA",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 666,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 478,
+    "job_postings": 634,
+    "salary": {
+      "min": 69211,
+      "max": 197746,
+      "avg": 118647
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Investment Management",
+      "Risk Assessment",
+      "Financial Analysis",
+      "Equity Analysis",
+      "Financial Modeling",
+      "Fixed Income",
+      "Derivatives",
+      "Portfolio Management"
+    ],
+    "description": "Professional certification in ima management certificate offered by IMA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 441,
+    "created_at": "2025-09-11T18:32:31.495240",
+    "updated_at": "2025-09-11T18:32:31.495241"
+  },
+  {
+    "id": 979,
+    "slug": "financial-architecture-credential",
+    "name": "Financial Architecture Credential",
+    "issuer": "FINRA",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 270,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 613,
+    "job_postings": 150,
+    "salary": {
+      "min": 73856,
+      "max": 211019,
+      "avg": 126611
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Derivatives",
+      "Equity Analysis",
+      "Financial Modeling",
+      "Investment Management",
+      "Financial Analysis"
+    ],
+    "description": "Professional certification in financial architecture credential offered by FINRA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 444,
+    "created_at": "2025-09-11T18:32:31.495317",
+    "updated_at": "2025-09-11T18:32:31.495318"
+  },
+  {
+    "id": 985,
+    "slug": "oracle-analysis-certificate",
+    "name": "Oracle Analysis Certificate",
+    "issuer": "Oracle",
+    "domain": "finance",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 350,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 494,
+    "job_postings": 49,
+    "salary": {
+      "min": 73980,
+      "max": 211373,
+      "avg": 126824
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Investment Management",
+      "Fixed Income",
+      "Portfolio Management",
+      "Equity Analysis",
+      "Financial Modeling",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in oracle analysis certificate offered by Oracle. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 459,
+    "created_at": "2025-09-11T18:32:31.495621",
+    "updated_at": "2025-09-11T18:32:31.495622"
+  },
+  {
+    "id": 1006,
+    "slug": "chartered-investment-advanced",
+    "name": "Chartered Investment Advanced",
+    "issuer": "IMA",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 745,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 553,
+    "job_postings": 692,
+    "salary": {
+      "min": 65765,
+      "max": 187901,
+      "avg": 112740
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Fixed Income",
+      "Equity Analysis",
+      "Financial Analysis",
+      "Risk Assessment",
+      "Portfolio Management"
+    ],
+    "description": "Professional certification in chartered investment advanced offered by IMA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 480,
+    "created_at": "2025-09-11T18:32:31.496589",
+    "updated_at": "2025-09-11T18:32:31.496591"
+  },
+  {
+    "id": 973,
+    "slug": "financial-management-license",
+    "name": "Financial Management License",
+    "issuer": "CAIA Association",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 1007,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 659,
+    "job_postings": 29,
+    "salary": {
+      "min": 67390,
+      "max": 192543,
+      "avg": 115526
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Investment Management",
+      "Equity Analysis",
+      "Financial Modeling",
+      "Derivatives",
+      "Financial Analysis"
+    ],
+    "description": "Professional certification in financial management license offered by CAIA Association. Validates expertise in Finance and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Japanese",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 537,
+    "created_at": "2025-09-11T18:32:31.495082",
+    "updated_at": "2025-09-11T18:32:31.495083"
+  },
+  {
+    "id": 980,
+    "slug": "chartered-treasury-professional",
+    "name": "Chartered Treasury Professional",
+    "issuer": "FINRA",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 331,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 453,
+    "job_postings": 776,
+    "salary": {
+      "min": 77587,
+      "max": 221677,
+      "avg": 133006
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Derivatives",
+      "Risk Assessment",
+      "Portfolio Management",
+      "Investment Management",
+      "Fixed Income",
+      "Financial Modeling"
+    ],
+    "description": "Professional certification in chartered treasury professional offered by FINRA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 549,
+    "created_at": "2025-09-11T18:32:31.495359",
+    "updated_at": "2025-09-11T18:32:31.495360"
+  },
+  {
+    "id": 1002,
+    "slug": "certified-consultant-analyst",
+    "name": "Certified Consultant Analyst",
+    "issuer": "Oracle",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 224,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 428,
+    "job_postings": 95,
+    "salary": {
+      "min": 69611,
+      "max": 198890,
+      "avg": 119334
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Financial Modeling",
+      "Portfolio Management",
+      "Risk Assessment",
+      "Equity Analysis",
+      "Fixed Income",
+      "Investment Management"
+    ],
+    "description": "Professional certification in certified consultant analyst offered by Oracle. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 740,
+    "created_at": "2025-09-11T18:32:31.496314",
+    "updated_at": "2025-09-11T18:32:31.496315"
+  },
+  {
+    "id": 972,
+    "slug": "chartered-investment-expert",
+    "name": "Chartered Investment Expert",
+    "issuer": "FRM",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 832,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 527,
+    "job_postings": 286,
+    "salary": {
+      "min": 77123,
+      "max": 220353,
+      "avg": 132211
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Risk Assessment",
+      "Derivatives",
+      "Investment Management",
+      "Financial Analysis"
+    ],
+    "description": "Professional certification in chartered investment expert offered by FRM. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 767,
+    "created_at": "2025-09-11T18:32:31.495043",
+    "updated_at": "2025-09-11T18:32:31.495044"
+  },
+  {
+    "id": 993,
+    "slug": "chartered-wealth-master",
+    "name": "Chartered Wealth Master",
+    "issuer": "ACAMS",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 542,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 441,
+    "job_postings": 354,
+    "salary": {
+      "min": 67326,
+      "max": 192361,
+      "avg": 115416
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Derivatives",
+      "Investment Management",
+      "Equity Analysis",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Fixed Income",
+      "Financial Analysis"
+    ],
+    "description": "Professional certification in chartered wealth master offered by ACAMS. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 777,
+    "created_at": "2025-09-11T18:32:31.495942",
+    "updated_at": "2025-09-11T18:32:31.495943"
+  },
+  {
+    "id": 964,
+    "slug": "certified-consultant-practitioner",
+    "name": "Certified Consultant Practitioner",
+    "issuer": "FINRA",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 213,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 468,
+    "job_postings": 61,
+    "salary": {
+      "min": 65305,
+      "max": 186588,
+      "avg": 111953
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Fixed Income",
+      "Financial Modeling",
+      "Financial Analysis",
+      "Derivatives",
+      "Risk Assessment",
+      "Equity Analysis"
+    ],
+    "description": "Professional certification in certified consultant practitioner offered by FINRA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 800,
+    "created_at": "2025-09-11T18:32:31.494723",
+    "updated_at": "2025-09-11T18:32:31.494724"
+  },
+  {
+    "id": 968,
+    "slug": "sas-compliance-certificate",
+    "name": "SAS Compliance Certificate",
+    "issuer": "SAS",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 346,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 435,
+    "job_postings": 49,
+    "salary": {
+      "min": 61747,
+      "max": 176420,
+      "avg": 105852
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Fixed Income",
+      "Financial Analysis",
+      "Portfolio Management",
+      "Risk Assessment",
+      "Investment Management",
+      "Financial Modeling",
+      "Derivatives",
+      "Equity Analysis"
+    ],
+    "description": "Professional certification in sas compliance certificate offered by SAS. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 857,
+    "created_at": "2025-09-11T18:32:31.494883",
+    "updated_at": "2025-09-11T18:32:31.494885"
+  },
+  {
+    "id": 986,
+    "slug": "frm-operations-certificate",
+    "name": "FRM Operations Certificate",
+    "issuer": "FRM",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 1126,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 550,
+    "job_postings": 20,
+    "salary": {
+      "min": 72843,
+      "max": 208125,
+      "avg": 124875
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Portfolio Management",
+      "Equity Analysis",
+      "Financial Analysis",
+      "Fixed Income",
+      "Financial Modeling",
+      "Investment Management",
+      "Risk Assessment",
+      "Derivatives"
+    ],
+    "description": "Professional certification in frm operations certificate offered by FRM. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 885,
+    "created_at": "2025-09-11T18:32:31.495660",
+    "updated_at": "2025-09-11T18:32:31.495661"
+  },
+  {
+    "id": 1003,
+    "slug": "investment-risk-professional",
+    "name": "Investment Risk Professional",
+    "issuer": "ACAMS",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 821,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 395,
+    "job_postings": 8,
+    "salary": {
+      "min": 69539,
+      "max": 198683,
+      "avg": 119210
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Financial Analysis",
+      "Derivatives",
+      "Portfolio Management",
+      "Equity Analysis",
+      "Financial Modeling",
+      "Risk Assessment",
+      "Investment Management",
+      "Fixed Income"
+    ],
+    "description": "Professional certification in investment risk professional offered by ACAMS. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 899,
+    "created_at": "2025-09-11T18:32:31.496354",
+    "updated_at": "2025-09-11T18:32:31.496356"
+  },
+  {
+    "id": 1001,
+    "slug": "investment-risk-lead",
+    "name": "Investment Risk Lead",
+    "issuer": "SAS",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 414,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 355,
+    "job_postings": 380,
+    "salary": {
+      "min": 60888,
+      "max": 173966,
+      "avg": 104379
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Equity Analysis",
+      "Risk Assessment",
+      "Portfolio Management",
+      "Fixed Income",
+      "Financial Modeling",
+      "Investment Management"
+    ],
+    "description": "Professional certification in investment risk lead offered by SAS. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 900,
+    "created_at": "2025-09-11T18:32:31.496272",
+    "updated_at": "2025-09-11T18:32:31.496273"
+  },
+  {
+    "id": 991,
+    "slug": "finra-advisory-certificate",
+    "name": "FINRA Advisory Certificate",
+    "issuer": "FINRA",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 215,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 237,
+    "job_postings": 23,
+    "salary": {
+      "min": 75830,
+      "max": 216659,
+      "avg": 129995
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Financial Modeling",
+      "Financial Analysis",
+      "Equity Analysis",
+      "Portfolio Management",
+      "Fixed Income",
+      "Investment Management",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in finra advisory certificate offered by FINRA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 911,
+    "created_at": "2025-09-11T18:32:31.495861",
+    "updated_at": "2025-09-11T18:32:31.495862"
+  },
+  {
+    "id": 1004,
+    "slug": "certified-manager-expert",
+    "name": "Certified Manager Expert",
+    "issuer": "FRM",
+    "domain": "finance",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 627,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 387,
+    "job_postings": 163,
+    "salary": {
+      "min": 71124,
+      "max": 203212,
+      "avg": 121927
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Equity Analysis",
+      "Portfolio Management",
+      "Risk Assessment",
+      "Investment Management"
+    ],
+    "description": "Professional certification in certified manager expert offered by FRM. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 917,
+    "created_at": "2025-09-11T18:32:31.496395",
+    "updated_at": "2025-09-11T18:32:31.496396"
+  },
+  {
+    "id": 965,
+    "slug": "financial-development-diploma",
+    "name": "Financial Development Diploma",
+    "issuer": "FINRA",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 241,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 166,
+    "job_postings": 96,
+    "salary": {
+      "min": 76400,
+      "max": 218285,
+      "avg": 130971
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Portfolio Management",
+      "Derivatives",
+      "Investment Management",
+      "Financial Modeling",
+      "Financial Analysis",
+      "Fixed Income",
+      "Equity Analysis",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in financial development diploma offered by FINRA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 922,
+    "created_at": "2025-09-11T18:32:31.494763",
+    "updated_at": "2025-09-11T18:32:31.494764"
+  },
+  {
+    "id": 983,
+    "slug": "credit-risk-associate",
+    "name": "Credit Risk Associate",
+    "issuer": "Oracle",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 333,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 393,
+    "job_postings": 164,
+    "salary": {
+      "min": 72171,
+      "max": 206204,
+      "avg": 123722
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Fixed Income",
+      "Investment Management",
+      "Risk Assessment",
+      "Portfolio Management",
+      "Derivatives"
+    ],
+    "description": "Professional certification in credit risk associate offered by Oracle. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 951,
+    "created_at": "2025-09-11T18:32:31.495541",
+    "updated_at": "2025-09-11T18:32:31.495542"
+  },
+  {
+    "id": 992,
+    "slug": "credit-risk-associate-1",
+    "name": "Credit Risk Associate",
+    "issuer": "CFA Institute",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 1046,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 488,
+    "job_postings": 43,
+    "salary": {
+      "min": 68548,
+      "max": 195852,
+      "avg": 117511
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Financial Modeling",
+      "Derivatives",
+      "Equity Analysis",
+      "Portfolio Management",
+      "Investment Management",
+      "Fixed Income",
+      "Risk Assessment",
+      "Financial Analysis"
+    ],
+    "description": "Professional certification in credit risk associate offered by CFA Institute. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 979,
+    "created_at": "2025-09-11T18:32:31.495902",
+    "updated_at": "2025-09-11T18:32:31.495903"
+  },
+  {
+    "id": 974,
+    "slug": "financial-development-certification",
+    "name": "Financial Development Certification",
+    "issuer": "Oracle",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 385,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 257,
+    "job_postings": 375,
+    "salary": {
+      "min": 79851,
+      "max": 228146,
+      "avg": 136887
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Equity Analysis",
+      "Derivatives",
+      "Investment Management",
+      "Fixed Income",
+      "Risk Assessment",
+      "Portfolio Management",
+      "Financial Analysis",
+      "Financial Modeling"
+    ],
+    "description": "Professional certification in financial development certification offered by Oracle. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 996,
+    "created_at": "2025-09-11T18:32:31.495123",
+    "updated_at": "2025-09-11T18:32:31.495125"
+  },
+  {
+    "id": 961,
+    "slug": "wealth-risk-lead",
+    "name": "Wealth Risk Lead",
+    "issuer": "IMA",
+    "domain": "finance",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 452,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 106,
+    "job_postings": 40,
+    "salary": {
+      "min": 76050,
+      "max": 217286,
+      "avg": 130371
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Fixed Income",
+      "Risk Assessment",
+      "Derivatives",
+      "Portfolio Management",
+      "Investment Management",
+      "Financial Analysis",
+      "Equity Analysis",
+      "Financial Modeling"
+    ],
+    "description": "Professional certification in wealth risk lead offered by IMA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 1104,
+    "created_at": "2025-09-11T18:32:31.494598",
+    "updated_at": "2025-09-11T18:32:31.494599"
+  },
+  {
+    "id": 989,
+    "slug": "sas-planning-certificate",
+    "name": "SAS Planning Certificate",
+    "issuer": "SAS",
+    "domain": "finance",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 466,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 210,
+    "job_postings": 129,
+    "salary": {
+      "min": 60254,
+      "max": 172155,
+      "avg": 103293
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Financial Modeling",
+      "Derivatives",
+      "Equity Analysis",
+      "Portfolio Management",
+      "Risk Assessment",
+      "Financial Analysis",
+      "Investment Management",
+      "Fixed Income"
+    ],
+    "description": "Professional certification in sas planning certificate offered by SAS. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 1105,
+    "created_at": "2025-09-11T18:32:31.495782",
+    "updated_at": "2025-09-11T18:32:31.495784"
+  },
+  {
+    "id": 994,
+    "slug": "financial-risk-professional",
+    "name": "Financial Risk Professional",
+    "issuer": "CAIA Association",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 1097,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 443,
+    "job_postings": 162,
+    "salary": {
+      "min": 73982,
+      "max": 211378,
+      "avg": 126827
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Derivatives",
+      "Equity Analysis",
+      "Financial Analysis",
+      "Investment Management",
+      "Risk Assessment",
+      "Portfolio Management",
+      "Fixed Income",
+      "Financial Modeling"
+    ],
+    "description": "Professional certification in financial risk professional offered by CAIA Association. Validates expertise in Finance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1119,
+    "created_at": "2025-09-11T18:32:31.495984",
+    "updated_at": "2025-09-11T18:32:31.495985"
+  },
+  {
+    "id": 1005,
+    "slug": "financial-risk-professional-1",
+    "name": "Financial Risk Professional",
+    "issuer": "FRM",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 682,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 166,
+    "job_postings": 385,
+    "salary": {
+      "min": 77571,
+      "max": 221632,
+      "avg": 132979
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Investment Management",
+      "Equity Analysis",
+      "Derivatives",
+      "Portfolio Management",
+      "Financial Modeling"
+    ],
+    "description": "Professional certification in financial risk professional offered by FRM. Validates expertise in Finance and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1137,
+    "created_at": "2025-09-11T18:32:31.496539",
+    "updated_at": "2025-09-11T18:32:31.496547"
+  },
+  {
+    "id": 970,
+    "slug": "financial-architecture-certificate",
+    "name": "Financial Architecture Certificate",
+    "issuer": "CFA Institute",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 1327,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 443,
+    "job_postings": 11,
+    "salary": {
+      "min": 65002,
+      "max": 185721,
+      "avg": 111432
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Risk Assessment",
+      "Portfolio Management",
+      "Equity Analysis",
+      "Financial Modeling",
+      "Derivatives",
+      "Fixed Income",
+      "Financial Analysis",
+      "Investment Management"
+    ],
+    "description": "Professional certification in financial architecture certificate offered by CFA Institute. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1143,
+    "created_at": "2025-09-11T18:32:31.494963",
+    "updated_at": "2025-09-11T18:32:31.494964"
+  },
+  {
+    "id": 988,
+    "slug": "financial-administration-credential",
+    "name": "Financial Administration Credential",
+    "issuer": "CFA Institute",
+    "domain": "finance",
+    "level": "Specialty",
+    "duration": "8 hours",
+    "cost": 1389,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 508,
+    "job_postings": 19,
+    "salary": {
+      "min": 75028,
+      "max": 214367,
+      "avg": 128620
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Equity Analysis",
+      "Investment Management",
+      "Financial Analysis",
+      "Fixed Income",
+      "Portfolio Management",
+      "Derivatives",
+      "Risk Assessment",
+      "Financial Modeling"
+    ],
+    "description": "Professional certification in financial administration credential offered by CFA Institute. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1194,
+    "created_at": "2025-09-11T18:32:31.495743",
+    "updated_at": "2025-09-11T18:32:31.495745"
+  },
+  {
+    "id": 966,
+    "slug": "caia-advisory-certificate",
+    "name": "CAIA Advisory Certificate",
+    "issuer": "CAIA Association",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 676,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 62,
+    "job_postings": 724,
+    "salary": {
+      "min": 68151,
+      "max": 194719,
+      "avg": 116831
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Financial Analysis",
+      "Fixed Income",
+      "Financial Modeling",
+      "Investment Management",
+      "Risk Assessment",
+      "Derivatives",
+      "Equity Analysis",
+      "Portfolio Management"
+    ],
+    "description": "Professional certification in caia advisory certificate offered by CAIA Association. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 1202,
+    "created_at": "2025-09-11T18:32:31.494804",
+    "updated_at": "2025-09-11T18:32:31.494805"
+  },
+  {
+    "id": 1007,
+    "slug": "chartered-banking-associate",
+    "name": "Chartered Banking Associate",
+    "issuer": "ACAMS",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 642,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 214,
+    "job_postings": 41,
+    "salary": {
+      "min": 68262,
+      "max": 195036,
+      "avg": 117021
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Financial Analysis",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Equity Analysis",
+      "Derivatives",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in chartered banking associate offered by ACAMS. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1267,
+    "created_at": "2025-09-11T18:32:31.496631",
+    "updated_at": "2025-09-11T18:32:31.496632"
+  },
+  {
+    "id": 975,
+    "slug": "financial-security-qualification",
+    "name": "Financial Security Qualification",
+    "issuer": "CFA Institute",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 1059,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 315,
+    "job_postings": 5,
+    "salary": {
+      "min": 74096,
+      "max": 211703,
+      "avg": 127022
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Derivatives",
+      "Investment Management",
+      "Equity Analysis",
+      "Financial Analysis",
+      "Financial Modeling",
+      "Risk Assessment",
+      "Fixed Income"
+    ],
+    "description": "Professional certification in financial security qualification offered by CFA Institute. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1270,
+    "created_at": "2025-09-11T18:32:31.495163",
+    "updated_at": "2025-09-11T18:32:31.495164"
+  },
+  {
+    "id": 982,
+    "slug": "certified-advisor-analyst",
+    "name": "Certified Advisor Analyst",
+    "issuer": "CFA Institute",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 1036,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 209,
+    "job_postings": 126,
+    "salary": {
+      "min": 69281,
+      "max": 197946,
+      "avg": 118768
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Financial Modeling",
+      "Fixed Income",
+      "Portfolio Management",
+      "Equity Analysis",
+      "Derivatives",
+      "Financial Analysis",
+      "Investment Management",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in certified advisor analyst offered by CFA Institute. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 1277,
+    "created_at": "2025-09-11T18:32:31.495439",
+    "updated_at": "2025-09-11T18:32:31.495440"
+  },
+  {
+    "id": 990,
+    "slug": "certified-analyst-consultant",
+    "name": "Certified Analyst Consultant",
+    "issuer": "CFA Institute",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 1395,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 338,
+    "job_postings": 414,
+    "salary": {
+      "min": 76605,
+      "max": 218872,
+      "avg": 131323
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Risk Assessment",
+      "Financial Analysis",
+      "Portfolio Management",
+      "Derivatives",
+      "Investment Management",
+      "Fixed Income"
+    ],
+    "description": "Professional certification in certified analyst consultant offered by CFA Institute. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1284,
+    "created_at": "2025-09-11T18:32:31.495822",
+    "updated_at": "2025-09-11T18:32:31.495824"
+  },
+  {
+    "id": 995,
+    "slug": "acams-planning-certificate",
+    "name": "ACAMS Planning Certificate",
+    "issuer": "ACAMS",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 430,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 170,
+    "job_postings": 109,
+    "salary": {
+      "min": 67660,
+      "max": 193316,
+      "avg": 115989
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Portfolio Management",
+      "Fixed Income",
+      "Financial Analysis",
+      "Equity Analysis",
+      "Investment Management",
+      "Financial Modeling"
+    ],
+    "description": "Professional certification in acams planning certificate offered by ACAMS. Validates expertise in Finance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "ranking": 1303,
+    "created_at": "2025-09-11T18:32:31.496025",
+    "updated_at": "2025-09-11T18:32:31.496026"
+  },
+  {
+    "id": 978,
+    "slug": "frm-management-certificate",
+    "name": "FRM Management Certificate",
+    "issuer": "FRM",
+    "domain": "finance",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 846,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 179,
+    "job_postings": 48,
+    "salary": {
+      "min": 64132,
+      "max": 183234,
+      "avg": 109940
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Equity Analysis",
+      "Portfolio Management",
+      "Financial Analysis",
+      "Derivatives",
+      "Risk Assessment",
+      "Fixed Income",
+      "Investment Management",
+      "Financial Modeling"
+    ],
+    "description": "Professional certification in frm management certificate offered by FRM. Validates expertise in Finance and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 1312,
+    "created_at": "2025-09-11T18:32:31.495278",
+    "updated_at": "2025-09-11T18:32:31.495279"
+  },
+  {
+    "id": 998,
+    "slug": "ima-advisory-certificate",
+    "name": "IMA Advisory Certificate",
+    "issuer": "IMA",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 800,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 150,
+    "job_postings": 166,
+    "salary": {
+      "min": 60501,
+      "max": 172860,
+      "avg": 103716
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Equity Analysis",
+      "Financial Analysis",
+      "Investment Management",
+      "Fixed Income",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Derivatives"
+    ],
+    "description": "Professional certification in ima advisory certificate offered by IMA. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1346,
+    "created_at": "2025-09-11T18:32:31.496150",
+    "updated_at": "2025-09-11T18:32:31.496151"
+  },
+  {
+    "id": 1008,
+    "slug": "caia-operations-certificate",
+    "name": "CAIA Operations Certificate",
+    "issuer": "CAIA Association",
+    "domain": "finance",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 975,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 180,
+    "job_postings": 148,
+    "salary": {
+      "min": 64301,
+      "max": 183719,
+      "avg": 110231
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Equity Analysis",
+      "Derivatives",
+      "Fixed Income",
+      "Financial Modeling"
+    ],
+    "description": "Professional certification in caia operations certificate offered by CAIA Association. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1366,
+    "created_at": "2025-09-11T18:32:31.496676",
+    "updated_at": "2025-09-11T18:32:31.496677"
+  },
+  {
+    "id": 969,
+    "slug": "caia-management-certificate",
+    "name": "CAIA Management Certificate",
+    "issuer": "CAIA Association",
+    "domain": "finance",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 1233,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 99,
+    "job_postings": 60,
+    "salary": {
+      "min": 76187,
+      "max": 217677,
+      "avg": 130606
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Risk Assessment",
+      "Financial Modeling",
+      "Fixed Income",
+      "Derivatives",
+      "Portfolio Management"
+    ],
+    "description": "Professional certification in caia management certificate offered by CAIA Association. Validates expertise in Finance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 1369,
+    "created_at": "2025-09-11T18:32:31.494922",
+    "updated_at": "2025-09-11T18:32:31.494923"
+  }
+]

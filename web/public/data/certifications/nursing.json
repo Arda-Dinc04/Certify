@@ -1,0 +1,1517 @@
+[
+  {
+    "id": 1141,
+    "slug": "psychiatric-nursing-certification-1",
+    "name": "Psychiatric Nursing Certification",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 325,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 790,
+    "job_postings": 1999,
+    "salary": {
+      "min": 56227,
+      "max": 112455,
+      "avg": 79655
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Patient Education",
+      "Medication Administration",
+      "Care Planning",
+      "Emergency Response",
+      "Patient Assessment",
+      "Clinical Skills",
+      "IV Therapy"
+    ],
+    "description": "Professional certification in psychiatric nursing certification offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 2,
+    "created_at": "2025-09-11T18:32:31.502099",
+    "updated_at": "2025-09-11T18:32:31.502100"
+  },
+  {
+    "id": 1160,
+    "slug": "cardiac-specialist",
+    "name": "Cardiac Specialist",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 345,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 765,
+    "job_postings": 706,
+    "salary": {
+      "min": 59508,
+      "max": 119016,
+      "avg": 84303
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Patient Assessment",
+      "Care Planning",
+      "Emergency Response",
+      "IV Therapy",
+      "Medication Administration"
+    ],
+    "description": "Professional certification in cardiac specialist offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 46,
+    "created_at": "2025-09-11T18:32:31.502847",
+    "updated_at": "2025-09-11T18:32:31.502848"
+  },
+  {
+    "id": 1137,
+    "slug": "cardiac-practitioner",
+    "name": "Cardiac Practitioner",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 384,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 763,
+    "job_postings": 184,
+    "salary": {
+      "min": 61196,
+      "max": 122392,
+      "avg": 86694
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "IV Therapy",
+      "Patient Education",
+      "Patient Assessment",
+      "Emergency Response",
+      "Medication Administration",
+      "Clinical Skills"
+    ],
+    "description": "Professional certification in cardiac practitioner offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 74,
+    "created_at": "2025-09-11T18:32:31.501939",
+    "updated_at": "2025-09-11T18:32:31.501940"
+  },
+  {
+    "id": 1136,
+    "slug": "registered-charge-nurse",
+    "name": "Registered Charge Nurse",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 325,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 797,
+    "job_postings": 156,
+    "salary": {
+      "min": 64706,
+      "max": 129413,
+      "avg": 91668
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Care Planning",
+      "Patient Education",
+      "Medication Administration",
+      "Patient Assessment",
+      "Emergency Response",
+      "IV Therapy",
+      "Clinical Skills"
+    ],
+    "description": "Professional certification in registered charge nurse offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 88,
+    "created_at": "2025-09-11T18:32:31.501900",
+    "updated_at": "2025-09-11T18:32:31.501901"
+  },
+  {
+    "id": 1130,
+    "slug": "certified-pediatric-expert",
+    "name": "Certified Pediatric Expert",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 429,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 790,
+    "job_postings": 42,
+    "salary": {
+      "min": 67735,
+      "max": 135471,
+      "avg": 95959
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "IV Therapy",
+      "Emergency Response",
+      "Patient Education",
+      "Medication Administration",
+      "Clinical Skills"
+    ],
+    "description": "Professional certification in certified pediatric expert offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 91,
+    "created_at": "2025-09-11T18:32:31.501659",
+    "updated_at": "2025-09-11T18:32:31.501661"
+  },
+  {
+    "id": 1154,
+    "slug": "certified-icu-advanced",
+    "name": "Certified ICU Advanced",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 267,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 790,
+    "job_postings": 22,
+    "salary": {
+      "min": 55747,
+      "max": 111495,
+      "avg": 78975
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Patient Assessment",
+      "Medication Administration",
+      "IV Therapy",
+      "Clinical Skills",
+      "Care Planning",
+      "Patient Education"
+    ],
+    "description": "Professional certification in certified icu advanced offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 116,
+    "created_at": "2025-09-11T18:32:31.502608",
+    "updated_at": "2025-09-11T18:32:31.502609"
+  },
+  {
+    "id": 1132,
+    "slug": "critical-care-nursing-certification",
+    "name": "Critical Care Nursing Certification",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 349,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 632,
+    "job_postings": 198,
+    "salary": {
+      "min": 56839,
+      "max": 113679,
+      "avg": 80523
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Care Planning",
+      "Medication Administration",
+      "IV Therapy",
+      "Patient Education",
+      "Patient Assessment",
+      "Clinical Skills",
+      "Emergency Response"
+    ],
+    "description": "Professional certification in critical care nursing certification offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 191,
+    "created_at": "2025-09-11T18:32:31.501739",
+    "updated_at": "2025-09-11T18:32:31.501740"
+  },
+  {
+    "id": 1142,
+    "slug": "registered-charge-nurse-1",
+    "name": "Registered Charge Nurse",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 444,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 680,
+    "job_postings": 9,
+    "salary": {
+      "min": 66961,
+      "max": 133923,
+      "avg": 94862
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Patient Education",
+      "Care Planning",
+      "Medication Administration",
+      "IV Therapy",
+      "Clinical Skills",
+      "Patient Assessment",
+      "Emergency Response"
+    ],
+    "description": "Professional certification in registered charge nurse offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "French"
+    ],
+    "ranking": 199,
+    "created_at": "2025-09-11T18:32:31.502140",
+    "updated_at": "2025-09-11T18:32:31.502141"
+  },
+  {
+    "id": 1139,
+    "slug": "ancc-administrative-certificate",
+    "name": "ANCC Administrative Certificate",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 441,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 665,
+    "job_postings": 406,
+    "salary": {
+      "min": 56007,
+      "max": 112015,
+      "avg": 79344
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Medication Administration",
+      "Clinical Skills",
+      "Care Planning",
+      "Patient Assessment",
+      "Patient Education",
+      "Emergency Response",
+      "IV Therapy"
+    ],
+    "description": "Professional certification in ancc administrative certificate offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 211,
+    "created_at": "2025-09-11T18:32:31.502020",
+    "updated_at": "2025-09-11T18:32:31.502021"
+  },
+  {
+    "id": 1140,
+    "slug": "certified-emergency-senior",
+    "name": "Certified Emergency Senior",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 378,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 600,
+    "job_postings": 64,
+    "salary": {
+      "min": 61549,
+      "max": 123099,
+      "avg": 87195
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Emergency Response",
+      "IV Therapy",
+      "Care Planning",
+      "Medication Administration",
+      "Clinical Skills",
+      "Patient Assessment",
+      "Patient Education"
+    ],
+    "description": "Professional certification in certified emergency senior offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 290,
+    "created_at": "2025-09-11T18:32:31.502059",
+    "updated_at": "2025-09-11T18:32:31.502060"
+  },
+  {
+    "id": 1148,
+    "slug": "registered-clinical-nurse",
+    "name": "Registered Clinical Nurse",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 245,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 691,
+    "job_postings": 139,
+    "salary": {
+      "min": 52411,
+      "max": 104823,
+      "avg": 74249
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Care Planning",
+      "Patient Education",
+      "IV Therapy",
+      "Medication Administration",
+      "Clinical Skills",
+      "Patient Assessment",
+      "Emergency Response"
+    ],
+    "description": "Professional certification in registered clinical nurse offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 303,
+    "created_at": "2025-09-11T18:32:31.502373",
+    "updated_at": "2025-09-11T18:32:31.502374"
+  },
+  {
+    "id": 1131,
+    "slug": "certified-cardiac-professional",
+    "name": "Certified Cardiac Professional",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 261,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 559,
+    "job_postings": 319,
+    "salary": {
+      "min": 61004,
+      "max": 122008,
+      "avg": 86422
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Medication Administration",
+      "Patient Assessment",
+      "IV Therapy",
+      "Emergency Response",
+      "Care Planning",
+      "Patient Education",
+      "Clinical Skills"
+    ],
+    "description": "Professional certification in certified cardiac professional offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 307,
+    "created_at": "2025-09-11T18:32:31.501699",
+    "updated_at": "2025-09-11T18:32:31.501700"
+  },
+  {
+    "id": 1157,
+    "slug": "registered-nurse-4",
+    "name": "Registered Nurse",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 412,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 724,
+    "job_postings": 8,
+    "salary": {
+      "min": 59209,
+      "max": 118419,
+      "avg": 83880
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "IV Therapy",
+      "Care Planning",
+      "Clinical Skills",
+      "Emergency Response",
+      "Patient Assessment",
+      "Medication Administration"
+    ],
+    "description": "Professional certification in registered nurse offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 396,
+    "created_at": "2025-09-11T18:32:31.502728",
+    "updated_at": "2025-09-11T18:32:31.502730"
+  },
+  {
+    "id": 1144,
+    "slug": "icu-specialist",
+    "name": "ICU Specialist",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 320,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 463,
+    "job_postings": 795,
+    "salary": {
+      "min": 58845,
+      "max": 117690,
+      "avg": 83363
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "IV Therapy",
+      "Clinical Skills",
+      "Care Planning",
+      "Medication Administration",
+      "Patient Education",
+      "Patient Assessment"
+    ],
+    "description": "Professional certification in icu specialist offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 442,
+    "created_at": "2025-09-11T18:32:31.502217",
+    "updated_at": "2025-09-11T18:32:31.502218"
+  },
+  {
+    "id": 1158,
+    "slug": "emergency-specialist-1",
+    "name": "Emergency Specialist",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 558,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 691,
+    "job_postings": 194,
+    "salary": {
+      "min": 51094,
+      "max": 102188,
+      "avg": 72383
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Medication Administration",
+      "Emergency Response",
+      "Patient Assessment",
+      "Clinical Skills",
+      "Patient Education"
+    ],
+    "description": "Professional certification in emergency specialist offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "German",
+      "French"
+    ],
+    "ranking": 500,
+    "created_at": "2025-09-11T18:32:31.502769",
+    "updated_at": "2025-09-11T18:32:31.502770"
+  },
+  {
+    "id": 1133,
+    "slug": "aacn-education-certificate",
+    "name": "AACN Education Certificate",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 365,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 553,
+    "job_postings": 35,
+    "salary": {
+      "min": 51567,
+      "max": 103134,
+      "avg": 73053
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "IV Therapy",
+      "Medication Administration",
+      "Emergency Response",
+      "Patient Education",
+      "Care Planning",
+      "Clinical Skills",
+      "Patient Assessment"
+    ],
+    "description": "Professional certification in aacn education certificate offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 503,
+    "created_at": "2025-09-11T18:32:31.501779",
+    "updated_at": "2025-09-11T18:32:31.501780"
+  },
+  {
+    "id": 1149,
+    "slug": "certified-critical-care-senior-1",
+    "name": "Certified Critical Care Senior",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 451,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 660,
+    "job_postings": 94,
+    "salary": {
+      "min": 59325,
+      "max": 118650,
+      "avg": 84044
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Patient Assessment",
+      "Clinical Skills",
+      "Medication Administration",
+      "Care Planning",
+      "IV Therapy",
+      "Patient Education",
+      "Emergency Response"
+    ],
+    "description": "Professional certification in certified critical care senior offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 526,
+    "created_at": "2025-09-11T18:32:31.502413",
+    "updated_at": "2025-09-11T18:32:31.502414"
+  },
+  {
+    "id": 1143,
+    "slug": "certified-emergency-expert",
+    "name": "Certified Emergency Expert",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 350,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 571,
+    "job_postings": 42,
+    "salary": {
+      "min": 58718,
+      "max": 117436,
+      "avg": 83184
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "IV Therapy",
+      "Care Planning",
+      "Patient Assessment",
+      "Medication Administration",
+      "Emergency Response",
+      "Clinical Skills",
+      "Patient Education"
+    ],
+    "description": "Professional certification in certified emergency expert offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 558,
+    "created_at": "2025-09-11T18:32:31.502179",
+    "updated_at": "2025-09-11T18:32:31.502180"
+  },
+  {
+    "id": 1145,
+    "slug": "aacn-education-certificate-1",
+    "name": "AACN Education Certificate",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Specialty",
+    "duration": "1 weeks",
+    "cost": 296,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 546,
+    "job_postings": 44,
+    "salary": {
+      "min": 51604,
+      "max": 103208,
+      "avg": 73105
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Emergency Response",
+      "Clinical Skills",
+      "IV Therapy",
+      "Care Planning",
+      "Patient Assessment",
+      "Patient Education"
+    ],
+    "description": "Professional certification in aacn education certificate offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 585,
+    "created_at": "2025-09-11T18:32:31.502257",
+    "updated_at": "2025-09-11T18:32:31.502259"
+  },
+  {
+    "id": 1134,
+    "slug": "psychiatric-nursing-certification",
+    "name": "Psychiatric Nursing Certification",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Foundational",
+    "duration": "3 weeks",
+    "cost": 315,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 433,
+    "job_postings": 7,
+    "salary": {
+      "min": 59741,
+      "max": 119482,
+      "avg": 84633
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Care Planning",
+      "Emergency Response",
+      "Clinical Skills",
+      "Medication Administration",
+      "Patient Education",
+      "IV Therapy"
+    ],
+    "description": "Professional certification in psychiatric nursing certification offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 704,
+    "created_at": "2025-09-11T18:32:31.501818",
+    "updated_at": "2025-09-11T18:32:31.501820"
+  },
+  {
+    "id": 1156,
+    "slug": "certified-oncology-foundational",
+    "name": "Certified Oncology Foundational",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 442,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 468,
+    "job_postings": 48,
+    "salary": {
+      "min": 54871,
+      "max": 109743,
+      "avg": 77734
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Patient Education",
+      "IV Therapy",
+      "Care Planning",
+      "Medication Administration"
+    ],
+    "description": "Professional certification in certified oncology foundational offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 743,
+    "created_at": "2025-09-11T18:32:31.502690",
+    "updated_at": "2025-09-11T18:32:31.502691"
+  },
+  {
+    "id": 1147,
+    "slug": "registered-nurse-3",
+    "name": "Registered Nurse",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 486,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 359,
+    "job_postings": 402,
+    "salary": {
+      "min": 59944,
+      "max": 119888,
+      "avg": 84921
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Care Planning",
+      "Clinical Skills",
+      "Medication Administration",
+      "Emergency Response",
+      "IV Therapy",
+      "Patient Education",
+      "Patient Assessment"
+    ],
+    "description": "Professional certification in registered nurse offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 749,
+    "created_at": "2025-09-11T18:32:31.502334",
+    "updated_at": "2025-09-11T18:32:31.502335"
+  },
+  {
+    "id": 1129,
+    "slug": "registered-nurse-2",
+    "name": "Registered Nurse",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 488,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 444,
+    "job_postings": 10,
+    "salary": {
+      "min": 68813,
+      "max": 137626,
+      "avg": 97485
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Medication Administration",
+      "IV Therapy",
+      "Care Planning",
+      "Patient Education",
+      "Clinical Skills",
+      "Patient Assessment",
+      "Emergency Response"
+    ],
+    "description": "Professional certification in registered nurse offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 759,
+    "created_at": "2025-09-11T18:32:31.501620",
+    "updated_at": "2025-09-11T18:32:31.501621"
+  },
+  {
+    "id": 1135,
+    "slug": "certified-pediatric-professional",
+    "name": "Certified Pediatric Professional",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 284,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 230,
+    "job_postings": 676,
+    "salary": {
+      "min": 55968,
+      "max": 111937,
+      "avg": 79288
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "IV Therapy",
+      "Patient Assessment",
+      "Emergency Response",
+      "Patient Education",
+      "Medication Administration",
+      "Clinical Skills",
+      "Care Planning"
+    ],
+    "description": "Professional certification in certified pediatric professional offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 810,
+    "created_at": "2025-09-11T18:32:31.501858",
+    "updated_at": "2025-09-11T18:32:31.501860"
+  },
+  {
+    "id": 1161,
+    "slug": "ancc-research-certificate",
+    "name": "ANCC Research Certificate",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 489,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 330,
+    "job_postings": 266,
+    "salary": {
+      "min": 66216,
+      "max": 132433,
+      "avg": 93807
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Emergency Response",
+      "Patient Education",
+      "Patient Assessment",
+      "Medication Administration"
+    ],
+    "description": "Professional certification in ancc research certificate offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 811,
+    "created_at": "2025-09-11T18:32:31.502886",
+    "updated_at": "2025-09-11T18:32:31.502888"
+  },
+  {
+    "id": 1153,
+    "slug": "certified-critical-care-expert",
+    "name": "Certified Critical Care Expert",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 405,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 268,
+    "job_postings": 401,
+    "salary": {
+      "min": 59725,
+      "max": 119451,
+      "avg": 84611
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Patient Assessment",
+      "Clinical Skills",
+      "Emergency Response",
+      "Care Planning",
+      "Medication Administration",
+      "IV Therapy"
+    ],
+    "description": "Professional certification in certified critical care expert offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 873,
+    "created_at": "2025-09-11T18:32:31.502570",
+    "updated_at": "2025-09-11T18:32:31.502571"
+  },
+  {
+    "id": 1152,
+    "slug": "oncology-expert",
+    "name": "Oncology Expert",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 551,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 255,
+    "job_postings": 139,
+    "salary": {
+      "min": 64186,
+      "max": 128372,
+      "avg": 90930
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Medication Administration",
+      "Care Planning",
+      "IV Therapy",
+      "Emergency Response",
+      "Clinical Skills",
+      "Patient Education",
+      "Patient Assessment"
+    ],
+    "description": "Professional certification in oncology expert offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 910,
+    "created_at": "2025-09-11T18:32:31.502529",
+    "updated_at": "2025-09-11T18:32:31.502530"
+  },
+  {
+    "id": 1159,
+    "slug": "pediatric-nursing-certification",
+    "name": "Pediatric Nursing Certification",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 383,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 225,
+    "job_postings": 16,
+    "salary": {
+      "min": 66524,
+      "max": 133049,
+      "avg": 94243
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Medication Administration",
+      "Patient Education",
+      "IV Therapy",
+      "Patient Assessment",
+      "Clinical Skills",
+      "Care Planning"
+    ],
+    "description": "Professional certification in pediatric nursing certification offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 1003,
+    "created_at": "2025-09-11T18:32:31.502808",
+    "updated_at": "2025-09-11T18:32:31.502809"
+  },
+  {
+    "id": 1162,
+    "slug": "registered-charge-nurse-2",
+    "name": "Registered Charge Nurse",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 476,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 295,
+    "job_postings": 188,
+    "salary": {
+      "min": 67855,
+      "max": 135711,
+      "avg": 96129
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Patient Assessment",
+      "Medication Administration",
+      "Care Planning",
+      "IV Therapy",
+      "Emergency Response",
+      "Clinical Skills",
+      "Patient Education"
+    ],
+    "description": "Professional certification in registered charge nurse offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 1040,
+    "created_at": "2025-09-11T18:32:31.502927",
+    "updated_at": "2025-09-11T18:32:31.502928"
+  },
+  {
+    "id": 1138,
+    "slug": "critical-care-nursing-certification-1",
+    "name": "Critical Care Nursing Certification",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 419,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 97,
+    "job_postings": 715,
+    "salary": {
+      "min": 66296,
+      "max": 132592,
+      "avg": 93919
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Medication Administration",
+      "Patient Assessment",
+      "Clinical Skills",
+      "IV Therapy",
+      "Care Planning",
+      "Patient Education"
+    ],
+    "description": "Professional certification in critical care nursing certification offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1097,
+    "created_at": "2025-09-11T18:32:31.501979",
+    "updated_at": "2025-09-11T18:32:31.501980"
+  },
+  {
+    "id": 1155,
+    "slug": "critical-care-administrator",
+    "name": "Critical Care Administrator",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 418,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 183,
+    "job_postings": 733,
+    "salary": {
+      "min": 64677,
+      "max": 129354,
+      "avg": 91625
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Patient Assessment",
+      "Medication Administration",
+      "Emergency Response",
+      "IV Therapy",
+      "Care Planning",
+      "Clinical Skills",
+      "Patient Education"
+    ],
+    "description": "Professional certification in critical care administrator offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1127,
+    "created_at": "2025-09-11T18:32:31.502651",
+    "updated_at": "2025-09-11T18:32:31.502652"
+  },
+  {
+    "id": 1151,
+    "slug": "psychiatric-nursing-certification-2",
+    "name": "Psychiatric Nursing Certification",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 466,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 266,
+    "job_postings": 41,
+    "salary": {
+      "min": 67318,
+      "max": 134636,
+      "avg": 95367
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Medication Administration",
+      "Emergency Response",
+      "IV Therapy",
+      "Clinical Skills",
+      "Patient Assessment",
+      "Care Planning",
+      "Patient Education"
+    ],
+    "description": "Professional certification in psychiatric nursing certification offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1130,
+    "created_at": "2025-09-11T18:32:31.502491",
+    "updated_at": "2025-09-11T18:32:31.502492"
+  },
+  {
+    "id": 1164,
+    "slug": "critical-care-consultant",
+    "name": "Critical Care Consultant",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 388,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 146,
+    "job_postings": 105,
+    "salary": {
+      "min": 56056,
+      "max": 112113,
+      "avg": 79413
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Clinical Skills",
+      "Emergency Response",
+      "IV Therapy",
+      "Medication Administration",
+      "Care Planning",
+      "Patient Assessment",
+      "Patient Education"
+    ],
+    "description": "Professional certification in critical care consultant offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1138,
+    "created_at": "2025-09-11T18:32:31.503006",
+    "updated_at": "2025-09-11T18:32:31.503008"
+  },
+  {
+    "id": 1150,
+    "slug": "emergency-nursing-certification",
+    "name": "Emergency Nursing Certification",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 485,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 86,
+    "job_postings": 16,
+    "salary": {
+      "min": 65946,
+      "max": 131893,
+      "avg": 93424
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Emergency Response",
+      "Care Planning",
+      "Clinical Skills",
+      "IV Therapy",
+      "Patient Assessment",
+      "Medication Administration",
+      "Patient Education"
+    ],
+    "description": "Professional certification in emergency nursing certification offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1215,
+    "created_at": "2025-09-11T18:32:31.502452",
+    "updated_at": "2025-09-11T18:32:31.502453"
+  },
+  {
+    "id": 1163,
+    "slug": "certified-critical-care-expert-1",
+    "name": "Certified Critical Care Expert",
+    "issuer": "ANCC",
+    "domain": "nursing",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 248,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 20,
+    "job_postings": 27,
+    "salary": {
+      "min": 65810,
+      "max": 131621,
+      "avg": 93231
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Care Planning",
+      "Medication Administration",
+      "IV Therapy",
+      "Clinical Skills",
+      "Emergency Response",
+      "Patient Education"
+    ],
+    "description": "Professional certification in certified critical care expert offered by ANCC. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1238,
+    "created_at": "2025-09-11T18:32:31.502967",
+    "updated_at": "2025-09-11T18:32:31.502968"
+  },
+  {
+    "id": 1146,
+    "slug": "emergency-specialist",
+    "name": "Emergency Specialist",
+    "issuer": "AACN",
+    "domain": "nursing",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 484,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 172,
+    "job_postings": 109,
+    "salary": {
+      "min": 62300,
+      "max": 124600,
+      "avg": 88258
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Clinical Skills",
+      "IV Therapy",
+      "Medication Administration",
+      "Emergency Response",
+      "Patient Education",
+      "Patient Assessment",
+      "Care Planning"
+    ],
+    "description": "Professional certification in emergency specialist offered by AACN. Validates expertise in Nursing and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1249,
+    "created_at": "2025-09-11T18:32:31.502295",
+    "updated_at": "2025-09-11T18:32:31.502297"
+  }
+]

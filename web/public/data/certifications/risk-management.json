@@ -1,0 +1,1031 @@
+[
+  {
+    "id": 1058,
+    "slug": "certified-credit-risk-consultant",
+    "name": "Certified Credit Risk Consultant",
+    "issuer": "COSO",
+    "domain": "risk-management",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 353,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 686,
+    "job_postings": 449,
+    "salary": {
+      "min": 69748,
+      "max": 156935,
+      "avg": 100264
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Analytics",
+      "Regulatory Compliance",
+      "Basel III",
+      "Operational Risk",
+      "Risk Modeling",
+      "Market Risk",
+      "Credit Risk",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in certified credit risk consultant offered by COSO. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 87,
+    "created_at": "2025-09-11T18:32:31.498749",
+    "updated_at": "2025-09-11T18:32:31.498750"
+  },
+  {
+    "id": 1056,
+    "slug": "coso-architecture-certificate",
+    "name": "COSO Architecture Certificate",
+    "issuer": "FRM",
+    "domain": "risk-management",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 598,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 702,
+    "job_postings": 18,
+    "salary": {
+      "min": 91288,
+      "max": 205399,
+      "avg": 131227
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Risk Modeling",
+      "Operational Risk",
+      "Market Risk",
+      "Risk Assessment",
+      "Credit Risk",
+      "Risk Analytics",
+      "Basel III"
+    ],
+    "description": "Professional certification in coso architecture certificate offered by FRM. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 292,
+    "created_at": "2025-09-11T18:32:31.498665",
+    "updated_at": "2025-09-11T18:32:31.498667"
+  },
+  {
+    "id": 1046,
+    "slug": "coso-risk-administration-professional",
+    "name": "COSO Risk Administration Professional",
+    "issuer": "COSO",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 476,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 610,
+    "job_postings": 689,
+    "salary": {
+      "min": 82487,
+      "max": 185597,
+      "avg": 118576
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Operational Risk",
+      "Market Risk",
+      "Credit Risk",
+      "Regulatory Compliance",
+      "Risk Analytics",
+      "Risk Modeling"
+    ],
+    "description": "Professional certification in coso risk administration professional offered by COSO. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 364,
+    "created_at": "2025-09-11T18:32:31.498253",
+    "updated_at": "2025-09-11T18:32:31.498255"
+  },
+  {
+    "id": 1065,
+    "slug": "cyber-risk-management-certification-2",
+    "name": "Cyber Risk Management Certification",
+    "issuer": "COSO",
+    "domain": "risk-management",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 390,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 525,
+    "job_postings": 13,
+    "salary": {
+      "min": 85688,
+      "max": 192798,
+      "avg": 123177
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Modeling",
+      "Risk Analytics",
+      "Operational Risk",
+      "Credit Risk",
+      "Market Risk",
+      "Risk Assessment",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in cyber risk management certification offered by COSO. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 464,
+    "created_at": "2025-09-11T18:32:31.499029",
+    "updated_at": "2025-09-11T18:32:31.499030"
+  },
+  {
+    "id": 1062,
+    "slug": "coso-risk-management-senior",
+    "name": "COSO Risk Management Senior",
+    "issuer": "COSO",
+    "domain": "risk-management",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 577,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 573,
+    "job_postings": 5,
+    "salary": {
+      "min": 68830,
+      "max": 154867,
+      "avg": 98943
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Market Risk",
+      "Risk Assessment",
+      "Risk Modeling",
+      "Operational Risk",
+      "Risk Analytics"
+    ],
+    "description": "Professional certification in coso risk management senior offered by COSO. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 473,
+    "created_at": "2025-09-11T18:32:31.498910",
+    "updated_at": "2025-09-11T18:32:31.498911"
+  },
+  {
+    "id": 1049,
+    "slug": "cyber-risk-management-certification",
+    "name": "Cyber Risk Management Certification",
+    "issuer": "GARP",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 724,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 674,
+    "job_postings": 15,
+    "salary": {
+      "min": 78957,
+      "max": 177653,
+      "avg": 113500
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Market Risk",
+      "Risk Analytics",
+      "Risk Modeling",
+      "Risk Assessment",
+      "Basel III",
+      "Operational Risk",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in cyber risk management certification offered by GARP. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 481,
+    "created_at": "2025-09-11T18:32:31.498378",
+    "updated_at": "2025-09-11T18:32:31.498379"
+  },
+  {
+    "id": 1050,
+    "slug": "enterprise-risk-management-certification",
+    "name": "Enterprise Risk Management Certification",
+    "issuer": "FRM",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 932,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 723,
+    "job_postings": 43,
+    "salary": {
+      "min": 72530,
+      "max": 163194,
+      "avg": 104263
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Operational Risk",
+      "Regulatory Compliance",
+      "Credit Risk",
+      "Market Risk",
+      "Basel III",
+      "Risk Analytics"
+    ],
+    "description": "Professional certification in enterprise risk management certification offered by FRM. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 516,
+    "created_at": "2025-09-11T18:32:31.498418",
+    "updated_at": "2025-09-11T18:32:31.498419"
+  },
+  {
+    "id": 1063,
+    "slug": "financial-risk-administration-associate",
+    "name": "Financial Risk Administration Associate",
+    "issuer": "FRM",
+    "domain": "risk-management",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 1130,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 570,
+    "job_postings": 362,
+    "salary": {
+      "min": 78807,
+      "max": 177316,
+      "avg": 113285
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Risk Modeling",
+      "Market Risk",
+      "Basel III",
+      "Risk Assessment",
+      "Regulatory Compliance",
+      "Risk Analytics",
+      "Operational Risk"
+    ],
+    "description": "Professional certification in financial risk administration associate offered by FRM. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 520,
+    "created_at": "2025-09-11T18:32:31.498949",
+    "updated_at": "2025-09-11T18:32:31.498951"
+  },
+  {
+    "id": 1066,
+    "slug": "nist-development-certificate",
+    "name": "NIST Development Certificate",
+    "issuer": "FRM",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 1141,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 745,
+    "job_postings": 21,
+    "salary": {
+      "min": 68315,
+      "max": 153708,
+      "avg": 98202
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Credit Risk",
+      "Risk Analytics",
+      "Regulatory Compliance",
+      "Operational Risk",
+      "Risk Assessment",
+      "Risk Modeling"
+    ],
+    "description": "Professional certification in nist development certificate offered by FRM. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "ranking": 525,
+    "created_at": "2025-09-11T18:32:31.499069",
+    "updated_at": "2025-09-11T18:32:31.499071"
+  },
+  {
+    "id": 1048,
+    "slug": "financial-risk-administration-expert",
+    "name": "Financial Risk Administration Expert",
+    "issuer": "COSO",
+    "domain": "risk-management",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 368,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 594,
+    "job_postings": 32,
+    "salary": {
+      "min": 76515,
+      "max": 172160,
+      "avg": 109991
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Modeling",
+      "Risk Analytics",
+      "Operational Risk",
+      "Regulatory Compliance",
+      "Risk Assessment",
+      "Credit Risk"
+    ],
+    "description": "Professional certification in financial risk administration expert offered by COSO. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 534,
+    "created_at": "2025-09-11T18:32:31.498338",
+    "updated_at": "2025-09-11T18:32:31.498339"
+  },
+  {
+    "id": 1053,
+    "slug": "certified-compliance-professional",
+    "name": "Certified Compliance Professional",
+    "issuer": "GARP",
+    "domain": "risk-management",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 734,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 579,
+    "job_postings": 35,
+    "salary": {
+      "min": 78781,
+      "max": 177259,
+      "avg": 113249
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Credit Risk",
+      "Market Risk",
+      "Risk Analytics",
+      "Operational Risk",
+      "Basel III",
+      "Risk Assessment",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in certified compliance professional offered by GARP. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 657,
+    "created_at": "2025-09-11T18:32:31.498541",
+    "updated_at": "2025-09-11T18:32:31.498542"
+  },
+  {
+    "id": 1059,
+    "slug": "fair-security-certificate",
+    "name": "FAIR Security Certificate",
+    "issuer": "GARP",
+    "domain": "risk-management",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 779,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 617,
+    "job_postings": 31,
+    "salary": {
+      "min": 87190,
+      "max": 196179,
+      "avg": 125336
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Risk Modeling",
+      "Market Risk",
+      "Risk Analytics",
+      "Risk Assessment",
+      "Credit Risk",
+      "Operational Risk"
+    ],
+    "description": "Professional certification in fair security certificate offered by GARP. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 685,
+    "created_at": "2025-09-11T18:32:31.498789",
+    "updated_at": "2025-09-11T18:32:31.498790"
+  },
+  {
+    "id": 1045,
+    "slug": "financial-risk-architecture-lead",
+    "name": "Financial Risk Architecture Lead",
+    "issuer": "GARP",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 625,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 514,
+    "job_postings": 7,
+    "salary": {
+      "min": 84763,
+      "max": 190718,
+      "avg": 121847
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Risk Modeling",
+      "Basel III",
+      "Market Risk",
+      "Risk Analytics",
+      "Operational Risk",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in financial risk architecture lead offered by GARP. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 780,
+    "created_at": "2025-09-11T18:32:31.498211",
+    "updated_at": "2025-09-11T18:32:31.498212"
+  },
+  {
+    "id": 1051,
+    "slug": "nist-security-certificate",
+    "name": "NIST Security Certificate",
+    "issuer": "COSO",
+    "domain": "risk-management",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 474,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 429,
+    "job_postings": 86,
+    "salary": {
+      "min": 69698,
+      "max": 156821,
+      "avg": 100191
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Operational Risk",
+      "Risk Modeling",
+      "Regulatory Compliance",
+      "Market Risk",
+      "Risk Analytics",
+      "Credit Risk",
+      "Risk Assessment",
+      "Basel III"
+    ],
+    "description": "Professional certification in nist security certificate offered by COSO. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 798,
+    "created_at": "2025-09-11T18:32:31.498461",
+    "updated_at": "2025-09-11T18:32:31.498462"
+  },
+  {
+    "id": 1067,
+    "slug": "garp-risk-strategy-associate",
+    "name": "GARP Risk Strategy Associate",
+    "issuer": "GARP",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 946,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 408,
+    "job_postings": 303,
+    "salary": {
+      "min": 77653,
+      "max": 174720,
+      "avg": 111626
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Analytics",
+      "Operational Risk",
+      "Regulatory Compliance",
+      "Risk Assessment",
+      "Basel III",
+      "Market Risk",
+      "Risk Modeling",
+      "Credit Risk"
+    ],
+    "description": "Professional certification in garp risk strategy associate offered by GARP. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 828,
+    "created_at": "2025-09-11T18:32:31.499110",
+    "updated_at": "2025-09-11T18:32:31.499111"
+  },
+  {
+    "id": 1064,
+    "slug": "financial-risk-development-senior",
+    "name": "Financial Risk Development Senior",
+    "issuer": "GARP",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 686,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 269,
+    "job_postings": 363,
+    "salary": {
+      "min": 79443,
+      "max": 178748,
+      "avg": 114200
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Operational Risk",
+      "Market Risk",
+      "Credit Risk",
+      "Risk Modeling",
+      "Risk Assessment",
+      "Risk Analytics",
+      "Basel III",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in financial risk development senior offered by GARP. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "German"
+    ],
+    "ranking": 903,
+    "created_at": "2025-09-11T18:32:31.498990",
+    "updated_at": "2025-09-11T18:32:31.498991"
+  },
+  {
+    "id": 1055,
+    "slug": "cyber-risk-management-certification-1",
+    "name": "Cyber Risk Management Certification",
+    "issuer": "GARP",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 699,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 210,
+    "job_postings": 599,
+    "salary": {
+      "min": 87723,
+      "max": 197377,
+      "avg": 126102
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Operational Risk",
+      "Risk Assessment",
+      "Risk Analytics",
+      "Regulatory Compliance",
+      "Market Risk",
+      "Credit Risk"
+    ],
+    "description": "Professional certification in cyber risk management certification offered by GARP. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1139,
+    "created_at": "2025-09-11T18:32:31.498624",
+    "updated_at": "2025-09-11T18:32:31.498626"
+  },
+  {
+    "id": 1047,
+    "slug": "certified-credit-risk-expert",
+    "name": "Certified Credit Risk Expert",
+    "issuer": "FRM",
+    "domain": "risk-management",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 693,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 243,
+    "job_postings": 632,
+    "salary": {
+      "min": 68280,
+      "max": 153630,
+      "avg": 98153
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Basel III",
+      "Market Risk",
+      "Risk Assessment",
+      "Risk Modeling",
+      "Risk Analytics",
+      "Credit Risk",
+      "Operational Risk",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in certified credit risk expert offered by FRM. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1160,
+    "created_at": "2025-09-11T18:32:31.498296",
+    "updated_at": "2025-09-11T18:32:31.498298"
+  },
+  {
+    "id": 1054,
+    "slug": "financial-risk-administration-senior",
+    "name": "Financial Risk Administration Senior",
+    "issuer": "FRM",
+    "domain": "risk-management",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 997,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 205,
+    "job_postings": 19,
+    "salary": {
+      "min": 82761,
+      "max": 186213,
+      "avg": 118969
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Modeling",
+      "Regulatory Compliance",
+      "Risk Analytics",
+      "Basel III",
+      "Credit Risk",
+      "Risk Assessment",
+      "Market Risk",
+      "Operational Risk"
+    ],
+    "description": "Professional certification in financial risk administration senior offered by FRM. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 1216,
+    "created_at": "2025-09-11T18:32:31.498583",
+    "updated_at": "2025-09-11T18:32:31.498585"
+  },
+  {
+    "id": 1057,
+    "slug": "financial-risk-administration-master",
+    "name": "Financial Risk Administration Master",
+    "issuer": "GARP",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 672,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 226,
+    "job_postings": 48,
+    "salary": {
+      "min": 77437,
+      "max": 174234,
+      "avg": 111316
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Risk Modeling",
+      "Risk Assessment",
+      "Basel III",
+      "Market Risk",
+      "Risk Analytics",
+      "Operational Risk"
+    ],
+    "description": "Professional certification in financial risk administration master offered by GARP. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 1224,
+    "created_at": "2025-09-11T18:32:31.498708",
+    "updated_at": "2025-09-11T18:32:31.498709"
+  },
+  {
+    "id": 1068,
+    "slug": "fair-security-certificate-1",
+    "name": "FAIR Security Certificate",
+    "issuer": "GARP",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 687,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 49,
+    "job_postings": 42,
+    "salary": {
+      "min": 79708,
+      "max": 179344,
+      "avg": 114581
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Basel III",
+      "Credit Risk",
+      "Risk Analytics"
+    ],
+    "description": "Professional certification in fair security certificate offered by GARP. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Spanish",
+      "Chinese"
+    ],
+    "ranking": 1296,
+    "created_at": "2025-09-11T18:32:31.499149",
+    "updated_at": "2025-09-11T18:32:31.499150"
+  },
+  {
+    "id": 1060,
+    "slug": "enterprise-risk-management-certification-1",
+    "name": "Enterprise Risk Management Certification",
+    "issuer": "FRM",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 1161,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 243,
+    "job_postings": 168,
+    "salary": {
+      "min": 88709,
+      "max": 199596,
+      "avg": 127520
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Risk Analytics",
+      "Market Risk",
+      "Risk Assessment",
+      "Operational Risk",
+      "Basel III"
+    ],
+    "description": "Professional certification in enterprise risk management certification offered by FRM. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1309,
+    "created_at": "2025-09-11T18:32:31.498828",
+    "updated_at": "2025-09-11T18:32:31.498830"
+  },
+  {
+    "id": 1052,
+    "slug": "operational-risk-management-certification",
+    "name": "Operational Risk Management Certification",
+    "issuer": "COSO",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 558,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 22,
+    "job_postings": 198,
+    "salary": {
+      "min": 77591,
+      "max": 174579,
+      "avg": 111537
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Credit Risk",
+      "Market Risk",
+      "Risk Assessment",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in operational risk management certification offered by COSO. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1364,
+    "created_at": "2025-09-11T18:32:31.498500",
+    "updated_at": "2025-09-11T18:32:31.498501"
+  },
+  {
+    "id": 1061,
+    "slug": "iso-31000-administration-certificate",
+    "name": "ISO 31000 Administration Certificate",
+    "issuer": "FRM",
+    "domain": "risk-management",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 946,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 136,
+    "job_postings": 117,
+    "salary": {
+      "min": 70547,
+      "max": 158731,
+      "avg": 101412
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Basel III",
+      "Risk Modeling",
+      "Operational Risk",
+      "Risk Analytics",
+      "Credit Risk",
+      "Regulatory Compliance",
+      "Risk Assessment",
+      "Market Risk"
+    ],
+    "description": "Professional certification in iso 31000 administration certificate offered by FRM. Validates expertise in Risk Management and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1373,
+    "created_at": "2025-09-11T18:32:31.498871",
+    "updated_at": "2025-09-11T18:32:31.498872"
+  }
+]

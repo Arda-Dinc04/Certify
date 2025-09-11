@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "microsoft-azure-fundamentals",
+    "name": "Microsoft Azure Fundamentals",
+    "domain": "cs-it",
+    "issuer": "Microsoft",
+    "url": "https://learn.microsoft.com/en-us/certifications/",
+    "level": "Foundational",
+    "exam_fee_usd": 99,
+    "price_source": "official",
+    "recommended_hours_min": 15,
+    "recommended_hours_max": 30,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://learn.microsoft.com/en-us/certifications/",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-azure-administrator-associate",
+    "name": "Microsoft Azure Administrator Associate",
+    "domain": "cs-it",
+    "issuer": "Microsoft",
+    "url": "https://learn.microsoft.com/en-us/certifications/",
+    "level": "Associate",
+    "exam_fee_usd": 165,
+    "price_source": "official",
+    "recommended_hours_min": 40,
+    "recommended_hours_max": 70,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://learn.microsoft.com/en-us/certifications/",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-azure-solutions-architect-expert",
+    "name": "Microsoft Azure Solutions Architect Expert",
+    "domain": "cs-it",
+    "issuer": "Microsoft",
+    "url": "https://learn.microsoft.com/en-us/certifications/",
+    "level": "Expert",
+    "exam_fee_usd": 165,
+    "price_source": "official",
+    "recommended_hours_min": 80,
+    "recommended_hours_max": 120,
+    "hours_source": "estimate",
+    "validity_years": 2,
+    "delivery": "online proctored or test center",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://learn.microsoft.com/en-us/certifications/",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "master-electrician-state-licensing-boards",
+    "name": "Master Electrician",
+    "domain": "skilled-trades",
+    "issuer": "State Licensing Boards",
+    "url": "https://www.neca-neis.org/",
+    "level": "Expert",
+    "exam_fee_usd": 200,
+    "price_source": "heuristic",
+    "recommended_hours_min": 12000,
+    "recommended_hours_max": 16000,
+    "hours_source": "heuristic",
+    "validity_years": 3,
+    "delivery": "test center",
+    "format": "written exam",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782405Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://www.neca-neis.org/",
+        "checked_at": "2025-09-11T17:29:51.782405Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "notifications": {
+    "slack": {
+      "enabled": true,
+      "channel": "#certify-ci",
+      "webhook_url_secret": "SLACK_WEBHOOK_URL",
+      "mention_on_failure": ["@dev-team"],
+      "workflows": [
+        "Domain Validation",
+        "Frontend Build", 
+        "Data Pipeline CI",
+        "Security Scan",
+        "Performance Tests"
+      ]
+    },
+    "discord": {
+      "enabled": true,
+      "webhook_url_secret": "DISCORD_WEBHOOK_URL",
+      "role_mentions": {
+        "failure": "872340985729348608",
+        "success": null
+      }
+    },
+    "email": {
+      "enabled": true,
+      "critical_only": true,
+      "sendgrid_api_key_secret": "SENDGRID_API_KEY",
+      "recipients": [
+        "dev-team@certrank.com",
+        "alerts@certrank.com"
+      ],
+      "critical_workflows": [
+        "Domain Validation",
+        "Data Pipeline CI"
+      ]
+    },
+    "github_issues": {
+      "enabled": true,
+      "repeated_failure_threshold": 3,
+      "time_window_hours": 24,
+      "auto_assign": true,
+      "labels": ["ci", "bug", "high-priority"],
+      "workflows": [
+        "Domain Validation",
+        "Data Pipeline CI"
+      ]
+    }
+  },
+  "status_page": {
+    "enabled": true,
+    "update_on": ["failure", "success", "cancelled"],
+    "components": [
+      {
+        "name": "Domain Validation System",
+        "workflow": "Domain Validation",
+        "description": "Validates domain consistency across all data sources"
+      },
+      {
+        "name": "Data Pipeline",
+        "workflow": "Data Pipeline CI", 
+        "description": "Processes and validates certification data"
+      },
+      {
+        "name": "Frontend Application",
+        "workflow": "Frontend Build",
+        "description": "CertRank web application build and deployment"
+      }
+    ]
+  },
+  "metrics": {
+    "track_build_times": true,
+    "track_failure_rates": true,
+    "prometheus_endpoint": "https://metrics.certrank.com/prometheus",
+    "alert_manager_webhook": "PROMETHEUS_WEBHOOK_URL"
+  },
+  "integrations": {
+    "datadog": {
+      "enabled": false,
+      "api_key_secret": "DATADOG_API_KEY",
+      "service_name": "certrank-ci"
+    },
+    "pagerduty": {
+      "enabled": false,
+      "integration_key_secret": "PAGERDUTY_INTEGRATION_KEY",
+      "severity_mapping": {
+        "critical_failure": "critical",
+        "repeated_failure": "error",
+        "workflow_failure": "warning"
+      }
+    }
+  }
+}

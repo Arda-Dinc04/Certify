@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "project-management-professional-pmp",
+    "name": "Project Management Professional (PMP)",
+    "domain": "engineering-business",
+    "issuer": "Project Management Institute (PMI)",
+    "url": "https://www.pmi.org/certifications",
+    "level": "Professional",
+    "exam_fee_usd": 555,
+    "price_source": "official",
+    "recommended_hours_min": 60,
+    "recommended_hours_max": 120,
+    "hours_source": "estimate",
+    "validity_years": 3,
+    "delivery": "test center or online",
+    "format": "multiple choice",
+    "regions": "Global",
+    "last_checked_utc": "2025-09-11T17:29:51.782009Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "official",
+        "url": "https://www.pmi.org/certifications",
+        "checked_at": "2025-09-11T17:29:51.782450Z"
+      }
+    ]
+  },
+  {
+    "slug": "pharmd-doctor-of-pharmacy-nabp",
+    "name": "PharmD (Doctor of Pharmacy)",
+    "domain": "healthcare",
+    "issuer": "NABP",
+    "url": "https://nabp.pharmacy/",
+    "level": "Expert",
+    "exam_fee_usd": 700,
+    "price_source": "heuristic",
+    "recommended_hours_min": 4000,
+    "recommended_hours_max": 6000,
+    "hours_source": "heuristic",
+    "validity_years": null,
+    "delivery": "test center",
+    "format": "multiple choice",
+    "regions": "US",
+    "last_checked_utc": "2025-09-11T17:29:51.782315Z",
+    "sources": [
+      {
+        "field": "exam_fee_usd",
+        "type": "heuristic",
+        "url": "https://nabp.pharmacy/",
+        "checked_at": "2025-09-11T17:29:51.782315Z"
+      }
+    ],
+    "license_authority": "State Boards of Pharmacy",
+    "prerequisites": "PharmD degree; internship hours",
+    "ce_credits": 30
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "rankings.schema.json",
+  "title": "Rankings",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["slug", "rank", "score", "domain"],
+    "properties": {
+      "slug": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "rank": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "score": {
+        "type": "number"
+      },
+      "domain": {
+        "type": "string"
+      }
+    }
+  }
+}

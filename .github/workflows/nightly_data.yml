@@ -1,0 +1,83 @@
+name: Nightly Data Refresh
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 02:00 UTC nightly
+  workflow_dispatch: {}   # Allow manual trigger
+
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Generate certifications data
+        run: python scripts/scrape_certs.py
+
+      - name: Compute rankings
+        run: python scripts/compute_rankings.py
+
+      - name: Build demand and company data
+        env:
+          USE_ADZUNA: ${{ secrets.USE_ADZUNA }}        # "true" or "false"
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python scripts/build_demand_company.py
+
+      - name: Shard certifications
+        run: python scripts/shard_certifications.py
+
+      - name: Build search index
+        run: python scripts/build_search_index.py
+
+      - name: Generate manifest
+        run: python scripts/generate_manifest.py
+
+      - name: Validate data schemas
+        run: python scripts/validate.py
+
+      - name: Check referential integrity
+        run: python scripts/referential_check.py
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: web/package-lock.json
+
+      - name: Install Node dependencies
+        working-directory: web
+        run: npm ci
+
+      - name: Build frontend
+        working-directory: web
+        run: npm run build
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/public/data/
+          git diff --quiet && echo "No data changes to commit" || (git commit -m "🤖 Nightly data refresh $(date -u +%Y-%m-%d)" && git push)
+
+      - name: Deploy to Firebase Hosting
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
+          channelId: live
+          projectId: ${{ secrets.FIREBASE_PROJECT_ID }}
+          entryPoint: web

@@ -1,0 +1,2077 @@
+[
+  {
+    "id": 790,
+    "slug": "certified-process-analysis-professional",
+    "name": "Certified Process Analysis Professional",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 292,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 710,
+    "job_postings": 36,
+    "salary": {
+      "min": 58088,
+      "max": 116177,
+      "avg": 80430
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Stakeholder Management",
+      "Business Process Improvement",
+      "SQL",
+      "Agile BA",
+      "Data Analysis",
+      "Documentation",
+      "Process Modeling",
+      "Testing"
+    ],
+    "description": "Professional certification in certified process analysis professional offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 66,
+    "languages": [
+      "English"
+    ],
+    "ranking": 110,
+    "created_at": "2025-09-11T18:32:31.487539",
+    "updated_at": "2025-09-11T18:32:31.487540"
+  },
+  {
+    "id": 762,
+    "slug": "six-sigma-strategy-certificate",
+    "name": "Six Sigma Strategy Certificate",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 347,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 639,
+    "job_postings": 482,
+    "salary": {
+      "min": 72955,
+      "max": 145911,
+      "avg": 101015
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Requirements Analysis",
+      "SQL",
+      "Data Analysis",
+      "Documentation",
+      "Process Modeling",
+      "Testing",
+      "Stakeholder Management",
+      "Agile BA",
+      "Business Process Improvement"
+    ],
+    "description": "Professional certification in six sigma strategy certificate offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 214,
+    "created_at": "2025-09-11T18:32:31.486408",
+    "updated_at": "2025-09-11T18:32:31.486409"
+  },
+  {
+    "id": 765,
+    "slug": "agile-ba-administration-certificate",
+    "name": "Agile BA Administration Certificate",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 338,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 671,
+    "job_postings": 311,
+    "salary": {
+      "min": 68715,
+      "max": 137431,
+      "avg": 95144
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Data Analysis",
+      "Process Modeling",
+      "Agile BA",
+      "Testing",
+      "SQL",
+      "Stakeholder Management",
+      "Documentation"
+    ],
+    "description": "Professional certification in agile ba administration certificate offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 257,
+    "created_at": "2025-09-11T18:32:31.486525",
+    "updated_at": "2025-09-11T18:32:31.486527"
+  },
+  {
+    "id": 757,
+    "slug": "business-architect-expert",
+    "name": "Business Architect Expert",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 371,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 634,
+    "job_postings": 632,
+    "salary": {
+      "min": 66854,
+      "max": 133709,
+      "avg": 92568
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Data Analysis",
+      "Testing",
+      "Process Modeling",
+      "Documentation",
+      "Agile BA"
+    ],
+    "description": "Professional certification in business architect expert offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 287,
+    "created_at": "2025-09-11T18:32:31.486211",
+    "updated_at": "2025-09-11T18:32:31.486212"
+  },
+  {
+    "id": 778,
+    "slug": "certified-data-analysis-administrator",
+    "name": "Certified Data Analysis Administrator",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 413,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 661,
+    "job_postings": 586,
+    "salary": {
+      "min": 73144,
+      "max": 146289,
+      "avg": 101277
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Requirements Analysis",
+      "Data Analysis",
+      "Testing",
+      "Documentation",
+      "Business Process Improvement",
+      "SQL",
+      "Agile BA",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in certified data analysis administrator offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese",
+      "German"
+    ],
+    "ranking": 295,
+    "created_at": "2025-09-11T18:32:31.487051",
+    "updated_at": "2025-09-11T18:32:31.487052"
+  },
+  {
+    "id": 779,
+    "slug": "agile-ba-analytics-certificate",
+    "name": "Agile BA Analytics Certificate",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 244,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 608,
+    "job_postings": 736,
+    "salary": {
+      "min": 70041,
+      "max": 140083,
+      "avg": 96980
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [],
+    "skills": [
+      "Testing",
+      "Stakeholder Management",
+      "Process Modeling",
+      "Data Analysis",
+      "SQL",
+      "Documentation",
+      "Requirements Analysis"
+    ],
+    "description": "Professional certification in agile ba analytics certificate offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 365,
+    "created_at": "2025-09-11T18:32:31.487090",
+    "updated_at": "2025-09-11T18:32:31.487091"
+  },
+  {
+    "id": 802,
+    "slug": "certified-data-analysis-practitioner",
+    "name": "Certified Data Analysis Practitioner",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 334,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 534,
+    "job_postings": 107,
+    "salary": {
+      "min": 59248,
+      "max": 118496,
+      "avg": 82035
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Documentation",
+      "Agile BA",
+      "Requirements Analysis",
+      "Business Process Improvement",
+      "Testing",
+      "Stakeholder Management",
+      "Process Modeling",
+      "Data Analysis"
+    ],
+    "description": "Professional certification in certified data analysis practitioner offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 385,
+    "created_at": "2025-09-11T18:32:31.488018",
+    "updated_at": "2025-09-11T18:32:31.488019"
+  },
+  {
+    "id": 770,
+    "slug": "business-engineer-lead",
+    "name": "Business Engineer Lead",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Specialty",
+    "duration": "24 hours",
+    "cost": 317,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 483,
+    "job_postings": 565,
+    "salary": {
+      "min": 67517,
+      "max": 135034,
+      "avg": 93485
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Process Modeling",
+      "Requirements Analysis",
+      "Data Analysis",
+      "SQL",
+      "Agile BA",
+      "Business Process Improvement",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in business engineer lead offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 409,
+    "created_at": "2025-09-11T18:32:31.486730",
+    "updated_at": "2025-09-11T18:32:31.486731"
+  },
+  {
+    "id": 771,
+    "slug": "tableau-business-development-lead",
+    "name": "Tableau Business Development Lead",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 267,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 681,
+    "job_postings": 17,
+    "salary": {
+      "min": 67742,
+      "max": 135484,
+      "avg": 93796
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "SQL",
+      "Testing",
+      "Agile BA",
+      "Requirements Analysis",
+      "Documentation",
+      "Business Process Improvement",
+      "Process Modeling",
+      "Data Analysis",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in tableau business development lead offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 410,
+    "created_at": "2025-09-11T18:32:31.486769",
+    "updated_at": "2025-09-11T18:32:31.486771"
+  },
+  {
+    "id": 768,
+    "slug": "certified-requirements-analysis-consultant",
+    "name": "Certified Requirements Analysis Consultant",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 237,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 508,
+    "job_postings": 24,
+    "salary": {
+      "min": 57661,
+      "max": 115323,
+      "avg": 79839
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Documentation",
+      "SQL",
+      "Testing",
+      "Process Modeling",
+      "Requirements Analysis",
+      "Agile BA",
+      "Stakeholder Management",
+      "Business Process Improvement",
+      "Data Analysis"
+    ],
+    "description": "Professional certification in certified requirements analysis consultant offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 434,
+    "created_at": "2025-09-11T18:32:31.486650",
+    "updated_at": "2025-09-11T18:32:31.486652"
+  },
+  {
+    "id": 785,
+    "slug": "systems-analytics-certification",
+    "name": "Systems Analytics Certification",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 355,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 506,
+    "job_postings": 29,
+    "salary": {
+      "min": 62339,
+      "max": 124679,
+      "avg": 86316
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Agile BA",
+      "Business Process Improvement",
+      "Testing",
+      "SQL"
+    ],
+    "description": "Professional certification in systems analytics certification offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 460,
+    "created_at": "2025-09-11T18:32:31.487331",
+    "updated_at": "2025-09-11T18:32:31.487332"
+  },
+  {
+    "id": 759,
+    "slug": "data-engineering-certification",
+    "name": "Data Engineering Certification",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 254,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 386,
+    "job_postings": 699,
+    "salary": {
+      "min": 64795,
+      "max": 129590,
+      "avg": 89716
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Documentation",
+      "Stakeholder Management",
+      "SQL",
+      "Requirements Analysis"
+    ],
+    "description": "Professional certification in data engineering certification offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 462,
+    "created_at": "2025-09-11T18:32:31.486289",
+    "updated_at": "2025-09-11T18:32:31.486290"
+  },
+  {
+    "id": 803,
+    "slug": "tableau-business-administration-master",
+    "name": "Tableau Business Administration Master",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 367,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 636,
+    "job_postings": 16,
+    "salary": {
+      "min": 62593,
+      "max": 125187,
+      "avg": 86668
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Process Modeling",
+      "Testing",
+      "Data Analysis",
+      "SQL",
+      "Agile BA",
+      "Stakeholder Management",
+      "Business Process Improvement",
+      "Documentation"
+    ],
+    "description": "Professional certification in tableau business administration master offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 482,
+    "created_at": "2025-09-11T18:32:31.488058",
+    "updated_at": "2025-09-11T18:32:31.488059"
+  },
+  {
+    "id": 764,
+    "slug": "business-manager-master",
+    "name": "Business Manager Master",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 419,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 524,
+    "job_postings": 712,
+    "salary": {
+      "min": 64519,
+      "max": 129038,
+      "avg": 89334
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Documentation",
+      "SQL",
+      "Testing",
+      "Data Analysis",
+      "Process Modeling",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in business manager master offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 487,
+    "created_at": "2025-09-11T18:32:31.486486",
+    "updated_at": "2025-09-11T18:32:31.486487"
+  },
+  {
+    "id": 804,
+    "slug": "business-administrator-advanced",
+    "name": "Business Administrator Advanced",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 542,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 598,
+    "job_postings": 205,
+    "salary": {
+      "min": 62868,
+      "max": 125736,
+      "avg": 87048
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "SQL",
+      "Process Modeling",
+      "Stakeholder Management",
+      "Requirements Analysis",
+      "Documentation",
+      "Testing",
+      "Agile BA",
+      "Data Analysis",
+      "Business Process Improvement"
+    ],
+    "description": "Professional certification in business administrator advanced offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 605,
+    "created_at": "2025-09-11T18:32:31.488098",
+    "updated_at": "2025-09-11T18:32:31.488099"
+  },
+  {
+    "id": 784,
+    "slug": "six-sigma-administration-certificate",
+    "name": "Six Sigma Administration Certificate",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 327,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 533,
+    "job_postings": 175,
+    "salary": {
+      "min": 66462,
+      "max": 132924,
+      "avg": 92024
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Testing",
+      "Requirements Analysis",
+      "Data Analysis",
+      "Agile BA",
+      "Process Modeling",
+      "SQL"
+    ],
+    "description": "Professional certification in six sigma administration certificate offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 607,
+    "created_at": "2025-09-11T18:32:31.487289",
+    "updated_at": "2025-09-11T18:32:31.487290"
+  },
+  {
+    "id": 782,
+    "slug": "process-architecture-certification",
+    "name": "Process Architecture Certification",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 548,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 438,
+    "job_postings": 34,
+    "salary": {
+      "min": 61177,
+      "max": 122355,
+      "avg": 84707
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Data Analysis",
+      "Business Process Improvement",
+      "Requirements Analysis",
+      "Documentation",
+      "Testing",
+      "SQL",
+      "Agile BA",
+      "Process Modeling"
+    ],
+    "description": "Professional certification in process architecture certification offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 637,
+    "created_at": "2025-09-11T18:32:31.487209",
+    "updated_at": "2025-09-11T18:32:31.487210"
+  },
+  {
+    "id": 789,
+    "slug": "business-administrator-master",
+    "name": "Business Administrator Master",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 260,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 487,
+    "job_postings": 56,
+    "salary": {
+      "min": 63811,
+      "max": 127623,
+      "avg": 88354
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Testing",
+      "Agile BA",
+      "Documentation",
+      "Data Analysis",
+      "Requirements Analysis",
+      "SQL",
+      "Process Modeling",
+      "Business Process Improvement"
+    ],
+    "description": "Professional certification in business administrator master offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 638,
+    "created_at": "2025-09-11T18:32:31.487499",
+    "updated_at": "2025-09-11T18:32:31.487500"
+  },
+  {
+    "id": 772,
+    "slug": "tableau-business-analytics-lead",
+    "name": "Tableau Business Analytics Lead",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 341,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 482,
+    "job_postings": 23,
+    "salary": {
+      "min": 57053,
+      "max": 114106,
+      "avg": 78996
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Agile BA",
+      "Stakeholder Management",
+      "SQL",
+      "Process Modeling",
+      "Requirements Analysis",
+      "Business Process Improvement",
+      "Documentation"
+    ],
+    "description": "Professional certification in tableau business analytics lead offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 644,
+    "created_at": "2025-09-11T18:32:31.486810",
+    "updated_at": "2025-09-11T18:32:31.486811"
+  },
+  {
+    "id": 777,
+    "slug": "agile-ba-architecture-certificate",
+    "name": "Agile BA Architecture Certificate",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 381,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 551,
+    "job_postings": 47,
+    "salary": {
+      "min": 70676,
+      "max": 141352,
+      "avg": 97859
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Documentation",
+      "Business Process Improvement",
+      "Process Modeling",
+      "SQL",
+      "Stakeholder Management",
+      "Requirements Analysis",
+      "Data Analysis",
+      "Testing",
+      "Agile BA"
+    ],
+    "description": "Professional certification in agile ba architecture certificate offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English"
+    ],
+    "ranking": 663,
+    "created_at": "2025-09-11T18:32:31.487010",
+    "updated_at": "2025-09-11T18:32:31.487012"
+  },
+  {
+    "id": 792,
+    "slug": "business-engineer-associate-1",
+    "name": "Business Engineer Associate",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Specialty",
+    "duration": "24 hours",
+    "cost": 325,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 436,
+    "job_postings": 68,
+    "salary": {
+      "min": 60094,
+      "max": 120188,
+      "avg": 83207
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Process Modeling",
+      "Documentation",
+      "Testing",
+      "Data Analysis",
+      "Requirements Analysis",
+      "SQL",
+      "Business Process Improvement"
+    ],
+    "description": "Professional certification in business engineer associate offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 679,
+    "created_at": "2025-09-11T18:32:31.487622",
+    "updated_at": "2025-09-11T18:32:31.487623"
+  },
+  {
+    "id": 800,
+    "slug": "requirements-analytics-certification",
+    "name": "Requirements Analytics Certification",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "24 hours",
+    "cost": 263,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 428,
+    "job_postings": 45,
+    "salary": {
+      "min": 66452,
+      "max": 132905,
+      "avg": 92011
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Process Modeling",
+      "Agile BA",
+      "Requirements Analysis",
+      "Business Process Improvement"
+    ],
+    "description": "Professional certification in requirements analytics certification offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 711,
+    "created_at": "2025-09-11T18:32:31.487939",
+    "updated_at": "2025-09-11T18:32:31.487941"
+  },
+  {
+    "id": 786,
+    "slug": "agile-ba-analytics-certificate-1",
+    "name": "Agile BA Analytics Certificate",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "5 weeks",
+    "cost": 328,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 192,
+    "job_postings": 1052,
+    "salary": {
+      "min": 63302,
+      "max": 126604,
+      "avg": 87649
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Requirements Analysis",
+      "Documentation",
+      "Stakeholder Management",
+      "SQL"
+    ],
+    "description": "Professional certification in agile ba analytics certificate offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 761,
+    "created_at": "2025-09-11T18:32:31.487378",
+    "updated_at": "2025-09-11T18:32:31.487380"
+  },
+  {
+    "id": 799,
+    "slug": "business-architect-master",
+    "name": "Business Architect Master",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "4 weeks",
+    "cost": 350,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 339,
+    "job_postings": 49,
+    "salary": {
+      "min": 67392,
+      "max": 134784,
+      "avg": 93312
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Data Analysis",
+      "Testing",
+      "Stakeholder Management",
+      "Requirements Analysis",
+      "Documentation",
+      "Process Modeling",
+      "Business Process Improvement",
+      "SQL",
+      "Agile BA"
+    ],
+    "description": "Professional certification in business architect master offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 804,
+    "created_at": "2025-09-11T18:32:31.487900",
+    "updated_at": "2025-09-11T18:32:31.487902"
+  },
+  {
+    "id": 776,
+    "slug": "tableau-business-security-expert",
+    "name": "Tableau Business Security Expert",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 387,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 371,
+    "job_postings": 30,
+    "salary": {
+      "min": 72924,
+      "max": 145848,
+      "avg": 100971
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "SQL",
+      "Business Process Improvement",
+      "Process Modeling",
+      "Documentation",
+      "Testing",
+      "Data Analysis",
+      "Requirements Analysis",
+      "Agile BA",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in tableau business security expert offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 812,
+    "created_at": "2025-09-11T18:32:31.486971",
+    "updated_at": "2025-09-11T18:32:31.486972"
+  },
+  {
+    "id": 773,
+    "slug": "lean-ba-architecture-certificate-1",
+    "name": "Lean BA Architecture Certificate",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 519,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 326,
+    "job_postings": 47,
+    "salary": {
+      "min": 74669,
+      "max": 149339,
+      "avg": 103389
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Agile BA",
+      "Documentation",
+      "Stakeholder Management",
+      "Process Modeling",
+      "Business Process Improvement",
+      "Testing",
+      "SQL",
+      "Data Analysis"
+    ],
+    "description": "Professional certification in lean ba architecture certificate offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 866,
+    "created_at": "2025-09-11T18:32:31.486849",
+    "updated_at": "2025-09-11T18:32:31.486851"
+  },
+  {
+    "id": 798,
+    "slug": "business-analyst-senior",
+    "name": "Business Analyst Senior",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 555,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 320,
+    "job_postings": 38,
+    "salary": {
+      "min": 55780,
+      "max": 111561,
+      "avg": 77234
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "SQL",
+      "Stakeholder Management",
+      "Business Process Improvement",
+      "Requirements Analysis",
+      "Testing"
+    ],
+    "description": "Professional certification in business analyst senior offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 879,
+    "created_at": "2025-09-11T18:32:31.487861",
+    "updated_at": "2025-09-11T18:32:31.487862"
+  },
+  {
+    "id": 793,
+    "slug": "babok-strategy-certificate",
+    "name": "BABOK Strategy Certificate",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 382,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 278,
+    "job_postings": 9,
+    "salary": {
+      "min": 69287,
+      "max": 138574,
+      "avg": 95936
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Data Analysis",
+      "Business Process Improvement",
+      "Agile BA",
+      "Documentation",
+      "Process Modeling",
+      "Requirements Analysis"
+    ],
+    "description": "Professional certification in babok strategy certificate offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 881,
+    "created_at": "2025-09-11T18:32:31.487663",
+    "updated_at": "2025-09-11T18:32:31.487664"
+  },
+  {
+    "id": 783,
+    "slug": "certified-data-analysis-professional",
+    "name": "Certified Data Analysis Professional",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 322,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 377,
+    "job_postings": 50,
+    "salary": {
+      "min": 67338,
+      "max": 134676,
+      "avg": 93237
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Business Process Improvement",
+      "Data Analysis",
+      "Testing",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in certified data analysis professional offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 905,
+    "created_at": "2025-09-11T18:32:31.487249",
+    "updated_at": "2025-09-11T18:32:31.487250"
+  },
+  {
+    "id": 761,
+    "slug": "agile-ba-development-certificate",
+    "name": "Agile BA Development Certificate",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 300,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 343,
+    "job_postings": 28,
+    "salary": {
+      "min": 59653,
+      "max": 119306,
+      "avg": 82596
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Testing",
+      "Data Analysis",
+      "Agile BA",
+      "Documentation",
+      "Requirements Analysis",
+      "SQL",
+      "Business Process Improvement"
+    ],
+    "description": "Professional certification in agile ba development certificate offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Japanese",
+      "French",
+      "Chinese"
+    ],
+    "ranking": 916,
+    "created_at": "2025-09-11T18:32:31.486368",
+    "updated_at": "2025-09-11T18:32:31.486369"
+  },
+  {
+    "id": 758,
+    "slug": "business-engineer-associate",
+    "name": "Business Engineer Associate",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 322,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 240,
+    "job_postings": 11,
+    "salary": {
+      "min": 56996,
+      "max": 113992,
+      "avg": 78917
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Business Process Improvement",
+      "SQL",
+      "Data Analysis",
+      "Process Modeling"
+    ],
+    "description": "Professional certification in business engineer associate offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 946,
+    "created_at": "2025-09-11T18:32:31.486249",
+    "updated_at": "2025-09-11T18:32:31.486251"
+  },
+  {
+    "id": 769,
+    "slug": "business-engineering-certification",
+    "name": "Business Engineering Certification",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Foundational",
+    "duration": "4 weeks",
+    "cost": 249,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 267,
+    "job_postings": 17,
+    "salary": {
+      "min": 69188,
+      "max": 138376,
+      "avg": 95798
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Requirements Analysis",
+      "SQL",
+      "Agile BA",
+      "Documentation",
+      "Testing",
+      "Data Analysis"
+    ],
+    "description": "Professional certification in business engineering certification offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 969,
+    "created_at": "2025-09-11T18:32:31.486691",
+    "updated_at": "2025-09-11T18:32:31.486692"
+  },
+  {
+    "id": 780,
+    "slug": "business-architect-foundational",
+    "name": "Business Architect Foundational",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 257,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 170,
+    "job_postings": 791,
+    "salary": {
+      "min": 72253,
+      "max": 144506,
+      "avg": 100042
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "SQL",
+      "Agile BA",
+      "Process Modeling",
+      "Documentation",
+      "Requirements Analysis"
+    ],
+    "description": "Professional certification in business architect foundational offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 983,
+    "created_at": "2025-09-11T18:32:31.487129",
+    "updated_at": "2025-09-11T18:32:31.487130"
+  },
+  {
+    "id": 781,
+    "slug": "certified-process-analysis-analyst",
+    "name": "Certified Process Analysis Analyst",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 401,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 287,
+    "job_postings": 8,
+    "salary": {
+      "min": 68539,
+      "max": 137078,
+      "avg": 94900
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Business Process Improvement",
+      "Process Modeling",
+      "Agile BA",
+      "Requirements Analysis",
+      "Documentation",
+      "Testing",
+      "SQL",
+      "Data Analysis",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in certified process analysis analyst offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 997,
+    "created_at": "2025-09-11T18:32:31.487168",
+    "updated_at": "2025-09-11T18:32:31.487170"
+  },
+  {
+    "id": 795,
+    "slug": "certified-business-analysis-administrator",
+    "name": "Certified Business Analysis Administrator",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 307,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 211,
+    "job_postings": 15,
+    "salary": {
+      "min": 71241,
+      "max": 142483,
+      "avg": 98642
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Data Analysis",
+      "Requirements Analysis",
+      "Stakeholder Management",
+      "Testing",
+      "Process Modeling",
+      "SQL",
+      "Business Process Improvement",
+      "Documentation",
+      "Agile BA"
+    ],
+    "description": "Professional certification in certified business analysis administrator offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "ranking": 1007,
+    "created_at": "2025-09-11T18:32:31.487744",
+    "updated_at": "2025-09-11T18:32:31.487745"
+  },
+  {
+    "id": 760,
+    "slug": "business-analyst-lead",
+    "name": "Business Analyst Lead",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 375,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 177,
+    "job_postings": 42,
+    "salary": {
+      "min": 71682,
+      "max": 143364,
+      "avg": 99252
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Stakeholder Management",
+      "Documentation",
+      "Process Modeling",
+      "Agile BA",
+      "Data Analysis"
+    ],
+    "description": "Professional certification in business analyst lead offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1017,
+    "created_at": "2025-09-11T18:32:31.486327",
+    "updated_at": "2025-09-11T18:32:31.486328"
+  },
+  {
+    "id": 767,
+    "slug": "iiba-business-engineering-foundational",
+    "name": "IIBA Business Engineering Foundational",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 498,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 256,
+    "job_postings": 13,
+    "salary": {
+      "min": 64665,
+      "max": 129331,
+      "avg": 89537
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Business Process Improvement",
+      "Data Analysis",
+      "Requirements Analysis",
+      "Agile BA",
+      "Process Modeling",
+      "SQL",
+      "Testing"
+    ],
+    "description": "Professional certification in iiba business engineering foundational offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1018,
+    "created_at": "2025-09-11T18:32:31.486608",
+    "updated_at": "2025-09-11T18:32:31.486610"
+  },
+  {
+    "id": 774,
+    "slug": "certified-process-analysis-administrator",
+    "name": "Certified Process Analysis Administrator",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 379,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 248,
+    "job_postings": 7,
+    "salary": {
+      "min": 56505,
+      "max": 113010,
+      "avg": 78237
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Business Process Improvement",
+      "Stakeholder Management",
+      "SQL",
+      "Process Modeling",
+      "Requirements Analysis",
+      "Testing",
+      "Documentation",
+      "Data Analysis",
+      "Agile BA"
+    ],
+    "description": "Professional certification in certified process analysis administrator offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 1029,
+    "created_at": "2025-09-11T18:32:31.486891",
+    "updated_at": "2025-09-11T18:32:31.486892"
+  },
+  {
+    "id": 791,
+    "slug": "business-engineer-foundational",
+    "name": "Business Engineer Foundational",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "5 weeks",
+    "cost": 342,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 206,
+    "job_postings": 48,
+    "salary": {
+      "min": 62641,
+      "max": 125283,
+      "avg": 86734
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Process Modeling",
+      "Data Analysis",
+      "SQL",
+      "Requirements Analysis",
+      "Stakeholder Management",
+      "Documentation",
+      "Testing",
+      "Business Process Improvement",
+      "Agile BA"
+    ],
+    "description": "Professional certification in business engineer foundational offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "German",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 1051,
+    "created_at": "2025-09-11T18:32:31.487582",
+    "updated_at": "2025-09-11T18:32:31.487583"
+  },
+  {
+    "id": 796,
+    "slug": "business-administration-certification",
+    "name": "Business Administration Certification",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 497,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 228,
+    "job_postings": 162,
+    "salary": {
+      "min": 62876,
+      "max": 125753,
+      "avg": 87060
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Requirements Analysis",
+      "Testing",
+      "Stakeholder Management",
+      "Process Modeling",
+      "Business Process Improvement",
+      "Agile BA",
+      "SQL",
+      "Data Analysis"
+    ],
+    "description": "Professional certification in business administration certification offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1103,
+    "created_at": "2025-09-11T18:32:31.487784",
+    "updated_at": "2025-09-11T18:32:31.487785"
+  },
+  {
+    "id": 788,
+    "slug": "iiba-business-architecture-expert",
+    "name": "IIBA Business Architecture Expert",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 481,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 266,
+    "job_postings": 118,
+    "salary": {
+      "min": 72421,
+      "max": 144842,
+      "avg": 100275
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Process Modeling",
+      "Requirements Analysis",
+      "Data Analysis",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in iiba business architecture expert offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1118,
+    "created_at": "2025-09-11T18:32:31.487457",
+    "updated_at": "2025-09-11T18:32:31.487459"
+  },
+  {
+    "id": 763,
+    "slug": "lean-ba-architecture-certificate",
+    "name": "Lean BA Architecture Certificate",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 241,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 260,
+    "job_postings": 32,
+    "salary": {
+      "min": 73663,
+      "max": 147326,
+      "avg": 101995
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Documentation",
+      "SQL",
+      "Agile BA",
+      "Testing",
+      "Data Analysis",
+      "Business Process Improvement",
+      "Requirements Analysis"
+    ],
+    "description": "Professional certification in lean ba architecture certificate offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "Portuguese"
+    ],
+    "ranking": 1140,
+    "created_at": "2025-09-11T18:32:31.486448",
+    "updated_at": "2025-09-11T18:32:31.486449"
+  },
+  {
+    "id": 787,
+    "slug": "business-manager-expert",
+    "name": "Business Manager Expert",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 257,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 152,
+    "job_postings": 5,
+    "salary": {
+      "min": 63173,
+      "max": 126347,
+      "avg": 87471
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Agile BA",
+      "Documentation",
+      "Process Modeling",
+      "SQL",
+      "Data Analysis",
+      "Requirements Analysis",
+      "Testing",
+      "Business Process Improvement"
+    ],
+    "description": "Professional certification in business manager expert offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 1154,
+    "created_at": "2025-09-11T18:32:31.487418",
+    "updated_at": "2025-09-11T18:32:31.487419"
+  },
+  {
+    "id": 766,
+    "slug": "agile-ba-development-certificate-1",
+    "name": "Agile BA Development Certificate",
+    "issuer": "Tableau",
+    "domain": "business-analysis",
+    "level": "Specialty",
+    "duration": "24 hours",
+    "cost": 281,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 148,
+    "job_postings": 9,
+    "salary": {
+      "min": 72961,
+      "max": 145923,
+      "avg": 101024
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Data Analysis",
+      "Stakeholder Management",
+      "Documentation",
+      "Requirements Analysis",
+      "Process Modeling",
+      "Agile BA",
+      "SQL",
+      "Business Process Improvement",
+      "Testing"
+    ],
+    "description": "Professional certification in agile ba development certificate offered by Tableau. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1176,
+    "created_at": "2025-09-11T18:32:31.486565",
+    "updated_at": "2025-09-11T18:32:31.486566"
+  },
+  {
+    "id": 794,
+    "slug": "agile-ba-development-certificate-2",
+    "name": "Agile BA Development Certificate",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 321,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 34,
+    "job_postings": 566,
+    "salary": {
+      "min": 61185,
+      "max": 122371,
+      "avg": 84718
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Business Process Improvement",
+      "Data Analysis",
+      "Testing",
+      "Stakeholder Management",
+      "Requirements Analysis",
+      "Documentation",
+      "Agile BA",
+      "SQL",
+      "Process Modeling"
+    ],
+    "description": "Professional certification in agile ba development certificate offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "German",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 1193,
+    "created_at": "2025-09-11T18:32:31.487703",
+    "updated_at": "2025-09-11T18:32:31.487704"
+  },
+  {
+    "id": 797,
+    "slug": "process-security-certification",
+    "name": "Process Security Certification",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 519,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 266,
+    "job_postings": 23,
+    "salary": {
+      "min": 58292,
+      "max": 116584,
+      "avg": 80712
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "SQL",
+      "Testing",
+      "Data Analysis",
+      "Process Modeling",
+      "Business Process Improvement",
+      "Requirements Analysis",
+      "Agile BA"
+    ],
+    "description": "Professional certification in process security certification offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 1240,
+    "created_at": "2025-09-11T18:32:31.487823",
+    "updated_at": "2025-09-11T18:32:31.487825"
+  },
+  {
+    "id": 801,
+    "slug": "iiba-business-management-expert",
+    "name": "IIBA Business Management Expert",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Specialty",
+    "duration": "2 weeks",
+    "cost": 463,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 39,
+    "job_postings": 52,
+    "salary": {
+      "min": 56803,
+      "max": 113606,
+      "avg": 78650
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Process Modeling",
+      "SQL",
+      "Business Process Improvement",
+      "Requirements Analysis",
+      "Data Analysis",
+      "Testing"
+    ],
+    "description": "Professional certification in iiba business management expert offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1319,
+    "created_at": "2025-09-11T18:32:31.487978",
+    "updated_at": "2025-09-11T18:32:31.487979"
+  },
+  {
+    "id": 775,
+    "slug": "systems-engineering-certification",
+    "name": "Systems Engineering Certification",
+    "issuer": "IIBA",
+    "domain": "business-analysis",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 554,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 77,
+    "job_postings": 37,
+    "salary": {
+      "min": 59079,
+      "max": 118159,
+      "avg": 81802
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Requirements Analysis",
+      "Process Modeling",
+      "Agile BA",
+      "Data Analysis",
+      "Business Process Improvement",
+      "Testing",
+      "Stakeholder Management"
+    ],
+    "description": "Professional certification in systems engineering certification offered by IIBA. Validates expertise in Business Analysis and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 1353,
+    "created_at": "2025-09-11T18:32:31.486931",
+    "updated_at": "2025-09-11T18:32:31.486932"
+  }
+]

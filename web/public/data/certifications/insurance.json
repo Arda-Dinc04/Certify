@@ -1,0 +1,519 @@
+[
+  {
+    "id": 1077,
+    "slug": "certified-personal-lines-analyst",
+    "name": "Certified Personal Lines Analyst",
+    "issuer": "CPCU Society",
+    "domain": "insurance",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 696,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 711,
+    "job_postings": 92,
+    "salary": {
+      "min": 61718,
+      "max": 145879,
+      "avg": 95382
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Claims Management",
+      "Risk Assessment",
+      "Reinsurance",
+      "Insurance Law",
+      "Underwriting",
+      "Product Development",
+      "Actuarial Science"
+    ],
+    "description": "Professional certification in certified personal lines analyst offered by CPCU Society. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 209,
+    "created_at": "2025-09-11T18:32:31.499528",
+    "updated_at": "2025-09-11T18:32:31.499529"
+  },
+  {
+    "id": 1076,
+    "slug": "the-insurance-architecture-associate",
+    "name": "The Insurance Architecture Associate",
+    "issuer": "The Institutes",
+    "domain": "insurance",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 404,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 661,
+    "job_postings": 86,
+    "salary": {
+      "min": 61330,
+      "max": 144962,
+      "avg": 94783
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Claims Management",
+      "Regulatory Compliance",
+      "Product Development",
+      "Reinsurance",
+      "Risk Assessment",
+      "Underwriting"
+    ],
+    "description": "Professional certification in the insurance architecture associate offered by The Institutes. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 241,
+    "created_at": "2025-09-11T18:32:31.499488",
+    "updated_at": "2025-09-11T18:32:31.499489"
+  },
+  {
+    "id": 1072,
+    "slug": "commercial-management-certification",
+    "name": "Commercial Management Certification",
+    "issuer": "The Institutes",
+    "domain": "insurance",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 686,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 249,
+    "job_postings": 2966,
+    "salary": {
+      "min": 50190,
+      "max": 118631,
+      "avg": 77566
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Product Development",
+      "Regulatory Compliance",
+      "Insurance Law",
+      "Claims Management"
+    ],
+    "description": "Professional certification in commercial management certification offered by The Institutes. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 260,
+    "created_at": "2025-09-11T18:32:31.499321",
+    "updated_at": "2025-09-11T18:32:31.499322"
+  },
+  {
+    "id": 1070,
+    "slug": "sales-administration-certificate",
+    "name": "Sales Administration Certificate",
+    "issuer": "CPCU Society",
+    "domain": "insurance",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 758,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 662,
+    "job_postings": 110,
+    "salary": {
+      "min": 51644,
+      "max": 122068,
+      "avg": 79813
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Actuarial Science",
+      "Insurance Law",
+      "Claims Management",
+      "Reinsurance",
+      "Underwriting",
+      "Product Development",
+      "Regulatory Compliance"
+    ],
+    "description": "Professional certification in sales administration certificate offered by CPCU Society. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 466,
+    "created_at": "2025-09-11T18:32:31.499238",
+    "updated_at": "2025-09-11T18:32:31.499239"
+  },
+  {
+    "id": 1075,
+    "slug": "certified-personal-lines-consultant",
+    "name": "Certified Personal Lines Consultant",
+    "issuer": "The Institutes",
+    "domain": "insurance",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 592,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 366,
+    "job_postings": 172,
+    "salary": {
+      "min": 52179,
+      "max": 123333,
+      "avg": 80641
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Risk Assessment",
+      "Regulatory Compliance",
+      "Underwriting",
+      "Reinsurance",
+      "Actuarial Science",
+      "Insurance Law",
+      "Claims Management",
+      "Product Development"
+    ],
+    "description": "Professional certification in certified personal lines consultant offered by The Institutes. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 715,
+    "created_at": "2025-09-11T18:32:31.499447",
+    "updated_at": "2025-09-11T18:32:31.499449"
+  },
+  {
+    "id": 1080,
+    "slug": "property-casualty-analytics-lead-1",
+    "name": "Property & Casualty Analytics Lead",
+    "issuer": "The Institutes",
+    "domain": "insurance",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 370,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 364,
+    "job_postings": 139,
+    "salary": {
+      "min": 57779,
+      "max": 136570,
+      "avg": 89296
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Product Development",
+      "Reinsurance",
+      "Insurance Law",
+      "Regulatory Compliance",
+      "Actuarial Science",
+      "Claims Management",
+      "Risk Assessment",
+      "Underwriting"
+    ],
+    "description": "Professional certification in property & casualty analytics lead offered by The Institutes. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 973,
+    "created_at": "2025-09-11T18:32:31.499650",
+    "updated_at": "2025-09-11T18:32:31.499651"
+  },
+  {
+    "id": 1073,
+    "slug": "certified-property-casualty-practitioner",
+    "name": "Certified Property & Casualty Practitioner",
+    "issuer": "The Institutes",
+    "domain": "insurance",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 419,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 83,
+    "job_postings": 510,
+    "salary": {
+      "min": 57598,
+      "max": 136142,
+      "avg": 89016
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Product Development",
+      "Underwriting",
+      "Reinsurance",
+      "Insurance Law",
+      "Actuarial Science",
+      "Claims Management",
+      "Regulatory Compliance",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in certified property & casualty practitioner offered by The Institutes. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 1048,
+    "created_at": "2025-09-11T18:32:31.499366",
+    "updated_at": "2025-09-11T18:32:31.499367"
+  },
+  {
+    "id": 1069,
+    "slug": "property-casualty-analytics-lead",
+    "name": "Property & Casualty Analytics Lead",
+    "issuer": "The Institutes",
+    "domain": "insurance",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 544,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 113,
+    "job_postings": 753,
+    "salary": {
+      "min": 46996,
+      "max": 111081,
+      "avg": 72630
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Reinsurance",
+      "Underwriting",
+      "Regulatory Compliance",
+      "Product Development",
+      "Actuarial Science",
+      "Insurance Law",
+      "Claims Management"
+    ],
+    "description": "Professional certification in property & casualty analytics lead offered by The Institutes. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 1152,
+    "created_at": "2025-09-11T18:32:31.499196",
+    "updated_at": "2025-09-11T18:32:31.499197"
+  },
+  {
+    "id": 1071,
+    "slug": "underwriting-analytics-certificate",
+    "name": "Underwriting Analytics Certificate",
+    "issuer": "The Institutes",
+    "domain": "insurance",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 569,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 157,
+    "job_postings": 35,
+    "salary": {
+      "min": 57950,
+      "max": 136974,
+      "avg": 89560
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Reinsurance",
+      "Actuarial Science",
+      "Regulatory Compliance",
+      "Risk Assessment",
+      "Insurance Law",
+      "Underwriting",
+      "Claims Management",
+      "Product Development"
+    ],
+    "description": "Professional certification in underwriting analytics certificate offered by The Institutes. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 1173,
+    "created_at": "2025-09-11T18:32:31.499279",
+    "updated_at": "2025-09-11T18:32:31.499280"
+  },
+  {
+    "id": 1074,
+    "slug": "certified-life-health-professional",
+    "name": "Certified Life & Health Professional",
+    "issuer": "The Institutes",
+    "domain": "insurance",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 424,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 203,
+    "job_postings": 47,
+    "salary": {
+      "min": 61004,
+      "max": 144192,
+      "avg": 94279
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Actuarial Science",
+      "Risk Assessment",
+      "Claims Management",
+      "Regulatory Compliance",
+      "Reinsurance",
+      "Underwriting"
+    ],
+    "description": "Professional certification in certified life & health professional offered by The Institutes. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 1280,
+    "created_at": "2025-09-11T18:32:31.499407",
+    "updated_at": "2025-09-11T18:32:31.499408"
+  },
+  {
+    "id": 1079,
+    "slug": "the-insurance-management-advanced",
+    "name": "The Insurance Management Advanced",
+    "issuer": "The Institutes",
+    "domain": "insurance",
+    "level": "Specialty",
+    "duration": "8 hours",
+    "cost": 664,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 107,
+    "job_postings": 17,
+    "salary": {
+      "min": 59007,
+      "max": 139472,
+      "avg": 91193
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Underwriting",
+      "Insurance Law",
+      "Regulatory Compliance",
+      "Product Development",
+      "Reinsurance",
+      "Actuarial Science",
+      "Claims Management",
+      "Risk Assessment"
+    ],
+    "description": "Professional certification in the insurance management advanced offered by The Institutes. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1339,
+    "created_at": "2025-09-11T18:32:31.499608",
+    "updated_at": "2025-09-11T18:32:31.499609"
+  },
+  {
+    "id": 1078,
+    "slug": "reinsurance-management-certification",
+    "name": "Reinsurance Management Certification",
+    "issuer": "CPCU Society",
+    "domain": "insurance",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 812,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 27,
+    "job_postings": 277,
+    "salary": {
+      "min": 57917,
+      "max": 136895,
+      "avg": 89508
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Risk Assessment",
+      "Claims Management",
+      "Reinsurance",
+      "Underwriting",
+      "Insurance Law"
+    ],
+    "description": "Professional certification in reinsurance management certification offered by CPCU Society. Validates expertise in Insurance and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 1359,
+    "created_at": "2025-09-11T18:32:31.499568",
+    "updated_at": "2025-09-11T18:32:31.499569"
+  }
+]

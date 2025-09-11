@@ -1,0 +1,3051 @@
+[
+  {
+    "id": 369,
+    "slug": "data-engineer-lead-certificate-1",
+    "name": "Data Engineer Lead Certificate",
+    "issuer": "Microsoft",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 116,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 623,
+    "job_postings": 2471,
+    "salary": {
+      "min": 94582,
+      "max": 231201,
+      "avg": 147128
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "SQL",
+      "Data Mining",
+      "Hadoop",
+      "Power BI",
+      "Data Visualization",
+      "R",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "description": "Professional certification in data engineer lead certificate offered by Microsoft. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 24,
+    "created_at": "2025-09-11T18:32:31.470193",
+    "updated_at": "2025-09-11T18:32:31.470194"
+  },
+  {
+    "id": 385,
+    "slug": "certified-data-visualization-expert-1",
+    "name": "Certified Data Visualization Expert",
+    "issuer": "Microsoft",
+    "domain": "data-science",
+    "level": "Specialty",
+    "duration": "4 weeks",
+    "cost": 128,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 767,
+    "job_postings": 87,
+    "salary": {
+      "min": 85110,
+      "max": 208048,
+      "avg": 132394
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Data Visualization",
+      "TensorFlow",
+      "Hadoop",
+      "SQL",
+      "Spark",
+      "Data Mining",
+      "Python"
+    ],
+    "description": "Professional certification in certified data visualization expert offered by Microsoft. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 62,
+    "created_at": "2025-09-11T18:32:31.470844",
+    "updated_at": "2025-09-11T18:32:31.470845"
+  },
+  {
+    "id": 337,
+    "slug": "data-manager-foundational-certificate",
+    "name": "Data Manager Foundational Certificate",
+    "issuer": "Elastic",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 298,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 691,
+    "job_postings": 409,
+    "salary": {
+      "min": 88882,
+      "max": 217269,
+      "avg": 138262
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Data Visualization",
+      "Machine Learning",
+      "Hadoop",
+      "R",
+      "Tableau"
+    ],
+    "description": "Professional certification in data manager foundational certificate offered by Elastic. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 77,
+    "created_at": "2025-09-11T18:32:31.468889",
+    "updated_at": "2025-09-11T18:32:31.468890"
+  },
+  {
+    "id": 356,
+    "slug": "data-architect-professional-certificate",
+    "name": "Data Architect Professional Certificate",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 197,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 784,
+    "job_postings": 23,
+    "salary": {
+      "min": 79990,
+      "max": 195532,
+      "avg": 124429
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Data Mining",
+      "Spark",
+      "Data Visualization",
+      "Power BI",
+      "Hadoop",
+      "TensorFlow",
+      "R"
+    ],
+    "description": "Professional certification in data architect professional certificate offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 79,
+    "created_at": "2025-09-11T18:32:31.469664",
+    "updated_at": "2025-09-11T18:32:31.469665"
+  },
+  {
+    "id": 342,
+    "slug": "google-science-specialist-1",
+    "name": "Google Science Specialist",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 245,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 695,
+    "job_postings": 335,
+    "salary": {
+      "min": 98960,
+      "max": 241902,
+      "avg": 153937
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Tableau",
+      "Spark",
+      "Data Mining",
+      "Hadoop"
+    ],
+    "description": "Professional certification in google science specialist offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 105,
+    "created_at": "2025-09-11T18:32:31.469093",
+    "updated_at": "2025-09-11T18:32:31.469095"
+  },
+  {
+    "id": 377,
+    "slug": "data-analyst-foundational-certificate",
+    "name": "Data Analyst Foundational Certificate",
+    "issuer": "Snowflake",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 506,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 737,
+    "job_postings": 559,
+    "salary": {
+      "min": 79937,
+      "max": 195402,
+      "avg": 124347
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "R",
+      "SQL",
+      "Spark",
+      "Hadoop",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in data analyst foundational certificate offered by Snowflake. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 106,
+    "created_at": "2025-09-11T18:32:31.470514",
+    "updated_at": "2025-09-11T18:32:31.470515"
+  },
+  {
+    "id": 368,
+    "slug": "microsoft-data-administration-master",
+    "name": "Microsoft Data Administration Master",
+    "issuer": "Microsoft",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 124,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 606,
+    "job_postings": 198,
+    "salary": {
+      "min": 91294,
+      "max": 223165,
+      "avg": 142014
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Power BI",
+      "Python",
+      "TensorFlow",
+      "Tableau",
+      "Statistics",
+      "R",
+      "Spark",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in microsoft data administration master offered by Microsoft. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 114,
+    "created_at": "2025-09-11T18:32:31.470152",
+    "updated_at": "2025-09-11T18:32:31.470153"
+  },
+  {
+    "id": 376,
+    "slug": "spark-analytics-certification",
+    "name": "Spark Analytics Certification",
+    "issuer": "Elastic",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 524,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 645,
+    "job_postings": 647,
+    "salary": {
+      "min": 76865,
+      "max": 187893,
+      "avg": 119568
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Data Mining",
+      "Python",
+      "R",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in spark analytics certification offered by Elastic. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English"
+    ],
+    "ranking": 127,
+    "created_at": "2025-09-11T18:32:31.470475",
+    "updated_at": "2025-09-11T18:32:31.470476"
+  },
+  {
+    "id": 382,
+    "slug": "spark-strategy-certification-1",
+    "name": "Spark Strategy Certification",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 227,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 695,
+    "job_postings": 193,
+    "salary": {
+      "min": 92350,
+      "max": 225745,
+      "avg": 143656
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "SQL",
+      "Spark",
+      "Data Mining",
+      "TensorFlow",
+      "Hadoop"
+    ],
+    "description": "Professional certification in spark strategy certification offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 130,
+    "created_at": "2025-09-11T18:32:31.470716",
+    "updated_at": "2025-09-11T18:32:31.470718"
+  },
+  {
+    "id": 330,
+    "slug": "amazon-engineering-specialist",
+    "name": "Amazon Engineering Specialist",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 136,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 634,
+    "job_postings": 187,
+    "salary": {
+      "min": 101764,
+      "max": 248756,
+      "avg": 158299
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Data Visualization",
+      "Spark",
+      "R",
+      "TensorFlow"
+    ],
+    "description": "Professional certification in amazon engineering specialist offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 134,
+    "created_at": "2025-09-11T18:32:31.468603",
+    "updated_at": "2025-09-11T18:32:31.468607"
+  },
+  {
+    "id": 375,
+    "slug": "databricks-data-management-expert",
+    "name": "Databricks Data Management Expert",
+    "issuer": "Databricks",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 555,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 777,
+    "job_postings": 28,
+    "salary": {
+      "min": 99522,
+      "max": 243277,
+      "avg": 154813
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Tableau",
+      "Python",
+      "Hadoop",
+      "Data Mining",
+      "Data Visualization",
+      "Statistics",
+      "R",
+      "SQL"
+    ],
+    "description": "Professional certification in databricks data management expert offered by Databricks. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "ranking": 140,
+    "created_at": "2025-09-11T18:32:31.470435",
+    "updated_at": "2025-09-11T18:32:31.470437"
+  },
+  {
+    "id": 326,
+    "slug": "certified-predictive-analytics-professional",
+    "name": "Certified Predictive Analytics Professional",
+    "issuer": "Elastic",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 318,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 779,
+    "job_postings": 127,
+    "salary": {
+      "min": 101752,
+      "max": 248728,
+      "avg": 158282
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Hadoop",
+      "Tableau",
+      "SQL",
+      "Spark",
+      "Power BI",
+      "Python",
+      "Data Visualization",
+      "TensorFlow",
+      "Statistics"
+    ],
+    "description": "Professional certification in certified predictive analytics professional offered by Elastic. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 144,
+    "created_at": "2025-09-11T18:32:31.468442",
+    "updated_at": "2025-09-11T18:32:31.468443"
+  },
+  {
+    "id": 350,
+    "slug": "elastic-analytics-specialist",
+    "name": "Elastic Analytics Specialist",
+    "issuer": "Elastic",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 510,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 754,
+    "job_postings": 13,
+    "salary": {
+      "min": 80475,
+      "max": 196717,
+      "avg": 125183
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Statistics",
+      "Power BI",
+      "Machine Learning",
+      "Spark",
+      "Data Mining"
+    ],
+    "description": "Professional certification in elastic analytics specialist offered by Elastic. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 165,
+    "created_at": "2025-09-11T18:32:31.469419",
+    "updated_at": "2025-09-11T18:32:31.469420"
+  },
+  {
+    "id": 341,
+    "slug": "snowflake-security-certification",
+    "name": "Snowflake Security Certification",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 111,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 627,
+    "job_postings": 730,
+    "salary": {
+      "min": 101171,
+      "max": 247307,
+      "avg": 157377
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "SQL",
+      "Hadoop",
+      "Statistics",
+      "Tableau",
+      "Power BI",
+      "Python",
+      "Machine Learning",
+      "Data Visualization",
+      "Data Mining",
+      "Spark"
+    ],
+    "description": "Professional certification in snowflake security certification offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 174,
+    "created_at": "2025-09-11T18:32:31.469055",
+    "updated_at": "2025-09-11T18:32:31.469056"
+  },
+  {
+    "id": 360,
+    "slug": "data-engineer-lead-certificate",
+    "name": "Data Engineer Lead Certificate",
+    "issuer": "Microsoft",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 178,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 703,
+    "job_postings": 216,
+    "salary": {
+      "min": 101073,
+      "max": 247069,
+      "avg": 157226
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Spark",
+      "Power BI",
+      "Data Mining",
+      "Hadoop",
+      "Data Visualization",
+      "R",
+      "TensorFlow",
+      "Statistics"
+    ],
+    "description": "Professional certification in data engineer lead certificate offered by Microsoft. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 182,
+    "created_at": "2025-09-11T18:32:31.469827",
+    "updated_at": "2025-09-11T18:32:31.469829"
+  },
+  {
+    "id": 365,
+    "slug": "google-analytics-specialist",
+    "name": "Google Analytics Specialist",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 150,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 587,
+    "job_postings": 155,
+    "salary": {
+      "min": 92710,
+      "max": 226626,
+      "avg": 144216
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Machine Learning",
+      "Tableau",
+      "Data Visualization",
+      "SQL"
+    ],
+    "description": "Professional certification in google analytics specialist offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 183,
+    "created_at": "2025-09-11T18:32:31.470031",
+    "updated_at": "2025-09-11T18:32:31.470032"
+  },
+  {
+    "id": 349,
+    "slug": "tableau-data-architecture-master",
+    "name": "Tableau Data Architecture Master",
+    "issuer": "Tableau",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 374,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 379,
+    "job_postings": 1722,
+    "salary": {
+      "min": 96861,
+      "max": 236771,
+      "avg": 150673
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "TensorFlow",
+      "Machine Learning",
+      "Power BI",
+      "SQL",
+      "Statistics"
+    ],
+    "description": "Professional certification in tableau data architecture master offered by Tableau. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English"
+    ],
+    "ranking": 195,
+    "created_at": "2025-09-11T18:32:31.469381",
+    "updated_at": "2025-09-11T18:32:31.469382"
+  },
+  {
+    "id": 391,
+    "slug": "certified-business-intelligence-practitioner",
+    "name": "Certified Business Intelligence Practitioner",
+    "issuer": "Tableau",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "4 weeks",
+    "cost": 318,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 680,
+    "job_postings": 576,
+    "salary": {
+      "min": 81522,
+      "max": 199277,
+      "avg": 126812
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Power BI",
+      "SQL",
+      "Tableau",
+      "Statistics",
+      "Spark",
+      "TensorFlow",
+      "Data Mining"
+    ],
+    "description": "Professional certification in certified business intelligence practitioner offered by Tableau. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English"
+    ],
+    "ranking": 203,
+    "created_at": "2025-09-11T18:32:31.471083",
+    "updated_at": "2025-09-11T18:32:31.471084"
+  },
+  {
+    "id": 396,
+    "slug": "tableau-development-certification",
+    "name": "Tableau Development Certification",
+    "issuer": "Elastic",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 359,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 617,
+    "job_postings": 114,
+    "salary": {
+      "min": 89083,
+      "max": 217759,
+      "avg": 138574
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Spark",
+      "Tableau",
+      "Python",
+      "R",
+      "Machine Learning",
+      "Hadoop"
+    ],
+    "description": "Professional certification in tableau development certification offered by Elastic. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 215,
+    "created_at": "2025-09-11T18:32:31.471289",
+    "updated_at": "2025-09-11T18:32:31.471290"
+  },
+  {
+    "id": 390,
+    "slug": "amazon-science-specialist",
+    "name": "Amazon Science Specialist",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 130,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 772,
+    "job_postings": 29,
+    "salary": {
+      "min": 86700,
+      "max": 211934,
+      "avg": 134867
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "R",
+      "Tableau",
+      "TensorFlow",
+      "Machine Learning"
+    ],
+    "description": "Professional certification in amazon science specialist offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "German",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 225,
+    "created_at": "2025-09-11T18:32:31.471042",
+    "updated_at": "2025-09-11T18:32:31.471043"
+  },
+  {
+    "id": 329,
+    "slug": "google-science-specialist",
+    "name": "Google Science Specialist",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 218,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 636,
+    "job_postings": 157,
+    "salary": {
+      "min": 91961,
+      "max": 224795,
+      "avg": 143051
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "Tableau",
+      "Python",
+      "R"
+    ],
+    "description": "Professional certification in google science specialist offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 227,
+    "created_at": "2025-09-11T18:32:31.468563",
+    "updated_at": "2025-09-11T18:32:31.468564"
+  },
+  {
+    "id": 358,
+    "slug": "data-engineer-senior-certificate",
+    "name": "Data Engineer Senior Certificate",
+    "issuer": "IBM",
+    "domain": "data-science",
+    "level": "Specialty",
+    "duration": "24 hours",
+    "cost": 239,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 549,
+    "job_postings": 498,
+    "salary": {
+      "min": 77470,
+      "max": 189371,
+      "avg": 120509
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Statistics",
+      "Python",
+      "R",
+      "SQL",
+      "Data Mining",
+      "Power BI",
+      "Machine Learning",
+      "TensorFlow",
+      "Spark"
+    ],
+    "description": "Professional certification in data engineer senior certificate offered by IBM. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 250,
+    "created_at": "2025-09-11T18:32:31.469747",
+    "updated_at": "2025-09-11T18:32:31.469748"
+  },
+  {
+    "id": 364,
+    "slug": "elastic-data-architecture-foundational",
+    "name": "Elastic Data Architecture Foundational",
+    "issuer": "Elastic",
+    "domain": "data-science",
+    "level": "Specialty",
+    "duration": "4 weeks",
+    "cost": 522,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 640,
+    "job_postings": 90,
+    "salary": {
+      "min": 83521,
+      "max": 204164,
+      "avg": 129922
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Tableau",
+      "Hadoop",
+      "TensorFlow",
+      "R",
+      "Python",
+      "SQL",
+      "Data Visualization",
+      "Data Mining",
+      "Statistics"
+    ],
+    "description": "Professional certification in elastic data architecture foundational offered by Elastic. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 293,
+    "created_at": "2025-09-11T18:32:31.469992",
+    "updated_at": "2025-09-11T18:32:31.469993"
+  },
+  {
+    "id": 338,
+    "slug": "certified-data-visualization-specialist",
+    "name": "Certified Data Visualization Specialist",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 116,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 517,
+    "job_postings": 47,
+    "salary": {
+      "min": 98956,
+      "max": 241892,
+      "avg": 153931
+    },
+    "difficulty": "Beginner",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Tableau",
+      "Statistics",
+      "R",
+      "Spark",
+      "SQL",
+      "Hadoop",
+      "Python",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in certified data visualization specialist offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 312,
+    "created_at": "2025-09-11T18:32:31.468930",
+    "updated_at": "2025-09-11T18:32:31.468932"
+  },
+  {
+    "id": 328,
+    "slug": "certified-business-intelligence-expert",
+    "name": "Certified Business Intelligence Expert",
+    "issuer": "IBM",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 151,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 665,
+    "job_postings": 124,
+    "salary": {
+      "min": 84822,
+      "max": 207344,
+      "avg": 131946
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Data Visualization",
+      "Spark",
+      "R",
+      "Power BI"
+    ],
+    "description": "Professional certification in certified business intelligence expert offered by IBM. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 382,
+    "created_at": "2025-09-11T18:32:31.468524",
+    "updated_at": "2025-09-11T18:32:31.468525"
+  },
+  {
+    "id": 354,
+    "slug": "certified-data-visualization-analyst",
+    "name": "Certified Data Visualization Analyst",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 179,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 613,
+    "job_postings": 676,
+    "salary": {
+      "min": 92002,
+      "max": 224895,
+      "avg": 143115
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "R",
+      "Python",
+      "Statistics",
+      "Machine Learning",
+      "SQL"
+    ],
+    "description": "Professional certification in certified data visualization analyst offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 384,
+    "created_at": "2025-09-11T18:32:31.469583",
+    "updated_at": "2025-09-11T18:32:31.469584"
+  },
+  {
+    "id": 351,
+    "slug": "certified-data-visualization-practitioner",
+    "name": "Certified Data Visualization Practitioner",
+    "issuer": "Tableau",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 402,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 759,
+    "job_postings": 31,
+    "salary": {
+      "min": 94498,
+      "max": 230995,
+      "avg": 146997
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Statistics",
+      "Tableau",
+      "Power BI",
+      "Python",
+      "Hadoop",
+      "TensorFlow",
+      "SQL",
+      "Machine Learning",
+      "Spark"
+    ],
+    "description": "Professional certification in certified data visualization practitioner offered by Tableau. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 386,
+    "created_at": "2025-09-11T18:32:31.469461",
+    "updated_at": "2025-09-11T18:32:31.469462"
+  },
+  {
+    "id": 348,
+    "slug": "datarobot-data-development-expert",
+    "name": "DataRobot Data Development Expert",
+    "issuer": "DataRobot",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 569,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 535,
+    "job_postings": 612,
+    "salary": {
+      "min": 102169,
+      "max": 249748,
+      "avg": 158930
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Spark",
+      "Data Visualization",
+      "Machine Learning",
+      "Data Mining",
+      "SQL"
+    ],
+    "description": "Professional certification in datarobot data development expert offered by DataRobot. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 428,
+    "created_at": "2025-09-11T18:32:31.469342",
+    "updated_at": "2025-09-11T18:32:31.469344"
+  },
+  {
+    "id": 361,
+    "slug": "amazon-data-engineering-advanced",
+    "name": "Amazon Data Engineering Advanced",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 137,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 601,
+    "job_postings": 14,
+    "salary": {
+      "min": 97979,
+      "max": 239504,
+      "avg": 152411
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Tableau",
+      "TensorFlow",
+      "Data Visualization",
+      "Spark",
+      "SQL",
+      "R",
+      "Machine Learning"
+    ],
+    "description": "Professional certification in amazon data engineering advanced offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 446,
+    "created_at": "2025-09-11T18:32:31.469868",
+    "updated_at": "2025-09-11T18:32:31.469869"
+  },
+  {
+    "id": 343,
+    "slug": "sas-data-architecture-lead",
+    "name": "SAS Data Architecture Lead",
+    "issuer": "SAS",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 369,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 162,
+    "job_postings": 2515,
+    "salary": {
+      "min": 97097,
+      "max": 237349,
+      "avg": 151040
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "TensorFlow",
+      "R",
+      "Data Visualization",
+      "Tableau",
+      "Power BI"
+    ],
+    "description": "Professional certification in sas data architecture lead offered by SAS. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 455,
+    "created_at": "2025-09-11T18:32:31.469135",
+    "updated_at": "2025-09-11T18:32:31.469137"
+  },
+  {
+    "id": 392,
+    "slug": "data-engineer-professional-certificate-1",
+    "name": "Data Engineer Professional Certificate",
+    "issuer": "SAS",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 448,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 653,
+    "job_postings": 423,
+    "salary": {
+      "min": 99069,
+      "max": 242170,
+      "avg": 154108
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Spark",
+      "Data Visualization",
+      "TensorFlow",
+      "Python",
+      "R",
+      "Statistics"
+    ],
+    "description": "Professional certification in data engineer professional certificate offered by SAS. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 485,
+    "created_at": "2025-09-11T18:32:31.471126",
+    "updated_at": "2025-09-11T18:32:31.471127"
+  },
+  {
+    "id": 340,
+    "slug": "google-data-development-associate",
+    "name": "Google Data Development Associate",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 219,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 539,
+    "job_postings": 32,
+    "salary": {
+      "min": 99956,
+      "max": 244337,
+      "avg": 155487
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Data Visualization",
+      "TensorFlow",
+      "Power BI",
+      "Data Mining",
+      "SQL",
+      "Hadoop"
+    ],
+    "description": "Professional certification in google data development associate offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 491,
+    "created_at": "2025-09-11T18:32:31.469014",
+    "updated_at": "2025-09-11T18:32:31.469015"
+  },
+  {
+    "id": 389,
+    "slug": "ibm-data-administration-expert",
+    "name": "IBM Data Administration Expert",
+    "issuer": "IBM",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 207,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 628,
+    "job_postings": 35,
+    "salary": {
+      "min": 97217,
+      "max": 237641,
+      "avg": 151226
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Machine Learning",
+      "R",
+      "TensorFlow",
+      "SQL",
+      "Spark",
+      "Data Visualization",
+      "Statistics",
+      "Hadoop"
+    ],
+    "description": "Professional certification in ibm data administration expert offered by IBM. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 492,
+    "created_at": "2025-09-11T18:32:31.471004",
+    "updated_at": "2025-09-11T18:32:31.471005"
+  },
+  {
+    "id": 370,
+    "slug": "data-administrator-senior-certificate",
+    "name": "Data Administrator Senior Certificate",
+    "issuer": "Microsoft",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 117,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 337,
+    "job_postings": 369,
+    "salary": {
+      "min": 91793,
+      "max": 224385,
+      "avg": 142790
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Power BI",
+      "Spark",
+      "Data Visualization",
+      "Python",
+      "Tableau"
+    ],
+    "description": "Professional certification in data administrator senior certificate offered by Microsoft. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 495,
+    "created_at": "2025-09-11T18:32:31.470234",
+    "updated_at": "2025-09-11T18:32:31.470235"
+  },
+  {
+    "id": 387,
+    "slug": "certified-data-visualization-specialist-1",
+    "name": "Certified Data Visualization Specialist",
+    "issuer": "DataRobot",
+    "domain": "data-science",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 941,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 606,
+    "job_postings": 6,
+    "salary": {
+      "min": 93090,
+      "max": 227553,
+      "avg": 144806
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Hadoop",
+      "TensorFlow",
+      "Power BI",
+      "Statistics",
+      "Data Visualization",
+      "R"
+    ],
+    "description": "Professional certification in certified data visualization specialist offered by DataRobot. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 514,
+    "created_at": "2025-09-11T18:32:31.470924",
+    "updated_at": "2025-09-11T18:32:31.470925"
+  },
+  {
+    "id": 339,
+    "slug": "snowflake-architecture-certification",
+    "name": "Snowflake Architecture Certification",
+    "issuer": "IBM",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 143,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 486,
+    "job_postings": 36,
+    "salary": {
+      "min": 94147,
+      "max": 230139,
+      "avg": 146452
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Data Visualization",
+      "R",
+      "Spark",
+      "TensorFlow",
+      "SQL",
+      "Hadoop",
+      "Statistics",
+      "Tableau"
+    ],
+    "description": "Professional certification in snowflake architecture certification offered by IBM. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 545,
+    "created_at": "2025-09-11T18:32:31.468971",
+    "updated_at": "2025-09-11T18:32:31.468973"
+  },
+  {
+    "id": 331,
+    "slug": "tableau-security-certification",
+    "name": "Tableau Security Certification",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 180,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 466,
+    "job_postings": 30,
+    "salary": {
+      "min": 91436,
+      "max": 223511,
+      "avg": 142234
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Tableau",
+      "Power BI",
+      "Hadoop",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in tableau security certification offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 552,
+    "created_at": "2025-09-11T18:32:31.468645",
+    "updated_at": "2025-09-11T18:32:31.468646"
+  },
+  {
+    "id": 373,
+    "slug": "certified-business-intelligence-professional-1",
+    "name": "Certified Business Intelligence Professional",
+    "issuer": "Tableau",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 396,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 567,
+    "job_postings": 278,
+    "salary": {
+      "min": 88770,
+      "max": 216995,
+      "avg": 138087
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Data Visualization",
+      "Hadoop",
+      "R"
+    ],
+    "description": "Professional certification in certified business intelligence professional offered by Tableau. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 565,
+    "created_at": "2025-09-11T18:32:31.470355",
+    "updated_at": "2025-09-11T18:32:31.470356"
+  },
+  {
+    "id": 352,
+    "slug": "data-analyst-senior-certificate",
+    "name": "Data Analyst Senior Certificate",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 120,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 323,
+    "job_postings": 184,
+    "salary": {
+      "min": 90294,
+      "max": 220719,
+      "avg": 140457
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Data Mining",
+      "Tableau",
+      "Power BI",
+      "Hadoop"
+    ],
+    "description": "Professional certification in data analyst senior certificate offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English"
+    ],
+    "ranking": 569,
+    "created_at": "2025-09-11T18:32:31.469500",
+    "updated_at": "2025-09-11T18:32:31.469501"
+  },
+  {
+    "id": 393,
+    "slug": "certified-business-intelligence-professional-2",
+    "name": "Certified Business Intelligence Professional",
+    "issuer": "Snowflake",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "4 weeks",
+    "cost": 351,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 571,
+    "job_postings": 526,
+    "salary": {
+      "min": 93074,
+      "max": 227515,
+      "avg": 144782
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Tableau",
+      "Data Visualization",
+      "Hadoop",
+      "Statistics",
+      "Machine Learning",
+      "R",
+      "Data Mining"
+    ],
+    "description": "Professional certification in certified business intelligence professional offered by Snowflake. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 582,
+    "created_at": "2025-09-11T18:32:31.471168",
+    "updated_at": "2025-09-11T18:32:31.471169"
+  },
+  {
+    "id": 379,
+    "slug": "data-engineer-foundational-certificate",
+    "name": "Data Engineer Foundational Certificate",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 179,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 367,
+    "job_postings": 96,
+    "salary": {
+      "min": 99528,
+      "max": 243291,
+      "avg": 154821
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "SQL",
+      "TensorFlow",
+      "Tableau",
+      "Python",
+      "Power BI",
+      "Data Mining",
+      "Machine Learning"
+    ],
+    "description": "Professional certification in data engineer foundational certificate offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 640,
+    "created_at": "2025-09-11T18:32:31.470595",
+    "updated_at": "2025-09-11T18:32:31.470596"
+  },
+  {
+    "id": 380,
+    "slug": "hadoop-development-certification",
+    "name": "Hadoop Development Certification",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 148,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 439,
+    "job_postings": 48,
+    "salary": {
+      "min": 97367,
+      "max": 238008,
+      "avg": 151459
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Spark",
+      "Hadoop",
+      "TensorFlow",
+      "Tableau",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in hadoop development certification offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 654,
+    "created_at": "2025-09-11T18:32:31.470635",
+    "updated_at": "2025-09-11T18:32:31.470636"
+  },
+  {
+    "id": 367,
+    "slug": "tableau-strategy-certification",
+    "name": "Tableau Strategy Certification",
+    "issuer": "Snowflake",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 482,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 377,
+    "job_postings": 37,
+    "salary": {
+      "min": 88480,
+      "max": 216286,
+      "avg": 137637
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Python",
+      "Tableau",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in tableau strategy certification offered by Snowflake. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 659,
+    "created_at": "2025-09-11T18:32:31.470111",
+    "updated_at": "2025-09-11T18:32:31.470112"
+  },
+  {
+    "id": 395,
+    "slug": "amazon-science-specialist-1",
+    "name": "Amazon Science Specialist",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 167,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 463,
+    "job_postings": 179,
+    "salary": {
+      "min": 80781,
+      "max": 197466,
+      "avg": 125660
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "R",
+      "SQL",
+      "Python",
+      "Power BI",
+      "Spark",
+      "TensorFlow",
+      "Hadoop",
+      "Data Visualization",
+      "Tableau"
+    ],
+    "description": "Professional certification in amazon science specialist offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ],
+    "ranking": 660,
+    "created_at": "2025-09-11T18:32:31.471249",
+    "updated_at": "2025-09-11T18:32:31.471251"
+  },
+  {
+    "id": 372,
+    "slug": "spark-strategy-certification",
+    "name": "Spark Strategy Certification",
+    "issuer": "Elastic",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 533,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 305,
+    "job_postings": 1271,
+    "salary": {
+      "min": 102531,
+      "max": 250633,
+      "avg": 159494
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Tableau",
+      "Hadoop",
+      "Spark",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in spark strategy certification offered by Elastic. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 718,
+    "created_at": "2025-09-11T18:32:31.470314",
+    "updated_at": "2025-09-11T18:32:31.470316"
+  },
+  {
+    "id": 327,
+    "slug": "databricks-data-engineering-advanced",
+    "name": "Databricks Data Engineering Advanced",
+    "issuer": "Databricks",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 709,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 396,
+    "job_postings": 1280,
+    "salary": {
+      "min": 96158,
+      "max": 235053,
+      "avg": 149579
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Python",
+      "Hadoop",
+      "Tableau",
+      "Statistics",
+      "Data Mining",
+      "R",
+      "Power BI",
+      "Spark",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in databricks data engineering advanced offered by Databricks. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 721,
+    "created_at": "2025-09-11T18:32:31.468483",
+    "updated_at": "2025-09-11T18:32:31.468485"
+  },
+  {
+    "id": 344,
+    "slug": "certified-predictive-analytics-practitioner",
+    "name": "Certified Predictive Analytics Practitioner",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 262,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 360,
+    "job_postings": 13,
+    "salary": {
+      "min": 101826,
+      "max": 248910,
+      "avg": 158397
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Data Mining",
+      "TensorFlow",
+      "Python",
+      "Machine Learning"
+    ],
+    "description": "Professional certification in certified predictive analytics practitioner offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 826,
+    "created_at": "2025-09-11T18:32:31.469176",
+    "updated_at": "2025-09-11T18:32:31.469178"
+  },
+  {
+    "id": 346,
+    "slug": "certified-business-intelligence-analyst",
+    "name": "Certified Business Intelligence Analyst",
+    "issuer": "DataRobot",
+    "domain": "data-science",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 985,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 416,
+    "job_postings": 19,
+    "salary": {
+      "min": 88571,
+      "max": 216509,
+      "avg": 137778
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Hadoop",
+      "Spark",
+      "Data Mining",
+      "Statistics",
+      "Power BI"
+    ],
+    "description": "Professional certification in certified business intelligence analyst offered by DataRobot. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 876,
+    "created_at": "2025-09-11T18:32:31.469257",
+    "updated_at": "2025-09-11T18:32:31.469258"
+  },
+  {
+    "id": 334,
+    "slug": "data-engineer-professional-certificate",
+    "name": "Data Engineer Professional Certificate",
+    "issuer": "IBM",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 271,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 164,
+    "job_postings": 594,
+    "salary": {
+      "min": 83524,
+      "max": 204171,
+      "avg": 129927
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Data Visualization",
+      "Statistics",
+      "Power BI",
+      "TensorFlow",
+      "R"
+    ],
+    "description": "Professional certification in data engineer professional certificate offered by IBM. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 878,
+    "created_at": "2025-09-11T18:32:31.468766",
+    "updated_at": "2025-09-11T18:32:31.468767"
+  },
+  {
+    "id": 378,
+    "slug": "elastic-data-security-foundational",
+    "name": "Elastic Data Security Foundational",
+    "issuer": "Elastic",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 357,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 427,
+    "job_postings": 193,
+    "salary": {
+      "min": 87946,
+      "max": 214981,
+      "avg": 136806
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "TensorFlow",
+      "Spark",
+      "Machine Learning",
+      "Hadoop",
+      "R",
+      "Power BI",
+      "Statistics"
+    ],
+    "description": "Professional certification in elastic data security foundational offered by Elastic. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 890,
+    "created_at": "2025-09-11T18:32:31.470555",
+    "updated_at": "2025-09-11T18:32:31.470556"
+  },
+  {
+    "id": 355,
+    "slug": "microsoft-data-strategy-senior",
+    "name": "Microsoft Data Strategy Senior",
+    "issuer": "Microsoft",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 156,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 152,
+    "job_postings": 189,
+    "salary": {
+      "min": 88458,
+      "max": 216231,
+      "avg": 137602
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Data Visualization",
+      "Statistics",
+      "Data Mining",
+      "Machine Learning",
+      "R",
+      "Spark",
+      "Hadoop",
+      "SQL"
+    ],
+    "description": "Professional certification in microsoft data strategy senior offered by Microsoft. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese",
+      "Portuguese"
+    ],
+    "ranking": 954,
+    "created_at": "2025-09-11T18:32:31.469623",
+    "updated_at": "2025-09-11T18:32:31.469625"
+  },
+  {
+    "id": 347,
+    "slug": "certified-predictive-analytics-practitioner-1",
+    "name": "Certified Predictive Analytics Practitioner",
+    "issuer": "Databricks",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 640,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 336,
+    "job_postings": 309,
+    "salary": {
+      "min": 83599,
+      "max": 204354,
+      "avg": 130043
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Power BI",
+      "Tableau",
+      "Python",
+      "SQL",
+      "Statistics",
+      "TensorFlow",
+      "Machine Learning",
+      "Hadoop",
+      "R"
+    ],
+    "description": "Professional certification in certified predictive analytics practitioner offered by Databricks. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 964,
+    "created_at": "2025-09-11T18:32:31.469302",
+    "updated_at": "2025-09-11T18:32:31.469304"
+  },
+  {
+    "id": 362,
+    "slug": "sas-analytics-specialist",
+    "name": "SAS Analytics Specialist",
+    "issuer": "SAS",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 299,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 333,
+    "job_postings": 13,
+    "salary": {
+      "min": 80318,
+      "max": 196334,
+      "avg": 124940
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Power BI",
+      "R",
+      "Machine Learning",
+      "Data Visualization",
+      "SQL",
+      "Tableau",
+      "Statistics",
+      "Hadoop"
+    ],
+    "description": "Professional certification in sas analytics specialist offered by SAS. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 982,
+    "created_at": "2025-09-11T18:32:31.469910",
+    "updated_at": "2025-09-11T18:32:31.469911"
+  },
+  {
+    "id": 374,
+    "slug": "snowflake-analytics-specialist",
+    "name": "Snowflake Analytics Specialist",
+    "issuer": "Snowflake",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 561,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 405,
+    "job_postings": 263,
+    "salary": {
+      "min": 97442,
+      "max": 238192,
+      "avg": 151577
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Statistics",
+      "Machine Learning",
+      "Spark",
+      "Data Visualization",
+      "Data Mining"
+    ],
+    "description": "Professional certification in snowflake analytics specialist offered by Snowflake. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 984,
+    "created_at": "2025-09-11T18:32:31.470395",
+    "updated_at": "2025-09-11T18:32:31.470396"
+  },
+  {
+    "id": 357,
+    "slug": "data-engineer-associate-certificate",
+    "name": "Data Engineer Associate Certificate",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 207,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 117,
+    "job_postings": 773,
+    "salary": {
+      "min": 76595,
+      "max": 187234,
+      "avg": 119149
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Hadoop",
+      "TensorFlow",
+      "SQL",
+      "Python",
+      "Statistics",
+      "Data Mining",
+      "Power BI",
+      "R"
+    ],
+    "description": "Professional certification in data engineer associate certificate offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese"
+    ],
+    "ranking": 1010,
+    "created_at": "2025-09-11T18:32:31.469706",
+    "updated_at": "2025-09-11T18:32:31.469707"
+  },
+  {
+    "id": 336,
+    "slug": "tableau-engineering-certification",
+    "name": "Tableau Engineering Certification",
+    "issuer": "Microsoft",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 228,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 104,
+    "job_postings": 43,
+    "salary": {
+      "min": 100386,
+      "max": 245389,
+      "avg": 156157
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "TensorFlow",
+      "Spark",
+      "Power BI",
+      "Tableau",
+      "Data Visualization",
+      "Machine Learning",
+      "Data Mining",
+      "Statistics",
+      "SQL"
+    ],
+    "description": "Professional certification in tableau engineering certification offered by Microsoft. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 1037,
+    "created_at": "2025-09-11T18:32:31.468849",
+    "updated_at": "2025-09-11T18:32:31.468850"
+  },
+  {
+    "id": 363,
+    "slug": "certified-statistical-analysis-expert",
+    "name": "Certified Statistical Analysis Expert",
+    "issuer": "IBM",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 225,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 91,
+    "job_postings": 249,
+    "salary": {
+      "min": 91293,
+      "max": 223163,
+      "avg": 142012
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Spark",
+      "Hadoop",
+      "Tableau",
+      "Python",
+      "TensorFlow"
+    ],
+    "description": "Professional certification in certified statistical analysis expert offered by IBM. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1042,
+    "created_at": "2025-09-11T18:32:31.469950",
+    "updated_at": "2025-09-11T18:32:31.469951"
+  },
+  {
+    "id": 345,
+    "slug": "amazon-visualization-specialist",
+    "name": "Amazon Visualization Specialist",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 189,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 217,
+    "job_postings": 97,
+    "salary": {
+      "min": 97537,
+      "max": 238425,
+      "avg": 151725
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Data Visualization",
+      "Power BI",
+      "TensorFlow",
+      "Data Mining",
+      "R",
+      "Hadoop",
+      "Spark"
+    ],
+    "description": "Professional certification in amazon visualization specialist offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Spanish",
+      "German",
+      "Chinese"
+    ],
+    "ranking": 1043,
+    "created_at": "2025-09-11T18:32:31.469216",
+    "updated_at": "2025-09-11T18:32:31.469218"
+  },
+  {
+    "id": 381,
+    "slug": "tableau-administration-certification",
+    "name": "Tableau Administration Certification",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 138,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 101,
+    "job_postings": 116,
+    "salary": {
+      "min": 94562,
+      "max": 231152,
+      "avg": 147096
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Power BI",
+      "Spark",
+      "Statistics",
+      "Data Mining",
+      "Machine Learning",
+      "TensorFlow",
+      "R",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "description": "Professional certification in tableau administration certification offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1093,
+    "created_at": "2025-09-11T18:32:31.470677",
+    "updated_at": "2025-09-11T18:32:31.470678"
+  },
+  {
+    "id": 332,
+    "slug": "certified-data-visualization-expert",
+    "name": "Certified Data Visualization Expert",
+    "issuer": "DataRobot",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "2 weeks",
+    "cost": 1076,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 433,
+    "job_postings": 30,
+    "salary": {
+      "min": 77530,
+      "max": 189519,
+      "avg": 120603
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Statistics",
+      "SQL",
+      "TensorFlow",
+      "Python"
+    ],
+    "description": "Professional certification in certified data visualization expert offered by DataRobot. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 74,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1111,
+    "created_at": "2025-09-11T18:32:31.468684",
+    "updated_at": "2025-09-11T18:32:31.468686"
+  },
+  {
+    "id": 394,
+    "slug": "certified-business-intelligence-practitioner-1",
+    "name": "Certified Business Intelligence Practitioner",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 200,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 206,
+    "job_postings": 88,
+    "salary": {
+      "min": 96937,
+      "max": 236957,
+      "avg": 150791
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "SQL",
+      "Statistics",
+      "Tableau",
+      "Data Mining",
+      "Power BI"
+    ],
+    "description": "Professional certification in certified business intelligence practitioner offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 1122,
+    "created_at": "2025-09-11T18:32:31.471209",
+    "updated_at": "2025-09-11T18:32:31.471210"
+  },
+  {
+    "id": 325,
+    "slug": "certified-predictive-analytics-analyst",
+    "name": "Certified Predictive Analytics Analyst",
+    "issuer": "Amazon Web Services (AWS)",
+    "domain": "data-science",
+    "level": "Specialty",
+    "duration": "16 hours",
+    "cost": 207,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 24,
+    "job_postings": 590,
+    "salary": {
+      "min": 93127,
+      "max": 227644,
+      "avg": 144864
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Power BI",
+      "Data Mining",
+      "Data Visualization",
+      "Spark",
+      "Tableau"
+    ],
+    "description": "Professional certification in certified predictive analytics analyst offered by Amazon Web Services (AWS). Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 1182,
+    "created_at": "2025-09-11T18:32:31.468399",
+    "updated_at": "2025-09-11T18:32:31.468400"
+  },
+  {
+    "id": 333,
+    "slug": "certified-business-intelligence-professional",
+    "name": "Certified Business Intelligence Professional",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 195,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 151,
+    "job_postings": 15,
+    "salary": {
+      "min": 102708,
+      "max": 251066,
+      "avg": 159769
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Tableau",
+      "R",
+      "Data Mining",
+      "Spark",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in certified business intelligence professional offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 1197,
+    "created_at": "2025-09-11T18:32:31.468725",
+    "updated_at": "2025-09-11T18:32:31.468726"
+  },
+  {
+    "id": 388,
+    "slug": "data-architect-foundational-certificate-1",
+    "name": "Data Architect Foundational Certificate",
+    "issuer": "Google Cloud",
+    "domain": "data-science",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 155,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 212,
+    "job_postings": 40,
+    "salary": {
+      "min": 87008,
+      "max": 212688,
+      "avg": 135347
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Statistics",
+      "TensorFlow",
+      "Python",
+      "Data Visualization",
+      "Data Mining"
+    ],
+    "description": "Professional certification in data architect foundational certificate offered by Google Cloud. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 1210,
+    "created_at": "2025-09-11T18:32:31.470964",
+    "updated_at": "2025-09-11T18:32:31.470965"
+  },
+  {
+    "id": 366,
+    "slug": "sas-data-architecture-senior",
+    "name": "SAS Data Architecture Senior",
+    "issuer": "SAS",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 315,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 68,
+    "job_postings": 75,
+    "salary": {
+      "min": 88326,
+      "max": 215909,
+      "avg": 137396
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Python",
+      "R",
+      "Power BI",
+      "TensorFlow",
+      "Hadoop",
+      "Data Visualization",
+      "Tableau",
+      "Statistics"
+    ],
+    "description": "Professional certification in sas data architecture senior offered by SAS. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 1262,
+    "created_at": "2025-09-11T18:32:31.470071",
+    "updated_at": "2025-09-11T18:32:31.470072"
+  },
+  {
+    "id": 386,
+    "slug": "snowflake-science-specialist",
+    "name": "Snowflake Science Specialist",
+    "issuer": "Snowflake",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 575,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 205,
+    "job_postings": 37,
+    "salary": {
+      "min": 77053,
+      "max": 188353,
+      "avg": 119861
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Spark",
+      "SQL",
+      "Machine Learning",
+      "Data Visualization",
+      "Data Mining",
+      "Tableau",
+      "Python",
+      "Statistics"
+    ],
+    "description": "Professional certification in snowflake science specialist offered by Snowflake. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Chinese",
+      "French"
+    ],
+    "ranking": 1283,
+    "created_at": "2025-09-11T18:32:31.470884",
+    "updated_at": "2025-09-11T18:32:31.470885"
+  },
+  {
+    "id": 371,
+    "slug": "data-administrator-lead-certificate",
+    "name": "Data Administrator Lead Certificate",
+    "issuer": "Tableau",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 350,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 55,
+    "job_postings": 78,
+    "salary": {
+      "min": 87586,
+      "max": 214099,
+      "avg": 136245
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Tableau",
+      "R",
+      "Statistics",
+      "Hadoop",
+      "Spark"
+    ],
+    "description": "Professional certification in data administrator lead certificate offered by Tableau. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1291,
+    "created_at": "2025-09-11T18:32:31.470275",
+    "updated_at": "2025-09-11T18:32:31.470276"
+  },
+  {
+    "id": 384,
+    "slug": "data-architect-lead-certificate",
+    "name": "Data Architect Lead Certificate",
+    "issuer": "SAS",
+    "domain": "data-science",
+    "level": "Expert",
+    "duration": "16 hours",
+    "cost": 379,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 56,
+    "job_postings": 34,
+    "salary": {
+      "min": 96214,
+      "max": 235190,
+      "avg": 149666
+    },
+    "difficulty": "Advanced",
+    "validity_years": 5,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Data Mining",
+      "Tableau",
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "description": "Professional certification in data architect lead certificate offered by SAS. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1302,
+    "created_at": "2025-09-11T18:32:31.470804",
+    "updated_at": "2025-09-11T18:32:31.470805"
+  },
+  {
+    "id": 335,
+    "slug": "databricks-architecture-certification",
+    "name": "Databricks Architecture Certification",
+    "issuer": "SAS",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 479,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 69,
+    "job_postings": 23,
+    "salary": {
+      "min": 88503,
+      "max": 216341,
+      "avg": 137671
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Power BI",
+      "Statistics",
+      "Data Visualization",
+      "R",
+      "Spark"
+    ],
+    "description": "Professional certification in databricks architecture certification offered by SAS. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Chinese"
+    ],
+    "ranking": 1324,
+    "created_at": "2025-09-11T18:32:31.468808",
+    "updated_at": "2025-09-11T18:32:31.468809"
+  },
+  {
+    "id": 353,
+    "slug": "datarobot-data-analytics-lead",
+    "name": "DataRobot Data Analytics Lead",
+    "issuer": "DataRobot",
+    "domain": "data-science",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 596,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 27,
+    "job_postings": 137,
+    "salary": {
+      "min": 84461,
+      "max": 206461,
+      "avg": 131384
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "TensorFlow",
+      "Data Mining",
+      "Python",
+      "Tableau",
+      "Spark",
+      "Power BI",
+      "SQL"
+    ],
+    "description": "Professional certification in datarobot data analytics lead offered by DataRobot. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 66,
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 1347,
+    "created_at": "2025-09-11T18:32:31.469540",
+    "updated_at": "2025-09-11T18:32:31.469542"
+  },
+  {
+    "id": 359,
+    "slug": "certified-predictive-analytics-consultant",
+    "name": "Certified Predictive Analytics Consultant",
+    "issuer": "SAS",
+    "domain": "data-science",
+    "level": "Expert",
+    "duration": "1 weeks",
+    "cost": 491,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 115,
+    "job_postings": 16,
+    "salary": {
+      "min": 88559,
+      "max": 216479,
+      "avg": 137759
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Hadoop",
+      "Data Mining",
+      "Machine Learning",
+      "Power BI"
+    ],
+    "description": "Professional certification in certified predictive analytics consultant offered by SAS. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 1368,
+    "created_at": "2025-09-11T18:32:31.469788",
+    "updated_at": "2025-09-11T18:32:31.469789"
+  },
+  {
+    "id": 383,
+    "slug": "data-architect-foundational-certificate",
+    "name": "Data Architect Foundational Certificate",
+    "issuer": "Elastic",
+    "domain": "data-science",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 374,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 33,
+    "job_postings": 32,
+    "salary": {
+      "min": 90708,
+      "max": 221732,
+      "avg": 141102
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Statistics",
+      "R",
+      "Hadoop",
+      "Spark",
+      "SQL",
+      "Machine Learning",
+      "Data Visualization"
+    ],
+    "description": "Professional certification in data architect foundational certificate offered by Elastic. Validates expertise in Data Science and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1372,
+    "created_at": "2025-09-11T18:32:31.470763",
+    "updated_at": "2025-09-11T18:32:31.470764"
+  }
+]

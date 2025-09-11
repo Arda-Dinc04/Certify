@@ -1,0 +1,2048 @@
+[
+  {
+    "id": 1091,
+    "slug": "aapc-laboratory-credential",
+    "name": "AAPC Laboratory Credential",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 352,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 786,
+    "job_postings": 109,
+    "salary": {
+      "min": 46983,
+      "max": 122156,
+      "avg": 75173
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Healthcare Analytics",
+      "Patient Care",
+      "Medical Procedures",
+      "Healthcare Compliance",
+      "Medical Coding",
+      "Quality Improvement",
+      "Patient Safety",
+      "Electronic Health Records"
+    ],
+    "description": "Professional certification in aapc laboratory credential offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 36,
+    "created_at": "2025-09-11T18:32:31.500098",
+    "updated_at": "2025-09-11T18:32:31.500099"
+  },
+  {
+    "id": 1112,
+    "slug": "certified-radiology-senior",
+    "name": "Certified Radiology Senior",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 69,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 720,
+    "job_postings": 21,
+    "salary": {
+      "min": 52059,
+      "max": 135353,
+      "avg": 83294
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Medical Procedures",
+      "Healthcare Compliance",
+      "Medical Coding",
+      "Patient Safety",
+      "Electronic Health Records",
+      "Quality Improvement",
+      "Patient Care",
+      "Healthcare Analytics"
+    ],
+    "description": "Professional certification in certified radiology senior offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 83,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "ranking": 55,
+    "created_at": "2025-09-11T18:32:31.500928",
+    "updated_at": "2025-09-11T18:32:31.500929"
+  },
+  {
+    "id": 1113,
+    "slug": "certified-critical-care-master",
+    "name": "Certified Critical Care Master",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 109,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 594,
+    "job_postings": 987,
+    "salary": {
+      "min": 48415,
+      "max": 125881,
+      "avg": 77465
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Healthcare Analytics",
+      "Patient Safety",
+      "Electronic Health Records",
+      "Medical Procedures",
+      "Patient Care",
+      "Quality Improvement"
+    ],
+    "description": "Professional certification in certified critical care master offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "German"
+    ],
+    "ranking": 60,
+    "created_at": "2025-09-11T18:32:31.500969",
+    "updated_at": "2025-09-11T18:32:31.500971"
+  },
+  {
+    "id": 1089,
+    "slug": "certified-nursing-senior",
+    "name": "Certified Nursing Senior",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 316,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 720,
+    "job_postings": 261,
+    "salary": {
+      "min": 46162,
+      "max": 120022,
+      "avg": 73859
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Improvement",
+      "Patient Safety",
+      "Healthcare Analytics",
+      "Medical Procedures",
+      "Electronic Health Records",
+      "Medical Coding",
+      "Healthcare Compliance",
+      "Patient Care"
+    ],
+    "description": "Professional certification in certified nursing senior offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 70,
+    "created_at": "2025-09-11T18:32:31.500018",
+    "updated_at": "2025-09-11T18:32:31.500019"
+  },
+  {
+    "id": 1126,
+    "slug": "clinical-certification-board-5",
+    "name": "Clinical Certification Board",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 448,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 740,
+    "job_postings": 652,
+    "salary": {
+      "min": 57233,
+      "max": 148808,
+      "avg": 91574
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Healthcare Analytics",
+      "Medical Procedures",
+      "Patient Safety",
+      "Quality Improvement"
+    ],
+    "description": "Professional certification in clinical certification board offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 82,
+    "created_at": "2025-09-11T18:32:31.501496",
+    "updated_at": "2025-09-11T18:32:31.501497"
+  },
+  {
+    "id": 1128,
+    "slug": "radiology-certification",
+    "name": "Radiology Certification",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 317,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 750,
+    "job_postings": 541,
+    "salary": {
+      "min": 50648,
+      "max": 131686,
+      "avg": 81037
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Electronic Health Records",
+      "Medical Procedures",
+      "Medical Coding",
+      "Healthcare Compliance",
+      "Healthcare Analytics",
+      "Quality Improvement",
+      "Patient Safety",
+      "Patient Care"
+    ],
+    "description": "Professional certification in radiology certification offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 126,
+    "created_at": "2025-09-11T18:32:31.501575",
+    "updated_at": "2025-09-11T18:32:31.501576"
+  },
+  {
+    "id": 1122,
+    "slug": "certified-pharmacy-foundational",
+    "name": "Certified Pharmacy Foundational",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 407,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 663,
+    "job_postings": 723,
+    "salary": {
+      "min": 51890,
+      "max": 134915,
+      "avg": 83024
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Healthcare Compliance",
+      "Electronic Health Records",
+      "Patient Safety",
+      "Quality Improvement",
+      "Healthcare Analytics",
+      "Patient Care",
+      "Medical Procedures"
+    ],
+    "description": "Professional certification in certified pharmacy foundational offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 147,
+    "created_at": "2025-09-11T18:32:31.501335",
+    "updated_at": "2025-09-11T18:32:31.501336"
+  },
+  {
+    "id": 1096,
+    "slug": "certified-radiology-master",
+    "name": "Certified Radiology Master",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "3 weeks",
+    "cost": 381,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 798,
+    "job_postings": 498,
+    "salary": {
+      "min": 55700,
+      "max": 144820,
+      "avg": 89120
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Medical Procedures",
+      "Healthcare Analytics",
+      "Electronic Health Records",
+      "Healthcare Compliance",
+      "Patient Care",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in certified radiology master offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 157,
+    "created_at": "2025-09-11T18:32:31.500297",
+    "updated_at": "2025-09-11T18:32:31.500298"
+  },
+  {
+    "id": 1099,
+    "slug": "ahima-medical-imaging-credential",
+    "name": "AHIMA Medical Imaging Credential",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Specialty",
+    "duration": "8 hours",
+    "cost": 431,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 716,
+    "job_postings": 128,
+    "salary": {
+      "min": 50902,
+      "max": 132347,
+      "avg": 81444
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Patient Care",
+      "Electronic Health Records",
+      "Healthcare Compliance",
+      "Quality Improvement",
+      "Patient Safety",
+      "Medical Coding",
+      "Healthcare Analytics",
+      "Medical Procedures"
+    ],
+    "description": "Professional certification in ahima medical imaging credential offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 84,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 184,
+    "created_at": "2025-09-11T18:32:31.500416",
+    "updated_at": "2025-09-11T18:32:31.500417"
+  },
+  {
+    "id": 1109,
+    "slug": "anesthesia-credential-1",
+    "name": "Anesthesia Credential",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 307,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 647,
+    "job_postings": 354,
+    "salary": {
+      "min": 48309,
+      "max": 125604,
+      "avg": 77294
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Electronic Health Records",
+      "Patient Safety",
+      "Medical Coding",
+      "Healthcare Analytics",
+      "Quality Improvement",
+      "Medical Procedures"
+    ],
+    "description": "Professional certification in anesthesia credential offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "German",
+      "Japanese"
+    ],
+    "ranking": 193,
+    "created_at": "2025-09-11T18:32:31.500807",
+    "updated_at": "2025-09-11T18:32:31.500808"
+  },
+  {
+    "id": 1120,
+    "slug": "critical-care-qualification",
+    "name": "Critical Care Qualification",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 322,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 770,
+    "job_postings": 162,
+    "salary": {
+      "min": 57231,
+      "max": 148802,
+      "avg": 91570
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Healthcare Compliance",
+      "Patient Care",
+      "Medical Procedures",
+      "Electronic Health Records",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in critical care qualification offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 220,
+    "created_at": "2025-09-11T18:32:31.501254",
+    "updated_at": "2025-09-11T18:32:31.501256"
+  },
+  {
+    "id": 1107,
+    "slug": "registered-coordinator",
+    "name": "Registered Coordinator",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 85,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 464,
+    "job_postings": 366,
+    "salary": {
+      "min": 53749,
+      "max": 139748,
+      "avg": 85999
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Healthcare Analytics",
+      "Medical Coding",
+      "Electronic Health Records",
+      "Quality Improvement",
+      "Medical Procedures",
+      "Healthcare Compliance",
+      "Patient Safety",
+      "Patient Care"
+    ],
+    "description": "Professional certification in registered coordinator offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 73,
+    "languages": [
+      "English"
+    ],
+    "ranking": 266,
+    "created_at": "2025-09-11T18:32:31.500728",
+    "updated_at": "2025-09-11T18:32:31.500729"
+  },
+  {
+    "id": 1093,
+    "slug": "medical-imaging-certification-board",
+    "name": "Medical Imaging Certification Board",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "3 weeks",
+    "cost": 426,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 643,
+    "job_postings": 260,
+    "salary": {
+      "min": 51708,
+      "max": 134440,
+      "avg": 82732
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Quality Improvement",
+      "Healthcare Compliance",
+      "Patient Care",
+      "Medical Procedures",
+      "Medical Coding",
+      "Healthcare Analytics",
+      "Patient Safety",
+      "Electronic Health Records"
+    ],
+    "description": "Professional certification in medical imaging certification board offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 271,
+    "created_at": "2025-09-11T18:32:31.500177",
+    "updated_at": "2025-09-11T18:32:31.500178"
+  },
+  {
+    "id": 1105,
+    "slug": "clinical-certification-board-1",
+    "name": "Clinical Certification Board",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 124,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 601,
+    "job_postings": 760,
+    "salary": {
+      "min": 51255,
+      "max": 133264,
+      "avg": 82009
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Patient Care",
+      "Healthcare Analytics",
+      "Medical Coding",
+      "Medical Procedures"
+    ],
+    "description": "Professional certification in clinical certification board offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English"
+    ],
+    "ranking": 276,
+    "created_at": "2025-09-11T18:32:31.500650",
+    "updated_at": "2025-09-11T18:32:31.500651"
+  },
+  {
+    "id": 1083,
+    "slug": "nremt-surgical-credential",
+    "name": "NREMT Surgical Credential",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 102,
+    "currency": "USD",
+    "rating": 4.9,
+    "total_reviews": 459,
+    "job_postings": 42,
+    "salary": {
+      "min": 52820,
+      "max": 137333,
+      "avg": 84512
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Medical Procedures",
+      "Electronic Health Records",
+      "Healthcare Compliance",
+      "Healthcare Analytics",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in nremt surgical credential offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 352,
+    "created_at": "2025-09-11T18:32:31.499776",
+    "updated_at": "2025-09-11T18:32:31.499777"
+  },
+  {
+    "id": 1092,
+    "slug": "nremt-nursing-credential",
+    "name": "NREMT Nursing Credential",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 78,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 438,
+    "job_postings": 32,
+    "salary": {
+      "min": 45986,
+      "max": 119563,
+      "avg": 73577
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Patient Care",
+      "Medical Procedures",
+      "Quality Improvement",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in nremt nursing credential offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 394,
+    "created_at": "2025-09-11T18:32:31.500136",
+    "updated_at": "2025-09-11T18:32:31.500137"
+  },
+  {
+    "id": 1081,
+    "slug": "certified-critical-care-senior",
+    "name": "Certified Critical Care Senior",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Specialty",
+    "duration": "4 weeks",
+    "cost": 394,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 648,
+    "job_postings": 15,
+    "salary": {
+      "min": 54976,
+      "max": 142937,
+      "avg": 87961
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Patient Safety",
+      "Electronic Health Records",
+      "Healthcare Analytics",
+      "Patient Care",
+      "Medical Procedures",
+      "Healthcare Compliance",
+      "Medical Coding",
+      "Quality Improvement"
+    ],
+    "description": "Professional certification in certified critical care senior offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese",
+      "French"
+    ],
+    "ranking": 407,
+    "created_at": "2025-09-11T18:32:31.499697",
+    "updated_at": "2025-09-11T18:32:31.499699"
+  },
+  {
+    "id": 1106,
+    "slug": "registered-specialist-1",
+    "name": "Registered Specialist",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 475,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 466,
+    "job_postings": 567,
+    "salary": {
+      "min": 45577,
+      "max": 118502,
+      "avg": 72924
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Electronic Health Records",
+      "Healthcare Analytics",
+      "Medical Procedures",
+      "Quality Improvement",
+      "Patient Care",
+      "Patient Safety",
+      "Healthcare Compliance",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in registered specialist offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "Portuguese"
+    ],
+    "ranking": 415,
+    "created_at": "2025-09-11T18:32:31.500690",
+    "updated_at": "2025-09-11T18:32:31.500691"
+  },
+  {
+    "id": 1102,
+    "slug": "critical-care-license",
+    "name": "Critical Care License",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Expert",
+    "duration": "3 weeks",
+    "cost": 68,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 489,
+    "job_postings": 182,
+    "salary": {
+      "min": 51770,
+      "max": 134602,
+      "avg": 82832
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Medical Coding",
+      "Healthcare Compliance",
+      "Quality Improvement",
+      "Patient Safety",
+      "Patient Care",
+      "Healthcare Analytics",
+      "Medical Procedures"
+    ],
+    "description": "Professional certification in critical care license offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 453,
+    "created_at": "2025-09-11T18:32:31.500533",
+    "updated_at": "2025-09-11T18:32:31.500534"
+  },
+  {
+    "id": 1121,
+    "slug": "clinical-certification-board-3",
+    "name": "Clinical Certification Board",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 405,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 505,
+    "job_postings": 168,
+    "salary": {
+      "min": 42755,
+      "max": 111163,
+      "avg": 68408
+    },
+    "difficulty": "Beginner",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Improvement",
+      "Patient Care",
+      "Medical Procedures",
+      "Electronic Health Records",
+      "Healthcare Analytics",
+      "Healthcare Compliance"
+    ],
+    "description": "Professional certification in clinical certification board offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 67,
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "ranking": 483,
+    "created_at": "2025-09-11T18:32:31.501292",
+    "updated_at": "2025-09-11T18:32:31.501294"
+  },
+  {
+    "id": 1116,
+    "slug": "registered-coordinator-1",
+    "name": "Registered Coordinator",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "5 weeks",
+    "cost": 286,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 540,
+    "job_postings": 171,
+    "salary": {
+      "min": 46034,
+      "max": 119689,
+      "avg": 73655
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Healthcare Compliance",
+      "Quality Improvement",
+      "Electronic Health Records",
+      "Medical Coding",
+      "Patient Care",
+      "Medical Procedures",
+      "Patient Safety",
+      "Healthcare Analytics"
+    ],
+    "description": "Professional certification in registered coordinator offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish",
+      "German"
+    ],
+    "ranking": 551,
+    "created_at": "2025-09-11T18:32:31.501092",
+    "updated_at": "2025-09-11T18:32:31.501093"
+  },
+  {
+    "id": 1115,
+    "slug": "aapc-nursing-credential-2",
+    "name": "AAPC Nursing Credential",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 372,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 553,
+    "job_postings": 76,
+    "salary": {
+      "min": 56496,
+      "max": 146890,
+      "avg": 90394
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Medical Procedures",
+      "Patient Care",
+      "Quality Improvement",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in aapc nursing credential offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 568,
+    "created_at": "2025-09-11T18:32:31.501051",
+    "updated_at": "2025-09-11T18:32:31.501052"
+  },
+  {
+    "id": 1127,
+    "slug": "registered-technician-1",
+    "name": "Registered Technician",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "4 weeks",
+    "cost": 98,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 356,
+    "job_postings": 146,
+    "salary": {
+      "min": 56434,
+      "max": 146730,
+      "avg": 90295
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Healthcare Analytics",
+      "Patient Care",
+      "Quality Improvement",
+      "Medical Coding",
+      "Patient Safety",
+      "Medical Procedures",
+      "Electronic Health Records"
+    ],
+    "description": "Professional certification in registered technician offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 636,
+    "created_at": "2025-09-11T18:32:31.501535",
+    "updated_at": "2025-09-11T18:32:31.501536"
+  },
+  {
+    "id": 1082,
+    "slug": "registered-technician",
+    "name": "Registered Technician",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 80,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 474,
+    "job_postings": 198,
+    "salary": {
+      "min": 55150,
+      "max": 143390,
+      "avg": 88240
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Medical Coding",
+      "Quality Improvement",
+      "Healthcare Compliance",
+      "Patient Safety",
+      "Patient Care",
+      "Medical Procedures"
+    ],
+    "description": "Professional certification in registered technician offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 72,
+    "languages": [
+      "English"
+    ],
+    "ranking": 658,
+    "created_at": "2025-09-11T18:32:31.499736",
+    "updated_at": "2025-09-11T18:32:31.499738"
+  },
+  {
+    "id": 1108,
+    "slug": "anesthesia-license",
+    "name": "Anesthesia License",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 125,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 344,
+    "job_postings": 219,
+    "salary": {
+      "min": 50787,
+      "max": 132046,
+      "avg": 81259
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Improvement",
+      "Patient Safety",
+      "Healthcare Compliance",
+      "Electronic Health Records",
+      "Patient Care",
+      "Healthcare Analytics",
+      "Medical Procedures",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in anesthesia license offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "German"
+    ],
+    "ranking": 687,
+    "created_at": "2025-09-11T18:32:31.500767",
+    "updated_at": "2025-09-11T18:32:31.500769"
+  },
+  {
+    "id": 1088,
+    "slug": "anesthesia-credential",
+    "name": "Anesthesia Credential",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 218,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 192,
+    "job_postings": 2333,
+    "salary": {
+      "min": 42906,
+      "max": 111558,
+      "avg": 68651
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Patient Safety",
+      "Medical Procedures",
+      "Medical Coding",
+      "Electronic Health Records",
+      "Healthcare Analytics",
+      "Healthcare Compliance",
+      "Quality Improvement",
+      "Patient Care"
+    ],
+    "description": "Professional certification in anesthesia credential offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 700,
+    "created_at": "2025-09-11T18:32:31.499977",
+    "updated_at": "2025-09-11T18:32:31.499978"
+  },
+  {
+    "id": 1119,
+    "slug": "certified-nursing-lead",
+    "name": "Certified Nursing Lead",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 400,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 343,
+    "job_postings": 47,
+    "salary": {
+      "min": 53840,
+      "max": 139986,
+      "avg": 86145
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Healthcare Analytics",
+      "Healthcare Compliance",
+      "Medical Procedures",
+      "Medical Coding",
+      "Patient Care",
+      "Electronic Health Records",
+      "Quality Improvement",
+      "Patient Safety"
+    ],
+    "description": "Professional certification in certified nursing lead offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 703,
+    "created_at": "2025-09-11T18:32:31.501215",
+    "updated_at": "2025-09-11T18:32:31.501216"
+  },
+  {
+    "id": 1123,
+    "slug": "registered-assistant",
+    "name": "Registered Assistant",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 112,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 350,
+    "job_postings": 599,
+    "salary": {
+      "min": 52680,
+      "max": 136968,
+      "avg": 84288
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Medical Coding",
+      "Healthcare Compliance",
+      "Medical Procedures",
+      "Electronic Health Records",
+      "Patient Safety",
+      "Healthcare Analytics",
+      "Patient Care",
+      "Quality Improvement"
+    ],
+    "description": "Professional certification in registered assistant offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 731,
+    "created_at": "2025-09-11T18:32:31.501375",
+    "updated_at": "2025-09-11T18:32:31.501376"
+  },
+  {
+    "id": 1114,
+    "slug": "aapc-medical-imaging-credential",
+    "name": "AAPC Medical Imaging Credential",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "8 hours",
+    "cost": 302,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 141,
+    "job_postings": 1334,
+    "salary": {
+      "min": 54603,
+      "max": 141970,
+      "avg": 87366
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Quality Improvement",
+      "Electronic Health Records",
+      "Patient Safety",
+      "Healthcare Compliance",
+      "Medical Procedures",
+      "Patient Care",
+      "Healthcare Analytics",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in aapc medical imaging credential offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 741,
+    "created_at": "2025-09-11T18:32:31.501009",
+    "updated_at": "2025-09-11T18:32:31.501010"
+  },
+  {
+    "id": 1111,
+    "slug": "certified-emergency-foundational",
+    "name": "Certified Emergency Foundational",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 362,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 229,
+    "job_postings": 770,
+    "salary": {
+      "min": 49345,
+      "max": 128297,
+      "avg": 78952
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Healthcare Analytics",
+      "Medical Procedures",
+      "Patient Safety",
+      "Electronic Health Records",
+      "Patient Care",
+      "Medical Coding",
+      "Healthcare Compliance",
+      "Quality Improvement"
+    ],
+    "description": "Professional certification in certified emergency foundational offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 756,
+    "created_at": "2025-09-11T18:32:31.500886",
+    "updated_at": "2025-09-11T18:32:31.500887"
+  },
+  {
+    "id": 1110,
+    "slug": "ahima-medical-imaging-credential-1",
+    "name": "AHIMA Medical Imaging Credential",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 315,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 280,
+    "job_postings": 24,
+    "salary": {
+      "min": 49782,
+      "max": 129433,
+      "avg": 79651
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Patient Safety",
+      "Healthcare Analytics",
+      "Patient Care",
+      "Healthcare Compliance",
+      "Electronic Health Records",
+      "Quality Improvement"
+    ],
+    "description": "Professional certification in ahima medical imaging credential offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 68,
+    "languages": [
+      "English"
+    ],
+    "ranking": 816,
+    "created_at": "2025-09-11T18:32:31.500846",
+    "updated_at": "2025-09-11T18:32:31.500847"
+  },
+  {
+    "id": 1084,
+    "slug": "laboratory-certification-board",
+    "name": "Laboratory Certification Board",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 123,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 328,
+    "job_postings": 33,
+    "salary": {
+      "min": 49588,
+      "max": 128929,
+      "avg": 79341
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Healthcare Compliance",
+      "Electronic Health Records",
+      "Healthcare Analytics",
+      "Patient Safety",
+      "Medical Coding",
+      "Quality Improvement",
+      "Medical Procedures",
+      "Patient Care"
+    ],
+    "description": "Professional certification in laboratory certification board offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 926,
+    "created_at": "2025-09-11T18:32:31.499816",
+    "updated_at": "2025-09-11T18:32:31.499817"
+  },
+  {
+    "id": 1104,
+    "slug": "certified-pharmacy-professional",
+    "name": "Certified Pharmacy Professional",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 84,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 346,
+    "job_postings": 129,
+    "salary": {
+      "min": 43359,
+      "max": 112733,
+      "avg": 69374
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Patient Safety",
+      "Healthcare Analytics",
+      "Electronic Health Records",
+      "Quality Improvement"
+    ],
+    "description": "Professional certification in certified pharmacy professional offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "ranking": 933,
+    "created_at": "2025-09-11T18:32:31.500611",
+    "updated_at": "2025-09-11T18:32:31.500612"
+  },
+  {
+    "id": 1086,
+    "slug": "aapc-nursing-credential",
+    "name": "AAPC Nursing Credential",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "1 weeks",
+    "cost": 344,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 331,
+    "job_postings": 57,
+    "salary": {
+      "min": 53768,
+      "max": 139798,
+      "avg": 86029
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Electronic Health Records",
+      "Medical Procedures",
+      "Healthcare Compliance",
+      "Patient Safety",
+      "Medical Coding",
+      "Quality Improvement",
+      "Healthcare Analytics",
+      "Patient Care"
+    ],
+    "description": "Professional certification in aapc nursing credential offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 974,
+    "created_at": "2025-09-11T18:32:31.499897",
+    "updated_at": "2025-09-11T18:32:31.499898"
+  },
+  {
+    "id": 1090,
+    "slug": "anesthesia-certification",
+    "name": "Anesthesia Certification",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 217,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 163,
+    "job_postings": 73,
+    "salary": {
+      "min": 44261,
+      "max": 115078,
+      "avg": 70817
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Quality Improvement",
+      "Medical Procedures",
+      "Patient Safety",
+      "Electronic Health Records",
+      "Patient Care"
+    ],
+    "description": "Professional certification in anesthesia certification offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 980,
+    "created_at": "2025-09-11T18:32:31.500058",
+    "updated_at": "2025-09-11T18:32:31.500059"
+  },
+  {
+    "id": 1124,
+    "slug": "clinical-certification-board-4",
+    "name": "Clinical Certification Board",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 266,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 292,
+    "job_postings": 31,
+    "salary": {
+      "min": 49679,
+      "max": 129166,
+      "avg": 79487
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Patient Care",
+      "Quality Improvement",
+      "Patient Safety",
+      "Healthcare Compliance",
+      "Medical Procedures",
+      "Medical Coding",
+      "Healthcare Analytics",
+      "Electronic Health Records"
+    ],
+    "description": "Professional certification in clinical certification board offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "ranking": 981,
+    "created_at": "2025-09-11T18:32:31.501416",
+    "updated_at": "2025-09-11T18:32:31.501418"
+  },
+  {
+    "id": 1098,
+    "slug": "certified-radiology-foundational",
+    "name": "Certified Radiology Foundational",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "16 hours",
+    "cost": 416,
+    "currency": "USD",
+    "rating": 4.8,
+    "total_reviews": 121,
+    "job_postings": 359,
+    "salary": {
+      "min": 56503,
+      "max": 146907,
+      "avg": 90404
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Medical Coding",
+      "Healthcare Analytics",
+      "Electronic Health Records",
+      "Quality Improvement",
+      "Medical Procedures",
+      "Healthcare Compliance"
+    ],
+    "description": "Professional certification in certified radiology foundational offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1008,
+    "created_at": "2025-09-11T18:32:31.500376",
+    "updated_at": "2025-09-11T18:32:31.500377"
+  },
+  {
+    "id": 1101,
+    "slug": "registered-nurse-1",
+    "name": "Registered Nurse",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 345,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 285,
+    "job_postings": 418,
+    "salary": {
+      "min": 46955,
+      "max": 122084,
+      "avg": 75129
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Healthcare Analytics",
+      "Electronic Health Records",
+      "Quality Improvement",
+      "Patient Safety"
+    ],
+    "description": "Professional certification in registered nurse offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 79,
+    "languages": [
+      "English",
+      "German",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1030,
+    "created_at": "2025-09-11T18:32:31.500492",
+    "updated_at": "2025-09-11T18:32:31.500494"
+  },
+  {
+    "id": 1094,
+    "slug": "certified-anesthesia-advanced",
+    "name": "Certified Anesthesia Advanced",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 376,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 144,
+    "job_postings": 327,
+    "salary": {
+      "min": 44204,
+      "max": 114930,
+      "avg": 70726
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Electronic Health Records",
+      "Medical Procedures",
+      "Medical Coding",
+      "Healthcare Compliance",
+      "Quality Improvement",
+      "Healthcare Analytics",
+      "Patient Safety",
+      "Patient Care"
+    ],
+    "description": "Professional certification in certified anesthesia advanced offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1079,
+    "created_at": "2025-09-11T18:32:31.500218",
+    "updated_at": "2025-09-11T18:32:31.500219"
+  },
+  {
+    "id": 1095,
+    "slug": "clinical-certification-board",
+    "name": "Clinical Certification Board",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 114,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 92,
+    "job_postings": 339,
+    "salary": {
+      "min": 53200,
+      "max": 138322,
+      "avg": 85121
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Patient Care",
+      "Patient Safety",
+      "Healthcare Compliance",
+      "Medical Coding",
+      "Healthcare Analytics",
+      "Medical Procedures",
+      "Electronic Health Records",
+      "Quality Improvement"
+    ],
+    "description": "Professional certification in clinical certification board offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 79,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1170,
+    "created_at": "2025-09-11T18:32:31.500258",
+    "updated_at": "2025-09-11T18:32:31.500259"
+  },
+  {
+    "id": 1125,
+    "slug": "emergency-qualification",
+    "name": "Emergency Qualification",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 319,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 254,
+    "job_postings": 43,
+    "salary": {
+      "min": 46509,
+      "max": 120924,
+      "avg": 74414
+    },
+    "difficulty": "Beginner",
+    "validity_years": 2,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Medical Coding",
+      "Healthcare Analytics",
+      "Electronic Health Records",
+      "Patient Safety",
+      "Quality Improvement"
+    ],
+    "description": "Professional certification in emergency qualification offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 72,
+    "languages": [
+      "English",
+      "Japanese",
+      "Portuguese"
+    ],
+    "ranking": 1222,
+    "created_at": "2025-09-11T18:32:31.501456",
+    "updated_at": "2025-09-11T18:32:31.501457"
+  },
+  {
+    "id": 1097,
+    "slug": "registered-specialist",
+    "name": "Registered Specialist",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 104,
+    "currency": "USD",
+    "rating": 3.5,
+    "total_reviews": 113,
+    "job_postings": 162,
+    "salary": {
+      "min": 50932,
+      "max": 132425,
+      "avg": 81492
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Patient Care",
+      "Electronic Health Records",
+      "Healthcare Compliance",
+      "Patient Safety",
+      "Quality Improvement",
+      "Medical Procedures",
+      "Healthcare Analytics",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in registered specialist offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1234,
+    "created_at": "2025-09-11T18:32:31.500336",
+    "updated_at": "2025-09-11T18:32:31.500337"
+  },
+  {
+    "id": 1103,
+    "slug": "ahima-laboratory-credential",
+    "name": "AHIMA Laboratory Credential",
+    "issuer": "AHIMA",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "24 hours",
+    "cost": 328,
+    "currency": "USD",
+    "rating": 3.3,
+    "total_reviews": 183,
+    "job_postings": 89,
+    "salary": {
+      "min": 54239,
+      "max": 141023,
+      "avg": 86783
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Patient Care",
+      "Quality Improvement",
+      "Medical Coding",
+      "Medical Procedures",
+      "Electronic Health Records",
+      "Healthcare Compliance"
+    ],
+    "description": "Professional certification in ahima laboratory credential offered by AHIMA. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 1259,
+    "created_at": "2025-09-11T18:32:31.500571",
+    "updated_at": "2025-09-11T18:32:31.500572"
+  },
+  {
+    "id": 1118,
+    "slug": "clinical-certification-board-2",
+    "name": "Clinical Certification Board",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "5 weeks",
+    "cost": 71,
+    "currency": "USD",
+    "rating": 3.4,
+    "total_reviews": 26,
+    "job_postings": 655,
+    "salary": {
+      "min": 51672,
+      "max": 134349,
+      "avg": 82676
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Patient Safety",
+      "Healthcare Compliance",
+      "Quality Improvement",
+      "Healthcare Analytics",
+      "Medical Procedures",
+      "Patient Care",
+      "Medical Coding",
+      "Electronic Health Records"
+    ],
+    "description": "Professional certification in clinical certification board offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1266,
+    "created_at": "2025-09-11T18:32:31.501175",
+    "updated_at": "2025-09-11T18:32:31.501176"
+  },
+  {
+    "id": 1085,
+    "slug": "critical-care-credential",
+    "name": "Critical Care Credential",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 371,
+    "currency": "USD",
+    "rating": 3.8,
+    "total_reviews": 46,
+    "job_postings": 441,
+    "salary": {
+      "min": 44210,
+      "max": 114948,
+      "avg": 70737
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Medical Procedures",
+      "Patient Safety",
+      "Healthcare Compliance",
+      "Electronic Health Records"
+    ],
+    "description": "Professional certification in critical care credential offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 1287,
+    "created_at": "2025-09-11T18:32:31.499857",
+    "updated_at": "2025-09-11T18:32:31.499858"
+  },
+  {
+    "id": 1100,
+    "slug": "aapc-nursing-credential-1",
+    "name": "AAPC Nursing Credential",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 399,
+    "currency": "USD",
+    "rating": 4.3,
+    "total_reviews": 37,
+    "job_postings": 27,
+    "salary": {
+      "min": 46767,
+      "max": 121595,
+      "avg": 74827
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 1,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Patient Safety",
+      "Patient Care",
+      "Electronic Health Records",
+      "Medical Procedures",
+      "Medical Coding",
+      "Healthcare Compliance"
+    ],
+    "description": "Professional certification in aapc nursing credential offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "ranking": 1300,
+    "created_at": "2025-09-11T18:32:31.500454",
+    "updated_at": "2025-09-11T18:32:31.500455"
+  },
+  {
+    "id": 1117,
+    "slug": "nursing-certification-board",
+    "name": "Nursing Certification Board",
+    "issuer": "AAPC",
+    "domain": "healthcare",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 296,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 55,
+    "job_postings": 119,
+    "salary": {
+      "min": 44590,
+      "max": 115935,
+      "avg": 71344
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Medical Coding",
+      "Patient Care",
+      "Patient Safety",
+      "Electronic Health Records",
+      "Healthcare Analytics",
+      "Quality Improvement",
+      "Medical Procedures",
+      "Healthcare Compliance"
+    ],
+    "description": "Professional certification in nursing certification board offered by AAPC. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English",
+      "French",
+      "Japanese",
+      "Chinese"
+    ],
+    "ranking": 1334,
+    "created_at": "2025-09-11T18:32:31.501133",
+    "updated_at": "2025-09-11T18:32:31.501134"
+  },
+  {
+    "id": 1087,
+    "slug": "registered-nurse",
+    "name": "Registered Nurse",
+    "issuer": "NREMT",
+    "domain": "healthcare",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 104,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 58,
+    "job_postings": 21,
+    "salary": {
+      "min": 50950,
+      "max": 132470,
+      "avg": 81520
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [],
+    "skills": [
+      "Electronic Health Records",
+      "Medical Procedures",
+      "Patient Care",
+      "Patient Safety",
+      "Healthcare Analytics",
+      "Healthcare Compliance",
+      "Medical Coding"
+    ],
+    "description": "Professional certification in registered nurse offered by NREMT. Validates expertise in Healthcare and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 76,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1351,
+    "created_at": "2025-09-11T18:32:31.499936",
+    "updated_at": "2025-09-11T18:32:31.499937"
+  }
+]

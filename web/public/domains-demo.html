@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certify - All 32 Domains Showcase</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .domain-card {
+            transition: all 0.3s ease;
+            height: 8rem; /* Fixed height for consistency */
+        }
+        .domain-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .domain-icon {
+            transition: transform 0.3s ease;
+        }
+        .domain-card:hover .domain-icon {
+            transform: scale(1.1);
+        }
+        .animate-pulse {
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+        }
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <div class="gradient-bg text-white py-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h1 class="text-4xl font-bold mb-4">🎯 Browse by Domain</h1>
+            <p class="text-xl text-blue-100 mb-8">Explore all 32 professional certification domains</p>
+            <div class="flex justify-center space-x-8 text-lg">
+                <div><span id="total-domains" class="font-bold">32</span> Domains</div>
+                <div><span id="total-certs" class="font-bold">1,380+</span> Certifications</div>
+                <div><span id="total-issuers" class="font-bold">82</span> Issuers</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div id="domains-grid" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-4">
+            <!-- Loading skeleton -->
+            <div class="domain-card bg-white rounded-lg shadow-sm border border-gray-200 animate-pulse">
+                <div class="p-4 h-full flex flex-col justify-center">
+                    <div class="w-12 h-12 mx-auto mb-3 bg-gray-200 rounded-lg"></div>
+                    <div class="h-4 bg-gray-200 rounded mb-2"></div>
+                    <div class="h-3 bg-gray-200 rounded w-3/4 mx-auto"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Domain definitions with colors and emojis
+        const DOMAINS = {
+            // Technology & Computing
+            "cs-it": { label: "Computer Science / IT", emoji: "💻", color: "#3B82F6" },
+            "cybersecurity": { label: "Cybersecurity", emoji: "🔐", color: "#EF4444" },
+            "cloud-computing": { label: "Cloud Computing", emoji: "☁️", color: "#0EA5E9" },
+            "data-science": { label: "Data Science / Analytics", emoji: "📊", color: "#8B5CF6" },
+            "artificial-intelligence": { label: "AI / Machine Learning", emoji: "🤖", color: "#7C3AED" },
+            "software-development": { label: "Software Development", emoji: "👨‍💻", color: "#6366F1" },
+            "networking": { label: "Networking", emoji: "🌐", color: "#06B6D4" },
+            "database-management": { label: "Database Management", emoji: "🗄️", color: "#64748B" },
+            
+            // Business & Management
+            "project-management": { label: "Project Management", emoji: "📋", color: "#10B981" },
+            "business-analysis": { label: "Business Analysis", emoji: "📈", color: "#059669" },
+            "digital-marketing": { label: "Digital Marketing", emoji: "📱", color: "#EC4899" },
+            "supply-chain": { label: "Supply Chain Management", emoji: "🚚", color: "#F59E0B" },
+            "human-resources": { label: "Human Resources", emoji: "👥", color: "#F43F5E" },
+            
+            // Finance & Accounting
+            "finance": { label: "Finance", emoji: "💰", color: "#EAB308" },
+            "accounting": { label: "Accounting", emoji: "🧮", color: "#84CC16" },
+            "risk-management": { label: "Risk Management", emoji: "⚠️", color: "#F97316" },
+            "insurance": { label: "Insurance", emoji: "🛡️", color: "#14B8A6" },
+            
+            // Healthcare & Life Sciences
+            "healthcare": { label: "Healthcare", emoji: "🏥", color: "#DC2626" },
+            "nursing": { label: "Nursing", emoji: "👩‍⚕️", color: "#E11D48" },
+            "pharmacy": { label: "Pharmacy", emoji: "💊", color: "#16A34A" },
+            "medical-technology": { label: "Medical Technology", emoji: "🔬", color: "#2563EB" },
+            
+            // Manufacturing & Engineering
+            "manufacturing": { label: "Manufacturing", emoji: "🏭", color: "#6B7280" },
+            "quality-assurance": { label: "Quality Assurance", emoji: "✅", color: "#22C55E" },
+            "mechanical-engineering": { label: "Mechanical Engineering", emoji: "⚙️", color: "#475569" },
+            "electrical-engineering": { label: "Electrical Engineering", emoji: "⚡", color: "#CA8A04" },
+            
+            // Skilled Trades & Construction
+            "skilled-trades": { label: "Skilled Trades", emoji: "🔧", color: "#EA580C" },
+            "construction": { label: "Construction", emoji: "🏗️", color: "#D97706" },
+            "automotive": { label: "Automotive", emoji: "🚗", color: "#1D4ED8" },
+            
+            // Education & Training
+            "education": { label: "Education & Training", emoji: "🎓", color: "#4338CA" },
+            
+            // Sales & Customer Service
+            "sales": { label: "Sales", emoji: "💼", color: "#9333EA" },
+            
+            // Legal & Compliance
+            "legal": { label: "Legal & Compliance", emoji: "⚖️", color: "#374151" },
+            
+            // Environmental & Sustainability
+            "environmental": { label: "Environmental & Sustainability", emoji: "🌱", color: "#15803D" }
+        };
+
+        async function loadDomains() {
+            try {
+                // Load manifest for certification counts
+                const manifestResponse = await fetch('/data/manifest.json');
+                const manifest = await manifestResponse.json();
+                
+                const domainsGrid = document.getElementById('domains-grid');
+                domainsGrid.innerHTML = '';
+
+                // Sort domains by certification count
+                const sortedDomains = Object.entries(DOMAINS)
+                    .map(([slug, info]) => ({
+                        slug,
+                        ...info,
+                        certCount: manifest.domains_meta[slug]?.certification_count || 0
+                    }))
+                    .sort((a, b) => b.certCount - a.certCount);
+
+                // Create domain cards
+                sortedDomains.forEach(domain => {
+                    const card = document.createElement('div');
+                    card.className = 'domain-card bg-white rounded-lg shadow-sm border border-gray-200 cursor-pointer';
+                    
+                    card.innerHTML = `
+                        <div class="p-4 h-full flex flex-col justify-center text-center">
+                            <div class="domain-icon w-12 h-12 mx-auto mb-3 rounded-lg flex items-center justify-center text-white text-2xl" 
+                                 style="background-color: ${domain.color}">
+                                ${domain.emoji}
+                            </div>
+                            <h3 class="font-semibold text-sm text-gray-900 leading-tight mb-1 hover:text-blue-600 transition-colors">
+                                ${domain.label}
+                            </h3>
+                            <p class="text-xs text-gray-500">
+                                ${domain.certCount} certs
+                            </p>
+                        </div>
+                    `;
+                    
+                    card.addEventListener('click', () => {
+                        alert(`Navigate to ${domain.label} certifications (${domain.certCount} available)`);
+                    });
+                    
+                    domainsGrid.appendChild(card);
+                });
+
+                // Update stats
+                document.getElementById('total-certs').textContent = manifest.stats.total_certifications.toLocaleString();
+                document.getElementById('total-domains').textContent = manifest.stats.domains;
+                document.getElementById('total-issuers').textContent = manifest.stats.issuers;
+                
+            } catch (error) {
+                console.error('Error loading domains:', error);
+                document.getElementById('domains-grid').innerHTML = 
+                    '<div class="col-span-full text-center text-red-600 py-8">Error loading domains. Please check the console.</div>';
+            }
+        }
+
+        // Load domains when page loads
+        loadDomains();
+    </script>
+</body>
+</html>

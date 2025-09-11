@@ -1,0 +1,411 @@
+{
+  "overall": {
+    "growing_domains": [
+      "artificial-intelligence",
+      "cybersecurity",
+      "cloud-computing",
+      "data-science",
+      "digital-marketing"
+    ],
+    "declining_domains": [
+      "skilled-trades"
+    ],
+    "hot_certifications": [
+      "angular-analytics-certificate",
+      "psychiatric-nursing-certification-1",
+      "machine-learning-computer-vision-certification-1",
+      "certified-security-specialist",
+      "sap-security-certificate",
+      "deep-learning-recommendation-systems-professional",
+      "agile-scrum-master-certification-1",
+      "certified-oracle-administrator",
+      "as9100-security-certificate",
+      "construction-safety-certificate",
+      "kanban-development-professional",
+      "marketo-engineering-certificate-1",
+      "ibm-cloud-strategy-foundational",
+      "i-car-automotive-management-foundational",
+      "certified-architecture-consultant",
+      "ibm-machine-learning-specialist",
+      "microsoft-cloud-management-exam",
+      "agile-product-owner-certification-4",
+      "azure-development-certification",
+      "django-analytics-certificate"
+    ],
+    "emerging_skills": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Cloud Security",
+      "Data Analytics",
+      "DevOps",
+      "Kubernetes",
+      "Blockchain",
+      "Cybersecurity",
+      "Digital Marketing",
+      "Project Management"
+    ],
+    "fastest_growing_issuers": [
+      "AWS",
+      "Microsoft",
+      "Google Cloud",
+      "Salesforce",
+      "CompTIA"
+    ],
+    "market_insights": {
+      "total_job_postings": 365905,
+      "avg_salary_increase": 8.5,
+      "new_certifications_this_year": 45,
+      "retirement_rate": 12
+    }
+  },
+  "by_domain": {
+    "cs-it": {
+      "growth_rate": 8.04414140608546,
+      "avg_salary": 105580.22916666667,
+      "top_skills": [
+        "Database Management",
+        "Python",
+        "CI/CD",
+        "API Development",
+        "System Administration"
+      ]
+    },
+    "cybersecurity": {
+      "growth_rate": 5.357289660375294,
+      "avg_salary": 120107.64583333333,
+      "top_skills": [
+        "SIEM",
+        "Penetration Testing",
+        "Ethical Hacking",
+        "Malware Analysis",
+        "Risk Assessment"
+      ]
+    },
+    "cloud-computing": {
+      "growth_rate": 5.87458279753746,
+      "avg_salary": 129879.86904761905,
+      "top_skills": [
+        "Container Orchestration",
+        "Azure",
+        "Kubernetes",
+        "DevOps",
+        "CloudFormation"
+      ]
+    },
+    "data-science": {
+      "growth_rate": -1.0001671249985078,
+      "avg_salary": 142064.65277777778,
+      "top_skills": [
+        "Tableau",
+        "Data Visualization",
+        "Spark",
+        "SQL"
+      ]
+    },
+    "artificial-intelligence": {
+      "growth_rate": 20.122363161981067,
+      "avg_salary": 162123.61666666667,
+      "top_skills": [
+        "Neural Networks",
+        "Data Science",
+        "NLP",
+        "Machine Learning",
+        "Python"
+      ]
+    },
+    "software-development": {
+      "growth_rate": 2.3798832633871205,
+      "avg_salary": 114056.08333333333,
+      "top_skills": [
+        "Testing",
+        "REST APIs",
+        "Python",
+        "Java",
+        "DevOps"
+      ]
+    },
+    "networking": {
+      "growth_rate": 19.44699161633149,
+      "avg_salary": 94316.25,
+      "top_skills": [
+        "Wireless",
+        "OSPF",
+        "VPN",
+        "TCP/IP",
+        "Switching"
+      ]
+    },
+    "database-management": {
+      "growth_rate": 18.327549972981853,
+      "avg_salary": 101045.375,
+      "top_skills": [
+        "NoSQL",
+        "Oracle",
+        "Backup & Recovery",
+        "Performance Tuning",
+        "MySQL"
+      ]
+    },
+    "project-management": {
+      "growth_rate": 21.371516992694232,
+      "avg_salary": 100936.0,
+      "top_skills": [
+        "PMP",
+        "Team Leadership",
+        "Agile",
+        "Quality Management",
+        "Communication"
+      ]
+    },
+    "business-analysis": {
+      "growth_rate": 4.242729187809418,
+      "avg_salary": 90268.72916666667,
+      "top_skills": [
+        "Business Process Improvement",
+        "Requirements Analysis",
+        "Testing",
+        "Stakeholder Management",
+        "Process Modeling"
+      ]
+    },
+    "digital-marketing": {
+      "growth_rate": 12.05824146762761,
+      "avg_salary": 74660.06666666667,
+      "top_skills": [
+        "Email Marketing",
+        "SEM",
+        "Google Analytics",
+        "PPC",
+        "Conversion Optimization"
+      ]
+    },
+    "supply-chain": {
+      "growth_rate": 8.963241512457078,
+      "avg_salary": 83716.61111111111,
+      "top_skills": [
+        "Inventory Management",
+        "Demand Planning",
+        "Supply Chain Management",
+        "Six Sigma",
+        "Lean Manufacturing"
+      ]
+    },
+    "human-resources": {
+      "growth_rate": 11.908248807990425,
+      "avg_salary": 80805.83333333333,
+      "top_skills": [
+        "Compensation & Benefits",
+        "HR Analytics",
+        "Performance Management",
+        "Training & Development",
+        "Compliance"
+      ]
+    },
+    "sales": {
+      "growth_rate": 3.814207359352361,
+      "avg_salary": 86561.41666666667,
+      "top_skills": [
+        "Sales Process",
+        "Presentation Skills",
+        "CRM",
+        "Negotiation",
+        "Sales Analytics"
+      ]
+    },
+    "finance": {
+      "growth_rate": 17.522658447999575,
+      "avg_salary": 119717.72916666667,
+      "top_skills": [
+        "Equity Analysis",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Derivatives"
+      ]
+    },
+    "accounting": {
+      "growth_rate": -4.660335941188604,
+      "avg_salary": 84494.80555555556,
+      "top_skills": [
+        "Management Accounting",
+        "Financial Accounting",
+        "Tax Accounting",
+        "IFRS",
+        "Cost Accounting"
+      ]
+    },
+    "risk-management": {
+      "growth_rate": 21.85473020747241,
+      "avg_salary": 112811.125,
+      "top_skills": [
+        "Market Risk",
+        "Risk Assessment",
+        "Credit Risk",
+        "Risk Modeling",
+        "Regulatory Compliance"
+      ]
+    },
+    "insurance": {
+      "growth_rate": -0.7760323534871052,
+      "avg_salary": 86972.25,
+      "top_skills": [
+        "Underwriting",
+        "Product Development",
+        "Regulatory Compliance",
+        "Actuarial Science",
+        "Risk Assessment"
+      ]
+    },
+    "healthcare": {
+      "growth_rate": 5.576654063464327,
+      "avg_salary": 80519.27083333333,
+      "top_skills": [
+        "Patient Care",
+        "Medical Coding",
+        "Quality Improvement",
+        "Medical Procedures",
+        "Electronic Health Records"
+      ]
+    },
+    "nursing": {
+      "growth_rate": 21.215310862083165,
+      "avg_salary": 85885.52777777778,
+      "top_skills": [
+        "Medication Administration",
+        "Patient Assessment",
+        "Clinical Skills",
+        "Care Planning",
+        "Patient Education"
+      ]
+    },
+    "pharmacy": {
+      "growth_rate": 4.737658347728509,
+      "avg_salary": 107735.95833333333,
+      "top_skills": [
+        "Medication Therapy",
+        "Patient Counseling",
+        "Pharmacology",
+        "Pharmaceutical Care",
+        "Compounding"
+      ]
+    },
+    "medical-technology": {
+      "growth_rate": 22.042955404971757,
+      "avg_salary": 78810.16666666667,
+      "top_skills": [
+        "Medical Imaging",
+        "Diagnostic Testing",
+        "Laboratory Testing",
+        "Quality Control",
+        "Equipment Maintenance"
+      ]
+    },
+    "manufacturing": {
+      "growth_rate": 2.4224225181259484,
+      "avg_salary": 79781.83333333333,
+      "top_skills": [
+        "ISO 9001",
+        "Safety Management",
+        "Lean Manufacturing",
+        "Quality Control",
+        "Process Improvement"
+      ]
+    },
+    "quality-assurance": {
+      "growth_rate": -0.48335508574691044,
+      "avg_salary": 85436.54166666667,
+      "top_skills": [
+        "Corrective Actions",
+        "Quality Management",
+        "ISO Standards",
+        "Quality Planning"
+      ]
+    },
+    "mechanical-engineering": {
+      "growth_rate": -1.0584949651049138,
+      "avg_salary": 97681.45833333333,
+      "top_skills": [
+        "Materials Science",
+        "Project Management",
+        "Fluid Mechanics",
+        "Thermodynamics"
+      ]
+    },
+    "electrical-engineering": {
+      "growth_rate": 1.0275068844683046,
+      "avg_salary": 102505.41666666667,
+      "top_skills": [
+        "Electronics",
+        "Power Systems",
+        "Control Systems",
+        "Embedded Systems",
+        "Circuit Design"
+      ]
+    },
+    "skilled-trades": {
+      "growth_rate": -1.4353411197748702,
+      "avg_salary": 66288.58333333333,
+      "top_skills": [
+        "Safety Procedures",
+        "Quality Control",
+        "Troubleshooting",
+        "Installation",
+        "Equipment Operation"
+      ]
+    },
+    "construction": {
+      "growth_rate": 22.40965568301438,
+      "avg_salary": 70488.04166666667,
+      "top_skills": [
+        "Safety Management",
+        "Construction Management",
+        "Scheduling",
+        "Contract Management",
+        "Quality Control"
+      ]
+    },
+    "automotive": {
+      "growth_rate": 6.534152834981047,
+      "avg_salary": 60010.25,
+      "top_skills": [
+        "Engine Repair",
+        "Air Conditioning",
+        "Transmission Repair",
+        "Diagnostic Testing",
+        "Brake Systems"
+      ]
+    },
+    "education": {
+      "growth_rate": 2.0283116782157915,
+      "avg_salary": 55152.0,
+      "top_skills": [
+        "Curriculum Development",
+        "Instructional Design",
+        "E-Learning",
+        "Training Delivery",
+        "Adult Learning"
+      ]
+    },
+    "legal": {
+      "growth_rate": 15.436319323704602,
+      "avg_salary": 118793.83333333333,
+      "top_skills": [
+        "Privacy Law",
+        "Contract Law",
+        "Legal Research",
+        "Legal Writing",
+        "Litigation"
+      ]
+    },
+    "environmental": {
+      "growth_rate": 20.380452317053372,
+      "avg_salary": 76192.66666666667,
+      "top_skills": [
+        "Renewable Energy",
+        "Sustainability",
+        "Green Building",
+        "Waste Management",
+        "Environmental Compliance"
+      ]
+    }
+  }
+}

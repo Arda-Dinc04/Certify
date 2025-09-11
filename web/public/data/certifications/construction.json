@@ -1,0 +1,1006 @@
+[
+  {
+    "id": 1322,
+    "slug": "roofing-analytics-certification",
+    "name": "Roofing Analytics Certification",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "2 weeks",
+    "cost": 107,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 734,
+    "job_postings": 77,
+    "salary": {
+      "min": 41781,
+      "max": 92848,
+      "avg": 64993
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Quality Control",
+      "Scheduling",
+      "Project Planning",
+      "Building Codes"
+    ],
+    "description": "Professional certification in roofing analytics certification offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 82,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 50,
+    "created_at": "2025-09-11T18:32:31.510089",
+    "updated_at": "2025-09-11T18:32:31.510090"
+  },
+  {
+    "id": 1340,
+    "slug": "plumbing-security-certification",
+    "name": "Plumbing Security Certification",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 87,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 705,
+    "job_postings": 34,
+    "salary": {
+      "min": 47453,
+      "max": 105451,
+      "avg": 73815
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Construction Management",
+      "Cost Estimation",
+      "Building Codes",
+      "Contract Management"
+    ],
+    "description": "Professional certification in plumbing security certification offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 69,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "French"
+    ],
+    "ranking": 56,
+    "created_at": "2025-09-11T18:32:31.510843",
+    "updated_at": "2025-09-11T18:32:31.510845"
+  },
+  {
+    "id": 1326,
+    "slug": "green-building-associate-certificate",
+    "name": "Green Building Associate Certificate",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Expert",
+    "duration": "8 hours",
+    "cost": 172,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 576,
+    "job_postings": 768,
+    "salary": {
+      "min": 44633,
+      "max": 99186,
+      "avg": 69430
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Scheduling",
+      "Cost Estimation",
+      "Building Codes",
+      "Quality Control"
+    ],
+    "description": "Professional certification in green building associate certificate offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 82,
+    "languages": [
+      "English"
+    ],
+    "ranking": 108,
+    "created_at": "2025-09-11T18:32:31.510256",
+    "updated_at": "2025-09-11T18:32:31.510257"
+  },
+  {
+    "id": 1324,
+    "slug": "certified-safety-administrator",
+    "name": "Certified Safety Administrator",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Expert",
+    "duration": "2 weeks",
+    "cost": 119,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 631,
+    "job_postings": 24,
+    "salary": {
+      "min": 51394,
+      "max": 114209,
+      "avg": 79946
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Safety Management",
+      "Building Codes",
+      "Contract Management",
+      "Quality Control",
+      "Cost Estimation",
+      "Scheduling",
+      "Construction Management",
+      "Project Planning"
+    ],
+    "description": "Professional certification in certified safety administrator offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "ranking": 137,
+    "created_at": "2025-09-11T18:32:31.510173",
+    "updated_at": "2025-09-11T18:32:31.510174"
+  },
+  {
+    "id": 1330,
+    "slug": "prefab-associate-certificate",
+    "name": "Prefab Associate Certificate",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 133,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 656,
+    "job_postings": 47,
+    "salary": {
+      "min": 46586,
+      "max": 103525,
+      "avg": 72468
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Construction Management",
+      "Cost Estimation",
+      "Quality Control",
+      "Safety Management",
+      "Project Planning",
+      "Building Codes",
+      "Scheduling",
+      "Contract Management"
+    ],
+    "description": "Professional certification in prefab associate certificate offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 249,
+    "created_at": "2025-09-11T18:32:31.510429",
+    "updated_at": "2025-09-11T18:32:31.510430"
+  },
+  {
+    "id": 1338,
+    "slug": "carpentry-engineering-certification-1",
+    "name": "Carpentry Engineering Certification",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Associate",
+    "duration": "1 weeks",
+    "cost": 158,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 560,
+    "job_postings": 19,
+    "salary": {
+      "min": 50013,
+      "max": 111140,
+      "avg": 77798
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Cost Estimation",
+      "Building Codes",
+      "Safety Management",
+      "Quality Control",
+      "Contract Management",
+      "Construction Management",
+      "Scheduling",
+      "Project Planning"
+    ],
+    "description": "Professional certification in carpentry engineering certification offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 73,
+    "languages": [
+      "English",
+      "German"
+    ],
+    "ranking": 300,
+    "created_at": "2025-09-11T18:32:31.510762",
+    "updated_at": "2025-09-11T18:32:31.510764"
+  },
+  {
+    "id": 1327,
+    "slug": "certified-estimating-consultant",
+    "name": "Certified Estimating Consultant",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 122,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 510,
+    "job_postings": 167,
+    "salary": {
+      "min": 48785,
+      "max": 108412,
+      "avg": 75888
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Building Codes",
+      "Scheduling",
+      "Project Planning",
+      "Safety Management"
+    ],
+    "description": "Professional certification in certified estimating consultant offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 325,
+    "created_at": "2025-09-11T18:32:31.510302",
+    "updated_at": "2025-09-11T18:32:31.510303"
+  },
+  {
+    "id": 1344,
+    "slug": "bim-associate-certificate",
+    "name": "BIM Associate Certificate",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 189,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 488,
+    "job_postings": 226,
+    "salary": {
+      "min": 49596,
+      "max": 110213,
+      "avg": 77149
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Project Planning",
+      "Safety Management",
+      "Quality Control",
+      "Contract Management"
+    ],
+    "description": "Professional certification in bim associate certificate offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 85,
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese",
+      "Japanese"
+    ],
+    "ranking": 427,
+    "created_at": "2025-09-11T18:32:31.511012",
+    "updated_at": "2025-09-11T18:32:31.511014"
+  },
+  {
+    "id": 1329,
+    "slug": "carpentry-security-certification",
+    "name": "Carpentry Security Certification",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Foundational",
+    "duration": "8 hours",
+    "cost": 137,
+    "currency": "USD",
+    "rating": 4.2,
+    "total_reviews": 491,
+    "job_postings": 39,
+    "salary": {
+      "min": 42744,
+      "max": 94987,
+      "avg": 66491
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Contract Management",
+      "Cost Estimation",
+      "Project Planning",
+      "Quality Control",
+      "Construction Management"
+    ],
+    "description": "Professional certification in carpentry security certification offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English"
+    ],
+    "ranking": 470,
+    "created_at": "2025-09-11T18:32:31.510385",
+    "updated_at": "2025-09-11T18:32:31.510387"
+  },
+  {
+    "id": 1333,
+    "slug": "safety-safety-professional",
+    "name": "Safety Safety Professional",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 160,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 538,
+    "job_postings": 252,
+    "salary": {
+      "min": 38772,
+      "max": 86160,
+      "avg": 60312
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Project Planning",
+      "Contract Management",
+      "Scheduling",
+      "Construction Management",
+      "Cost Estimation",
+      "Building Codes"
+    ],
+    "description": "Professional certification in safety safety professional offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 65,
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish"
+    ],
+    "ranking": 529,
+    "created_at": "2025-09-11T18:32:31.510556",
+    "updated_at": "2025-09-11T18:32:31.510557"
+  },
+  {
+    "id": 1331,
+    "slug": "osha-construction-engineering-advanced",
+    "name": "OSHA Construction Engineering Advanced",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 129,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 323,
+    "job_postings": 416,
+    "salary": {
+      "min": 41138,
+      "max": 91419,
+      "avg": 63993
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Quality Control",
+      "Project Planning",
+      "Building Codes",
+      "Safety Management",
+      "Cost Estimation",
+      "Scheduling",
+      "Construction Management",
+      "Contract Management"
+    ],
+    "description": "Professional certification in osha construction engineering advanced offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 80,
+    "languages": [
+      "English",
+      "Japanese",
+      "French",
+      "Spanish"
+    ],
+    "ranking": 539,
+    "created_at": "2025-09-11T18:32:31.510472",
+    "updated_at": "2025-09-11T18:32:31.510473"
+  },
+  {
+    "id": 1328,
+    "slug": "certified-quality-administrator",
+    "name": "Certified Quality Administrator",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Associate",
+    "duration": "3 weeks",
+    "cost": 71,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 398,
+    "job_postings": 8,
+    "salary": {
+      "min": 44382,
+      "max": 98628,
+      "avg": 69040
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Construction Management",
+      "Quality Control",
+      "Safety Management",
+      "Contract Management",
+      "Scheduling",
+      "Cost Estimation",
+      "Project Planning",
+      "Building Codes"
+    ],
+    "description": "Professional certification in certified quality administrator offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 68,
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Japanese"
+    ],
+    "ranking": 562,
+    "created_at": "2025-09-11T18:32:31.510344",
+    "updated_at": "2025-09-11T18:32:31.510346"
+  },
+  {
+    "id": 1339,
+    "slug": "bim-professional-certificate",
+    "name": "BIM Professional Certificate",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 125,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 530,
+    "job_postings": 29,
+    "salary": {
+      "min": 42014,
+      "max": 93366,
+      "avg": 65356
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Cost Estimation",
+      "Quality Control",
+      "Project Planning",
+      "Construction Management"
+    ],
+    "description": "Professional certification in bim professional certificate offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 74,
+    "languages": [
+      "English",
+      "Japanese",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 587,
+    "created_at": "2025-09-11T18:32:31.510803",
+    "updated_at": "2025-09-11T18:32:31.510805"
+  },
+  {
+    "id": 1334,
+    "slug": "certified-construction-management-expert",
+    "name": "Certified Construction Management Expert",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Foundational",
+    "duration": "16 hours",
+    "cost": 201,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 318,
+    "job_postings": 530,
+    "salary": {
+      "min": 42486,
+      "max": 94413,
+      "avg": 66089
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Cost Estimation",
+      "Construction Management",
+      "Building Codes",
+      "Scheduling"
+    ],
+    "description": "Professional certification in certified construction management expert offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 69,
+    "languages": [
+      "English"
+    ],
+    "ranking": 588,
+    "created_at": "2025-09-11T18:32:31.510595",
+    "updated_at": "2025-09-11T18:32:31.510596"
+  },
+  {
+    "id": 1336,
+    "slug": "fall-protection-safety-advanced",
+    "name": "Fall Protection Safety Advanced",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 77,
+    "currency": "USD",
+    "rating": 4.6,
+    "total_reviews": 348,
+    "job_postings": 48,
+    "salary": {
+      "min": 39758,
+      "max": 88352,
+      "avg": 61846
+    },
+    "difficulty": "Advanced",
+    "validity_years": 3,
+    "prerequisites": [],
+    "skills": [
+      "Project Planning",
+      "Scheduling",
+      "Building Codes",
+      "Quality Control",
+      "Cost Estimation",
+      "Construction Management",
+      "Safety Management"
+    ],
+    "description": "Professional certification in fall protection safety advanced offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Oral",
+    "passing_score": 81,
+    "languages": [
+      "English"
+    ],
+    "ranking": 590,
+    "created_at": "2025-09-11T18:32:31.510678",
+    "updated_at": "2025-09-11T18:32:31.510679"
+  },
+  {
+    "id": 1321,
+    "slug": "osha-construction-engineering-senior",
+    "name": "OSHA Construction Engineering Senior",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Associate",
+    "duration": "2 weeks",
+    "cost": 113,
+    "currency": "USD",
+    "rating": 4.7,
+    "total_reviews": 261,
+    "job_postings": 49,
+    "salary": {
+      "min": 40783,
+      "max": 90629,
+      "avg": 63440
+    },
+    "difficulty": "Advanced",
+    "validity_years": 2,
+    "prerequisites": [
+      "1+ years work experience"
+    ],
+    "skills": [
+      "Cost Estimation",
+      "Safety Management",
+      "Building Codes",
+      "Quality Control",
+      "Contract Management",
+      "Project Planning",
+      "Construction Management",
+      "Scheduling"
+    ],
+    "description": "Professional certification in osha construction engineering senior offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 70,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "ranking": 747,
+    "created_at": "2025-09-11T18:32:31.510046",
+    "updated_at": "2025-09-11T18:32:31.510047"
+  },
+  {
+    "id": 1343,
+    "slug": "safety-safety-senior",
+    "name": "Safety Safety Senior",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 135,
+    "currency": "USD",
+    "rating": 4.5,
+    "total_reviews": 194,
+    "job_postings": 598,
+    "salary": {
+      "min": 51653,
+      "max": 114786,
+      "avg": 80350
+    },
+    "difficulty": "Advanced",
+    "validity_years": 4,
+    "prerequisites": [
+      "Basic knowledge in the field"
+    ],
+    "skills": [
+      "Building Codes",
+      "Contract Management",
+      "Quality Control",
+      "Cost Estimation",
+      "Project Planning"
+    ],
+    "description": "Professional certification in safety safety senior offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 81,
+    "languages": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "ranking": 785,
+    "created_at": "2025-09-11T18:32:31.510971",
+    "updated_at": "2025-09-11T18:32:31.510972"
+  },
+  {
+    "id": 1341,
+    "slug": "nccer-construction-administration-advanced",
+    "name": "NCCER Construction Administration Advanced",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 173,
+    "currency": "USD",
+    "rating": 4.1,
+    "total_reviews": 292,
+    "job_postings": 145,
+    "salary": {
+      "min": 39216,
+      "max": 87147,
+      "avg": 61003
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Safety Management",
+      "Construction Management",
+      "Cost Estimation",
+      "Contract Management",
+      "Project Planning",
+      "Quality Control",
+      "Scheduling",
+      "Building Codes"
+    ],
+    "description": "Professional certification in nccer construction administration advanced offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 845,
+    "created_at": "2025-09-11T18:32:31.510888",
+    "updated_at": "2025-09-11T18:32:31.510889"
+  },
+  {
+    "id": 1323,
+    "slug": "nccer-construction-development-expert",
+    "name": "NCCER Construction Development Expert",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Expert",
+    "duration": "4 weeks",
+    "cost": 186,
+    "currency": "USD",
+    "rating": 4.4,
+    "total_reviews": 266,
+    "job_postings": 49,
+    "salary": {
+      "min": 51401,
+      "max": 114226,
+      "avg": 79958
+    },
+    "difficulty": "Beginner",
+    "validity_years": 4,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Scheduling",
+      "Project Planning",
+      "Building Codes",
+      "Contract Management",
+      "Safety Management"
+    ],
+    "description": "Professional certification in nccer construction development expert offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 71,
+    "languages": [
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "ranking": 864,
+    "created_at": "2025-09-11T18:32:31.510130",
+    "updated_at": "2025-09-11T18:32:31.510131"
+  },
+  {
+    "id": 1337,
+    "slug": "certified-construction-management-consultant",
+    "name": "Certified Construction Management Consultant",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Associate",
+    "duration": "24 hours",
+    "cost": 134,
+    "currency": "USD",
+    "rating": 4.0,
+    "total_reviews": 130,
+    "job_postings": 39,
+    "salary": {
+      "min": 47131,
+      "max": 104736,
+      "avg": 73315
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 4,
+    "prerequisites": [],
+    "skills": [
+      "Construction Management",
+      "Quality Control",
+      "Building Codes",
+      "Scheduling",
+      "Project Planning"
+    ],
+    "description": "Professional certification in certified construction management consultant offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 70,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1161,
+    "created_at": "2025-09-11T18:32:31.510717",
+    "updated_at": "2025-09-11T18:32:31.510719"
+  },
+  {
+    "id": 1335,
+    "slug": "modular-professional-certificate",
+    "name": "Modular Professional Certificate",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "24 hours",
+    "cost": 173,
+    "currency": "USD",
+    "rating": 3.9,
+    "total_reviews": 52,
+    "job_postings": 466,
+    "salary": {
+      "min": 40753,
+      "max": 90562,
+      "avg": 63393
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 5,
+    "prerequisites": [],
+    "skills": [
+      "Building Codes",
+      "Cost Estimation",
+      "Safety Management",
+      "Construction Management",
+      "Project Planning",
+      "Scheduling",
+      "Contract Management"
+    ],
+    "description": "Professional certification in modular professional certificate offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Mixed",
+    "passing_score": 84,
+    "languages": [
+      "English"
+    ],
+    "ranking": 1212,
+    "created_at": "2025-09-11T18:32:31.510636",
+    "updated_at": "2025-09-11T18:32:31.510637"
+  },
+  {
+    "id": 1332,
+    "slug": "certified-quality-expert",
+    "name": "Certified Quality Expert",
+    "issuer": "NCCER",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "16 hours",
+    "cost": 144,
+    "currency": "USD",
+    "rating": 3.6,
+    "total_reviews": 131,
+    "job_postings": 20,
+    "salary": {
+      "min": 51132,
+      "max": 113627,
+      "avg": 79539
+    },
+    "difficulty": "Advanced",
+    "validity_years": 1,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Scheduling",
+      "Project Planning",
+      "Safety Management",
+      "Quality Control",
+      "Building Codes",
+      "Contract Management",
+      "Construction Management"
+    ],
+    "description": "Professional certification in certified quality expert offered by NCCER. Validates expertise in Construction and related technologies.",
+    "exam_format": "Multiple Choice",
+    "passing_score": 77,
+    "languages": [
+      "English",
+      "French",
+      "Portuguese"
+    ],
+    "ranking": 1235,
+    "created_at": "2025-09-11T18:32:31.510516",
+    "updated_at": "2025-09-11T18:32:31.510517"
+  },
+  {
+    "id": 1342,
+    "slug": "certified-construction-management-practitioner",
+    "name": "Certified Construction Management Practitioner",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "8 hours",
+    "cost": 103,
+    "currency": "USD",
+    "rating": 3.2,
+    "total_reviews": 164,
+    "job_postings": 26,
+    "salary": {
+      "min": 42781,
+      "max": 95070,
+      "avg": 66549
+    },
+    "difficulty": "Beginner",
+    "validity_years": 3,
+    "prerequisites": [
+      "Previous certification required"
+    ],
+    "skills": [
+      "Quality Control",
+      "Project Planning",
+      "Cost Estimation",
+      "Construction Management",
+      "Scheduling"
+    ],
+    "description": "Professional certification in certified construction management practitioner offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Project-based",
+    "passing_score": 75,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "ranking": 1263,
+    "created_at": "2025-09-11T18:32:31.510929",
+    "updated_at": "2025-09-11T18:32:31.510930"
+  },
+  {
+    "id": 1325,
+    "slug": "osha-construction-strategy-foundational",
+    "name": "OSHA Construction Strategy Foundational",
+    "issuer": "OSHA",
+    "domain": "construction",
+    "level": "Professional",
+    "duration": "1 weeks",
+    "cost": 89,
+    "currency": "USD",
+    "rating": 3.7,
+    "total_reviews": 45,
+    "job_postings": 17,
+    "salary": {
+      "min": 51140,
+      "max": 113645,
+      "avg": 79552
+    },
+    "difficulty": "Intermediate",
+    "validity_years": 2,
+    "prerequisites": [
+      "Bachelor's degree or equivalent"
+    ],
+    "skills": [
+      "Project Planning",
+      "Scheduling",
+      "Building Codes",
+      "Construction Management",
+      "Quality Control",
+      "Contract Management",
+      "Safety Management",
+      "Cost Estimation"
+    ],
+    "description": "Professional certification in osha construction strategy foundational offered by OSHA. Validates expertise in Construction and related technologies.",
+    "exam_format": "Practical",
+    "passing_score": 78,
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "ranking": 1315,
+    "created_at": "2025-09-11T18:32:31.510215",
+    "updated_at": "2025-09-11T18:32:31.510217"
+  }
+]

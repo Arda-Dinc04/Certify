@@ -1,0 +1,790 @@
+{
+  "issuer_stats": {
+    "Amazon Web Services (AWS)": {
+      "certification_count": 43,
+      "avg_rating": 4.13,
+      "avg_cost": 159.0,
+      "domains": [
+        "cloud-computing",
+        "data-science",
+        "cs-it"
+      ],
+      "popularity_score": 0.95
+    },
+    "Microsoft": {
+      "certification_count": 50,
+      "avg_rating": 4.08,
+      "avg_cost": 170.0,
+      "domains": [
+        "cloud-computing",
+        "data-science",
+        "cs-it",
+        "software-development"
+      ],
+      "popularity_score": 0.95
+    },
+    "Google Cloud": {
+      "certification_count": 41,
+      "avg_rating": 4.12,
+      "avg_cost": 202.0,
+      "domains": [
+        "artificial-intelligence",
+        "cloud-computing",
+        "data-science"
+      ],
+      "popularity_score": 0.9
+    },
+    "Oracle": {
+      "certification_count": 43,
+      "avg_rating": 4.02,
+      "avg_cost": 311.0,
+      "domains": [
+        "finance",
+        "cs-it",
+        "database-management"
+      ],
+      "popularity_score": 0.85
+    },
+    "Salesforce": {
+      "certification_count": 36,
+      "avg_rating": 4.14,
+      "avg_cost": 208.0,
+      "domains": [
+        "digital-marketing",
+        "cs-it",
+        "sales"
+      ],
+      "popularity_score": 0.8
+    },
+    "VMware": {
+      "certification_count": 29,
+      "avg_rating": 4.1,
+      "avg_cost": 258.0,
+      "domains": [
+        "cloud-computing",
+        "cs-it"
+      ],
+      "popularity_score": 0.75
+    },
+    "Red Hat": {
+      "certification_count": 30,
+      "avg_rating": 3.96,
+      "avg_cost": 409.0,
+      "domains": [
+        "cloud-computing",
+        "cs-it"
+      ],
+      "popularity_score": 0.8
+    },
+    "Cisco": {
+      "certification_count": 29,
+      "avg_rating": 4.11,
+      "avg_cost": 360.0,
+      "domains": [
+        "networking",
+        "cybersecurity"
+      ],
+      "popularity_score": 0.9
+    },
+    "Docker": {
+      "certification_count": 25,
+      "avg_rating": 4.07,
+      "avg_cost": 297.0,
+      "domains": [
+        "cs-it",
+        "software-development"
+      ],
+      "popularity_score": 0.7
+    },
+    "Kubernetes": {
+      "certification_count": 28,
+      "avg_rating": 3.88,
+      "avg_cost": 402.0,
+      "domains": [
+        "cloud-computing",
+        "software-development"
+      ],
+      "popularity_score": 0.75
+    },
+    "CompTIA": {
+      "certification_count": 53,
+      "avg_rating": 4.17,
+      "avg_cost": 365.0,
+      "domains": [
+        "cs-it",
+        "networking",
+        "cybersecurity"
+      ],
+      "popularity_score": 0.9
+    },
+    "(ISC)²": {
+      "certification_count": 16,
+      "avg_rating": 3.7,
+      "avg_cost": 755.0,
+      "domains": [
+        "cybersecurity"
+      ],
+      "popularity_score": 0.8
+    },
+    "EC-Council": {
+      "certification_count": 10,
+      "avg_rating": 4.17,
+      "avg_cost": 556.0,
+      "domains": [
+        "cybersecurity"
+      ],
+      "popularity_score": 0.65
+    },
+    "SANS": {
+      "certification_count": 10,
+      "avg_rating": 4.28,
+      "avg_cost": 842.0,
+      "domains": [
+        "cybersecurity"
+      ],
+      "popularity_score": 0.75
+    },
+    "Check Point": {
+      "certification_count": 25,
+      "avg_rating": 4.0,
+      "avg_cost": 409.0,
+      "domains": [
+        "networking",
+        "cybersecurity"
+      ],
+      "popularity_score": 0.6
+    },
+    "Palo Alto Networks": {
+      "certification_count": 14,
+      "avg_rating": 4.17,
+      "avg_cost": 502.0,
+      "domains": [
+        "networking",
+        "cybersecurity"
+      ],
+      "popularity_score": 0.65
+    },
+    "CrowdStrike": {
+      "certification_count": 10,
+      "avg_rating": 4.02,
+      "avg_cost": 668.0,
+      "domains": [
+        "cybersecurity"
+      ],
+      "popularity_score": 0.55
+    },
+    "Tableau": {
+      "certification_count": 29,
+      "avg_rating": 3.98,
+      "avg_cost": 315.0,
+      "domains": [
+        "business-analysis",
+        "data-science"
+      ],
+      "popularity_score": 0.75
+    },
+    "SAS": {
+      "certification_count": 10,
+      "avg_rating": 3.82,
+      "avg_cost": 401.0,
+      "domains": [
+        "finance",
+        "data-science"
+      ],
+      "popularity_score": 0.7
+    },
+    "IBM": {
+      "certification_count": 35,
+      "avg_rating": 4.13,
+      "avg_cost": 213.0,
+      "domains": [
+        "artificial-intelligence",
+        "cloud-computing",
+        "data-science"
+      ],
+      "popularity_score": 0.75
+    },
+    "NVIDIA": {
+      "certification_count": 6,
+      "avg_rating": 4.15,
+      "avg_cost": 530.0,
+      "domains": [
+        "artificial-intelligence"
+      ],
+      "popularity_score": 0.6
+    },
+    "DataRobot": {
+      "certification_count": 17,
+      "avg_rating": 4.05,
+      "avg_cost": 790.0,
+      "domains": [
+        "artificial-intelligence",
+        "data-science"
+      ],
+      "popularity_score": 0.45
+    },
+    "Databricks": {
+      "certification_count": 15,
+      "avg_rating": 4.13,
+      "avg_cost": 648.0,
+      "domains": [
+        "artificial-intelligence",
+        "data-science"
+      ],
+      "popularity_score": 0.55
+    },
+    "Snowflake": {
+      "certification_count": 27,
+      "avg_rating": 3.92,
+      "avg_cost": 523.0,
+      "domains": [
+        "data-science",
+        "database-management"
+      ],
+      "popularity_score": 0.6
+    },
+    "GitHub": {
+      "certification_count": 5,
+      "avg_rating": 3.94,
+      "avg_cost": 200.0,
+      "domains": [
+        "software-development"
+      ],
+      "popularity_score": 0.65
+    },
+    "JetBrains": {
+      "certification_count": 12,
+      "avg_rating": 4.05,
+      "avg_cost": 353.0,
+      "domains": [
+        "software-development"
+      ],
+      "popularity_score": 0.5
+    },
+    "Unity": {
+      "certification_count": 5,
+      "avg_rating": 4.02,
+      "avg_cost": 419.0,
+      "domains": [
+        "software-development"
+      ],
+      "popularity_score": 0.55
+    },
+    "MongoDB": {
+      "certification_count": 10,
+      "avg_rating": 4.23,
+      "avg_cost": 389.0,
+      "domains": [
+        "database-management",
+        "software-development"
+      ],
+      "popularity_score": 0.6
+    },
+    "Elastic": {
+      "certification_count": 15,
+      "avg_rating": 4.08,
+      "avg_cost": 422.0,
+      "domains": [
+        "data-science",
+        "software-development"
+      ],
+      "popularity_score": 0.5
+    },
+    "PMI": {
+      "certification_count": 16,
+      "avg_rating": 3.8,
+      "avg_cost": 424.0,
+      "domains": [
+        "project-management"
+      ],
+      "popularity_score": 0.85
+    },
+    "Scrum.org": {
+      "certification_count": 32,
+      "avg_rating": 4.15,
+      "avg_cost": 207.0,
+      "domains": [
+        "project-management",
+        "software-development"
+      ],
+      "popularity_score": 0.75
+    },
+    "Scrum Alliance": {
+      "certification_count": 14,
+      "avg_rating": 4.06,
+      "avg_cost": 253.0,
+      "domains": [
+        "project-management"
+      ],
+      "popularity_score": 0.7
+    },
+    "Atlassian": {
+      "certification_count": 39,
+      "avg_rating": 4.07,
+      "avg_cost": 152.0,
+      "domains": [
+        "project-management",
+        "software-development"
+      ],
+      "popularity_score": 0.7
+    },
+    "PRINCE2": {
+      "certification_count": 12,
+      "avg_rating": 3.99,
+      "avg_cost": 351.0,
+      "domains": [
+        "project-management"
+      ],
+      "popularity_score": 0.65
+    },
+    "Six Sigma Institute": {
+      "certification_count": 14,
+      "avg_rating": 3.99,
+      "avg_cost": 542.0,
+      "domains": [
+        "quality-assurance",
+        "manufacturing"
+      ],
+      "popularity_score": 0.65
+    },
+    "IIBA": {
+      "certification_count": 24,
+      "avg_rating": 4.19,
+      "avg_cost": 422.0,
+      "domains": [
+        "business-analysis"
+      ],
+      "popularity_score": 0.7
+    },
+    "Google Ads": {
+      "certification_count": 10,
+      "avg_rating": 4.07,
+      "avg_cost": 0.0,
+      "domains": [
+        "digital-marketing"
+      ],
+      "popularity_score": 0.8
+    },
+    "Facebook Blueprint": {
+      "certification_count": 8,
+      "avg_rating": 3.8,
+      "avg_cost": 0.0,
+      "domains": [
+        "digital-marketing"
+      ],
+      "popularity_score": 0.75
+    },
+    "HubSpot": {
+      "certification_count": 18,
+      "avg_rating": 4.03,
+      "avg_cost": 0.0,
+      "domains": [
+        "digital-marketing",
+        "sales"
+      ],
+      "popularity_score": 0.7
+    },
+    "Adobe": {
+      "certification_count": 17,
+      "avg_rating": 3.88,
+      "avg_cost": 327.0,
+      "domains": [
+        "digital-marketing",
+        "software-development"
+      ],
+      "popularity_score": 0.65
+    },
+    "Marketo": {
+      "certification_count": 6,
+      "avg_rating": 3.85,
+      "avg_cost": 449.0,
+      "domains": [
+        "digital-marketing"
+      ],
+      "popularity_score": 0.6
+    },
+    "Pardot": {
+      "certification_count": 12,
+      "avg_rating": 3.97,
+      "avg_cost": 202.0,
+      "domains": [
+        "digital-marketing",
+        "sales"
+      ],
+      "popularity_score": 0.55
+    },
+    "CFA Institute": {
+      "certification_count": 6,
+      "avg_rating": 3.8,
+      "avg_cost": 1209.0,
+      "domains": [
+        "finance"
+      ],
+      "popularity_score": 0.9
+    },
+    "FRM": {
+      "certification_count": 16,
+      "avg_rating": 4.08,
+      "avg_cost": 893.0,
+      "domains": [
+        "finance",
+        "risk-management"
+      ],
+      "popularity_score": 0.8
+    },
+    "FINRA": {
+      "certification_count": 9,
+      "avg_rating": 4.12,
+      "avg_cost": 296.0,
+      "domains": [
+        "finance"
+      ],
+      "popularity_score": 0.85
+    },
+    "CAIA Association": {
+      "certification_count": 7,
+      "avg_rating": 4.07,
+      "avg_cost": 909.0,
+      "domains": [
+        "finance"
+      ],
+      "popularity_score": 0.7
+    },
+    "AICPA": {
+      "certification_count": 10,
+      "avg_rating": 4.05,
+      "avg_cost": 792.0,
+      "domains": [
+        "accounting"
+      ],
+      "popularity_score": 0.85
+    },
+    "IMA": {
+      "certification_count": 22,
+      "avg_rating": 3.95,
+      "avg_cost": 643.0,
+      "domains": [
+        "finance",
+        "accounting"
+      ],
+      "popularity_score": 0.75
+    },
+    "COSO": {
+      "certification_count": 16,
+      "avg_rating": 4.16,
+      "avg_cost": 521.0,
+      "domains": [
+        "risk-management",
+        "accounting"
+      ],
+      "popularity_score": 0.6
+    },
+    "NREMT": {
+      "certification_count": 17,
+      "avg_rating": 3.98,
+      "avg_cost": 97.0,
+      "domains": [
+        "healthcare"
+      ],
+      "popularity_score": 0.95
+    },
+    "AACN": {
+      "certification_count": 16,
+      "avg_rating": 3.98,
+      "avg_cost": 411.0,
+      "domains": [
+        "nursing"
+      ],
+      "popularity_score": 0.8
+    },
+    "ANCC": {
+      "certification_count": 20,
+      "avg_rating": 4.26,
+      "avg_cost": 380.0,
+      "domains": [
+        "nursing"
+      ],
+      "popularity_score": 0.85
+    },
+    "ARDMS": {
+      "certification_count": 6,
+      "avg_rating": 3.8,
+      "avg_cost": 536.0,
+      "domains": [
+        "medical-technology"
+      ],
+      "popularity_score": 0.75
+    },
+    "ARRT": {
+      "certification_count": 6,
+      "avg_rating": 4.17,
+      "avg_cost": 233.0,
+      "domains": [
+        "medical-technology"
+      ],
+      "popularity_score": 0.9
+    },
+    "PTCB": {
+      "certification_count": 11,
+      "avg_rating": 4.25,
+      "avg_cost": 167.0,
+      "domains": [
+        "pharmacy"
+      ],
+      "popularity_score": 0.85
+    },
+    "NABP": {
+      "certification_count": 13,
+      "avg_rating": 3.92,
+      "avg_cost": 422.0,
+      "domains": [
+        "pharmacy"
+      ],
+      "popularity_score": 0.8
+    },
+    "AAPC": {
+      "certification_count": 18,
+      "avg_rating": 4.02,
+      "avg_cost": 334.0,
+      "domains": [
+        "healthcare"
+      ],
+      "popularity_score": 0.75
+    },
+    "AHIMA": {
+      "certification_count": 13,
+      "avg_rating": 4.16,
+      "avg_cost": 377.0,
+      "domains": [
+        "healthcare"
+      ],
+      "popularity_score": 0.7
+    },
+    "ASQ": {
+      "certification_count": 24,
+      "avg_rating": 4.08,
+      "avg_cost": 452.0,
+      "domains": [
+        "quality-assurance",
+        "manufacturing"
+      ],
+      "popularity_score": 0.8
+    },
+    "ASME": {
+      "certification_count": 24,
+      "avg_rating": 4.0,
+      "avg_cost": 524.0,
+      "domains": [
+        "mechanical-engineering"
+      ],
+      "popularity_score": 0.75
+    },
+    "IEEE": {
+      "certification_count": 9,
+      "avg_rating": 3.82,
+      "avg_cost": 314.0,
+      "domains": [
+        "electrical-engineering"
+      ],
+      "popularity_score": 0.8
+    },
+    "NIMS": {
+      "certification_count": 5,
+      "avg_rating": 4.02,
+      "avg_cost": 191.0,
+      "domains": [
+        "manufacturing"
+      ],
+      "popularity_score": 0.7
+    },
+    "SME": {
+      "certification_count": 3,
+      "avg_rating": 3.77,
+      "avg_cost": 336.0,
+      "domains": [
+        "manufacturing"
+      ],
+      "popularity_score": 0.65
+    },
+    "APICS": {
+      "certification_count": 41,
+      "avg_rating": 4.08,
+      "avg_cost": 644.0,
+      "domains": [
+        "supply-chain",
+        "manufacturing"
+      ],
+      "popularity_score": 0.7
+    },
+    "NCCER": {
+      "certification_count": 16,
+      "avg_rating": 4.0,
+      "avg_cost": 164.0,
+      "domains": [
+        "skilled-trades",
+        "construction"
+      ],
+      "popularity_score": 0.85
+    },
+    "AWS Welding Society": {
+      "certification_count": 4,
+      "avg_rating": 4.28,
+      "avg_cost": 323.0,
+      "domains": [
+        "skilled-trades"
+      ],
+      "popularity_score": 0.9
+    },
+    "NATE": {
+      "certification_count": 4,
+      "avg_rating": 4.08,
+      "avg_cost": 258.0,
+      "domains": [
+        "skilled-trades"
+      ],
+      "popularity_score": 0.75
+    },
+    "HVAC Excellence": {
+      "certification_count": 7,
+      "avg_rating": 4.07,
+      "avg_cost": 285.0,
+      "domains": [
+        "skilled-trades"
+      ],
+      "popularity_score": 0.8
+    },
+    "OSHA": {
+      "certification_count": 25,
+      "avg_rating": 4.29,
+      "avg_cost": 107.0,
+      "domains": [
+        "skilled-trades",
+        "construction",
+        "manufacturing"
+      ],
+      "popularity_score": 0.95
+    },
+    "NECA": {
+      "certification_count": 4,
+      "avg_rating": 4.15,
+      "avg_cost": 291.0,
+      "domains": [
+        "skilled-trades",
+        "electrical-engineering"
+      ],
+      "popularity_score": 0.7
+    },
+    "ASE": {
+      "certification_count": 3,
+      "avg_rating": 3.53,
+      "avg_cost": 214.0,
+      "domains": [
+        "automotive"
+      ],
+      "popularity_score": 0.85
+    },
+    "I-CAR": {
+      "certification_count": 9,
+      "avg_rating": 4.49,
+      "avg_cost": 245.0,
+      "domains": [
+        "automotive"
+      ],
+      "popularity_score": 0.7
+    },
+    "SHRM": {
+      "certification_count": 16,
+      "avg_rating": 4.11,
+      "avg_cost": 422.0,
+      "domains": [
+        "human-resources"
+      ],
+      "popularity_score": 0.85
+    },
+    "HRCI": {
+      "certification_count": 11,
+      "avg_rating": 4.04,
+      "avg_cost": 374.0,
+      "domains": [
+        "human-resources"
+      ],
+      "popularity_score": 0.8
+    },
+    "ATD": {
+      "certification_count": 21,
+      "avg_rating": 4.28,
+      "avg_cost": 303.0,
+      "domains": [
+        "human-resources",
+        "education"
+      ],
+      "popularity_score": 0.7
+    },
+    "CPCU Society": {
+      "certification_count": 3,
+      "avg_rating": 4.33,
+      "avg_cost": 755.0,
+      "domains": [
+        "insurance"
+      ],
+      "popularity_score": 0.75
+    },
+    "The Institutes": {
+      "certification_count": 9,
+      "avg_rating": 4.21,
+      "avg_cost": 519.0,
+      "domains": [
+        "insurance"
+      ],
+      "popularity_score": 0.7
+    },
+    "GARP": {
+      "certification_count": 9,
+      "avg_rating": 4.14,
+      "avg_cost": 728.0,
+      "domains": [
+        "risk-management"
+      ],
+      "popularity_score": 0.75
+    },
+    "IAPP": {
+      "certification_count": 13,
+      "avg_rating": 4.02,
+      "avg_cost": 498.0,
+      "domains": [
+        "legal",
+        "cybersecurity"
+      ],
+      "popularity_score": 0.7
+    },
+    "ACAMS": {
+      "certification_count": 8,
+      "avg_rating": 3.92,
+      "avg_cost": 582.0,
+      "domains": [
+        "finance",
+        "legal"
+      ],
+      "popularity_score": 0.65
+    },
+    "Green Business Certification": {
+      "certification_count": 6,
+      "avg_rating": 3.98,
+      "avg_cost": 322.0,
+      "domains": [
+        "environmental"
+      ],
+      "popularity_score": 0.5
+    }
+  },
+  "skill_analysis": {
+    "most_common_skills": {},
+    "emerging_skills": {},
+    "skill_salary_correlation": {}
+  },
+  "market_trends": {
+    "salary_trends": {},
+    "demand_trends": {},
+    "growth_projections": {}
+  }
+}
