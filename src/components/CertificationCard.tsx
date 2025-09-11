@@ -209,19 +209,17 @@ export default function CertificationCard({
     encodeURIComponent(title.toLowerCase().replace(/\s+/g, "-"));
 
   return (
-    <div className="relative">
+    <div className="relative w-full max-w-[280px] mx-auto">
       <Card
         // group enables nested hover effects
         className={clsx(
           "overflow-hidden rounded-2xl shadow-sm border border-gray-200 transition",
           "hover:shadow-md hover:-translate-y-1",
           "active:scale-[0.98] active:shadow-sm",
-          "bg-white"
+          "bg-white w-full"
         )}
         style={{ 
-          width: '280px', 
           height: '360px',
-          minWidth: '280px',
           minHeight: '360px'
         }}
       >
@@ -378,13 +376,13 @@ export default function CertificationCard({
                   className={clsx(
                     "absolute -top-4",
                     "text-white rounded-full",
-                    "w-14 h-14",
+                    "w-12 h-12 sm:w-14 sm:h-14",
                     "flex items-center justify-center",
-                    "text-sm font-bold shadow-2xl border-4 border-white"
+                    "text-xs sm:text-sm font-bold shadow-2xl border-2 sm:border-4 border-white",
+                    "right-2 sm:right-[-14px]"
                   )}
                   style={{ 
                     zIndex: 1000, 
-                    right: '-14px',
                     backgroundColor: '#0A66C2'
                   }}
                 >

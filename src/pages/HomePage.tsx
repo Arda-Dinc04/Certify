@@ -177,9 +177,9 @@ const HomePage: React.FC = () => {
             </div>
 
             {loading ? (
-              <div className="flex gap-6 overflow-x-auto pb-4">
+              <div className="flex gap-4 sm:gap-6 overflow-x-auto pb-4 px-4 sm:px-0">
                 {Array.from({ length: 6 }).map((_, index) => (
-                  <Card key={index} className="animate-pulse flex-shrink-0 w-80">
+                  <Card key={index} className="animate-pulse flex-shrink-0 w-72 sm:w-80">
                     <CardHeader>
                       <div className="h-4 bg-gray-200 rounded w-3/4 mb-2"></div>
                       <div className="h-3 bg-gray-200 rounded w-1/2"></div>
@@ -194,9 +194,9 @@ const HomePage: React.FC = () => {
                 ))}
               </div>
             ) : (
-              <div className="flex gap-6 overflow-x-auto pb-4 scrollbar-hide">
+              <div className="flex gap-4 sm:gap-6 overflow-x-auto pb-4 scrollbar-hide px-4 sm:px-0">
                 {trendingCertifications.slice(0, 6).map((certification) => (
-                  <div key={certification.id} className="flex-shrink-0 w-80">
+                  <div key={certification.id} className="flex-shrink-0 w-72 sm:w-80">
                     <CertificationCard
                       certification={certification}
                       showRanking={true}

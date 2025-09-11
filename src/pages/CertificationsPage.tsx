@@ -5,6 +5,7 @@ import {
   Filter as FilterIcon,
   ChevronLeft,
   ChevronRight,
+  ChevronDown,
   Search as SearchIcon,
   Monitor,
   DollarSign as FinanceIcon,
@@ -100,6 +101,8 @@ const CertificationsPage: React.FC = () => {
     (searchParams.get("sortOrder") as any) || "desc"
   );
 
+  // Mobile filter visibility state
+  const [isMobileFiltersOpen, setIsMobileFiltersOpen] = useState(false);
 
   // current filters derived from URL
   const currentFilters: SearchFilters = {
@@ -257,9 +260,22 @@ const CertificationsPage: React.FC = () => {
           </Button>
         </div>
 
+        {/* Mobile Filter Toggle Button */}
+        <div className="xl:hidden mb-4">
+          <Button
+            onClick={() => setIsMobileFiltersOpen(!isMobileFiltersOpen)}
+            variant="outline"
+            className="w-full flex items-center justify-center gap-2"
+          >
+            <FilterIcon className="w-4 h-4" />
+            Filters
+            <ChevronDown className={`w-4 h-4 transition-transform ${isMobileFiltersOpen ? 'rotate-180' : ''}`} />
+          </Button>
+        </div>
+
         <div className="flex flex-col xl:flex-row gap-6">
           {/* Sidebar filters */}
-          <aside className="xl:w-64 xl:flex-shrink-0">
+          <aside className={`xl:w-64 xl:flex-shrink-0 ${isMobileFiltersOpen ? 'block' : 'hidden xl:block'}`}>
             <div className="bg-white rounded-2xl p-6 sticky top-6">
               <div className="flex items-center justify-between mb-6">
                 <h3 className="text-lg font-semibold text-gray-900">Filters</h3>
@@ -404,43 +420,47 @@ const CertificationsPage: React.FC = () => {
           {/* Main column */}
           <section className="flex-1">
             {/* Results header row */}
-            <div className="flex items-center justify-between gap-4 mb-8">
-              <div>
-                <p className="text-gray-600 text-sm">{loading ? "Loading…" : rangeText}</p>
-              </div>
+            <div className="mb-8">
+              {/* Mobile: Stack vertically, Desktop: Side by side */}
+              <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+                {/* Sort control - appears first on mobile */}
+                <div className="flex items-center gap-3 order-1 sm:order-2">
+                  <span className="text-sm text-gray-600 font-medium">Sort by Rank</span>
+                  <select
+                    value={`${sortBy}-${sortOrder}`}
+                    onChange={(e) => {
+                      const [field, order] = e.target.value.split("-");
+                      setSortBy(field as typeof sortBy);
+                      setSortOrder(order as typeof sortOrder);
 
-              {/* Sort control */}
-              <div className="flex items-center gap-3">
-                <span className="text-sm text-gray-600 font-medium">Sort by Rank</span>
-                <select
-                  value={`${sortBy}-${sortOrder}`}
-                  onChange={(e) => {
-                    const [field, order] = e.target.value.split("-");
-                    setSortBy(field as typeof sortBy);
-                    setSortOrder(order as typeof sortOrder);
+                      // keep sort in URL (so refresh keeps it)
+                      const params = new URLSearchParams(searchParams);
+                      params.set("sortBy", field);
+                      params.set("sortOrder", order);
+                      setSearchParams(params);
+                      setPagination((p) => ({ ...p, page: 1 }));
+                    }}
+                    className="px-3 py-2 border border-gray-300 rounded-lg text-sm bg-white min-w-[120px] focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                  >
+                    <option value="popularity-desc">Sort by Rank</option>
+                    <option value="rating-desc">Rating</option>
+                    <option value="cost-asc">Price</option>
+                    <option value="name-asc">Name</option>
+                  </select>
+                </div>
 
-                    // keep sort in URL (so refresh keeps it)
-                    const params = new URLSearchParams(searchParams);
-                    params.set("sortBy", field);
-                    params.set("sortOrder", order);
-                    setSearchParams(params);
-                    setPagination((p) => ({ ...p, page: 1 }));
-                  }}
-                  className="px-3 py-2 border border-gray-300 rounded-lg text-sm bg-white min-w-[120px] focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                >
-                  <option value="popularity-desc">Sort by Rank</option>
-                  <option value="rating-desc">Rating</option>
-                  <option value="cost-asc">Price</option>
-                  <option value="name-asc">Name</option>
-                </select>
+                {/* Pagination text - appears second on mobile */}
+                <div className="order-2 sm:order-1">
+                  <p className="text-gray-600 text-sm">{loading ? "Loading…" : rangeText}</p>
+                </div>
               </div>
             </div>
 
             {/* Grid / Skeleton / Empty */}
             {loading ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6 justify-items-center">
                 {Array.from({ length: 12 }).map((_, i) => (
-                  <Card key={i} className="animate-pulse">
+                  <Card key={i} className="animate-pulse w-full max-w-[280px]">
                     <CardContent className="p-6">
                       <div className="space-y-4">
                         <div className="h-6 bg-gray-200 rounded w-3/4" />
@@ -453,7 +473,7 @@ const CertificationsPage: React.FC = () => {
                 ))}
               </div>
             ) : certifications.length > 0 ? (
-              <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-10">
+              <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6 justify-items-center">
                 {/* Ensure exactly 3 cards per row on large screens with proper spacing */}
                 {certifications.map((c, index) => (
                   <CertificationCard 
