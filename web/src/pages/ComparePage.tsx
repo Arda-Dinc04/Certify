@@ -173,26 +173,28 @@ const ComparePage: React.FC = () => {
               <CardTitle>Search Results - Click to Select</CardTitle>
             </CardHeader>
             <CardContent>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                {searchResults.map((certification) => (
-                  <div
-                    key={certification.id}
-                    className="relative cursor-pointer hover:shadow-lg transition-shadow"
-                    onClick={() => handleSelectCertification(certification)}
-                  >
-                    <CertificationCard
-                      certification={certification}
-                      showCompareButton={false}
-                    />
-                    {isInCompare(certification.id) && (
-                      <div className="absolute inset-0 bg-green-500 bg-opacity-20 rounded-2xl flex items-center justify-center z-10">
-                        <div className="text-green-800 text-sm font-medium bg-white px-4 py-2 rounded-lg shadow-md">
-                          Already Selected
+              <div className="flex justify-center">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl">
+                  {searchResults.map((certification) => (
+                    <div
+                      key={certification.id}
+                      className="relative cursor-pointer"
+                      onClick={() => handleSelectCertification(certification)}
+                    >
+                      <CertificationCard
+                        certification={certification}
+                        showCompareButton={false}
+                      />
+                      {isInCompare(certification.id) && (
+                        <div className="absolute inset-0 bg-green-500 bg-opacity-20 rounded-2xl flex items-center justify-center z-10">
+                          <div className="text-green-800 text-sm font-medium bg-white px-4 py-2 rounded-lg shadow-md">
+                            Already Selected
+                          </div>
                         </div>
-                      </div>
-                    )}
-                  </div>
-                ))}
+                      )}
+                    </div>
+                  ))}
+                </div>
               </div>
             </CardContent>
           </Card>
@@ -223,16 +225,20 @@ const ComparePage: React.FC = () => {
                         </th>
                         {compareItems.map((item) => (
                           <th key={item.id} className="px-6 py-4 text-center text-sm font-medium text-gray-900 min-w-64">
-                            <div className="flex items-center justify-between">
-                              <span className="truncate">{item.name}</span>
-                              <Button
-                                variant="ghost"
-                                size="sm"
-                                onClick={() => removeFromCompare(item.id)}
-                                className="ml-2 p-1 h-6 w-6"
-                              >
-                                <X className="w-4 h-4" />
-                              </Button>
+                            <div className="flex flex-col items-center space-y-2">
+                              <div className="flex items-center justify-between w-full">
+                                <span className="flex-1 text-center font-semibold text-base leading-tight">
+                                  {item.name}
+                                </span>
+                                <Button
+                                  variant="ghost"
+                                  size="sm"
+                                  onClick={() => removeFromCompare(item.id)}
+                                  className="ml-2 p-1 h-6 w-6 flex-shrink-0"
+                                >
+                                  <X className="w-4 h-4" />
+                                </Button>
+                              </div>
                             </div>
                           </th>
                         ))}

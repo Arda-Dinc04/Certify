@@ -1,3 +1,5 @@
+import React from 'react';
+
 export interface Certification {
   id: string;
   name: string;
@@ -49,7 +51,7 @@ export interface Domain {
   name: string;
   slug: string;
   description: string;
-  icon: string;
+  icon: React.ComponentType<any>;
   color: string;
   certificationCount: number;
   averageRating: number;

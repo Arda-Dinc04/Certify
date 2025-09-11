@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { ArrowRight, Users, Award, BookOpen, BarChart3 } from 'lucide-react';
 import { Button } from '../components/ui/Button';
 import { Card, CardContent, CardHeader } from '../components/ui/Card';
@@ -7,51 +7,26 @@ import SearchBar from '../components/SearchBar';
 import CertificationCard from '../components/CertificationCard';
 import { dataService } from '../services/dataService';
 import type { Certification, Domain, Stats } from '../types';
-import { useDataPreload } from '../components/PreloadHints';
-import { ALL_DOMAIN_SLUGS, getDomainMeta, getDomainLabel, getDomainEmoji } from '../config/domains';
 
 const HomePage: React.FC = () => {
+  const navigate = useNavigate();
   const [trendingCertifications, setTrendingCertifications] = useState<Certification[]>([]);
   const [domains, setDomains] = useState<Domain[]>([]);
   const [stats, setStats] = useState<Stats | null>(null);
   const [loading, setLoading] = useState(true);
 
-  // Preload critical data for better performance
-  useDataPreload();
-
   useEffect(() => {
     const fetchData = async () => {
       try {
         setLoading(true);
-        
-        // Get trending certifications and stats
-        const [trending, statsData] = await Promise.all([
+        const [trending, domainsData, statsData] = await Promise.all([
           dataService.getTrendingCertifications(8),
+          dataService.getDomains(),
           dataService.getStats()
         ]);
         
-        // Load manifest to get certification counts per domain
-        const manifestResponse = await fetch('/data/manifest.json');
-        const manifest = await manifestResponse.json();
-        
-        // Create domain objects with certification counts from manifest
-        const allDomains: Domain[] = ALL_DOMAIN_SLUGS.map(slug => {
-          const domainMeta = getDomainMeta(slug);
-          const manifestDomain = manifest.domains_meta[slug];
-          
-          return {
-            id: slug,
-            slug: slug,
-            name: getDomainLabel(slug),
-            icon: getDomainEmoji(slug),
-            color: domainMeta?.color || '#3B82F6',
-            certificationCount: manifestDomain?.certification_count || 0,
-            description: `Professional certifications in ${getDomainLabel(slug)}`
-          };
-        }).sort((a, b) => b.certificationCount - a.certificationCount); // Sort by certification count
-        
         setTrendingCertifications(trending);
-        setDomains(allDomains);
+        setDomains(domainsData);
         setStats(statsData);
       } catch (error) {
         console.error('Error fetching data:', error);
@@ -63,13 +38,14 @@ const HomePage: React.FC = () => {
     fetchData();
   }, []);
 
-  const handleSearch = (query: string, filters: any) => {
-    // This would typically navigate to the certifications page with search params
-    console.log('Search:', query, filters);
+  const handleSearch = (query: string) => {
+    if (query.trim()) {
+      navigate(`/certifications?query=${encodeURIComponent(query.trim())}`);
+    }
   };
 
   const handleClear = () => {
-    console.log('Clear search');
+    // Clear functionality can be handled by the SearchBar component
   };
 
   const features = [
@@ -97,6 +73,14 @@ const HomePage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      {/* Welcome Banner */}
+      <div className="bg-gradient-to-r from-green-500 to-blue-600 text-white py-3">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="text-2xl font-bold">Welcome to Certify! 🎉</h2>
+          <p className="text-sm opacity-90">Your gateway to professional certification success</p>
+        </div>
+      </div>
+
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-blue-50 to-indigo-100 py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -193,9 +177,9 @@ const HomePage: React.FC = () => {
             </div>
 
             {loading ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="flex gap-6 overflow-x-auto pb-4">
                 {Array.from({ length: 6 }).map((_, index) => (
-                  <Card key={index} className="animate-pulse">
+                  <Card key={index} className="animate-pulse flex-shrink-0 w-80">
                     <CardHeader>
                       <div className="h-4 bg-gray-200 rounded w-3/4 mb-2"></div>
                       <div className="h-3 bg-gray-200 rounded w-1/2"></div>
@@ -210,13 +194,14 @@ const HomePage: React.FC = () => {
                 ))}
               </div>
             ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="flex gap-6 overflow-x-auto pb-4 scrollbar-hide">
                 {trendingCertifications.slice(0, 6).map((certification) => (
-                  <CertificationCard
-                    key={certification.id}
-                    certification={certification}
-                    showRanking={true}
-                  />
+                  <div key={certification.id} className="flex-shrink-0 w-80">
+                    <CertificationCard
+                      certification={certification}
+                      showRanking={true}
+                    />
+                  </div>
                 ))}
               </div>
             )}
@@ -235,46 +220,35 @@ const HomePage: React.FC = () => {
             </p>
           </div>
 
-          {loading ? (
-            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-4">
-              {Array.from({ length: 32 }).map((_, index) => (
-                <Card key={index} className="animate-pulse">
-                  <CardContent className="p-4 h-32">
-                    <div className="w-12 h-12 mx-auto mb-3 bg-gray-200 rounded-lg"></div>
-                    <div className="h-4 bg-gray-200 rounded mb-2"></div>
-                    <div className="h-3 bg-gray-200 rounded w-3/4 mx-auto"></div>
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+            {domains.map((domain) => (
+              <Link
+                key={domain.id}
+                to={`/certifications?domain=${domain.slug}`}
+                className="group"
+              >
+                <Card className="text-center p-4 card-hover">
+                  <CardContent className="pt-4">
+                    <div 
+                      className="w-12 h-12 mx-auto mb-3 rounded-lg flex items-center justify-center text-white text-2xl"
+                      style={{ backgroundColor: domain.color }}
+                    >
+                      {(() => {
+                        const IconComponent = domain.icon;
+                        return <IconComponent className="w-6 h-6" />;
+                      })()}
+                    </div>
+                    <h3 className="font-semibold text-sm group-hover:text-blue-600 transition-colors">
+                      {domain.name}
+                    </h3>
+                    <p className="text-xs text-gray-500 mt-1">
+                      {domain.certificationCount} certifications
+                    </p>
                   </CardContent>
                 </Card>
-              ))}
-            </div>
-          ) : (
-            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-4">
-              {domains.map((domain) => (
-                <Link
-                  key={domain.id}
-                  to={`/certifications?domain=${domain.slug}`}
-                  className="group"
-                >
-                  <Card className="text-center card-hover h-full">
-                    <CardContent className="p-4 h-32 flex flex-col justify-center">
-                      <div 
-                        className="w-12 h-12 mx-auto mb-3 rounded-lg flex items-center justify-center text-white text-2xl"
-                        style={{ backgroundColor: domain.color }}
-                      >
-                        {domain.icon}
-                      </div>
-                      <h3 className="font-semibold text-sm group-hover:text-blue-600 transition-colors leading-tight mb-1">
-                        {domain.name}
-                      </h3>
-                      <p className="text-xs text-gray-500">
-                        {domain.certificationCount} certs
-                      </p>
-                    </CardContent>
-                  </Card>
-                </Link>
-              ))}
-            </div>
-          )}
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
 
@@ -289,7 +263,11 @@ const HomePage: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link to="/certifications">
-              <Button size="lg" variant="secondary">
+              <Button 
+                size="lg" 
+                variant="secondary"
+                className="text-white hover:text-white hover:scale-105 transition-all duration-200"
+              >
                 Browse Certifications
               </Button>
             </Link>

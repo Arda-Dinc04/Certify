@@ -5,27 +5,30 @@ import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/Card'
 import { Badge, RankingBadge } from '../components/ui/Badge';
 import { Button } from '../components/ui/Button';
 import { dataService } from '../services/dataService';
-import type { Ranking } from '../types';
-import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji } from '../config/domains';
-import { useRankingsFilters } from '../hooks/useUrlState';
+import type { Ranking, Domain } from '../types';
 
 const RankingsPage: React.FC = () => {
-  const { state: filters, setState: setFilters } = useRankingsFilters();
   const [rankings, setRankings] = useState<Ranking[]>([]);
+  const [domains, setDomains] = useState<Domain[]>([]);
+  const [selectedDomain, setSelectedDomain] = useState<string>('all');
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     fetchData();
-  }, [filters.domain]);
+  }, [selectedDomain]);
 
   const fetchData = async () => {
     try {
       setLoading(true);
-      const rankingsData = filters.domain === 'all' 
-        ? await dataService.getTopRankings(undefined, 50)
-        : await dataService.getDomainRankings(filters.domain);
+      const [rankingsData, domainsData] = await Promise.all([
+        selectedDomain === 'all' 
+          ? dataService.getTopRankings(undefined, 50)
+          : dataService.getDomainRankings(selectedDomain),
+        dataService.getDomains()
+      ]);
       
       setRankings(rankingsData);
+      setDomains(domainsData);
     } catch (error) {
       console.error('Error fetching rankings:', error);
     } finally {
@@ -70,24 +73,27 @@ const RankingsPage: React.FC = () => {
         <div className="mb-8">
           <div className="flex flex-wrap justify-center gap-2">
             <Button
-              variant={filters.domain === 'all' ? 'default' : 'outline'}
-              onClick={() => setFilters({ domain: 'all' })}
+              variant={selectedDomain === 'all' ? 'default' : 'outline'}
+              onClick={() => setSelectedDomain('all')}
               className="flex items-center space-x-2"
             >
               <BarChart3 className="w-4 h-4" />
               <span>All Domains</span>
             </Button>
-            {ALL_DOMAIN_SLUGS.map((domainSlug) => (
-              <Button
-                key={domainSlug}
-                variant={filters.domain === domainSlug ? 'default' : 'outline'}
-                onClick={() => setFilters({ domain: domainSlug })}
-                className="flex items-center space-x-2"
-              >
-                <span>{getDomainEmoji(domainSlug)}</span>
-                <span>{getDomainLabel(domainSlug)}</span>
-              </Button>
-            ))}
+            {domains.map((domain) => {
+              const DomainIcon = domain.icon;
+              return (
+                <Button
+                  key={domain.id}
+                  variant={selectedDomain === domain.slug ? 'default' : 'outline'}
+                  onClick={() => setSelectedDomain(domain.slug)}
+                  className="flex items-center space-x-2"
+                >
+                  <DomainIcon className="w-4 h-4" />
+                  <span>{domain.name}</span>
+                </Button>
+              );
+            })}
           </div>
         </div>
 
@@ -97,7 +103,7 @@ const RankingsPage: React.FC = () => {
             <CardTitle className="flex items-center space-x-2">
               <Trophy className="w-6 h-6 text-gray-900" />
               <span>
-                {filters.domain === 'all' ? 'Top Certifications' : `${getDomainLabel(filters.domain)} Rankings`}
+                {selectedDomain === 'all' ? 'Top Certifications' : `${domains.find(d => d.slug === selectedDomain)?.name} Rankings`}
               </span>
             </CardTitle>
           </CardHeader>
@@ -144,10 +150,7 @@ const RankingsPage: React.FC = () => {
                                 <span>{ranking.certification.issuer}</span>
                               </span>
                               <span>•</span>
-                              <span className="flex items-center space-x-1">
-                                <span>{getDomainEmoji(ranking.certification.domain)}</span>
-                                <span>{getDomainLabel(ranking.certification.domain)}</span>
-                              </span>
+                              <span>{ranking.certification.domain}</span>
                               <span>•</span>
                               <span className="flex items-center space-x-1">
                                 <Star className="w-4 h-4 text-yellow-400 fill-current" />
