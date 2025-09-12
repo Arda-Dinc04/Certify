@@ -2,7 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Trophy, Star, TrendingUp, Award, BarChart3 } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/Card';
-import { Badge, RankingBadge } from '../components/ui/Badge';
+import { Badge } from '../components/ui/Badge';
+import { RankingBadge } from '../components/ui/RankingBadge';
 import { Button } from '../components/ui/Button';
 import { dataService } from '../services/dataService';
 import type { Ranking, Domain } from '../types';
@@ -82,7 +83,6 @@ const RankingsPage: React.FC = () => {
               <span className="xs:hidden">All</span>
             </Button>
             {domains.map((domain) => {
-              const DomainIcon = domain.icon;
               return (
                 <Button
                   key={domain.id}
@@ -90,7 +90,9 @@ const RankingsPage: React.FC = () => {
                   onClick={() => setSelectedDomain(domain.slug)}
                   className="flex items-center space-x-1 sm:space-x-2 text-xs sm:text-sm px-2 sm:px-3 py-1.5 sm:py-2"
                 >
-                  <DomainIcon className="w-3 h-3 sm:w-4 sm:h-4" />
+                  <span className="w-3 h-3 sm:w-4 sm:h-4 flex items-center justify-center text-xs sm:text-sm">
+                    {domain.icon}
+                  </span>
                   <span className="hidden sm:inline">{domain.name}</span>
                   <span className="sm:hidden">{domain.name.split(' ')[0]}</span>
                 </Button>
@@ -132,7 +134,7 @@ const RankingsPage: React.FC = () => {
                     <div className="flex flex-col sm:flex-row sm:items-center space-y-3 sm:space-y-0 sm:space-x-6">
                       {/* Ranking Position */}
                       <div className="flex-shrink-0 flex justify-center sm:justify-start">
-                        <RankingBadge position={ranking.position} />
+                        <RankingBadge rank={ranking.position} />
                       </div>
 
                       {/* Certification Info */}

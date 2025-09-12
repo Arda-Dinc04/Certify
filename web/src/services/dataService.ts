@@ -222,43 +222,125 @@ export const dataService = {
   // Rankings
   async getTopRankings(domain?: string, limit = 10): Promise<Ranking[]> {
     const rankingsData = await getRankingsToday();
-    const certsData = await getCertIndex();
+    
+    // Load all certification data from domain files
+    const allCerts = await this.loadAllDomainCertifications();
     
     // Create cert lookup
     const certLookup = Object.fromEntries(
-      certsData.map((cert: any) => [cert.slug, cert])
+      allCerts.map((cert: any) => [cert.slug, cert])
     );
     
     let filteredRankings = rankingsData;
     
-    if (domain) {
+    if (domain && domain !== 'all') {
       filteredRankings = rankingsData.filter((ranking: any) => 
-        ranking.domain.toLowerCase().includes(domain.toLowerCase())
+        ranking.domain === domain
       );
     }
     
-    return filteredRankings.slice(0, limit).map((ranking: any) => {
+    const rankingPromises = filteredRankings.slice(0, limit).map(async (ranking: any) => {
       const cert = certLookup[ranking.slug];
-      if (!cert) return null;
+      if (!cert) {
+        console.warn(`Certificate not found for ranking slug: ${ranking.slug}`);
+        return null;
+      }
       
       const transformedCert = transformCertification(cert);
+      const salaryScore = await this.getSalaryScore(cert.domain, cert);
+      
       return {
         id: ranking.slug,
         certificationId: ranking.slug,
-        certification: transformedCert,
+        certification: {
+          ...transformedCert,
+          rating: ranking.rating || transformedCert.rating,
+          reviewCount: ranking.job_postings * 10 || transformedCert.reviewCount
+        },
         domain: ranking.domain,
         position: ranking.rank,
-        score: ranking.score * 100,
+        score: ranking.score * 20, // Use actual ranking score
         criteria: {
-          popularity: transformedCert.popularity,
-          difficulty: transformedCert.difficulty * 20,
-          rating: ranking.score * 20,
-          marketDemand: Math.floor(Math.random() * 100),
-          salaryImpact: Math.floor(Math.random() * 100)
+          popularity: Math.min(100, Math.round((ranking.job_postings || 0) / 50)), // Scale job postings to 0-100
+          difficulty: this.getDifficultyScore(cert.level),
+          rating: Math.round((ranking.rating || 4) * 20),
+          marketDemand: Math.min(100, Math.round((ranking.job_postings || 0) / 30)), // Different scaling for market demand
+          salaryImpact: salaryScore
         },
         lastUpdated: new Date().toISOString()
       };
-    }).filter(Boolean);
+    });
+    
+    const results = await Promise.all(rankingPromises);
+    return results.filter(Boolean);
+  },
+
+  // Helper method to load all certifications from domain files
+  async loadAllDomainCertifications(): Promise<any[]> {
+    const manifest = await getManifest();
+    const domainFiles = Object.keys(manifest.shards || {}).map(domain => 
+      `/data/certifications/${domain}.json`
+    );
+    
+    const certPromises = domainFiles.map(async (file) => {
+      try {
+        const res = await fetch(file, { cache: 'no-cache' });
+        if (!res.ok) return [];
+        return await res.json();
+      } catch (error) {
+        console.warn(`Failed to load ${file}:`, error);
+        return [];
+      }
+    });
+    
+    const certArrays = await Promise.all(certPromises);
+    return certArrays.flat();
+  },
+
+  // Helper method to get difficulty score based on level
+  getDifficultyScore(level: string): number {
+    const difficultyMap: { [key: string]: number } = {
+      'Foundational': 20,
+      'Associate': 40, 
+      'Professional': 60,
+      'Expert': 80,
+      'Specialty': 70
+    };
+    return difficultyMap[level] || 40;
+  },
+
+  // Helper method to get salary impact score
+  async getSalaryScore(domain: string, cert: any): Promise<number> {
+    try {
+      const salaryData = await getRoleSalaries();
+      
+      // Map domains to relevant roles
+      const domainRoleMap: { [key: string]: string[] } = {
+        'cs-it': ['Cloud Engineer', 'DevOps Engineer', 'Software Engineer', 'Security Analyst'],
+        'cybersecurity': ['Security Analyst', 'Information Security Manager', 'Cybersecurity Specialist'],
+        'cloud-computing': ['Cloud Engineer', 'Cloud Architect', 'DevOps Engineer'],
+        'data-science': ['Data Scientist', 'Machine Learning Engineer', 'Data Analyst'],
+        'finance': ['Financial Analyst', 'Risk Manager', 'Investment Analyst']
+      };
+      
+      const relevantRoles = domainRoleMap[domain] || [];
+      if (relevantRoles.length === 0) return 50; // Default score
+      
+      // Get median salaries for relevant roles
+      const salaries = relevantRoles
+        .map(role => salaryData[role]?.median_usd)
+        .filter(Boolean);
+      
+      if (salaries.length === 0) return 50;
+      
+      const avgSalary = salaries.reduce((sum, salary) => sum + salary, 0) / salaries.length;
+      
+      // Convert salary to 0-100 scale (assuming 50k-200k range)
+      return Math.min(100, Math.max(0, Math.round((avgSalary - 50000) / 1500)));
+    } catch (error) {
+      console.warn('Error calculating salary score:', error);
+      return 50; // Default fallback
+    }
   },
 
   async getDomainRankings(domainSlug: string): Promise<Ranking[]> {
@@ -267,6 +349,22 @@ export const dataService = {
 
   // Domains
   async getDomains(): Promise<Domain[]> {
+    // Use the manifest for accurate domain data
+    const manifest = await getManifest();
+    return Object.entries(manifest.domains_meta).map(([slug, meta]: [string, any]) => ({
+      id: slug,
+      name: meta.label,
+      slug: slug,
+      description: `${meta.label} certifications`,
+      icon: meta.emoji,
+      color: '#3B82F6', // Default color
+      certificationCount: meta.certification_count,
+      averageRating: 4.1, // Use manifest data later
+      trending: meta.job_market_strength === 'Growing'
+    }));
+  },
+
+  async getDomains_old(): Promise<Domain[]> {
     const rawData = await getCertIndex();
     const domains = [...new Set(rawData.map((item: any) => item.domain))];
     

@@ -119,7 +119,7 @@ export default function CompaniesPage() {
       {/* Domain Navigation */}
       <div className="mb-8">
         <div className="border-b border-gray-200">
-          <nav className="-mb-px flex space-x-8" aria-label="Domains">
+          <nav className="-mb-px flex space-x-4 sm:space-x-8 overflow-x-auto scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100 pb-px" aria-label="Domains" style={{ scrollbarWidth: 'thin' }}>
             {domains.map((domain) => (
               <button
                 key={domain}
@@ -127,13 +127,16 @@ export default function CompaniesPage() {
                   setSelectedDomain(domain);
                   setFilters({ domain });
                 }}
-                className={`py-2 px-1 border-b-2 font-medium text-sm ${
+                className={`py-2 px-2 sm:px-3 border-b-2 font-medium text-xs sm:text-sm whitespace-nowrap flex-shrink-0 transition-colors ${
                   selectedDomain === domain
                     ? 'border-blue-500 text-blue-600'
                     : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
                 }`}
               >
-{getDomainLabel(domain as any) || domain.charAt(0).toUpperCase() + domain.slice(1)}
+                <span className="flex items-center space-x-1">
+                  <span>{getDomainEmoji(domain as any)}</span>
+                  <span>{getDomainLabel(domain as any) || domain.charAt(0).toUpperCase() + domain.slice(1)}</span>
+                </span>
               </button>
             ))}
           </nav>

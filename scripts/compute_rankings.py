@@ -1,19 +1,43 @@
 #!/usr/bin/env python3
 """
-Compute rankings and trends from certifications data
+Comprehensive ranking system for certifications based on instruction.txt
+Computes rankings using demand, salary, friction, difficulty, and freshness signals
 """
 
 import json
 import math
 import datetime
 import pathlib
-from typing import Dict, List, Any
+import statistics
+from typing import Dict, List, Any, Optional
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA = ROOT / "web" / "public" / "data"
 
+# Configuration based on instruction.txt
+WEIGHTS = {
+    'demand': 0.45,
+    'salary': 0.25,  
+    'fee': 0.15,
+    'hours': 0.10,
+    'freshness': 0.05
+}
+
+DIFFICULTY_WEIGHTS = {
+    'foundational': 0.05,
+    'associate': 0.10,
+    'professional': 0.15,
+    'expert': 0.20,
+    'specialty': 0.15
+}
+
+# EMA smoothing parameter
+ALPHA = 0.5  # 14-day feel
+
 def load_json(path: pathlib.Path) -> Any:
     """Load JSON file"""
+    if not path.exists():
+        return {}
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -23,147 +47,291 @@ def save_json(path: pathlib.Path, obj: Any) -> None:
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
-def minmax(vals: List[float], v: float) -> float:
-    """Min-max normalization"""
-    if not vals:
+def zscore(values: List[float], value: float) -> float:
+    """Compute z-score with epsilon protection"""
+    if len(values) < 3:
         return 0.0
-    mn, mx = min(vals), max(vals)
-    return 0.0 if mx == mn else (v - mn) / (mx - mn)
+    
+    values = [v for v in values if v is not None and not math.isnan(v)]
+    if len(values) < 3:
+        return 0.0
+        
+    mean_val = statistics.mean(values)
+    try:
+        stdev_val = statistics.stdev(values)
+        if stdev_val < 1e-6:
+            return 0.0
+        return (value - mean_val) / stdev_val
+    except:
+        return 0.0
+
+def minmax_normalize(values: List[float], value: float) -> float:
+    """Min-max normalization with protection"""
+    if len(values) < 2:
+        return 0.0
+        
+    values = [v for v in values if v is not None and not math.isnan(v)]
+    if len(values) < 2:
+        return 0.0
+        
+    min_val = min(values)
+    max_val = max(values)
+    
+    if max_val - min_val < 1e-6:
+        return 0.5
+        
+    return (value - min_val) / (max_val - min_val)
+
+def get_demand_signal(cert: Dict, demand_data: Dict) -> float:
+    """Get job postings demand signal"""
+    slug = cert['slug']
+    if slug in demand_data:
+        return float(demand_data[slug].get('job_postings_30d', 0))
+    return float(cert.get('job_postings', 0))
+
+def get_salary_signal(cert: Dict, salary_data: Dict) -> float:
+    """Get salary proxy from role salaries"""
+    # Use existing salary data from cert if available
+    salary_info = cert.get('salary', {})
+    if salary_info and 'avg' in salary_info:
+        return float(salary_info['avg'])
+    
+    # Fallback to role-based lookup (simplified)
+    domain = cert['domain']
+    if domain in salary_data:
+        roles = salary_data[domain]
+        if roles:
+            # Take median of available salaries
+            salaries = [role.get('median_usd', 0) for role in roles.values() if role.get('median_usd')]
+            if salaries:
+                return float(statistics.median(salaries))
+    
+    return 0.0
+
+def get_friction_signals(cert: Dict) -> tuple:
+    """Get fee and hours friction signals"""
+    fee = float(cert.get('cost', cert.get('exam_fee_usd', 0)))
+    
+    # Hours calculation
+    hours = 0
+    duration_str = cert.get('duration', '0 hours')
+    try:
+        if 'hour' in duration_str.lower():
+            hours = float(duration_str.lower().replace('hours', '').replace('hour', '').strip())
+        elif 'week' in duration_str.lower():
+            weeks = float(duration_str.lower().replace('weeks', '').replace('week', '').strip())
+            hours = weeks * 40  # Assume 40 hours per week
+        elif 'day' in duration_str.lower():
+            days = float(duration_str.lower().replace('days', '').replace('day', '').strip())  
+            hours = days * 8   # Assume 8 hours per day
+    except:
+        # Fallback to old format
+        lo = cert.get("recommended_hours_min", 0) or 0
+        hi = cert.get("recommended_hours_max", 0) or lo
+        hours = (lo + hi) / 2
+        
+    return fee, hours
+
+def get_difficulty_weight(cert: Dict) -> float:
+    """Get difficulty weight based on level"""
+    level = cert.get('level', 'associate').lower()
+    return DIFFICULTY_WEIGHTS.get(level, DIFFICULTY_WEIGHTS['associate'])
 
 def main():
-    """Main function to compute rankings"""
-    print("Computing rankings...")
+    """Main function to compute comprehensive rankings"""
+    print("🚀 Computing comprehensive rankings...")
+    print("=" * 60)
     
-    # Load certifications
-    certs = load_json(DATA / "certifications" / "index.json")
+    # Load all certification data from domain files
+    certifications = {}
+    domains = {}
     
-    # Load optional inputs
-    demand = {}
+    # Load certifications from all domain files
+    cert_files = [f for f in (DATA / "certifications").glob("*.json") 
+                  if not f.name.startswith('index')]
+    
+    for cert_file in cert_files:
+        try:
+            certs = load_json(cert_file)
+            for cert in certs:
+                certifications[cert['slug']] = cert
+                domain = cert['domain']
+                if domain not in domains:
+                    domains[domain] = []
+                domains[domain].append(cert['slug'])
+        except Exception as e:
+            print(f"Error loading {cert_file}: {e}")
+    
+    print(f"Loaded {len(certifications)} certifications across {len(domains)} domains")
+    
+    # Load demand and salary data
+    demand_data = {}
     if (DATA / "demand" / "metrics.json").exists():
         demand_list = load_json(DATA / "demand" / "metrics.json")
-        demand = {d["slug"]: d for d in demand_list}
+        demand_data = {d["slug"]: d for d in demand_list}
     
-    salaries = {}
-    if (DATA / "salaries" / "role_salaries.json").exists():
-        salaries = load_json(DATA / "salaries" / "role_salaries.json")
+    salary_data = load_json(DATA / "salaries" / "role_salaries.json")
     
-    # Group by domain
-    by_domain = {}
-    fees, hours, demand30 = [], [], []
-    
-    for c in certs:
-        by_domain.setdefault(c["domain"], []).append(c)
-        
-        # Collect global stats for normalization
-        if c.get("exam_fee_usd"):
-            fees.append(float(c["exam_fee_usd"]))
-            
-        if c.get("recommended_hours_min") or c.get("recommended_hours_max"):
-            lo = c.get("recommended_hours_min") or 0
-            hi = c.get("recommended_hours_max") or lo
-            midh = (lo + hi) / 2
-            hours.append(midh)
-            
-        dm = demand.get(c["slug"], {}).get("job_postings_30d")
-        if dm is not None:
-            demand30.append(dm)
+    # Load previous scores for EMA
+    trends_path = DATA / "rankings" / "trends.json"
+    trends = load_json(trends_path)
+    previous_scores = trends.get('scores', {})
     
     today = datetime.date.today().isoformat()
-    rankings_out = []
-    
-    # Load existing trends
-    trends_path = DATA / "rankings" / "trends.json"
-    trends = load_json(trends_path) if trends_path.exists() else {}
-    
-    # Ranking weights
-    w1, w2, w3, w4, w5 = 0.5, 0.2, 0.1, 0.15, 0.05  # demand, salary, cost, difficulty, freshness
+    all_rankings = []
+    new_scores = {}
     
     # Process each domain
-    for domain, cert_list in by_domain.items():
-        print(f"Processing domain: {domain} ({len(cert_list)} certs)")
+    for domain, cert_slugs in domains.items():
+        print(f"Processing domain: {domain} ({len(cert_slugs)} certs)")
         
-        # Collect domain-specific vectors
-        fees_d = [float(x["exam_fee_usd"]) for x in cert_list if x.get("exam_fee_usd")]
-        hours_d = []
+        certs = [certifications[slug] for slug in cert_slugs]
         
-        for x in cert_list:
-            lo, hi = x.get("recommended_hours_min"), x.get("recommended_hours_max")
-            if lo or hi:
-                lo = lo or 0
-                hi = hi or lo
-                hours_d.append((lo + hi) / 2)
+        # Collect all signals for normalization
+        demand_values = []
+        salary_values = []
+        fee_values = []
+        hours_values = []
         
-        demand_d = []
-        for x in cert_list:
-            dm = demand.get(x["slug"], {}).get("job_postings_30d")
-            if dm is not None:
-                demand_d.append(dm)
+        signals = {}
         
-        # Compute scores for this domain
-        scored = []
-        for c in cert_list:
-            # Fee term (lower is better)
-            fee = float(c["exam_fee_usd"]) if c.get("exam_fee_usd") else (min(fees_d) if fees_d else 0.0)
-            fee_term = 1.0 - minmax(fees_d, fee) if fees_d else 0.0
+        for cert in certs:
+            demand = get_demand_signal(cert, demand_data)
+            salary = get_salary_signal(cert, salary_data)
+            fee, hours = get_friction_signals(cert)
             
-            # Hours term (fewer is better)  
-            lo, hi = c.get("recommended_hours_min"), c.get("recommended_hours_max")
-            midh = (lo + hi) / 2 if (lo or hi) else (min(hours_d) if hours_d else 0.0)
-            hour_term = 1.0 - minmax(hours_d, midh) if hours_d else 0.0
-            
-            # Demand Z-score
-            dm = demand.get(c["slug"], {}).get("job_postings_30d", 0)
-            demand_z = 0.0
-            if demand_d and len(demand_d) > 1:
-                mu = sum(demand_d) / len(demand_d)
-                var = sum((x - mu) ** 2 for x in demand_d) / max(1, len(demand_d) - 1)
-                sd = math.sqrt(var) or 1.0
-                demand_z = (dm - mu) / sd
-            
-            # Difficulty bonus
-            difficulty_map = {
-                "Foundational": 0.05,
-                "Associate": 0.1, 
-                "Professional": 0.15,
-                "Expert": 0.2,
-                "Specialty": 0.15
+            signals[cert['slug']] = {
+                'demand': demand,
+                'salary': salary,
+                'fee': fee,
+                'hours': hours,
+                'difficulty': get_difficulty_weight(cert),
+                'freshness': 1.0  # Simplified for now
             }
-            difficulty = difficulty_map.get(c.get("level", ""), 0.0)
             
-            # Freshness bonus
-            freshness = 0.05 if c.get("last_checked_utc", "")[:10] == today else 0.0
-            
-            # Final score
-            score = (w1 * demand_z + w2 * 0 + w3 * fee_term + 
-                    w4 * difficulty + w5 * freshness)
-            
-            scored.append((c["slug"], score, c["domain"]))
+            if demand > 0:
+                demand_values.append(demand)
+            if salary > 0:
+                salary_values.append(salary)
+            if fee > 0:
+                fee_values.append(fee)
+            if hours > 0:
+                hours_values.append(hours)
         
-        # Sort by score and assign ranks
-        scored.sort(key=lambda x: x[1], reverse=True)
+        # Compute normalized scores
+        raw_scores = []
         
-        for i, (slug, score, dom) in enumerate(scored, start=1):
-            rankings_out.append({
-                "slug": slug,
-                "rank": i, 
-                "score": round(score, 4),
-                "domain": dom
+        for cert in certs:
+            slug = cert['slug']
+            s = signals[slug]
+            
+            # Normalize signals
+            demand_z = zscore(demand_values, s['demand'])
+            salary_z = zscore(salary_values, s['salary'])
+            fee_n = minmax_normalize(fee_values, s['fee'])
+            hours_n = minmax_normalize(hours_values, s['hours'])
+            
+            # Compute raw score
+            score_raw = (
+                WEIGHTS['demand'] * demand_z +
+                WEIGHTS['salary'] * salary_z +
+                WEIGHTS['fee'] * (1 - fee_n) +     # Invert: lower fee is better
+                WEIGHTS['hours'] * (1 - hours_n) + # Invert: lower hours is better
+                WEIGHTS['freshness'] * s['freshness'] +
+                s['difficulty']
+            )
+            
+            raw_scores.append(score_raw)
+            signals[slug]['score_raw'] = score_raw
+            signals[slug]['has_demand'] = s['demand'] > 0
+            signals[slug]['has_salary'] = s['salary'] > 0
+        
+        # Compute mean for shrinkage
+        domain_mean = statistics.mean(raw_scores) if raw_scores else 0.0
+        
+        # Apply shrinkage and EMA, create rankings
+        domain_rankings = []
+        
+        for cert in certs:
+            slug = cert['slug']
+            s = signals[slug]
+            
+            # Bayesian shrinkage
+            obs = int(s['has_demand']) + int(s['has_salary'])
+            lam = max(0.0, min(0.6, 1 - obs/2))
+            score_shrunk = lam * domain_mean + (1 - lam) * s['score_raw']
+            
+            # EMA smoothing
+            prev_score = previous_scores.get(slug, score_shrunk)
+            score_t = ALPHA * score_shrunk + (1 - ALPHA) * prev_score
+            
+            # Store new score
+            new_scores[slug] = score_t
+            
+            # Create ranking entry
+            confidence = 'high' if obs >= 2 else 'medium' if obs >= 1 else 'low'
+            
+            domain_rankings.append({
+                'slug': slug,
+                'name': cert['name'],
+                'issuer': cert['issuer'],
+                'domain': domain,
+                'score': score_t,
+                'confidence': confidence,
+                'rating': cert.get('rating', 4.0),
+                'job_postings': int(s['demand']),
+                'signals': {
+                    'demand': s['demand'],
+                    'salary': s['salary'],
+                    'fee': s['fee'], 
+                    'hours': s['hours']
+                }
             })
-            
-            # Update trends
-            arr = trends.get(slug, [])
-            # Remove today's entry if exists, then add new one
-            arr = [x for x in arr if x["date"] != today]
-            arr.append({"date": today, "rank": i})
-            # Keep last 14 days
-            trends[slug] = arr[-14:]
+        
+        # Sort by score descending
+        domain_rankings.sort(key=lambda x: (-x['score'], -x['signals']['salary'], x['signals']['fee']))
+        
+        # Add domain ranks
+        for i, ranking in enumerate(domain_rankings, 1):
+            ranking['rank'] = i
+            all_rankings.append(ranking)
+    
+    # Compute global rankings
+    all_rankings.sort(key=lambda x: (-x['score'], -x['signals']['salary'], x['signals']['fee']))
+    
+    # Create final output format
+    today_rankings = []
+    for i, ranking in enumerate(all_rankings, 1):
+        today_rankings.append({
+            'rank': ranking['rank'],
+            'global_rank': i,
+            'slug': ranking['slug'],
+            'name': ranking['name'],
+            'issuer': ranking['issuer'],
+            'domain': ranking['domain'],
+            'score': round(ranking['score'], 4),
+            'confidence': ranking['confidence'],
+            'rating': ranking['rating'],
+            'job_postings': ranking['job_postings'],
+            'trend': 'stable'  # Simplified for now
+        })
     
     # Save results
-    save_json(DATA / "rankings" / "today.json", rankings_out)
-    save_json(trends_path, trends)
+    save_json(DATA / "rankings" / "today.json", today_rankings)
     
-    print(f"Generated rankings for {len(rankings_out)} certifications")
-    print(f"Updated trends for {len(trends)} certifications")
+    # Update trends with new scores
+    trends_data = {
+        'last_updated': datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        'scores': new_scores
+    }
+    save_json(trends_path, trends_data)
+    
+    print("=" * 60)
+    print(f"✅ Generated rankings for {len(today_rankings)} certifications")
+    print(f"📊 Across {len(domains)} domains")
+    print("📁 Files updated:")
+    print("   - rankings/today.json")  
+    print("   - rankings/trends.json")
 
 if __name__ == "__main__":
     main()
