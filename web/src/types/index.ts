@@ -52,6 +52,7 @@ export interface Domain {
   slug: string;
   description: string;
   icon: React.ComponentType<any>;
+  emoji: string;
   color: string;
   certificationCount: number;
   averageRating: number;
@@ -84,6 +85,8 @@ export interface SearchFilters {
   maxCost?: number;
   duration?: string;
   tags?: string[];
+  sortBy?: string;
+  sortOrder?: 'asc' | 'desc';
 }
 
 export interface PaginationParams {

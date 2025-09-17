@@ -1,4 +1,5 @@
-import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji, getDomainMeta } from '../config/domains';
+import React from 'react';
+import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji, getDomainMeta, getDomainIcon } from '../config/domains';
 
 interface DomainTabsProps {
   active: string;
@@ -22,7 +23,7 @@ export function DomainTabs({ active, onChange, className = '' }: DomainTabsProps
             }`}
             aria-label={`Filter by ${getDomainLabel(slug)}`}
           >
-            <span className="mr-1">{getDomainEmoji(slug)}</span>
+            <span className="mr-1">{React.createElement(getDomainIcon(slug), { className: "w-4 h-4 inline" })}</span>
             {getDomainLabel(slug)}
           </button>
         );

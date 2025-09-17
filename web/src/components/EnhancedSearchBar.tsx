@@ -5,7 +5,7 @@ import { Button } from './ui/Button';
 import { Badge } from './ui/Badge';
 import { cn } from '../utils/cn';
 import { enhancedDataService } from '../services/enhancedDataService';
-import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji } from '../config/domains';
+import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji, getDomainIcon } from '../config/domains';
 
 interface EnhancedSearchBarProps {
   onSearch: (query: string, filters: SearchFilters) => void;
@@ -85,7 +85,7 @@ const EnhancedSearchBar: React.FC<EnhancedSearchBarProps> = ({
   // Update active filters when filters change
   useEffect(() => {
     const active = Object.entries(filters)
-      .filter(([key, value]) => value !== undefined && value !== '' && value !== 0)
+      .filter(([_key, value]) => value !== undefined && value !== '' && value !== 0)
       .map(([key, value]) => {
         switch (key) {
           case 'domain':
@@ -313,7 +313,7 @@ const EnhancedSearchBar: React.FC<EnhancedSearchBarProps> = ({
                 <option value="">All Domains</option>
                 {ALL_DOMAIN_SLUGS.map((domain) => (
                   <option key={domain} value={domain}>
-                    {getDomainEmoji(domain)} {getDomainLabel(domain)}
+                    {React.createElement(getDomainIcon(domain), { className: "w-4 h-4" })} {getDomainLabel(domain)}
                     {statistics && ` (${statistics.byDomain[domain] || 0})`}
                   </option>
                 ))}

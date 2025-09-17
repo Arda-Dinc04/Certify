@@ -44,7 +44,9 @@ class EnhancedDataService {
     // Implement LRU cache eviction
     if (this.cache.size >= this.MAX_CACHE_SIZE) {
       const oldestKey = this.cache.keys().next().value;
-      this.cache.delete(oldestKey);
+      if (oldestKey) {
+        this.cache.delete(oldestKey);
+      }
     }
 
     this.cache.set(key, {
@@ -229,8 +231,8 @@ class EnhancedDataService {
           bVal = b.cost;
           break;
         case 'job_postings':
-          aVal = a.job_postings || 0;
-          bVal = b.job_postings || 0;
+          aVal = a.popularity || 0;
+          bVal = b.popularity || 0;
           break;
         case 'ranking':
         default:
@@ -255,7 +257,8 @@ class EnhancedDataService {
         pageSize,
         total: results.length,
         totalPages: Math.ceil(results.length / pageSize)
-      }
+      },
+      success: true
     };
   }
 
@@ -335,7 +338,7 @@ class EnhancedDataService {
         ),
         averageRating: index.certifications.reduce((sum, cert) => sum + cert.rating, 0) / index.certifications.length,
         averageCost: index.certifications.reduce((sum, cert) => sum + cert.cost, 0) / index.certifications.length,
-        totalJobPostings: index.certifications.reduce((sum, cert) => sum + (cert.job_postings || 0), 0),
+        totalJobPostings: index.certifications.reduce((sum, cert) => sum + (cert.popularity || 0), 0),
         topSkills: this.getTopSkills(index),
         priceRanges: this.getPriceRanges(index)
       };

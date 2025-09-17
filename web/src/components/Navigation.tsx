@@ -11,8 +11,9 @@ const Navigation: React.FC = () => {
   const navigation = [
     { name: 'Home', href: '/' },
     { name: 'Browse', href: '/certifications' },
-    { name: 'Compare', href: '/compare' },
+    { name: 'Companies', href: '/companies' },
     { name: 'Rankings', href: '/rankings' },
+    { name: 'Compare', href: '/compare' },
   ];
 
   const isActive = (path: string) => location.pathname === path;

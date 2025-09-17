@@ -105,7 +105,7 @@ const CIStatusDashboard: React.FC<CIStatusDashboardProps> = ({
     return () => clearInterval(interval);
   }, [repository]);
 
-  const getStatusIcon = (status: string, conclusion?: string) => {
+  const getStatusIcon = (status: string, _conclusion?: string) => {
     switch (status) {
       case 'success':
         return <CheckCircle className="w-4 h-4 text-green-500" aria-hidden="true" />;

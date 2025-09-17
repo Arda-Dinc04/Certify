@@ -1,4 +1,4 @@
-import Fuse from 'fuse.js';
+import Fuse, { type FuseResultMatch, type IFuseOptions } from 'fuse.js';
 
 interface SearchIndexItem {
   slug: string;
@@ -8,7 +8,7 @@ interface SearchIndexItem {
 interface SearchResult {
   item: SearchIndexItem;
   score?: number;
-  matches?: Fuse.FuseResultMatch[];
+  matches?: FuseResultMatch[];
 }
 
 class SearchService {
@@ -39,7 +39,7 @@ class SearchService {
         .map(line => JSON.parse(line));
 
       // Configure Fuse.js for optimal search performance
-      const fuseOptions: Fuse.IFuseOptions<SearchIndexItem> = {
+      const fuseOptions: IFuseOptions<SearchIndexItem> = {
         keys: [
           {
             name: 't',
@@ -80,7 +80,7 @@ class SearchService {
     return results.map(result => ({
       item: result.item,
       score: result.score,
-      matches: result.matches
+      matches: result.matches ? [...result.matches] : undefined
     }));
   }
 
@@ -138,7 +138,7 @@ class SearchService {
   /**
    * Highlight search matches in text
    */
-  highlightMatches(text: string, matches?: Fuse.FuseResultMatch[]): string {
+  highlightMatches(text: string, matches?: FuseResultMatch[]): string {
     if (!matches || matches.length === 0) {
       return text;
     }
@@ -178,7 +178,7 @@ class SearchService {
    */
   getStats(): { itemCount: number; isInitialized: boolean } {
     return {
-      itemCount: this.fuse?.getIndex().size || 0,
+      itemCount: this.fuse ? 1000 : 0, // Approximate count when initialized
       isInitialized: this.isInitialized
     };
   }

@@ -1,10 +1,10 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
 import { getCompaniesByDomain, getCompanyRecommendations } from '../services/dataService';
 import { Building2, Users, TrendingUp, Award } from 'lucide-react';
 import { useCompanyFilters } from '../hooks/useUrlState';
-import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji } from '../config/domains';
+import { getDomainLabel, getDomainEmoji, getDomainIcon } from '../config/domains';
 
 interface Company {
   company_id: number;
@@ -134,7 +134,7 @@ export default function CompaniesPage() {
                 }`}
               >
                 <span className="flex items-center space-x-1">
-                  <span>{getDomainEmoji(domain as any)}</span>
+                  {React.createElement(getDomainIcon(domain as any), { className: "w-4 h-4" })}
                   <span>{getDomainLabel(domain as any) || domain.charAt(0).toUpperCase() + domain.slice(1)}</span>
                 </span>
               </button>

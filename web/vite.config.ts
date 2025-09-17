@@ -48,10 +48,10 @@ export default defineConfig({
     // Minification and optimization
     minify: 'terser',
     terserOptions: {
-      compress: {
-        drop_console: true,
-        drop_debugger: true,
-      },
+      // compress: {
+      //   drop_console: true,
+      //   drop_debugger: true,
+      // },
     },
     // Enable gzip compression support
     assetsInlineLimit: 4096,

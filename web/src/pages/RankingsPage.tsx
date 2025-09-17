@@ -91,7 +91,7 @@ const RankingsPage: React.FC = () => {
                   className="flex items-center space-x-1 sm:space-x-2 text-xs sm:text-sm px-2 sm:px-3 py-1.5 sm:py-2"
                 >
                   <span className="w-3 h-3 sm:w-4 sm:h-4 flex items-center justify-center text-xs sm:text-sm">
-                    {domain.icon}
+                    {React.createElement(domain.icon, { className: "w-3 h-3 sm:w-4 sm:h-4" })}
                   </span>
                   <span className="hidden sm:inline">{domain.name}</span>
                   <span className="sm:hidden">{domain.name.split(' ')[0]}</span>

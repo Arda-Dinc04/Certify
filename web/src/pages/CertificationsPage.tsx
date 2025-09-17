@@ -10,17 +10,15 @@ import {
 import { Button } from "../components/ui/Button";
 import { Card, CardContent } from "../components/ui/Card";
 import CertificationCard from "../components/CertificationCard";
-import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji } from "../config/domains";
+import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainIcon } from "../config/domains";
 
 import { dataService } from "../services/dataService";
 import type { Certification, SearchFilters } from "../types";
-import { useCompare } from "../context/CompareContext";
 import { useCertificationFilters } from "../hooks/useUrlState";
 
 const LEVELS = ["Foundational", "Associate", "Professional", "Specialty", "Expert"] as const;
 
 const CertificationsPage: React.FC = () => {
-  const { addToCompare, isInCompare } = useCompare();
   const { state: filters, setState: setFilters, resetState: resetFilters } = useCertificationFilters();
 
   const [certifications, setCertifications] = useState<Certification[]>([]);
@@ -47,6 +45,11 @@ const CertificationsPage: React.FC = () => {
   useEffect(() => {
     fetchCertifications();
   }, [filters]);
+
+  // Scroll to top when page changes
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [filters.page]);
 
   const fetchCertifications = async () => {
     try {
@@ -262,7 +265,7 @@ const CertificationsPage: React.FC = () => {
                             aria-describedby={`domain-${domainSlug}-desc`}
                           />
                           <span className="text-sm text-gray-700 flex items-center gap-2">
-                            <span aria-hidden="true">{getDomainEmoji(domainSlug)}</span>
+                            {React.createElement(getDomainIcon(domainSlug), { className: "w-4 h-4", "aria-hidden": "true" })}
                             {getDomainLabel(domainSlug)}
                           </span>
                           <span id={`domain-${domainSlug}-desc`} className="sr-only">
@@ -282,12 +285,12 @@ const CertificationsPage: React.FC = () => {
                           <input
                             type="radio"
                             name="level"
-                            value={lvl.toLowerCase()}
+                            value={lvl}
                             className="w-4 h-4 text-blue-600 focus:ring-2 focus:ring-blue-500 border-gray-300"
-                            checked={currentFilters.level === lvl.toLowerCase()}
+                            checked={currentFilters.level === lvl}
                             onChange={(e) => {
                               if (e.target.checked) {
-                                setFilters({ level: lvl.toLowerCase(), page: 1 });
+                                setFilters({ level: lvl, page: 1 });
                               } else {
                                 setFilters({ level: '', page: 1 });
                               }
@@ -372,7 +375,7 @@ const CertificationsPage: React.FC = () => {
 
             {/* Grid / Skeleton / Empty */}
             {loading ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {Array.from({ length: 12 }).map((_, i) => (
                   <Card key={i} className="animate-pulse">
                     <CardContent className="p-6">
@@ -388,7 +391,7 @@ const CertificationsPage: React.FC = () => {
               </div>
             ) : certifications.length > 0 ? (
               <div 
-                className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-10"
+                className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
                 role="grid" 
                 aria-label="Certification results"
                 aria-rowcount={Math.ceil(certifications.length / 3)}
@@ -403,11 +406,9 @@ const CertificationsPage: React.FC = () => {
                   >
                     <CertificationCard 
                       certification={c} 
-                      showRanking 
+                      showRanking={false}
                       rank={(pagination.page - 1) * pagination.pageSize + index + 1}
                       showCompareButton={true}
-                      onAddToCompare={addToCompare}
-                      isInCompare={isInCompare(c.slug)}
                     />
                   </div>
                 ))}

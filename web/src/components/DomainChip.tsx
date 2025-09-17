@@ -1,4 +1,5 @@
-import { getDomainLabel, getDomainEmoji, getDomainMeta } from '../config/domains';
+import React from 'react';
+import { getDomainLabel, getDomainEmoji, getDomainMeta, getDomainIcon } from '../config/domains';
 
 interface DomainChipProps {
   domain: string;
@@ -12,7 +13,7 @@ export function DomainChip({ domain, size = 'md', className = '' }: DomainChipPr
   
   return (
     <span className={`inline-flex items-center gap-1 ${sizeClasses} rounded-full bg-muted ${meta?.color || 'bg-gray-100'} ${className}`}>
-      <span>{getDomainEmoji(domain)}</span>
+      {React.createElement(getDomainIcon(domain), { className: "w-4 h-4" })}
       <span>{getDomainLabel(domain)}</span>
     </span>
   );

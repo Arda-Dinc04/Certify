@@ -220,30 +220,38 @@ const HomePage: React.FC = () => {
             </p>
           </div>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
             {domains.map((domain) => (
               <Link
                 key={domain.id}
                 to={`/certifications?domain=${domain.slug}`}
                 className="group"
               >
-                <Card className="text-center p-4 card-hover">
-                  <CardContent className="pt-4">
+                <Card className="text-center p-4 card-hover hover:shadow-lg transition-all duration-200 hover:scale-105 w-full max-w-[220px] mx-auto h-[180px] flex flex-col">
+                  <CardContent className="pt-2 flex-grow flex flex-col justify-between">
                     <div 
-                      className="w-12 h-12 mx-auto mb-3 rounded-lg flex items-center justify-center text-white text-2xl"
-                      style={{ backgroundColor: domain.color }}
+                      className="w-14 h-14 mx-auto mb-3 rounded-xl flex items-center justify-center text-white shadow-lg"
+                      style={{ 
+                        backgroundColor: domain.color,
+                        minWidth: '56px',
+                        minHeight: '56px',
+                        width: '56px',
+                        height: '56px'
+                      }}
                     >
                       {(() => {
                         const IconComponent = domain.icon;
-                        return <IconComponent className="w-6 h-6" />;
+                        return <IconComponent className="w-7 h-7" />;
                       })()}
                     </div>
-                    <h3 className="font-semibold text-sm group-hover:text-blue-600 transition-colors">
-                      {domain.name}
-                    </h3>
-                    <p className="text-xs text-gray-500 mt-1">
-                      {domain.certificationCount} certifications
-                    </p>
+                    <div className="flex-grow flex flex-col justify-center items-center">
+                      <h3 className="font-semibold text-sm group-hover:text-blue-600 transition-colors mb-1 text-center leading-tight">
+                        {domain.name}
+                      </h3>
+                      <p className="text-xs text-gray-500 text-center">
+                        {domain.certificationCount} certifications
+                      </p>
+                    </div>
                   </CardContent>
                 </Card>
               </Link>

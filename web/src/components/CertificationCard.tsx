@@ -1,20 +1,19 @@
 import React, { memo } from 'react';
 import { Link } from 'react-router-dom';
 import { Clock, ArrowRight, Cloud, Building2, Search, Shield, Award, Briefcase, Database, Code, BarChart3 } from 'lucide-react';
-import { Card, CardHeader, CardFooter } from './ui/Card';
+import { Card } from './ui/Card';
 import { Badge } from './ui/Badge';
 import { Button } from './ui/Button';
 import type { Certification } from '../types';
 import { cn } from '../utils/cn';
-import { getDomainLabel, getDomainEmoji } from '../config/domains';
+import { getDomainLabel, getDomainIcon } from '../config/domains';
+import { useCompare } from '../context/CompareContext';
 
 interface CertificationCardProps {
   certification: Certification;
   showRanking?: boolean;
   rank?: number;
   showCompareButton?: boolean;
-  onAddToCompare?: (certification: Certification) => void;
-  isInCompare?: boolean;
   className?: string;
 }
 
@@ -23,10 +22,9 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
   showRanking = false,
   rank,
   showCompareButton = false,
-  onAddToCompare,
-  isInCompare = false,
   className
 }) => {
+  const { addToCompare, removeFromCompare, isInCompare, canAddToCompare } = useCompare();
   const {
     name,
     slug,
@@ -57,108 +55,163 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
       'Google Cloud': Search,
       'Cisco': Shield,
       'CompTIA': Award,
-      'PMI': Briefcase,
+      'PMI (Project Management Institute)': Briefcase,
       'FINRA': BarChart3,
       'Adobe': Code,
       'Oracle': Database,
-      'Salesforce': Cloud,
       'VMware': Shield,
       'Red Hat': Shield,
       'Docker': Code,
-      'Kubernetes': Code,
-      'IBM': Building2,
-      'NVIDIA': Code,
-      'Tableau': BarChart3,
-      'SAS': BarChart3
+      'HashiCorp': Code,
+      'Apple': Code,
+      'Autodesk': Code,
+      'GitLab': Code,
+      'ISACA': Shield,
+      'Unity': Code,
+      'EC-Council': Shield,
+      'GIAC': Shield,
+      'Offensive Security': Shield,
+      'The Open Group': Building2,
+      'ACAMS': BarChart3,
+      'ATD': Award,
+      'CAIA Association': BarChart3,
+      'CFA Institute': BarChart3,
+      'FAA': Shield,
+      'NCEES': Award,
+      'Snowflake': Database
     };
     return icons[issuer] || Database;
   };
 
   const getIssuerLogo = (issuer: string) => {
     const logoMap: { [key: string]: string } = {
+      // Existing logos
       'Amazon Web Services (AWS)': '/assets/aws.jpeg',
       'Microsoft': '/assets/microsoft.jpg',
-      'Google': '/assets/Google-Logo-PNG.png',
       'Google Cloud': '/assets/Google-Logo-PNG.png',
       'Adobe': '/assets/adobe.png',
       'Oracle': '/assets/oracle.png',
       'FINRA': '/assets/finra.png',
       'Docker': '/assets/docker.png',
       'CAIA Association': '/assets/CAIA Association .png',
-      'NCEES': '/assets/NCEES.png'
+      'NCEES': '/assets/NCEES.png',
+      'Snowflake': '/assets/Snowflake.png',
+      'CFA Institute': '/assets/cfa.jpg',
+      'FAA': '/assets/faa.svg',
+      'CompTIA': '/assets/comptia.jpeg',
+      
+      // Companies actually in the data with logos
+      'Cisco': '/assets/Cisco.png',
+      'VMware': '/assets/vmware.png',
+      'Red Hat': '/assets/Red_Hat.svg',
+      'ACAMS': '/assets/ACAMS.png',
+      'ATD': '/assets/atd.jpg',
+      
+      // Additional companies that might appear
+      'Apple': '/assets/Google-Logo-PNG.png', // Using Google logo as fallback
+      'Autodesk': '/assets/Google-Logo-PNG.png',
+      'GitLab': '/assets/Google-Logo-PNG.png',
+      'HashiCorp': '/assets/Google-Logo-PNG.png',
+      'ISACA': '/assets/Google-Logo-PNG.png',
+      'PMI (Project Management Institute)': '/assets/Google-Logo-PNG.png',
+      'Unity': '/assets/Google-Logo-PNG.png',
+      'EC-Council': '/assets/Google-Logo-PNG.png',
+      'GIAC': '/assets/Google-Logo-PNG.png',
+      'Offensive Security': '/assets/Google-Logo-PNG.png',
+      'The Open Group': '/assets/Google-Logo-PNG.png'
     };
-    return logoMap[issuer];
+    
+    // Try exact match first
+    if (logoMap[issuer]) {
+      return logoMap[issuer];
+    }
+    
+    // Try case-insensitive match
+    const lowerIssuer = issuer.toLowerCase();
+    for (const [key, value] of Object.entries(logoMap)) {
+      if (key.toLowerCase() === lowerIssuer) {
+        return value;
+      }
+    }
+    
+    return undefined;
   };
 
 
   return (
     <Card 
-      className={cn('bg-white shadow-sm border border-gray-200 hover:shadow-md transition-shadow duration-200 overflow-hidden p-0 h-full flex flex-col', className)}
+      className={cn('bg-white shadow-lg border border-gray-200 hover:shadow-xl transition-all duration-300 overflow-hidden rounded-2xl h-full flex flex-col relative', className)}
       role="article"
       aria-labelledby={`cert-title-${slug}`}
       aria-describedby={`cert-details-${slug}`}
     >
-      {/* Banner with Logo/Icon */}
-      <div className="relative h-20 bg-gradient-to-r from-gray-50 to-gray-100 flex items-center justify-center border-b border-gray-200 w-full">
-        <div className="flex items-center space-x-3">
-          {(() => {
-            const logoUrl = getIssuerLogo(issuer);
-            if (logoUrl) {
-              return (
-                <img 
-                  src={logoUrl} 
-                  alt={`${issuer} logo`} 
-                  className="h-8 w-8 object-contain rounded" 
-                  onError={(e) => {
-                    // Fallback to icon if image fails to load
-                    const IconComponent = getIssuerIcon(issuer);
-                    const iconElement = document.createElement('div');
-                    iconElement.className = 'h-8 w-8 text-gray-700';
-                    e.currentTarget.replaceWith(iconElement);
-                  }}
-                />
-              );
-            } else {
-              const IconComponent = getIssuerIcon(issuer);
-              return <IconComponent className="h-8 w-8 text-gray-700" aria-hidden="true" />;
-            }
-          })()}
-          <span className="text-sm font-medium text-gray-700 truncate max-w-[140px]" title={issuer}>
-            {issuer}
-          </span>
-        </div>
-        {showRanking && (rank || ranking) && (
-          <div className="absolute top-2 right-2">
-            <div 
-              className="bg-green-500 text-white text-xs font-bold px-2 py-1 rounded-full flex items-center space-x-1"
-              role="img"
-              aria-label={`Ranked number ${rank || ranking}`}
-            >
-              <span aria-hidden="true">🏆</span>
-              <span>#{rank || ranking}</span>
-            </div>
+      {/* Ranking Badge - Top Right */}
+      {showRanking && (rank || ranking) && (
+        <div className="absolute -top-2 -right-2 z-10">
+          <div 
+            className="w-12 h-12 bg-blue-600 text-white text-sm font-bold rounded-full flex items-center justify-center shadow-lg border-2 border-white"
+            role="img"
+            aria-label={`Ranked number ${rank || ranking}`}
+          >
+            <span>#{rank || ranking}</span>
           </div>
-        )}
+        </div>
+      )}
+
+      {/* Full Width Company Banner */}
+      <div className="relative h-20 bg-white flex items-center justify-center rounded-t-2xl overflow-hidden">
+        {(() => {
+          const logoUrl = getIssuerLogo(issuer);
+          if (logoUrl) {
+            return (
+              <img 
+                src={logoUrl} 
+                alt={`${issuer} logo`} 
+                className={cn(
+                  "object-contain",
+                  ['Docker', 'Google', 'CompTIA'].includes(issuer) ? "h-16 w-auto" : "h-20 w-full object-cover"
+                )}
+                onError={(e) => {
+                  const iconElement = document.createElement('div');
+                  iconElement.className = 'h-20 w-full text-gray-600 flex items-center justify-center';
+                  iconElement.innerHTML = '🏢';
+                  e.currentTarget.replaceWith(iconElement);
+                }}
+              />
+            );
+          } else {
+            const IconComponent = getIssuerIcon(issuer);
+            return (
+              <div className="h-20 w-20 flex items-center justify-center">
+                <IconComponent className="h-16 w-16 text-gray-600" aria-hidden="true" />
+              </div>
+            );
+          }
+        })()}
       </div>
 
-      <CardHeader className="pb-3 p-6">
-        {/* Title and Provider */}
-        <div className="mb-3">
-          <h3 id={`cert-title-${slug}`} className="font-bold text-gray-900 text-sm leading-tight mb-1">
-            {name}
-          </h3>
-          <p className="text-xs text-gray-600" aria-label={`Issued by ${issuer}`}>{issuer}</p>
-        </div>
+      {/* Content Section */}
+      <div className="p-4 pb-2 flex-grow flex flex-col">
 
-        {/* Tags */}
-        <div className="flex flex-wrap gap-2 mb-3" role="group" aria-label="Certification tags">
+        {/* Certification Title */}
+        <h3 id={`cert-title-${slug}`} className="font-bold text-gray-900 text-lg leading-tight mb-1">
+          {name}
+        </h3>
+        
+        {/* Issuer Name */}
+        <p className="text-sm text-gray-600 mb-3">
+          {issuer}
+        </p>
+
+        {/* Domain and Level Badges */}
+        <div className="flex flex-wrap gap-2 mb-4" role="group" aria-label="Certification tags">
           <Badge 
             variant="outline" 
             className="text-xs px-2 py-1 bg-blue-100 text-blue-800 border-blue-200 flex items-center space-x-1"
             role="img"
             aria-label={`Domain: ${getDomainLabel(domain)}`}
           >
-            <span aria-hidden="true">{getDomainEmoji(domain)}</span>
+            {React.createElement(getDomainIcon(domain), { className: "w-3 h-3", "aria-hidden": "true" })}
             <span>{getDomainLabel(domain)}</span>
           </Badge>
           <Badge 
@@ -171,22 +224,22 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
         </div>
 
         <div id={`cert-details-${slug}`}>
-          {/* Price */}
-          <div className="text-teal-600 font-semibold text-lg mb-3" aria-label={`Cost: ${formatCost(cost, currency)}`}>
-            {formatCost(cost, currency)}
-          </div>
-
-          {/* Duration */}
-          <div className="flex items-center space-x-2 text-sm text-gray-600 mb-3">
-            <Clock className="w-4 h-4" aria-hidden="true" />
-            <span aria-label={`Duration: ${duration}`}>{duration}</span>
+          {/* Price and Duration Row */}
+          <div className="flex justify-between items-center mb-3">
+            <div className="text-2xl font-bold text-green-600" aria-label={`Cost: ${formatCost(cost, currency)}`}>
+              {formatCost(cost, currency)}
+            </div>
+            <div className="flex items-center text-sm text-gray-600">
+              <Clock className="w-4 h-4 mr-1" aria-hidden="true" />
+              <span aria-label={`Duration: ${duration}`}>{duration}</span>
+            </div>
           </div>
 
           {/* Rating */}
           <div className="mb-4">
             <div className="flex items-center justify-between mb-1">
-              <span className="text-sm text-gray-600">Rating</span>
-              <span className="text-sm font-medium" aria-label={`${rating.toFixed(1)} out of 5 stars`}>
+              <span className="text-sm font-medium text-gray-700">Rating</span>
+              <span className="text-sm font-bold text-gray-900" aria-label={`${rating.toFixed(1)} out of 5 stars`}>
                 {rating.toFixed(1)}/5.0
               </span>
             </div>
@@ -206,41 +259,51 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
             </div>
           </div>
         </div>
-      </CardHeader>
+      </div>
 
-      <CardFooter className="pt-0 p-6 mt-auto">
-        <div className={cn("flex gap-2", showCompareButton ? "flex-col" : "")} role="group" aria-label="Certification actions">
+      {/* Action Buttons */}
+      <div className="p-4 pt-0 mt-auto">
+        <div className="flex gap-2" role="group" aria-label="Certification actions">
           <Link 
             to={`/cert/${slug}`} 
-            className={cn("w-full", showCompareButton ? "" : "")}
+            className="flex-[2]"
             aria-label={`View details for ${name}`}
           >
             <Button 
               variant="outline" 
-              className="w-full flex items-center justify-center space-x-2 text-sm border-gray-300 text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+              className="w-full flex items-center justify-center space-x-2 text-sm border-gray-300 text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 rounded-lg"
             >
               <span>View Details</span>
               <ArrowRight className="w-4 h-4" aria-hidden="true" />
             </Button>
           </Link>
-          {showCompareButton && onAddToCompare && (
-            <Button 
-              variant={isInCompare ? "default" : "outline"}
-              onClick={() => onAddToCompare(certification)}
-              disabled={isInCompare}
-              className={cn(
-                "w-full text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2",
-                isInCompare 
-                  ? "bg-blue-600 text-white hover:bg-blue-700" 
-                  : "border-gray-300 text-gray-700 hover:bg-gray-50"
-              )}
-              aria-label={isInCompare ? `${name} added to compare list` : `Add ${name} to compare list`}
-            >
-              {isInCompare ? "Added to Compare" : "Add to Compare"}
-            </Button>
+          {showCompareButton && (
+            <div className="flex-[1] flex items-center justify-center">
+              <button
+                onClick={() => {
+                  if (isInCompare(certification.id)) {
+                    removeFromCompare(certification.id);
+                  } else {
+                    addToCompare(certification);
+                  }
+                }}
+                disabled={!isInCompare(certification.id) && !canAddToCompare}
+                className={cn(
+                  "text-[10px] font-medium py-0.5 px-1 rounded transition-colors focus:outline-none",
+                  isInCompare(certification.id)
+                    ? "text-red-600 hover:text-red-700 hover:bg-red-50"
+                    : !canAddToCompare
+                    ? "text-gray-400 cursor-not-allowed"
+                    : "text-blue-600 hover:text-blue-700 hover:bg-blue-50"
+                )}
+                aria-label={isInCompare(certification.id) ? `Remove ${name} from compare list` : `Add ${name} to compare list`}
+              >
+                {isInCompare(certification.id) ? "Remove from Compare" : "Add to Compare"}
+              </button>
+            </div>
           )}
         </div>
-      </CardFooter>
+      </div>
     </Card>
   );
 };
@@ -251,7 +314,6 @@ export default memo(CertificationCard, (prevProps, nextProps) => {
     prevProps.certification.slug === nextProps.certification.slug &&
     prevProps.showRanking === nextProps.showRanking &&
     prevProps.rank === nextProps.rank &&
-    prevProps.showCompareButton === nextProps.showCompareButton &&
-    prevProps.isInCompare === nextProps.isInCompare
+    prevProps.showCompareButton === nextProps.showCompareButton
   );
 });

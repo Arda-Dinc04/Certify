@@ -96,7 +96,7 @@ export const useAdvancedSearch = (
         }
 
         // Combine search results with certification data
-        const combinedResults: SearchResult[] = certifications.map((cert, index) => {
+        const combinedResults: SearchResult[] = certifications.map((cert, _index) => {
           const searchResult = searchResults.find(r => r.item.slug === cert.slug);
           
           return {

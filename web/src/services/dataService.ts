@@ -1,3 +1,4 @@
+import React from 'react';
 import axios from 'axios';
 import type { 
   Certification, 
@@ -10,6 +11,7 @@ import type {
   Review,
   NewsArticle
 } from '../types';
+import { getDomainIcon, getDomainMeta } from '../config/domains';
 // Import fallback data for local development (keep for potential use)
 // import certificationsData from '../data/certifications.json';
 
@@ -169,7 +171,8 @@ export const dataService = {
     
     return {
       data: transformedData,
-      pagination: result.pagination
+      pagination: result.pagination,
+      success: true
     };
   },
 
@@ -194,19 +197,19 @@ export const dataService = {
       cost: cert.cost,
       currency: cert.currency || 'USD',
       rating: cert.rating,
-      reviewCount: cert.total_reviews || 100,
-      difficulty: ['Beginner', 'Intermediate', 'Advanced'].indexOf(cert.difficulty) + 1 || 3,
-      popularity: cert.job_postings || 0,
+      reviewCount: cert.reviewCount || 100,
+      difficulty: typeof cert.difficulty === 'string' ? ['Beginner', 'Intermediate', 'Advanced'].indexOf(cert.difficulty) + 1 || 3 : 3,
+      popularity: cert.popularity || 0,
       ranking: cert.ranking,
       tags: [cert.domain, cert.level].filter(Boolean),
       prerequisites: cert.prerequisites || [],
       skills: cert.skills || [],
-      examFormat: cert.exam_format || 'Multiple choice',
-      validityPeriod: cert.validity_years ? `${cert.validity_years} years` : 'Lifetime',
-      renewalRequired: cert.validity_years ? cert.validity_years < 10 : false,
+      examFormat: cert.examFormat || 'Multiple choice',
+      validityPeriod: cert.validityPeriod ? `${cert.validityPeriod} years` : 'Lifetime',
+      renewalRequired: cert.renewalRequired || false,
       websiteUrl: '',
-      createdAt: cert.created_at || new Date().toISOString(),
-      updatedAt: cert.updated_at || new Date().toISOString()
+      createdAt: cert.createdAt || new Date().toISOString(),
+      updatedAt: cert.updatedAt || new Date().toISOString()
     };
   },
 
@@ -310,7 +313,7 @@ export const dataService = {
   },
 
   // Helper method to get salary impact score
-  async getSalaryScore(domain: string, cert: any): Promise<number> {
+  async getSalaryScore(domain: string, _cert: any): Promise<number> {
     try {
       const salaryData = await getRoleSalaries();
       
@@ -356,8 +359,9 @@ export const dataService = {
       name: meta.label,
       slug: slug,
       description: `${meta.label} certifications`,
-      icon: meta.emoji,
-      color: '#3B82F6', // Default color
+      icon: getDomainIcon(slug),
+      emoji: meta.emoji,
+      color: getDomainMeta(slug)?.color || '#3B82F6', // Use domain color from config
       certificationCount: meta.certification_count,
       averageRating: 4.1, // Use manifest data later
       trending: meta.job_market_strength === 'Growing'
@@ -445,7 +449,8 @@ export const dataService = {
       name: domain as string,
       slug: (domain as string).toLowerCase().replace(/\s+/g, '-'),
       description: `${domain} certifications`,
-      icon: getDomainEmoji(domain as string),
+      icon: () => React.createElement('span', null, getDomainEmoji(domain as string)),
+      emoji: getDomainEmoji(domain as string),
       color: getDomainColor(domain as string),
       certificationCount: rawData.filter((item: any) => item.domain === domain).length,
       averageRating: 4.3,
