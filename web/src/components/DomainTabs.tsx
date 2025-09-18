@@ -1,5 +1,5 @@
 import React from 'react';
-import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji, getDomainMeta, getDomainIcon } from '../config/domains';
+import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainMeta, getDomainIcon } from '../config/domains';
 
 interface DomainTabsProps {
   active: string;

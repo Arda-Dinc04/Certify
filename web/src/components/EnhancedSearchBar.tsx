@@ -5,7 +5,7 @@ import { Button } from './ui/Button';
 import { Badge } from './ui/Badge';
 import { cn } from '../utils/cn';
 import { enhancedDataService } from '../services/enhancedDataService';
-import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainEmoji, getDomainIcon } from '../config/domains';
+import { ALL_DOMAIN_SLUGS, getDomainLabel, getDomainIcon } from '../config/domains';
 
 interface EnhancedSearchBarProps {
   onSearch: (query: string, filters: SearchFilters) => void;

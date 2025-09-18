@@ -30,7 +30,6 @@ import {
   Zap, 
   Wrench, 
   Hammer, 
-  Building, 
   Car, 
   GraduationCap, 
   Briefcase, 

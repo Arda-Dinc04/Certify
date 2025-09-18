@@ -1,5 +1,5 @@
 import React from 'react';
-import { getDomainLabel, getDomainEmoji, getDomainMeta, getDomainIcon } from '../config/domains';
+import { getDomainLabel, getDomainMeta, getDomainIcon } from '../config/domains';
 
 interface DomainChipProps {
   domain: string;

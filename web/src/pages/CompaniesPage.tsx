@@ -4,7 +4,7 @@ import { Badge } from '../components/ui/Badge';
 import { getCompaniesByDomain, getCompanyRecommendations } from '../services/dataService';
 import { Building2, Users, TrendingUp, Award } from 'lucide-react';
 import { useCompanyFilters } from '../hooks/useUrlState';
-import { getDomainLabel, getDomainEmoji, getDomainIcon } from '../config/domains';
+import { getDomainLabel, getDomainIcon } from '../config/domains';
 
 interface Company {
   company_id: number;
