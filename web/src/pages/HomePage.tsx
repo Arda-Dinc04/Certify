@@ -199,7 +199,6 @@ const HomePage: React.FC = () => {
                   <div key={certification.id} className="flex-shrink-0 w-72 sm:w-80">
                     <CertificationCard
                       certification={certification}
-                      showRanking={true}
                     />
                   </div>
                 ))}

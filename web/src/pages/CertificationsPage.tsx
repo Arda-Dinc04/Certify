@@ -51,6 +51,11 @@ const CertificationsPage: React.FC = () => {
     window.scrollTo(0, 0);
   }, [filters.page]);
 
+  // Scroll to top when filters change
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [filters.domain, filters.issuer, filters.level, filters.minRating, filters.maxCost]);
+
   const fetchCertifications = async () => {
     try {
       setLoading(true);
@@ -143,7 +148,7 @@ const CertificationsPage: React.FC = () => {
 
     return (
       <nav role="navigation" aria-label="Pagination">
-        <div className="flex items-center justify-center gap-2 mt-8">
+        <div className="flex items-center justify-center gap-2 mt-8 mb-4">
           <Button
             variant="outline"
             size="sm"
@@ -188,7 +193,7 @@ const CertificationsPage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 max-w-[1200px]">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-4 max-w-[1200px]">
         {/* Title */}
         <h1 className="text-3xl font-bold text-gray-900 mb-6">Browse Certifications</h1>
 
@@ -227,7 +232,7 @@ const CertificationsPage: React.FC = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           {/* Sidebar filters */}
           <aside className="xl:w-64 xl:flex-shrink-0" aria-label="Filter certifications">
-            <div className="bg-white rounded-2xl p-6 sticky top-6">
+            <div className="bg-white rounded-2xl p-6">
               <div className="flex items-center justify-between mb-6">
                 <h2 className="text-lg font-semibold text-gray-900">Filters</h2>
                 <Button 
@@ -310,26 +315,30 @@ const CertificationsPage: React.FC = () => {
                   <fieldset>
                     <legend className="font-medium mb-4 text-gray-900">Popular Issuers</legend>
                     <div className="space-y-3" role="radiogroup" aria-labelledby="issuer-legend">
-                      {['AWS', 'Microsoft', 'FINRA'].map((issuer) => (
-                        <label key={issuer} className="flex items-center gap-3 cursor-pointer hover:bg-gray-50 p-2 rounded">
+                      {[
+                        { display: 'AWS', value: 'Amazon Web Services (AWS)' },
+                        { display: 'Microsoft', value: 'Microsoft' },
+                        { display: 'FINRA', value: 'FINRA' }
+                      ].map((issuer) => (
+                        <label key={issuer.value} className="flex items-center gap-3 cursor-pointer hover:bg-gray-50 p-2 rounded">
                           <input
                             type="radio"
                             name="issuer"
-                            value={issuer.toLowerCase()}
+                            value={issuer.value}
                             className="w-4 h-4 text-blue-600 focus:ring-2 focus:ring-blue-500 border-gray-300"
-                            checked={currentFilters.issuer === issuer.toLowerCase()}
+                            checked={currentFilters.issuer === issuer.value}
                             onChange={(e) => {
                               if (e.target.checked) {
-                                setFilters({ issuer: issuer.toLowerCase(), page: 1 });
+                                setFilters({ issuer: issuer.value, page: 1 });
                               } else {
                                 setFilters({ issuer: '', page: 1 });
                               }
                             }}
-                            aria-describedby={`issuer-${issuer.toLowerCase()}-desc`}
+                            aria-describedby={`issuer-${issuer.value.toLowerCase().replace(/\s+/g, '-')}-desc`}
                           />
-                          <span className="text-sm text-gray-700">{issuer}</span>
-                          <span id={`issuer-${issuer.toLowerCase()}-desc`} className="sr-only">
-                            Filter by {issuer} certifications
+                          <span className="text-sm text-gray-700">{issuer.display}</span>
+                          <span id={`issuer-${issuer.value.toLowerCase().replace(/\s+/g, '-')}-desc`} className="sr-only">
+                            Filter by {issuer.display} certifications
                           </span>
                         </label>
                       ))}
@@ -341,7 +350,7 @@ const CertificationsPage: React.FC = () => {
           </aside>
 
           {/* Main column */}
-          <section className="flex-1" aria-label="Certification results">
+          <section className="flex-1 mt-4" aria-label="Certification results">
             {/* Results header row */}
             <div className="flex items-center justify-between gap-4 mb-8">
               <div>
@@ -391,7 +400,7 @@ const CertificationsPage: React.FC = () => {
               </div>
             ) : certifications.length > 0 ? (
               <div 
-                className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
+                className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 pt-6"
                 role="grid" 
                 aria-label="Certification results"
                 aria-rowcount={Math.ceil(certifications.length / 3)}
@@ -404,12 +413,10 @@ const CertificationsPage: React.FC = () => {
                     aria-rowindex={Math.floor(index / 3) + 1}
                     aria-colindex={(index % 3) + 1}
                   >
-                    <CertificationCard 
-                      certification={c} 
-                      showRanking={false}
-                      rank={(pagination.page - 1) * pagination.pageSize + index + 1}
-                      showCompareButton={true}
-                    />
+                <CertificationCard 
+                  certification={c} 
+                  showCompareButton={true}
+                />
                   </div>
                 ))}
               </div>

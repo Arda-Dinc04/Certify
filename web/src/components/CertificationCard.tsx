@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
 import { Link } from 'react-router-dom';
-import { Clock, ArrowRight, Cloud, Building2, Search, Shield, Award, Briefcase, Database, Code, BarChart3 } from 'lucide-react';
+import { Clock, ArrowRight, Cloud, Building2, Search, Shield, Award, Briefcase, Database, Code, BarChart3, Container, Cpu, Bot, Users, Car } from 'lucide-react';
 import { Card } from './ui/Card';
 import { Badge } from './ui/Badge';
 import { Button } from './ui/Button';
@@ -78,7 +78,28 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
       'CFA Institute': BarChart3,
       'FAA': Shield,
       'NCEES': Award,
-      'Snowflake': Database
+      'Snowflake': Database,
+      'MongoDB': Database,
+      'Salesforce': Cloud,
+      'IBM': Building2,
+      'JetBrains': Code,
+      'Kubernetes': Container,
+      'OSHA': Shield,
+      'NVIDIA': Cpu,
+      'IEEE': Award,
+      'Elastic': Search,
+      'DataRobot': Bot,
+      'Atlassian': Briefcase,
+      'Databricks': Database,
+      'SHRM': Users,
+      'AHIMA': Shield,
+      'AAPC': Award,
+      'IMA': BarChart3,
+      'COSO': Shield,
+      'HRCI': Award,
+      'IIBA': BarChart3,
+      'Scrum.org': Users,
+      'I-CAR': Car
     };
     return icons[issuer] || Database;
   };
@@ -106,6 +127,27 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
       'Red Hat': '/assets/Red_Hat.svg',
       'ACAMS': '/assets/ACAMS.png',
       'ATD': '/assets/atd.jpg',
+      'MongoDB': '/assets/MongoDB.png',
+      'Salesforce': '/assets/Salesforce.png',
+      'IBM': '/assets/IBM.png',
+      'JetBrains': '/assets/JetBrains.png',
+      'Kubernetes': '/assets/Kubernetes.svg',
+      'OSHA': '/assets/OSHA.svg',
+      'NVIDIA': '/assets/nvidia.png',
+      'IEEE': '/assets/ieee.png',
+      'Elastic': '/assets/elastic.png',
+      'DataRobot': '/assets/datarobot.png',
+      'Atlassian': '/assets/atlassian.webp',
+      'Databricks': '/assets/Databricks.png',
+      'SHRM': '/assets/SHRM.png',
+      'AHIMA': '/assets/AHIMA.png',
+      'AAPC': '/assets/AAPC.png',
+      'IMA': '/assets/IMA.jpg',
+      'COSO': '/assets/coso.png',
+      'HRCI': '/assets/hrci.svg',
+      'IIBA': '/assets/iiba.svg',
+      'Scrum.org': '/assets/scrum.org.png',
+      'I-CAR': '/assets/i-car.png',
       
       // Additional companies that might appear
       'Apple': '/assets/Google-Logo-PNG.png', // Using Google logo as fallback
@@ -145,15 +187,18 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
       aria-labelledby={`cert-title-${slug}`}
       aria-describedby={`cert-details-${slug}`}
     >
-      {/* Ranking Badge - Top Right */}
+      {/* Ranking Badge - Floating Above Card */}
       {showRanking && (rank || ranking) && (
-        <div className="absolute -top-2 -right-2 z-10">
+        <div className="absolute -top-4 -right-4 z-30">
           <div 
-            className="w-12 h-12 bg-blue-600 text-white text-sm font-bold rounded-full flex items-center justify-center shadow-lg border-2 border-white"
+            className="w-16 h-16 bg-blue-600 text-white text-xl font-bold rounded-full flex items-center justify-center shadow-2xl border-4 border-white transform hover:scale-110 transition-transform duration-200"
             role="img"
             aria-label={`Ranked number ${rank || ranking}`}
+            style={{
+              boxShadow: '0 10px 30px rgba(59, 130, 246, 0.4), 0 0 0 2px rgba(255, 255, 255, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.3)'
+            }}
           >
-            <span>#{rank || ranking}</span>
+            <span className="drop-shadow-lg font-black">#{rank || ranking}</span>
           </div>
         </div>
       )}
@@ -167,10 +212,10 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
               <img 
                 src={logoUrl} 
                 alt={`${issuer} logo`} 
-                className={cn(
-                  "object-contain",
-                  ['Docker', 'Google', 'CompTIA'].includes(issuer) ? "h-16 w-auto" : "h-20 w-full object-cover"
-                )}
+                   className={cn(
+                     "object-contain",
+                     ['Docker', 'Google', 'CompTIA', 'Cisco', 'MongoDB', 'Snowflake', 'NVIDIA', 'Atlassian', 'DataRobot', 'IMA', 'Adobe', 'Scrum.org', 'COSO'].includes(issuer) ? "h-16 w-auto" : "h-20 w-full object-cover"
+                   )}
                 onError={(e) => {
                   const iconElement = document.createElement('div');
                   iconElement.className = 'h-20 w-full text-gray-600 flex items-center justify-center';
@@ -207,16 +252,16 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
         <div className="flex flex-wrap gap-2 mb-4" role="group" aria-label="Certification tags">
           <Badge 
             variant="outline" 
-            className="text-xs px-2 py-1 bg-blue-100 text-blue-800 border-blue-200 flex items-center space-x-1"
+            className="text-[10px] px-1.5 py-0.5 bg-blue-100 text-blue-800 border-blue-200 flex items-center space-x-1"
             role="img"
             aria-label={`Domain: ${getDomainLabel(domain)}`}
           >
-            {React.createElement(getDomainIcon(domain), { className: "w-3 h-3", "aria-hidden": "true" })}
+            {React.createElement(getDomainIcon(domain), { className: "w-2.5 h-2.5", "aria-hidden": "true" })}
             <span>{getDomainLabel(domain)}</span>
           </Badge>
           <Badge 
             variant="outline" 
-            className="text-xs px-2 py-1 bg-gray-100 text-gray-700 border-gray-200"
+            className="text-[10px] px-1.5 py-0.5 bg-gray-100 text-gray-700 border-gray-200"
             aria-label={`Level: ${level}`}
           >
             {level}
@@ -225,7 +270,7 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
 
         <div id={`cert-details-${slug}`}>
           {/* Price and Duration Row */}
-          <div className="flex justify-between items-center mb-3">
+          <div className="flex justify-between items-center mb-4">
             <div className="text-2xl font-bold text-green-600" aria-label={`Cost: ${formatCost(cost, currency)}`}>
               {formatCost(cost, currency)}
             </div>
@@ -234,35 +279,35 @@ const CertificationCard: React.FC<CertificationCardProps> = ({
               <span aria-label={`Duration: ${duration}`}>{duration}</span>
             </div>
           </div>
+        </div>
+      </div>
 
-          {/* Rating */}
-          <div className="mb-4">
-            <div className="flex items-center justify-between mb-1">
-              <span className="text-sm font-medium text-gray-700">Rating</span>
-              <span className="text-sm font-bold text-gray-900" aria-label={`${rating.toFixed(1)} out of 5 stars`}>
-                {rating.toFixed(1)}/5.0
-              </span>
-            </div>
-            <div 
-              className="w-full bg-gray-200 rounded-full h-2" 
-              role="progressbar" 
-              aria-valuenow={rating} 
-              aria-valuemin={0} 
-              aria-valuemax={5}
-              aria-label={`Rating: ${rating.toFixed(1)} out of 5 stars`}
-            >
-              <div 
-                className="bg-blue-500 h-2 rounded-full" 
-                style={{ width: `${(rating / 5) * 100}%` }}
-                aria-hidden="true"
-              ></div>
-            </div>
-          </div>
+      {/* Rating Bar - Positioned above action buttons */}
+      <div className="px-4 pb-2">
+        <div className="flex items-center justify-between mb-1">
+          <span className="text-sm font-medium text-gray-700">Rating</span>
+          <span className="text-sm font-bold text-gray-900" aria-label={`${rating.toFixed(1)} out of 5 stars`}>
+            {rating.toFixed(1)}/5.0
+          </span>
+        </div>
+        <div 
+          className="w-full bg-gray-200 rounded-full h-2" 
+          role="progressbar" 
+          aria-valuenow={rating} 
+          aria-valuemin={0} 
+          aria-valuemax={5}
+          aria-label={`Rating: ${rating.toFixed(1)} out of 5 stars`}
+        >
+          <div 
+            className="bg-blue-500 h-2 rounded-full" 
+            style={{ width: `${(rating / 5) * 100}%` }}
+            aria-hidden="true"
+          ></div>
         </div>
       </div>
 
       {/* Action Buttons */}
-      <div className="p-4 pt-0 mt-auto">
+      <div className="p-4 pt-0">
         <div className="flex gap-2" role="group" aria-label="Certification actions">
           <Link 
             to={`/cert/${slug}`} 
