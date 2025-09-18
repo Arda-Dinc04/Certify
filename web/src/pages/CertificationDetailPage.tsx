@@ -356,10 +356,19 @@ const CertificationDetailPage: React.FC = () => {
                 <CardTitle>Quick Actions</CardTitle>
               </CardHeader>
               <CardContent className="space-y-3">
-                <Button className="w-full" size="lg">
-                  <BookOpen className="w-4 h-4 mr-2" />
-                  Start Learning
-                </Button>
+                {certification.websiteUrl ? (
+                  <a href={certification.websiteUrl} target="_blank" rel="noopener noreferrer" className="w-full">
+                    <Button className="w-full" size="lg">
+                      <BookOpen className="w-4 h-4 mr-2" />
+                      Start Learning
+                    </Button>
+                  </a>
+                ) : (
+                  <Button className="w-full" size="lg" disabled>
+                    <BookOpen className="w-4 h-4 mr-2" />
+                    Start Learning
+                  </Button>
+                )}
                 <Button 
                   variant="outline" 
                   className="w-full"
