@@ -164,7 +164,7 @@ export const dataService = {
       examFormat: item.exam_format || 'Multiple choice',
       validityPeriod: item.validity_years ? `${item.validity_years} years` : 'Lifetime',
       renewalRequired: item.validity_years ? item.validity_years < 10 : false,
-      websiteUrl: '',
+      websiteUrl: item.url || '',
       createdAt: item.created_at || new Date().toISOString(),
       updatedAt: item.updated_at || new Date().toISOString()
     }));
@@ -182,35 +182,8 @@ export const dataService = {
     const cert = await enhancedDataService.getCertificationBySlug(slug);
     if (!cert) throw new Error('Certification not found');
     
-    // Transform enhanced service data to match our interface
-    return {
-      id: cert.slug,
-      name: cert.name,
-      slug: cert.slug,
-      description: cert.description || `${cert.name} certification from ${cert.issuer}`,
-      issuer: cert.issuer,
-      issuerSlug: cert.issuer.toLowerCase().replace(/\s+/g, '-'),
-      domain: cert.domain,
-      domainSlug: cert.domain.toLowerCase().replace(/\s+/g, '-'),
-      level: cert.level,
-      duration: cert.duration,
-      cost: cert.cost,
-      currency: cert.currency || 'USD',
-      rating: cert.rating,
-      reviewCount: cert.reviewCount || 100,
-      difficulty: typeof cert.difficulty === 'string' ? ['Beginner', 'Intermediate', 'Advanced'].indexOf(cert.difficulty) + 1 || 3 : 3,
-      popularity: cert.popularity || 0,
-      ranking: cert.ranking,
-      tags: [cert.domain, cert.level].filter(Boolean),
-      prerequisites: cert.prerequisites || [],
-      skills: cert.skills || [],
-      examFormat: cert.examFormat || 'Multiple choice',
-      validityPeriod: cert.validityPeriod ? `${cert.validityPeriod} years` : 'Lifetime',
-      renewalRequired: cert.renewalRequired || false,
-      websiteUrl: '',
-      createdAt: cert.createdAt || new Date().toISOString(),
-      updatedAt: cert.updatedAt || new Date().toISOString()
-    };
+    // Enhanced service now returns properly transformed data
+    return cert;
   },
 
   async getCertificationReviews(_certificationId: string, page = 1, pageSize = 10): Promise<ApiResponse<Review[]>> {
@@ -558,7 +531,7 @@ export const dataService = {
       examFormat: item.exam_format || 'Multiple choice',
       validityPeriod: item.validity_years ? `${item.validity_years} years` : 'Lifetime',
       renewalRequired: item.validity_years ? item.validity_years < 10 : false,
-      websiteUrl: '',
+      websiteUrl: item.url || '',
       createdAt: item.created_at || new Date().toISOString(),
       updatedAt: item.updated_at || new Date().toISOString()
     }));
