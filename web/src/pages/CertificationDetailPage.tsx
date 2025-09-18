@@ -1,14 +1,17 @@
 import React, { useState, useEffect } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useNavigate } from 'react-router-dom';
 import { ArrowLeft, Star, Clock, DollarSign, Award, Users, ExternalLink, BookOpen, CheckCircle, AlertCircle } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
 import { Button } from '../components/ui/Button';
 import { dataService } from '../services/dataService';
+import { useCompare } from '../context/CompareContext';
 import type { Certification, Review } from '../types';
 
 const CertificationDetailPage: React.FC = () => {
   const { slug } = useParams<{ slug: string }>();
+  const navigate = useNavigate();
+  const { addToCompare, isInCompare, canAddToCompare } = useCompare();
   const [certification, setCertification] = useState<Certification | null>(null);
   const [reviews, setReviews] = useState<Review[]>([]);
   const [loading, setLoading] = useState(true);
@@ -62,6 +65,13 @@ const CertificationDetailPage: React.FC = () => {
     if (difficulty <= 2) return 'text-green-600 bg-green-100';
     if (difficulty <= 3) return 'text-yellow-600 bg-yellow-100';
     return 'text-red-600 bg-red-100';
+  };
+
+  const handleAddToCompare = () => {
+    if (certification) {
+      addToCompare(certification);
+      navigate('/compare');
+    }
   };
 
   if (loading) {
@@ -350,8 +360,18 @@ const CertificationDetailPage: React.FC = () => {
                   <BookOpen className="w-4 h-4 mr-2" />
                   Start Learning
                 </Button>
-                <Button variant="outline" className="w-full">
-                  Add to Compare
+                <Button 
+                  variant="outline" 
+                  className="w-full"
+                  onClick={handleAddToCompare}
+                  disabled={!canAddToCompare || (certification && isInCompare(certification.id))}
+                >
+                  {certification && isInCompare(certification.id) 
+                    ? "Already in Compare" 
+                    : canAddToCompare 
+                    ? "Add to Compare" 
+                    : "Compare Full (4/4)"
+                  }
                 </Button>
                 {certification.websiteUrl && (
                   <a href={certification.websiteUrl} target="_blank" rel="noopener noreferrer" className="w-full">
